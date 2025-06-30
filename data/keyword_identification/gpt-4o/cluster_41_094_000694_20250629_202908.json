@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_41_094_000694.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:29:08.190585",
+    "image_size": 249574,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Respond li genolx rei adward Donca venges dame avaunt de partïe des homes gramavntz en donte siu mai bienïciun gr pure milir de la croix quant ma la face et busche coltz c : enfermer per angnohisse que duecement crovse dus mulitur deu vercum ð phare saint resach viltz e image dualit e degaste e entre cui cust de la rature et ret veceuren en la place musteu leur eran sa sage ente le flames colt vertch dreit e baii le faye sorte sur celest idolse cardi res alcoz and tigt Me vel volhee clerk usi Enspaeu beird e hiluumurable nat quasr en fr feur ducd grauertld de la oautin puir emuais de lesfona es Ri Laurencee fluui meurt angleir an spect de ins u u rot dirre oc eutres bend onere arie enertïssent e contre ur Cee",
+    "modern_french_text": "Répondit agenouillé le roi Édouard alors venger dame avant de partir des hommes graves (?) en donne si ma bénédiction par pure milice de la croix quand à ma face et bouche couverte : enfermer par angoisse que doucement croisèrent donc multitude Dieu vertu en phare saint sacré villes et image dualité et dégoûtée entre cri courent de la rupture et est fait virent en la place montrer leur étaient sage en les flammes celles vertes droite et baï et faire sortir sur céleste idoles garde résolu (?) et choisissez Me veux volonté clerc ainsi Enspaieu (?) béer et hi (libation ?) nat quatre en fer (?) faux graver le de la montagne puis émoussé de l'essonne Est Saint Laurent fleuve meurt anglais aspect de ins (vue ?) et un roi dire ou autres bande honneur aire enversissent (?) et contre en Ce..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "personnage debout",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

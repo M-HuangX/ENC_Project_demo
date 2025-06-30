@@ -1,0 +1,2776 @@
+{
+  "metadata": {
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:58:17.203865",
+    "total_images": 106,
+    "vocabulary_size": 4305
+  },
+  "aggregate_statistics": {
+    "total_visual_elements_across_all_images": 608,
+    "total_textual_elements_across_all_images": 94,
+    "total_identified_across_all_images": 702,
+    "average_identified_per_image": 6.622641509433962
+  },
+  "results": [
+    {
+      "metadata": {
+        "filename": "cluster_46_108_005982.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:53:54.987569",
+        "image_size": 277173,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "église",
+          "personnage debout",
+          "couronne",
+          "habit religieux",
+          "couteau",
+          "architecture",
+          "fenêtre",
+          "chapelle",
+          "personnage agenouillé",
+          "verge"
+        ],
+        "elements_textuels": [
+          "saint jean"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 1,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_44_103_000987.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:53:55.809358",
+        "image_size": 312843,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "église-intérieure",
+          "construction",
+          "livre",
+          "personnage barbu et moustachu",
+          "table",
+          "géométrie"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_45_105_009464.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:53:59.397158",
+        "image_size": 273513,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "personnage debout",
+          "personnage agenouillé"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_45_104_009687.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:07.255285",
+        "image_size": 258152,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi",
+          "couronne",
+          "personnage debout",
+          "bâton",
+          "gestes",
+          "barbe",
+          "vêtement"
+        ],
+        "elements_textuels": [
+          "naboth",
+          "israël",
+          "jézabel"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 3,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_38_089_003964.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:07.515324",
+        "image_size": 361506,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "personnage debout",
+          "couronne",
+          "roi de lotharingie"
+        ],
+        "elements_textuels": [
+          "tempus",
+          "lotharingiae"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 2,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_47_110_009353.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:10.404485",
+        "image_size": 175589,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "cheval",
+          "taureau",
+          "homme",
+          "serpent",
+          "chien",
+          "cerf",
+          "sanglier",
+          "griffon",
+          "coquillage",
+          "oiseau",
+          "poisson"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 11,
+        "total_textual_elements": 0,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_48_111_013235.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:16.183519",
+        "image_size": 205250,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "lion combattant",
+          "christ ressuscitant un mort",
+          "personnages à tête unique"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_13_033_004862.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:18.945561",
+        "image_size": 211295,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "bateau",
+          "arche d'alliance",
+          "échelle",
+          "personnage debout",
+          "personnage sous arcade",
+          "jonglerie"
+        ],
+        "elements_textuels": [
+          "joseph et ses frères",
+          "frères de joseph"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 2,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_44_102_000985.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:22.558409",
+        "image_size": 328153,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "livre",
+          "personnage barbu et moustachu"
+        ],
+        "elements_textuels": [
+          "saint jean écrivant"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_14_035_006885.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:23.153032",
+        "image_size": 213936,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "forêt",
+          "personnage debout",
+          "vêtement"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_46_106_006000.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:23.606445",
+        "image_size": 303620,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "personnages",
+          "roue",
+          "idole"
+        ],
+        "elements_textuels": [
+          "david"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 1,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_17_044_006125.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:27.317065",
+        "image_size": 222895,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "architecture",
+          "personnages à tête unique",
+          "personnage debout",
+          "tente",
+          "bâton",
+          "église",
+          "trois personnages"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 0,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_48_112_013480.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:32.871094",
+        "image_size": 307812,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "archanges",
+          "personnage debout",
+          "prière",
+          "naissance",
+          "église"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_43_100_007407.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:43.332140",
+        "image_size": 379421,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "écriture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 2,
+        "total_textual_elements": 0,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_51_119_007887.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:45.450967",
+        "image_size": 242127,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "personnage debout",
+          "vêtements",
+          "balance"
+        ],
+        "elements_textuels": [
+          "pierre",
+          "brunet latin"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 2,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_52_120_002635.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:46.652077",
+        "image_size": 280748,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "archanges",
+          "colonne",
+          "oiseau",
+          "arcade",
+          "aigle",
+          "ornement",
+          "firmament",
+          "ornementation florale"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 0,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_51_118_007810.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:48.988283",
+        "image_size": 233033,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "scène de médecine",
+          "coupe (de cheveux)",
+          "découpe",
+          "vêtement",
+          "boire",
+          "bûcher",
+          "siège (meuble)",
+          "foyer",
+          "chaise"
+        ],
+        "elements_textuels": [
+          "octobre"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 1,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_53_122_002707.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:55.624866",
+        "image_size": 338933,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "christ guérissant une infirme",
+          "personnage debout",
+          "prière"
+        ],
+        "elements_textuels": [
+          "christ guérissant une infirme"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_49_113_011000.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:54:57.087268",
+        "image_size": 948403,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "rois",
+          "architecture",
+          "prière",
+          "couronne",
+          "église",
+          "personnages à tête unique",
+          "scène de lecture",
+          "trône",
+          "moniales",
+          "croix"
+        ],
+        "elements_textuels": [
+          "jérusalem",
+          "église",
+          "prêtre"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 3,
+        "total_identified": 13
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_53_123_006119.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:02.029288",
+        "image_size": 332582,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "prêtres juifs payant trente deniers à judas",
+          "christ présenté au peuple",
+          "personnages à tête unique"
+        ],
+        "elements_textuels": [
+          "caïphe"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_54_125_013340.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:03.174864",
+        "image_size": 328764,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "parchemin",
+          "personnage assis"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_01_006_014586.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:04.304420",
+        "image_size": 530281,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "personnage barbu et moustachu",
+          "architecte",
+          "prêtre",
+          "évangéliste"
+        ],
+        "elements_textuels": [
+          "moïse",
+          "pierre"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 2,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_53_124_001109.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:04.712179",
+        "image_size": 307495,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "architecture",
+          "prêtres juifs payant trente deniers à judas",
+          "châtiment",
+          "église",
+          "scène de spectacle",
+          "saint jean-baptiste au désert",
+          "prophète assis tenant un phylactère",
+          "tour",
+          "décoration"
+        ],
+        "elements_textuels": [
+          "flagellation",
+          "table",
+          "châtiment des philistins",
+          "parabole du cep et des sarments",
+          "lion",
+          "saint jean-baptiste prêchant",
+          "pâque",
+          "tabernacle",
+          "châtiment de la colère",
+          "sanctuaire"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 10,
+        "total_identified": 20
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_52_121_002634.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:05.589954",
+        "image_size": 288703,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "colonne",
+          "paon",
+          "anges",
+          "livre",
+          "animal fantastique",
+          "firmament"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_55_128_009586.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:09.895853",
+        "image_size": 216115,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "prophète",
+          "personnage debout",
+          "scène d'enseignement",
+          "moses",
+          "église",
+          "saint",
+          "prières",
+          "architecture",
+          "habacuc transporté par l'ange",
+          "vocation de saint pierre et saint andré"
+        ],
+        "elements_textuels": [
+          "moïse",
+          "josue",
+          "arche",
+          "precepte",
+          "populo",
+          "filho",
+          "domini"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 7,
+        "total_identified": 17
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_54_126_013376.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:14.745028",
+        "image_size": 310788,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "joseph interprétant le songe du panetier",
+          "château",
+          "forêt",
+          "tentation d'ève",
+          "personnage debout",
+          "vitrine",
+          "figuration",
+          "végétation",
+          "architecture",
+          "munus"
+        ],
+        "elements_textuels": [
+          "esprit",
+          "arche",
+          "pierre",
+          "munus",
+          "tempérance",
+          "église",
+          "ecclesia",
+          "terre",
+          "eau",
+          "sept"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 10,
+        "total_identified": 20
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_50_115_008380.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:17.243937",
+        "image_size": 1095239,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "tête animale",
+          "oiseau"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_54_127_013281.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:20.510754",
+        "image_size": 339195,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [],
+        "elements_textuels": [
+          "pierre",
+          "notre"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 0,
+        "total_textual_elements": 2,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_56_131_002152.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:23.365896",
+        "image_size": 190771,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "oiseau",
+          "aigle"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 2,
+        "total_textual_elements": 0,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_58_134_006722.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:23.488887",
+        "image_size": 317477,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "arbre de vie"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 1,
+        "total_textual_elements": 0,
+        "total_identified": 1
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_56_130_002146.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:24.350765",
+        "image_size": 149911,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "oiseaux affrontés"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 1,
+        "total_textual_elements": 0,
+        "total_identified": 1
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_50_116_008371.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:24.693274",
+        "image_size": 1082036,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "balance",
+          "personnage debout",
+          "sénévé",
+          "prêtre",
+          "couronne",
+          "animal terrestre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_50_117_008334.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:26.285730",
+        "image_size": 848992,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "livre",
+          "personnage debout",
+          "chapeau",
+          "architecture",
+          "personnage barbu et moustachu"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_55_129_009500.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:30.349735",
+        "image_size": 251243,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "joseph interprétant le songe du panetier",
+          "personnage debout",
+          "personnage barbu et moustachu",
+          "scribe"
+        ],
+        "elements_textuels": [
+          "joseph interprétant le songe du panetier"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 1,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_59_136_006529.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:32.183292",
+        "image_size": 189696,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "archanges",
+          "prière",
+          "vitrail",
+          "architecture"
+        ],
+        "elements_textuels": [
+          "tables de la loi"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 1,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_49_114_010881.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:32.869116",
+        "image_size": 1242817,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "table",
+          "arbre",
+          "ange",
+          "architecture",
+          "fortification",
+          "vêtement",
+          "personnages à tête unique",
+          "chemin",
+          "décor géométrique",
+          "scène de lecture",
+          "scène de prière",
+          "église"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 13,
+        "total_textual_elements": 0,
+        "total_identified": 13
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_59_137_006551.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:34.254178",
+        "image_size": 158142,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "évangéliste",
+          "livre",
+          "angélique",
+          "couronne",
+          "pré",
+          "arbre",
+          "arcade",
+          "diacre",
+          "psaume",
+          "vêtement"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 0,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_57_133_008247.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:35.510893",
+        "image_size": 530004,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "architecture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 2,
+        "total_textual_elements": 0,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_25_059_006198.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:39.978618",
+        "image_size": 2047311,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "archanges",
+          "trinité",
+          "apôtres-12",
+          "évangélistes-4 zoomorphes et anges",
+          "saint pierre",
+          "saint jean",
+          "colombe du saint-esprit"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_60_138_008583.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:40.962372",
+        "image_size": 333171,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "couronnement",
+          "évêque",
+          "personnages à tête unique",
+          "couronne",
+          "reine de france",
+          "robe"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_62_141_006315.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:47.081611",
+        "image_size": 423126,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "création des animaux terrestres",
+          "tentation d'ève",
+          "adam et ève"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_57_132_008252.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:47.105152",
+        "image_size": 572644,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnages à tête unique",
+          "roi",
+          "couronne",
+          "geste",
+          "vêtement",
+          "architecture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_58_135_006985.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:47.974344",
+        "image_size": 479753,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "personnages à tête unique",
+          "vitrail",
+          "vêtements",
+          "gestes",
+          "tables de la loi",
+          "balance",
+          "prière",
+          "église",
+          "écriture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 0,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_62_142_000806.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:50.504725",
+        "image_size": 315964,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "création d'ève",
+          "arche de noé",
+          "deuxième trompette de l'apocalypse : mer en feu",
+          "cochon",
+          "âne",
+          "cheval",
+          "arbre de vie",
+          "lion",
+          "serpent",
+          "oiseaux adossés",
+          "étoile",
+          "oignons",
+          "ciel"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 13,
+        "total_textual_elements": 0,
+        "total_identified": 13
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_63_144_009913.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:58.012255",
+        "image_size": 297772,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "décapitation",
+          "couronne",
+          "roi",
+          "épée"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_63_143_009900.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:55:59.823638",
+        "image_size": 333357,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "décapitation",
+          "sceptre",
+          "couronne",
+          "architecture",
+          "martyre",
+          "église (architecture)"
+        ],
+        "elements_textuels": [
+          "saint jean-baptiste",
+          "saint cyprien"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 2,
+        "total_identified": 9
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_63_145_009934.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:02.457477",
+        "image_size": 298482,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de france",
+          "décapitation",
+          "épée"
+        ],
+        "elements_textuels": [
+          "martyr",
+          "caput"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 2,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_11_027_008222.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:04.485104",
+        "image_size": 2290894,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "personnage debout",
+          "jardins"
+        ],
+        "elements_textuels": [
+          "domine"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_66_150_007844.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:08.201934",
+        "image_size": 301919,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "forêt",
+          "chien",
+          "lièvre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_65_149_003074.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:09.279181",
+        "image_size": 262889,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "diable",
+          "feu",
+          "âme"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_64_146_013737.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:10.635523",
+        "image_size": 443314,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "médecine",
+          "instrument médical",
+          "plante",
+          "personnage assis",
+          "personnage debout",
+          "coupe",
+          "jeune fille",
+          "escarpolette",
+          "geste"
+        ],
+        "elements_textuels": [
+          "camomille"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 9,
+        "total_textual_elements": 1,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_65_148_006241.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:11.832754",
+        "image_size": 285065,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "démon",
+          "personnage barbu et moustachu"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 0,
+        "total_identified": 3
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_69_157_007152.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:14.597980",
+        "image_size": 266284,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "couronne",
+          "épée",
+          "architecture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_67_153_001550.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:14.606602",
+        "image_size": 281679,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "démon",
+          "saint",
+          "livre",
+          "homme",
+          "bénédiction",
+          "possédé"
+        ],
+        "elements_textuels": [
+          "lucam"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 1,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_69_158_010739.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:26.981189",
+        "image_size": 211656,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "bâton",
+          "couronne",
+          "vêtement"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_67_152_013121.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:27.314584",
+        "image_size": 477401,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "prêtre",
+          "église",
+          "homme",
+          "architecture",
+          "vêtements"
+        ],
+        "elements_textuels": [
+          "discipline",
+          "péché",
+          "sanctuaire",
+          "sainte",
+          "église"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 5,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_68_156_000838.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:28.919963",
+        "image_size": 339405,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "christ en gloire",
+          "croix",
+          "trône de grâce"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_67_154_005877.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:29.313654",
+        "image_size": 343630,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "arbre",
+          "ange",
+          "guérison"
+        ],
+        "elements_textuels": [
+          "apocalypse",
+          "pathmos"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 2,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_64_147_013781.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:29.573660",
+        "image_size": 881264,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "plante",
+          "vêtement",
+          "personnage debout",
+          "objet",
+          "gestes"
+        ],
+        "elements_textuels": [
+          "christ"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 1,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_70_159_005541.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:29.693502",
+        "image_size": 261768,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "crucifixion",
+          "anges",
+          "saint jean",
+          "vierge",
+          "christ",
+          "croix",
+          "échelle",
+          "calvaire",
+          "ciel",
+          "lamentations sur le christ mort"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 0,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_71_162_006811.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:31.458561",
+        "image_size": 255126,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "trône",
+          "ange",
+          "personnage debout",
+          "cercle",
+          "architecture",
+          "arcade",
+          "livre",
+          "halo"
+        ],
+        "elements_textuels": [
+          "Johannes"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 1,
+        "total_identified": 9
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_68_155_012928.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:34.270225",
+        "image_size": 546999,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "christ en gloire tenant le livre",
+          "trinité",
+          "anges autour d'une gloire",
+          "ascension",
+          "archanges",
+          "personnage debout",
+          "saint jean-baptiste au désert",
+          "saint pierre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 0,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_72_163_009206.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:39.446609",
+        "image_size": 362134,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ferme",
+          "architecture",
+          "nature",
+          "livre",
+          "saint jean-baptiste",
+          "personnage debout",
+          "étoile",
+          "halo",
+          "vêtements",
+          "gestes"
+        ],
+        "elements_textuels": [
+          "domine"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 1,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_70_160_005537.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:41.611968",
+        "image_size": 287563,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "crucifixion",
+          "christ en croix",
+          "ange",
+          "croix",
+          "personnages",
+          "marie",
+          "saint jean",
+          "couronne d'épines",
+          "maillet",
+          "clou",
+          "fleurs",
+          "oiseau",
+          "vigne"
+        ],
+        "elements_textuels": [
+          "passion",
+          "miserere",
+          "domine"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 13,
+        "total_textual_elements": 3,
+        "total_identified": 16
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_71_161_006776.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:43.642407",
+        "image_size": 372785,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "trône de grâce",
+          "archanges",
+          "personnages à tête unique",
+          "anges autour d'une gloire",
+          "firmament"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_73_165_008955.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:46.418014",
+        "image_size": 255127,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "arbre",
+          "personnage barbu et moustachu",
+          "écriture",
+          "plantes"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_73_166_008956.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:47.566611",
+        "image_size": 271955,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "arbre",
+          "veste",
+          "chapeau"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_74_168_009344.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:48.222189",
+        "image_size": 156120,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage",
+          "tête",
+          "bois",
+          "table",
+          "oiseau",
+          "bête",
+          "démon"
+        ],
+        "elements_textuels": [
+          "saturne",
+          "capricornus"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 2,
+        "total_identified": 9
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_74_169_007307.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:51.356094",
+        "image_size": 262407,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "château",
+          "déchaussement",
+          "lion anthropocéphale",
+          "démon",
+          "arme"
+        ],
+        "elements_textuels": [
+          "lion"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 1,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_75_171_010618.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:52.277970",
+        "image_size": 229680,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "crucifixion du christ",
+          "saint",
+          "croix",
+          "architecture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_61_140_015805.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:56.421976",
+        "image_size": 1503284,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "église",
+          "rouleau",
+          "trône",
+          "soldats",
+          "lance"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_74_167_009726.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:56:58.220892",
+        "image_size": 313088,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de babylone",
+          "ange",
+          "animal fantastique"
+        ],
+        "elements_textuels": [
+          "nabuchodonosor"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_40_093_015459.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:01.557048",
+        "image_size": 4272057,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi",
+          "personnage debout",
+          "architecture",
+          "geste"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_76_172_011690.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:02.716568",
+        "image_size": 355333,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "chevalier",
+          "anges",
+          "combat",
+          "oiseaux"
+        ],
+        "elements_textuels": [
+          "bataille"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 1,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_77_175_003924.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:04.503514",
+        "image_size": 323338,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "dragon de l'apocalypse",
+          "lion",
+          "animaux fantastiques affrontés",
+          "évêques juxtaposés",
+          "flamme",
+          "trône",
+          "châtiment"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_75_170_002549.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:05.386267",
+        "image_size": 244515,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "crucifixion du christ",
+          "ange",
+          "croix",
+          "christ en gloire",
+          "crâne",
+          "personnages",
+          "vitrail",
+          "échelle"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 0,
+        "total_identified": 8
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_61_139_015843.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:06.547595",
+        "image_size": 1506818,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "anges",
+          "coupe",
+          "maison",
+          "aile",
+          "hommes",
+          "vestes",
+          "gestes"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_72_164_005586.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:07.105586",
+        "image_size": 298406,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "couronnes",
+          "oiseau",
+          "trône",
+          "halos",
+          "personnage debout"
+        ],
+        "elements_textuels": [
+          "Deus",
+          "sancto",
+          "Domine",
+          "Gloria"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 4,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_76_173_011630.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:10.139879",
+        "image_size": 386062,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "cheval",
+          "personnage debout",
+          "architecture",
+          "personnage barbu et moustachu",
+          "personnages à tête unique",
+          "oiseau",
+          "arme"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_80_181_007157.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:10.453901",
+        "image_size": 226048,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "enluminure",
+          "personnages à tête unique",
+          "écriture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_78_176_010610.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:11.037443",
+        "image_size": 254913,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage barbu et moustachu",
+          "repas d'emmaüs",
+          "coupe",
+          "vin",
+          "saint jean-baptiste prêchant"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_79_178_010342.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:17.533531",
+        "image_size": 450607,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "archanges",
+          "personnage debout",
+          "livre",
+          "ange",
+          "lion ailé"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_77_174_001158.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:19.676619",
+        "image_size": 376495,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "dragon de l'apocalypse",
+          "roi",
+          "têtes animales",
+          "personnages à genoux"
+        ],
+        "elements_textuels": [
+          "et adoraverunt bestiam",
+          "et non receperunt"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 2,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_80_180_000140.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:20.279408",
+        "image_size": 269585,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi",
+          "livre",
+          "couronne"
+        ],
+        "elements_textuels": [
+          "David"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 3,
+        "total_textual_elements": 1,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_80_182_006295.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:20.759266",
+        "image_size": 360400,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "scribe",
+          "livre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 2,
+        "total_textual_elements": 0,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_79_179_002656.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:21.089884",
+        "image_size": 308926,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "christ en gloire",
+          "personnage debout",
+          "architecture",
+          "trône de grâce",
+          "évêque",
+          "sainte",
+          "livre",
+          "église",
+          "vitrail"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 0,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_78_177_000818.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:21.575018",
+        "image_size": 306105,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "lavement des pieds",
+          "coupes",
+          "apôtres",
+          "table",
+          "repas",
+          "nimbes",
+          "gestes",
+          "vêtements",
+          "barbe",
+          "livre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 0,
+        "total_identified": 10
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_82_186_000614.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:24.776100",
+        "image_size": 446536,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "judith exhibant la tête d'holopherne",
+          "porte",
+          "couronne",
+          "personnage debout"
+        ],
+        "elements_textuels": [
+          "holopherne"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 1,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_84_190_003488.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:26.061161",
+        "image_size": 289206,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de france",
+          "chevalier",
+          "cheval",
+          "couronne",
+          "armure",
+          "écu",
+          "lance",
+          "château"
+        ],
+        "elements_textuels": [
+          "// L'extrait textuel n'est pas lisible dans cette image"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 8,
+        "total_textual_elements": 1,
+        "total_identified": 9
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_83_188_010431.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:27.291509",
+        "image_size": 216515,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "oiseaux superposés"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 1,
+        "total_textual_elements": 0,
+        "total_identified": 1
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_84_189_006434.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:30.342079",
+        "image_size": 307347,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "cheval",
+          "armure",
+          "roi",
+          "épée",
+          "personnages à tête unique",
+          "arbre",
+          "paysage",
+          "combat",
+          "histoire",
+          "couronne"
+        ],
+        "elements_textuels": [
+          "pyrrhus",
+          "pantasilee"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 2,
+        "total_identified": 12
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_85_191_009210.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:32.331026",
+        "image_size": 176993,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange",
+          "nativité",
+          "étoile",
+          "enfant",
+          "berger",
+          "crèche",
+          "architecture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_82_185_000448.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:34.031932",
+        "image_size": 429462,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "oiseau",
+          "personnage debout",
+          "architecture",
+          "prêtre",
+          "ange"
+        ],
+        "elements_textuels": [
+          "aquila",
+          "vupupa"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 2,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_83_187_010439.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:34.390016",
+        "image_size": 232187,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "oiseau",
+          "animal terrestre"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 2,
+        "total_textual_elements": 0,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_81_184_005289.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:35.790765",
+        "image_size": 735681,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "personnages à tête unique",
+          "château",
+          "couronne"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_87_196_008891.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:39.136121",
+        "image_size": 234934,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "arbre",
+          "architecture",
+          "couleur",
+          "décoration"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 0,
+        "total_identified": 4
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_86_192_001700.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:40.822470",
+        "image_size": 281255,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange déversant la troisième coupe de l'apocalypse",
+          "archanges",
+          "château",
+          "architecture",
+          "temple"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_88_197_011876.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:44.611045",
+        "image_size": 163644,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "table"
+        ],
+        "elements_textuels": [
+          "exodus"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 1,
+        "total_textual_elements": 1,
+        "total_identified": 2
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_87_195_008882.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:44.616032",
+        "image_size": 219498,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "arbre",
+          "bâtiment",
+          "colonne",
+          "paysage",
+          "texte",
+          "écriture"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 0,
+        "total_identified": 6
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_89_198_006603.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:45.047425",
+        "image_size": 212484,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage",
+          "ange",
+          "lit",
+          "médaille",
+          "mort",
+          "prière"
+        ],
+        "elements_textuels": [
+          "pénitence"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 1,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_86_194_001094.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:45.757550",
+        "image_size": 382846,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "anges",
+          "trompettes",
+          "enciensoir",
+          "firmanent",
+          "table",
+          "couronne",
+          "livre",
+          "flamme",
+          "aile",
+          "architecture"
+        ],
+        "elements_textuels": [
+          "signe"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 10,
+        "total_textual_elements": 1,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_66_151_015876.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:46.853623",
+        "image_size": 1955684,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "château",
+          "chien",
+          "cheval",
+          "forêt",
+          "chien de chasse",
+          "arc",
+          "jardin",
+          "personnage à cheval",
+          "personnage debout",
+          "arc",
+          "chasse"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 11,
+        "total_textual_elements": 0,
+        "total_identified": 11
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_89_199_006643.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:49.211080",
+        "image_size": 233390,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "personnage debout",
+          "évêque",
+          "personnage sous arcade",
+          "prière"
+        ],
+        "elements_textuels": [
+          "rome"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 4,
+        "total_textual_elements": 1,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_86_193_001097.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:49.444455",
+        "image_size": 335283,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "ange déversant la quatrième coupe de l'apocalypse",
+          "trompette",
+          "temple",
+          "ange",
+          "flammes"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 5,
+        "total_textual_elements": 0,
+        "total_identified": 5
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_81_183_005294.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:57:49.480361",
+        "image_size": 749165,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "roi de castille",
+          "château",
+          "personnage debout",
+          "église (architecture)",
+          "héraldique",
+          "couronne",
+          "sceau"
+        ],
+        "elements_textuels": []
+      },
+      "statistics": {
+        "total_visual_elements": 7,
+        "total_textual_elements": 0,
+        "total_identified": 7
+      }
+    },
+    {
+      "metadata": {
+        "filename": "cluster_40_092_015420.jpg",
+        "model": "gpt-4o",
+        "timestamp": "2025-06-29T14:58:17.198875",
+        "image_size": 8752930,
+        "vocabulary_size": 4305
+      },
+      "identified_keywords": {
+        "elements_visuels": [
+          "architecture",
+          "roi",
+          "bâton",
+          "personnage debout",
+          "chameau",
+          "moïse et aaron devant pharaon"
+        ],
+        "elements_textuels": [
+          "moïse"
+        ]
+      },
+      "statistics": {
+        "total_visual_elements": 6,
+        "total_textual_elements": 1,
+        "total_identified": 7
+      }
+    }
+  ]
+}

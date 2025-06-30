@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "filename": "cluster_44_103_000987.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:53:55.809358",
+    "image_size": 312843,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "scribe",
+      "église-intérieure",
+      "construction",
+      "livre",
+      "personnage barbu et moustachu",
+      "table",
+      "géométrie"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7
+  }
+}

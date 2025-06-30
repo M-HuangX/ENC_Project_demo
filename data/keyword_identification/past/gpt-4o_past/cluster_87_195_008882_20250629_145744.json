@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_87_195_008882.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:44.616032",
+    "image_size": 219498,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbre",
+      "bâtiment",
+      "colonne",
+      "paysage",
+      "texte",
+      "écriture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filename": "cluster_14_035_006885.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:23.153032",
+    "image_size": 213936,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "forêt",
+      "personnage debout",
+      "vêtement"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3
+  }
+}

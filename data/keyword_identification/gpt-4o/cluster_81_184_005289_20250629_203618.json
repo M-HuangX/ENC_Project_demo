@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_81_184_005289.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:36:18.478013",
+    "image_size": 735681,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "personnage debout",
+      "architectures",
+      "geste",
+      "vêtements",
+      "blason"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

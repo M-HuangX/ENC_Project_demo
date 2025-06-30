@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_04_011_002290.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:42:02.569069",
+    "image_size": 326769,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "couronne",
+      "enfant",
+      "vierge à l'enfant",
+      "présentation",
+      "bauge",
+      "offrande",
+      "manteau",
+      "auréole",
+      "Christ en gloire"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10
+  }
+}

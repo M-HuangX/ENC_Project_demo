@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_67_152_013121.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:27.314584",
+    "image_size": 477401,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "prêtre",
+      "église",
+      "homme",
+      "architecture",
+      "vêtements"
+    ],
+    "elements_textuels": [
+      "discipline",
+      "péché",
+      "sanctuaire",
+      "sainte",
+      "église"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 5,
+    "total_identified": 11
+  }
+}

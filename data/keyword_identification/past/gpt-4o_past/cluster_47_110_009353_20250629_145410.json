@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_47_110_009353.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:10.404485",
+    "image_size": 175589,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "taureau",
+      "homme",
+      "serpent",
+      "chien",
+      "cerf",
+      "sanglier",
+      "griffon",
+      "coquillage",
+      "oiseau",
+      "poisson"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11
+  }
+}

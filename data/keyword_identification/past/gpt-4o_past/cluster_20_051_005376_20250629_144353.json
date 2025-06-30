@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_20_051_005376.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:53.410902",
+    "image_size": 364227,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "lion",
+      "armure",
+      "lance",
+      "personnage debout",
+      "personnage barbu et moustachu",
+      "château"
+    ],
+    "elements_textuels": [
+      "Willelmus",
+      "Harold"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 2,
+    "total_identified": 9
+  }
+}

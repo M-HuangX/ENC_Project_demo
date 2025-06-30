@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_27_065_002785.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:53.528970",
+    "image_size": 229886,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christ remettant la loi à saint pierre et à saint paul",
+      "agneau divin",
+      "ange",
+      "colonne",
+      "livre",
+      "couronne",
+      "personnage debout",
+      "sombre",
+      "mosaïque",
+      "évangéliste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10
+  }
+}

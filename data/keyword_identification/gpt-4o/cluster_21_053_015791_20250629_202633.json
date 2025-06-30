@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_21_053_015791.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:26:33.775306",
+    "image_size": 1383626,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Iung sump...\nbillia ....\nlemonde ..\nen la bmo...\ne ....\nfuuor . C\nIung choy\nde fumesse",
+    "modern_french_text": "jeune homme...\nbillets ....\nle monde ..\n....\n....\nfeu ....\njeune homme...\nde fumier"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "château",
+      "architecture",
+      "personnage debout",
+      "serviteur",
+      "aubergiste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

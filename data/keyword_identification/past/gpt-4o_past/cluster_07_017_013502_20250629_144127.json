@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_07_017_013502.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:41:27.761061",
+    "image_size": 354790,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "évangélistes-4 zoomorphes et anges",
+      "arche d'alliance",
+      "saint pierre",
+      "ange",
+      "castle",
+      "balance",
+      "verge fleurie d'aaron"
+    ],
+    "elements_textuels": [
+      "David",
+      "Noé",
+      "Aron",
+      "Joseph"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 4,
+    "total_identified": 11
+  }
+}

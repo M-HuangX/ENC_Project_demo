@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_24_057_015260.JPG",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:25:27.503606",
+    "image_size": 291800,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "prière",
+      "architecture",
+      "bâton",
+      "tente",
+      "personnage barbu",
+      "geste",
+      "costume",
+      "couronne",
+      "église",
+      "scène de dialogue"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

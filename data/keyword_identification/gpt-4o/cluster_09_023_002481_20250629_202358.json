@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "filename": "cluster_09_023_002481.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:58.733490",
+    "image_size": 342870,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "texte illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "prière",
+      "lavement des pieds",
+      "saint pierre et saint jean au tombeau du christ",
+      "rencontre de rébecca et eliézer",
+      "ange",
+      "miracle",
+      "visitation",
+      "scène de guérison",
+      "évêque"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

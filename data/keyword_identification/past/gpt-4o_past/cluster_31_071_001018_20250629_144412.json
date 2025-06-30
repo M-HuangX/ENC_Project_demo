@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_31_071_001018.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:44:12.079927",
+    "image_size": 278554,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "âne",
+      "christ en gloire entouré de saints",
+      "personnage debout",
+      "scène de guérison"
+    ],
+    "elements_textuels": [
+      "christ",
+      "david",
+      "destruction"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 3,
+    "total_identified": 7
+  }
+}

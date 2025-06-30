@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_13_034_004804.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:42:23.420802",
+    "image_size": 237683,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "tentation d'ève",
+      "psaume 1 : david et quatre musiciens",
+      "psaume 53 : fou devant david",
+      "arche d'alliance",
+      "personnage debout",
+      "david",
+      "ange",
+      "saint jean",
+      "échelle de jacob",
+      "roi"
+    ],
+    "elements_textuels": [
+      "psalmus",
+      "dixitinsipiens"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12
+  }
+}

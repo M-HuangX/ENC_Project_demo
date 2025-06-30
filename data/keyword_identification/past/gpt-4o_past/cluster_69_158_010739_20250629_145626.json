@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "filename": "cluster_69_158_010739.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:26.981189",
+    "image_size": 211656,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "bâton",
+      "couronne",
+      "vêtement"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4
+  }
+}

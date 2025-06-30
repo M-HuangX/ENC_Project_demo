@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "filename": "cluster_51_118_007810.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T18:56:30.364114",
+    "image_size": 233033
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence"
+      ],
+      "layout_style": "single column with a central illustration framed by text",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "burnished gold leaf",
+          "leaf green"
+        ],
+        "color_usage": "Gold highlights used for important figures; blue and red alternating in costumes, creating a vibrant contrast against a neutral background; green for natural elements."
+      },
+      "composition": {
+        "type": "hierarchical",
+        "features": [
+          "central seated figure with attendants",
+          "diagonal arrangement suggesting movement",
+          "architectural elements enclosing figures"
+        ]
+      },
+      "decorative_elements": [
+        "geometric patterned border",
+        "architectural frame with Gothic arches",
+        "roof tiles detailed in background"
+      ],
+      "drawing_technique": {
+        "line_style": "fluid pen work with varying line weights",
+        "shading_method": "naturalistic shading with subtle tonal variations",
+        "perspective_handling": "hierarchical scaling with overlapping figures"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "secular",
+      "sub_themes": [
+        "professional activity",
+        "medieval craftsmanship"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The scene depicts a craftsman, central figure seated and engaged in activity with assistants working around him. One assistant carries timber, while another tends a fire. The setting includes architectural details like tiled roofing and Gothic windows, giving depth and context to the interior scene."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "craftsman in red robe, two assistants with blue and red attire"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "axe carried by assistant",
+        "wooden logs",
+        "fire tools"
+      ],
+      "architectural": [
+        "interior columns",
+        "Gothic windows",
+        "roof with tiles"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "high-quality vellum with smooth surface",
+      "preservation_condition": "good condition with minimal pigment loss, intact gold leaf",
+      "notable_physical_characteristics": [
+        "layered paint application with vibrant pigments",
+        "faint ruling lines visible",
+        "raised gold details"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "educational",
+      "secondary_functions": [
+        "demonstration of craft techniques",
+        "illustration of professional life"
+      ],
+      "intended_audience": "lay craftsmen or apprentices"
+    },
+    "scholarly_interpretation": "This manuscript page originates from a 14th-century educational manuscript likely intended for use by craftsmen or apprentices. The scene illustrates a narrative of medieval craftsmanship, depicting artisans engaged in their trade, possibly creating a teaching toolkit for practitioners. The composition employs hierarchical scaling, emphasizing the importance of the central figure. The artistic style reflects the Gothic illumination practices, with vibrant colors and detailed architectural framings. This style was popularized in urban workshop environments, reflecting both the technical sophistication and cultural value placed on craftsmanship. The use of gold leaf highlights status and importance, characteristic of the time's illuminated manuscripts. Overall, the image provides insight into medieval attitudes toward professional identity and the transmission of trade knowledge."
+  }
+}

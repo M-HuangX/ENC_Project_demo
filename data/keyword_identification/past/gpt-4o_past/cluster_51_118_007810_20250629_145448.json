@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_51_118_007810.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:48.988283",
+    "image_size": 233033,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "scène de médecine",
+      "coupe (de cheveux)",
+      "découpe",
+      "vêtement",
+      "boire",
+      "bûcher",
+      "siège (meuble)",
+      "foyer",
+      "chaise"
+    ],
+    "elements_textuels": [
+      "octobre"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 1,
+    "total_identified": 11
+  }
+}

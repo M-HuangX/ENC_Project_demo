@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_17_045_002360.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:19.050626",
+    "image_size": 287082,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange",
+      "personnage debout",
+      "plante",
+      "héraldique",
+      "aile",
+      "cercle"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6
+  }
+}

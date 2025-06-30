@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_33_075_000800.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:44:56.002594",
+    "image_size": 278171,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "fenaison",
+      "personnage debout",
+      "travail",
+      "mois"
+    ],
+    "elements_textuels": [
+      "octobre",
+      "marche",
+      "saint machabees",
+      "septime",
+      "jacobi",
+      "septembre"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 6,
+    "total_identified": 10
+  }
+}

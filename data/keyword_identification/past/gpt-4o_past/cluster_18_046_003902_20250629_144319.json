@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_18_046_003902.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:19.905549",
+    "image_size": 357390,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christs en gloire entouré d'anges",
+      "agneau divin",
+      "gloire",
+      "trône",
+      "livre",
+      "évangéliste",
+      "apôtres",
+      "ciel",
+      "anges",
+      "saints"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10
+  }
+}

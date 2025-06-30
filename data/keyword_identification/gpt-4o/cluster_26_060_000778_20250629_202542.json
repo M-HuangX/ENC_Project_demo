@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_26_060_000778.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:25:42.002426",
+    "image_size": 265480,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "adementres avans plonent\npar mi la fores orent dolent\nchevaliers touz abeüez\nous parens teams armes\nerpremiers qui davant venot\nne amoletic parvoeuz\nchant lu sueclus ultoz\ncercual codub saxpenor\nat chevalier au auïent",
+    "modern_french_text": "pendant ce temps, avant pleurent\nparmi la forêt ont reçu douleur\nchevaliers tous adoubés\neux parents tenants armes\nle premier qui devant venait\nne amour manque apparent\nquand où son lieu sûr tôt\ncercueil codub saxpenor\net chevalier au savoir"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "chevalier",
+      "armure"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

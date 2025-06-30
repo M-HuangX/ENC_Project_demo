@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_07_018_013517.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:42.311546",
+    "image_size": 357364,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "personnage debout",
+      "architecture",
+      "danse",
+      "personnage barbu et moustachu",
+      "église",
+      "scène de lecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

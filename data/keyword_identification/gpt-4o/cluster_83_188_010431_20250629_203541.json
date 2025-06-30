@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_83_188_010431.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:35:41.417658",
+    "image_size": 216515,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Quarum penne adeo gloriosa emicar. urquinai noc obrieta defuit romberti frasipidum runc rif surgendi later umera, lucern cursus: iuor patere medio plumaria fulgencium; de que. arter dioer no. mitn be-antid toalas; immenda. ga adis minaturaum mirtus volutoseru seram icbrio frppt derat oraundia medulcetra ris platice uerumoom fraut fruucum ni sir. karn dum putule audu inoccem pre gerrucita' nativis quodam in fuscurs. batnequeest fort erincqumart lad cand' feyk inimumera avustia Iteuma umrsel aulaous speranonereium cepe umpuin vitrauk c adoer us geniranois cennica auru punem uriouci. eibos que de nora quaro vetuyftine teiparae oupolois. Io is uppo te adina fructes deul in ferre subi salaf spiatal, pueide evolare. uir eos midfer. Item picies. nonomnnaria pachyc, nivee nive moleom. Spmod emin e aeyue nciy rereper huenna nrm. annnnin ouiveniutur feturums sonasid atpf lauienum.",
+    "modern_french_text": "De leurs plumes éclatantes de gloire, non obstruées par quelque ombre, la course de l'oiseau passe à travers les plumes rayonnantes du ciel; ce que dit l'art oratoire. Les nids des oiseaux, par leur douceur, font le nid et le soin. Ils conçoivent leur nature grâce à l'instinct. Leurs nids, en suspens dans la brise, dans l’obscurité du soir, les branches chaotiquement déplacées pour élever l'âme spirituelle."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "oiseaux adossés",
+      "animal fantastique",
+      "anatomie"
+    ],
+    "elements_textuels": [
+      "oiseau",
+      "plumes",
+      "nid"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 3,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

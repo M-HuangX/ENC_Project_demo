@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_27_064_004415.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:02.820142",
+    "image_size": 317709,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "église",
+      "architecture",
+      "personnage debout",
+      "sacrifice",
+      "berger",
+      "mouton",
+      "livre",
+      "couronne",
+      "vêtements",
+      "prière"
+    ],
+    "elements_textuels": [
+      "deus",
+      "offerat"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12
+  }
+}

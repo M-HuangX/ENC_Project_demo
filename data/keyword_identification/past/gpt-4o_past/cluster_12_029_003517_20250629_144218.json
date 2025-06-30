@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_12_029_003517.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:42:18.918926",
+    "image_size": 385343,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "archanges",
+      "couronne",
+      "personnages à tête unique",
+      "bâton",
+      "manteau"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6
+  }
+}

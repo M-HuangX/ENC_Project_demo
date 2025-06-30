@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_19_048_003653.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:18.521045",
+    "image_size": 194043,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "bateau",
+      "arbre",
+      "personnage debout",
+      "personnages à tête unique",
+      "archanges",
+      "mer"
+    ],
+    "elements_textuels": [
+      "église",
+      "laodicée",
+      "smyrne",
+      "philadelphie",
+      "sardes",
+      "éphesé"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 6,
+    "total_identified": 12
+  }
+}

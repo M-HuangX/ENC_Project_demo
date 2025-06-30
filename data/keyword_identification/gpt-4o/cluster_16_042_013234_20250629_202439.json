@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "filename": "cluster_16_042_013234.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:39.374805",
+    "image_size": 201019,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Concede quaesumus domine precens sacrificium dominicae de communione nos set saccatissimam noctionem gloriam siquibus sed et memoria| resurectionis domini",
+    "modern_french_text": "Accordez, nous vous en prions, Seigneur, le présent sacrifice de la sainte communion que nous célébrons en mémoire de la résurrection du Seigneur"
+  },
+  "identified_keywords": {
+    "elements_visuels": [],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 0,
+    "total_textual_elements": 0,
+    "total_identified": 0,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

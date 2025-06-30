@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_89_198_006603.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:45.047425",
+    "image_size": 212484,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage",
+      "ange",
+      "lit",
+      "médaille",
+      "mort",
+      "prière"
+    ],
+    "elements_textuels": [
+      "pénitence"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7
+  }
+}

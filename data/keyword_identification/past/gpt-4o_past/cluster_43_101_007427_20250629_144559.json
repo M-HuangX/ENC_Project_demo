@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_43_101_007427.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:59.794100",
+    "image_size": 322788,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "église et synagogue",
+      "architecture",
+      "livre"
+    ],
+    "elements_textuels": [
+      "église",
+      "tables de la loi",
+      "moïse"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 3,
+    "total_identified": 7
+  }
+}

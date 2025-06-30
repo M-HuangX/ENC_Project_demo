@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "filename": "cluster_00_002_006334.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:43.098813",
+    "image_size": 458940,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "transcription du texte tel qu'il apparaît dans l'image",
+    "modern_french_text": "traduction/interprétation en français moderne"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "bataille",
+      "cheval",
+      "château",
+      "lance",
+      "personnage couronné",
+      "architecture",
+      "armure",
+      "scène de combat",
+      "soulèvement",
+      "guerriers"
+    ],
+    "elements_textuels": [
+      "josué",
+      "arias",
+      "gabaon"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 3,
+    "total_identified": 13,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

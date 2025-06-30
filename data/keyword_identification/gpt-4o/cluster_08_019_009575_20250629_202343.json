@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_08_019_009575.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:43.099810",
+    "image_size": 250522,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Venérunt filii isr[ae]l \\h mi[ni]stro in de[se]r[tu] sin miše primo c mo[n]se i ma[n]ser\nbiès i cades mursueg i ibi maria a sepulta i o èdoe i eo",
+    "modern_french_text": "Les fils d'Israël vinrent dans le désert de Sin le premier mois et campaient à Kadesh. Là, Marie mourut et y fut enterrée."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "moïse",
+      "aaron",
+      "prières",
+      "tente"
+    ],
+    "elements_textuels": [
+      "moïse",
+      "aaron"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 2,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

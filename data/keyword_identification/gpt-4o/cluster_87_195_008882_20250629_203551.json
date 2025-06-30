@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_87_195_008882.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:35:51.512171",
+    "image_size": 219498,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Bacina lignum radicem tamini insula caprionis bene sape que omnibus pictus et mirum odorem dat.",
+    "modern_french_text": "Bacina, arbre dont la racine est utilisée sur l'île de Capri, bien connue pour son parfum remarquable."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbre",
+      "architecture"
+    ],
+    "elements_textuels": [
+      "sape"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 2,
+    "total_textual_elements": 1,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

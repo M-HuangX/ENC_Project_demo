@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "filename": "cluster_45_104_009687.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:28:26.345238",
+    "image_size": 258152,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "K dic eīd occīdit īs ā postīdōt r př ‘īr adesi i locc lī īg hóser canes\n īsqueuné naboth laber ag rūī fagunē ī canes combére iabalp in\nloga essed ic.\nīmag cui aualisi aceab sumoes throi cadere vucer hui ā opuné au\nloco carné sus",
+    "modern_french_text": "Et dirent: Tuez-le et possédez son héritage. Voici, les chiens\nléchèrent Naboth, ainsi sera mangé Ézéchiel dans ce lieu.\nQuand il entendit cela, Achab s'habilla pour le deuil de sa chair."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "château",
+      "personnage debout",
+      "animal terrestre assis",
+      "architecture",
+      "scène de théâtre"
+    ],
+    "elements_textuels": [
+      "saint jean-baptiste",
+      "scène de théâtre",
+      "église-intérieure"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 3,
+    "total_identified": 9,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_01_005_014651.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:49.596534",
+    "image_size": 480410,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "..... longue main ens et ostree C....... ...omment faire leur sclaime ... prias les mauvais C....... ...venu ........... esle....... ..... entre vous...... plait au duc er avuez soleil ardent ..........",
+    "modern_french_text": "..... longue main dans et ostree C....... ...comment faire leur demande ... pria les mauvais C....... ...venu ........... esle....... ..... entre vous...... plaise au duc et avez soleil ardent .........."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "couronne",
+      "chien",
+      "femmes",
+      "hommes"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

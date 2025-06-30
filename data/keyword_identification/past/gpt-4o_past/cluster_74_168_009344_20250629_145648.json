@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_74_168_009344.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:48.222189",
+    "image_size": 156120,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage",
+      "tête",
+      "bois",
+      "table",
+      "oiseau",
+      "bête",
+      "démon"
+    ],
+    "elements_textuels": [
+      "saturne",
+      "capricornus"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 2,
+    "total_identified": 9
+  }
+}

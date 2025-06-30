@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "filename": "cluster_03_009_011566.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:59.535849",
+    "image_size": 482861,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "c qe nous ledons enloez: chadens la cite\nqa c il nous ramVienet: ahorte z a tutte\np q aule divin liantiu i grant pueple mande\nonne me nit appoint: qui tou rait aut dre terre\n3 que n’ oult deloner penra sa poste\ne vins et flamor i ai londe qui ichadan\nn matti par los hauls: totson bien apetret\nl en veniendo les foez z reignes z terrez\n6 nous en bataille somes a culs motes\ne si tamis ledons: il feis nel cervez\n1 oral o leestan que mote Iome le fonde\ncl joil volent teu que arras a donie\ne ci ienumsendens les quant il rDemoir\np vnces les cuealess: z apes la pietraille\nr oi bevret alrandi qui amid les travaillez\na qe qui onf ales pain I nei virualle\nc il ois dug] qua la colee ne laens les tilleul\nNe retrobter imtes tu nc la baronmilte\ne ons fons: uns mini chalil de fir\nl ornaules flechier: en ta famuinalle\nt o Psitans aler. de billet bafiere\n1 pain te pues ar z fier ta bauncalle\nnlons beheause l laze tavvavallee\nqui fe quens tiei mir paile ne moir\nvne me santent: nment sale be knalle\nt ons de la loes loes nl vlvez alancke\ni ennas fcey uns boulaz a passe vallol\np icej Peer il en la place lanie z cozer mis\nI rot de luften sonor lauz ee morn\nc e ne qualt ieie i e senxe ahul adrez\ne Oiantres Soyice. ey toile in upon urdelle\nIs gants torsas leore ve Irai cogener\ne tel me a gance monr as dins z ile mzel\nv i debcoissant if fote les rein mant uns ster\nets i ons vray eoit f was poulet mIItt\nc is oso mide Ici oemt que monns\nvel visage fillnee demoticen multeres\ne Ovcens torun ait tant site cl de nolmey\nl e loy mai: ienne lay mas Panllovese\na l fusthou foy ie arfel_ il ve tam\nd s jrnenens coola ie ain Ilos segnes l lusse\np ioiels lelle lais led c la cu elle cairal\nc est me cu Rutilrton te royal apachlor",
+    "modern_french_text": "Que nous lisons maintenant, chacun dans la cité\nCar si nous revenons, il exhorte tout le monde\nPar la volonté divine un grand peuple marche\nOn ne me rencontre pas qui tous peuvent dans la terre\nQue ne veut pas éloigner prendra sa position\nEt nous sommes et flammes j'ai loué qui chacun\nN'aspire par les hauts, prennent bien appétit\nEt en venant les fausses et royaumes et terres\nNous sommes en bataille à tout moment\nEt ainsi nous lisons, il est vrai, il ne discernait\nOr, en l'état que nous lui avons donné\nEt nous entendons ce que quand il reste\nAvec les cavaliers, et ensuite la piétaille\nAu temps de grande approche qui entre les travailleurs\nÀ qui offrent ceux de la peine et de la nourriture\nIls [ne] retrouvent plus les barons et les troupes\nEt, comme fous, avec de petits\nLes arcs fléchissants, à faire dans la famille\nUne fois prêt à aller à la fontaine\nLe pain se perd arraché à cette enfance\nAinsi bonheur et paix avaient amené\nPour tout chemin d'un long espoir\nL'un signifie que le seigneur meurt\nIls me se sentent: ils m'interpellent pour tourner\nEt ceux de là où ils voulaient aller\nEt sortis, partent les richesses de ce qui restait\nLes myths et récits et tout endroit\nSe cherchant, nous trouvions en Normandie\nEt ceux perdent le nombre de leurs jeunes troupes\nAinsi sont enlevées les puissances désirées\nAinsi ne refusez pas qu'ils veulent le laisser\nCela est une chose retourne le roi approcher"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "personnage debout",
+      "cheval",
+      "armes",
+      "couronne",
+      "architecture",
+      "vêtements",
+      "boucliers",
+      "armes",
+      "cavaliers"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe du panetier",
+      "empire",
+      "équitation",
+      "roi",
+      "combat"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 5,
+    "total_identified": 15,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

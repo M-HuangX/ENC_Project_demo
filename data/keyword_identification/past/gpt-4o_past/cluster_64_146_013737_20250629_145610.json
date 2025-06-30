@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_64_146_013737.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:10.635523",
+    "image_size": 443314,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "médecine",
+      "instrument médical",
+      "plante",
+      "personnage assis",
+      "personnage debout",
+      "coupe",
+      "jeune fille",
+      "escarpolette",
+      "geste"
+    ],
+    "elements_textuels": [
+      "camomille"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 1,
+    "total_identified": 10
+  }
+}

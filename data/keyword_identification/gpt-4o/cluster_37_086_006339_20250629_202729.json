@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filename": "cluster_37_086_006339.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:27:29.817540",
+    "image_size": 393048,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "valeat tribus effraim aaronite gedeone tuos volitum occupat",
+    "modern_french_text": "Que la tribu d'Éphraïm prenne le pouvoir, Aaronite, sur les vœux de Gédéon"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnages à tête unique",
+      "cheval",
+      "sanctuaire",
+      "offrandes",
+      "armes",
+      "soldats",
+      "prière",
+      "désespoir",
+      "arche d'alliance"
+    ],
+    "elements_textuels": [
+      "aaron"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 1,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

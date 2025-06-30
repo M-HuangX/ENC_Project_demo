@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_26_061_000746.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:47.421410",
+    "image_size": 302832,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "roi de castille",
+      "armure",
+      "tour",
+      "personnage debout",
+      "architecture",
+      "mur",
+      "église (architecture)",
+      "armement"
+    ],
+    "elements_textuels": [
+      "combat",
+      "roi",
+      "chevalier"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 3,
+    "total_identified": 12
+  }
+}

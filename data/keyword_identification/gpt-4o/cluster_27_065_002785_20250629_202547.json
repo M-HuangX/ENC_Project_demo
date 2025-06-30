@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_27_065_002785.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:25:47.514851",
+    "image_size": 229886,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "In dextera tua sunt Regulis",
+    "modern_french_text": "Dans ta main droite sont les lois"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "arc",
+      "garde",
+      "couronne",
+      "livre",
+      "personnage barbu",
+      "armée",
+      "temple",
+      "animal",
+      "colonne",
+      "prophète"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

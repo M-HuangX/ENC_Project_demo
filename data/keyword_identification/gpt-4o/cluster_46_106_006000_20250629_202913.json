@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filename": "cluster_46_106_006000.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:29:13.903297",
+    "image_size": 303620,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Don ce men souffrette martire po\nt lemprireu dacy Car quant celuy de\nacen eut fourmonte babiloine et les\naultres prouinces Il trouua aiaunt\\’nydien dedon la cite Zacah Il fist leur et teenra o\nnuc lui enla cite de Cordule et les fist tormenter ce\nmene et diuers tourmens Mais man laquit no\nrnsent joue et quil estoient ansi comme den tou\neueneus du pays Ils furent mis denant dacy en de\nuante les senaueus et laue fut commande qua sa\nefressant et eussent leurs dopus frandemenc ou\nqulf ussient denaces des beste sauuages lesquel\nrefusennent a sacrifer et cachinerent contre les fauf\nnnages Doue quis ils furent traues an lieu el\nnatitre et laussa son aleir sur enlv denylons enim.\n",
+    "modern_french_text": "Lorsque cet homme souffrit le martyre sous l’empereur Dacien, car quand celui de Dacie eut surmonté Babylone et les autres provinces, il trouva ainsi des Indiens dans la cité de Zacah. Il les fit mettre et tenir avec lui dans la cité de Cordule et les fit tourmenter de même et divers tourments. Mais malgré tout, ils ne renoncèrent point et, bien qu'ils fussent ainsi emmenés devant Dacien et devant les sénateurs, il leur fut commandé qu'ils se confessent et offrent leurs dons franchement ou qu'ils fussent donnés aux bêtes sauvages. Ceux-ci refusèrent de sacrifier et se cachèrent contre les faux croyants. Donc, ils furent finalement tués en martyre et laissèrent leur sort entre les mains des lions et ainsi de suite."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "idole",
+      "empereur",
+      "personnages debout",
+      "colonne",
+      "soldat",
+      "paysage",
+      "bâtiment",
+      "bâton",
+      "costume",
+      "geste"
+    ],
+    "elements_textuels": [
+      "martyr",
+      "empire",
+      "Babylone",
+      "Indiens",
+      "sénateurs",
+      "bêtes sauvages",
+      "confession",
+      "sacrifice",
+      "faux croyants",
+      "lions"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 10,
+    "total_identified": 20,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

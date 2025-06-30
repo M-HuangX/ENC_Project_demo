@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_41_095_000705.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:28:10.973775",
+    "image_size": 264992,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Syme Jofin se duz denmure de 1ame laminie le meure de eul vers ore menotire de den lui dune mtz sun gloire . utrenqe la guerre dune \" 1e urex et ta meesle ne...",
+    "modern_french_text": "Simeon appelle les hommes de la Lumière et parle à ceux qui sont au milieu de leur gloire. Il surveille la guerre..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange",
+      "couronne",
+      "lit",
+      "enfant",
+      "église",
+      "prière"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

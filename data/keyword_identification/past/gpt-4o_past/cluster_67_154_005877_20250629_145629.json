@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_67_154_005877.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:29.313654",
+    "image_size": 343630,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbre",
+      "ange",
+      "guérison"
+    ],
+    "elements_textuels": [
+      "apocalypse",
+      "pathmos"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 2,
+    "total_identified": 5
+  }
+}

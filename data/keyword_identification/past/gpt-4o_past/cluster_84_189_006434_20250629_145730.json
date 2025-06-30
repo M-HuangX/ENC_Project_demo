@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_84_189_006434.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:30.342079",
+    "image_size": 307347,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "armure",
+      "roi",
+      "épée",
+      "personnages à tête unique",
+      "arbre",
+      "paysage",
+      "combat",
+      "histoire",
+      "couronne"
+    ],
+    "elements_textuels": [
+      "pyrrhus",
+      "pantasilee"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12
+  }
+}

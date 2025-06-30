@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_05_012_005973.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:41:31.661656",
+    "image_size": 273744,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "évêque",
+      "chapeau",
+      "encensoir",
+      "croix",
+      "cierge",
+      "architecture",
+      "procession",
+      "saint",
+      "vêtement religieux"
+    ],
+    "elements_textuels": [
+      "fête de saint marc",
+      "grande procession",
+      "grande litanie"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 3,
+    "total_identified": 12
+  }
+}

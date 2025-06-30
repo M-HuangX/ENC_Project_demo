@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_08_021_009478.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:41.489151",
+    "image_size": 256264,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "f me menpsi nun | de fi ti; q fecife ve luc * ne percti frito fuo um genti * ge me bene delefis | t | minis eleo emi mi hic feliacef u uiar =(suc.\n\n Veir ue tana cnnam uequm tgnum ferrc annu *(molla er.mcunae arbo quam\n",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "personnage debout",
+      "sceau",
+      "apôtres et saints",
+      "étole",
+      "habillage",
+      "tables",
+      "teintes",
+      "gestes",
+      "vêtement",
+      "cène"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

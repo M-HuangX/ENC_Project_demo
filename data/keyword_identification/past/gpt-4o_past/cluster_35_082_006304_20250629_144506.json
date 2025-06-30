@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_35_082_006304.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:06.465785",
+    "image_size": 300707,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "prêtre",
+      "couronne",
+      "architecture",
+      "personnage agenouillé",
+      "scène de couronnement",
+      "rouge",
+      "livre",
+      "église-intérieure",
+      "sceptre"
+    ],
+    "elements_textuels": [
+      "rex",
+      "in nomine patris",
+      "sancta"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 3,
+    "total_identified": 12
+  }
+}

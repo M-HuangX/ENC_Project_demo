@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "filename": "cluster_13_034_004804.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:30.754259",
+    "image_size": 237683,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "XIII INFERNO PSALMUS DAVID DIXITINSIPIENS CONSERU DOMINE\nCITABONUMNONEST INTIMORDIANTIOCULOS",
+    "modern_french_text": "PSAUME XIII DE DAVID : L'INSENSÉ DIT : CONSERVE-MOI SEIGNEUR\nNI Y A-T-IL PAS DE BON AU COEUR\nET ILS ONT PEUR AVEC LEURS YEUX"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "musiciens",
+      "personnage debout",
+      "ange",
+      "david",
+      "psaume",
+      "animaux fantastiques affrontés"
+    ],
+    "elements_textuels": [
+      "psaume",
+      "david"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 2,
+    "total_identified": 9,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

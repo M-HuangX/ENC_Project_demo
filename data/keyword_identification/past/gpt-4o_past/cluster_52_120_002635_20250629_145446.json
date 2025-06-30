@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_52_120_002635.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:46.652077",
+    "image_size": 280748,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "colonne",
+      "oiseau",
+      "arcade",
+      "aigle",
+      "ornement",
+      "firmament",
+      "ornementation florale"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 0,
+    "total_identified": 8
+  }
+}

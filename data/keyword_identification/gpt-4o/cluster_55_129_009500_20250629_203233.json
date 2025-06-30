@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_55_129_009500.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:32:33.316453",
+    "image_size": 251243,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Dixit Ioseph undecim fratribus audire somnium meum quod vidi sicut ligare manipulos in agro et steti exsurgere manipulum meum et stare vestra manupula",
+    "modern_french_text": "Joseph dit à ses onze frères d'écouter son rêve qu'il a vu, comme s'il liait des gerbes dans un champ, et ma gerbe s'éleva et se tint debout, et vos gerbes"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "joseph interprétant le songe de pharaon",
+      "personnages à tête unique"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe de pharaon"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 2,
+    "total_textual_elements": 1,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

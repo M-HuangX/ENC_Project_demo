@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "filename": "cluster_18_047_003892.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-29T18:42:42.549126",
+    "image_size": 312758
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text above and below a full-width miniature. The image is divided into a central mandorla enclosing the enthroned Christ, flanked at the four cardinal points by evangelist symbols, and four rectangular compartments containing groups of twenty-four elders, all set within a broad blue and white interlace border.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, professional book hand with regular spacing, abundant use of ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "azurite blue",
+          "vermillion red",
+          "verdigris green",
+          "lead white",
+          "carbon black"
+        ],
+        "color_usage": "Gold leaf reserved for the mandorla and halos to denote the divine realm; ultramarine and azurite blues dominate Christ's robe and the main border, signaling sanctity; red backgrounds separate the four elder panels; green accents in the throne and scrolls; white highlights model drapery folds; alternating blue and white pattern in the outer border creates visual rhythm. Pigments are well preserved with minimal oxidation of lead white and stable ultramarine."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Centralized mandorla with Christ as focal point",
+          "Four evangelist symbols at cardinal points around mandorla",
+          "Four equally sized elder panels arranged in a quadrant grid",
+          "Hierarchical scaling: Christ notably larger than surrounding figures",
+          "Broad interlace border unifying the composition"
+        ]
+      },
+      "decorative_elements": [
+        "Blue and white diapered interlace border",
+        "Gothic micro-architecture framing Christ's throne",
+        "Scroll banners with Latin inscriptions identifying evangelists and hymns",
+        "Burnished gold grounds sprinkled with red and white dots in mandorla"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in dark brown ink, uniform line weight with subtle modulation for facial features",
+        "shading_method": "Light tinted washes in robes, minimal hatching in drapery folds, lead-white highlights on edges",
+        "perspective_handling": "Hierarchical scaling without linear perspective; spatial depth suggested by overlapping robes and throne steps"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic worship",
+        "divine majesty",
+        "evangelist symbolism"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single, unified depiction of Christ in Majesty (Maiestas Domini) enthroned within an almond-shaped mandorla floating above stylized waves. Christ, slightly larger than the surrounding figures, sits frontally on a Gothic throne under a blue cloak and rose-colored tunic, holding an open book in his left hand and raising his right in blessing. His halo and the mandorla are burnished gold flecked with red and white punches. At the four cardinal points just outside the mandorla are the four evangelist symbols: the winged man (Matthew) at upper left, the eagle (John) at upper right, the lion (Mark) at lower left, and the ox (Luke) at lower right, each bearing a scroll with its Latin name. In the four surrounding rectangular compartments—two above and two below—are twenty-four elders in white robes and dark girdles, each group of six standing in adoration, facing inward and holding scrolls inscribed with hymnic lines. The background of these panels is vermillion red. The entire composition is contained within a bold blue and white interlace border."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ Pantocrator enthroned with nimbus and mandorla",
+          "Twenty-four Elders in white robes kneeling and standing in adoration"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Winged man (symbol of Matthew)",
+          "Eagle (symbol of John)",
+          "Lion (symbol of Mark)",
+          "Ox (symbol of Luke)"
+        ]
+      },
+      "objects": [
+        "Open book held by Christ",
+        "Scroll banners with Latin inscriptions",
+        "Gothic throne with canopy"
+      ],
+      "architectural": [
+        "Pointed Gothic canopy frame behind Christ",
+        "Stepped throne bench"
+      ],
+      "natural": [
+        "Stylized green waves under the mandorla"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, carefully scraped and pumiced to a smooth, creamy surface; folio ruled in plummet; quire structure consistent with quaternion gatherings.",
+      "preservation_condition": "Pigments remain vivid, especially ultramarine and gold; minor flaking of vermillion at edges; slight abrasion to outer border; evidence of modern consolidation in lower margin.",
+      "notable_physical_characteristics": [
+        "Raised gesso underlay beneath gold leaf in mandorla",
+        "Underdrawing visible in brown ink under UV examination",
+        "Regular pricking marks along margins for layout",
+        "Punch-work dots in gold field",
+        "Fine brushwork in facial details"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for exegesis",
+        "Display of monastic scholarship"
+      ],
+      "intended_audience": "Religious community"
+    },
+    "scholarly_interpretation": "Produced in a high-end northern French workshop c. 1250–60, this miniature exemplifies the mature Gothic style in its refined line work, sumptuous pigment palette, and precise gilding techniques. The choice of the Maiestas Domini with the twenty-four elders and evangelist symbols reflects a theological program drawn from Revelation 4–5, intended for clerical readers engaged in scriptural exegesis. Technically, the use of raised gesso to heighten the mandorla’s gold leaf and the application of high-quality ultramarine underscore the manuscript’s costly patronage, likely a monastic ecclesiastical house seeking to assert both spiritual and intellectual authority. The symmetrical, compartmentalized composition and consistent decorative vocabulary align with contemporaneous psalters and Apocalypses from Paris, while the crisp underdrawing and disciplined quill work suggest a single master painter with an assistant. Iconographically, the integration of the evangelist symbols on scrolls names reinforces the universal witness to Christ’s sovereignty, and the elders’ hymnic scrolls link image and liturgy. Comparisons to the Psalter of Blanche of Castile reveal shared border patterns and color schemes, whereas the emphasis on educational function differentiates it from purely devotional Books of Hours. This page thus bridges traditional iconographic schemes with the evolving pedagogical demands of mid-13th-century monastic culture."
+  }
+}

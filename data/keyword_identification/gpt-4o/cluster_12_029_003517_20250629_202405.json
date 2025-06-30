@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "filename": "cluster_12_029_003517.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:05.489617",
+    "image_size": 385343,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "convint...\nsapiens...",
+    "modern_french_text": "convenu...\nsages..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "couronne",
+      "personnages",
+      "sceptre",
+      "évêque",
+      "tonsure",
+      "cape",
+      "vêtements richement décorés",
+      "mains jointes",
+      "illustration enluminée"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

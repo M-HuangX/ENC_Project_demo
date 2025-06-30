@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_15_039_011128.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:10.960529",
+    "image_size": 249142,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "rue (architecture)",
+      "jardin",
+      "panier"
+    ],
+    "elements_textuels": [
+      "prêtre",
+      "Nature",
+      "melius",
+      "urina",
+      "cerebro"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 5,
+    "total_identified": 8
+  }
+}

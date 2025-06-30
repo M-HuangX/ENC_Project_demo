@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_39_090_007761.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:18.938357",
+    "image_size": 239421,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbres",
+      "feuillage",
+      "personnage debout",
+      "vêtements",
+      "végétation",
+      "plantes",
+      "agriculture"
+    ],
+    "elements_textuels": [
+      "brunet latin"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 1,
+    "total_identified": 8
+  }
+}

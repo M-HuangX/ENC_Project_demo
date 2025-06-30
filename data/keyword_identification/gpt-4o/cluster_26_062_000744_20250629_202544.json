@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_26_062_000744.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:25:44.759849",
+    "image_size": 265305,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Que reis ne du duel que i ont\ntenre plus a dire ne me plest\nde monseignr g ete es \n\nal contrees acheal\n1 parole et percevial\n\nA parapecier aloit\ne heuveliant si nul soulont\n\nde trouuou tes armes armez\n\nen perron esuaime lor culz et deulae\n\nen per ceceual ala chiez lenvoie",
+    "modern_french_text": "Que le roi ne veut plus parler du deuil qui y est\npeur de dire davantage\nmonseigneur est au pays de Chéaal\n1 parole de Perceval\n\nIl allait au seigneur\nheureusement si nul le souhaite\nretirer toutes les armes\nau passage Évain leur cul et douleur\nPerceval alla chez l'envoyé"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "rencontre",
+      "personnage debout",
+      "architecture"
+    ],
+    "elements_textuels": [
+      "parole",
+      "roi"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 2,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filename": "cluster_25_059_006198.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:27:36.987261",
+    "image_size": 2047311,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "apostres-12",
+      "colombe",
+      "auréole",
+      "livre",
+      "main",
+      "fonds décoratifs",
+      "drapés",
+      "personnage debout",
+      "scène religieuse",
+      "mosaïque",
+      "ciel",
+      "nuages",
+      "vêtements traditionnels",
+      "auréoles"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 15,
+    "total_textual_elements": 0,
+    "total_identified": 15,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

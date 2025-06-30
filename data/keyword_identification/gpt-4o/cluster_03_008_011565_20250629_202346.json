@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_03_008_011565.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:46.267020",
+    "image_size": 542204,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Uld tactum cliant liue enteres an amis\nore nous acquitites belement sans detrou\n2 nous requeuilles cal dit la roie\nveil de nore demes do spirit sans eirret\nvicine bien deu cheuelles corteret\nvers le balaet renit otious sanfonis\nis mestre en ore e notre long tuo do perron\net noland mortie an dour elles renai\nla carbonteures et feials riet por la ves\nanchelles mere en ecotes esraits et cateris\nameleures ater venors fous morticiteur\nacheuers dit boutire laylaneris toires\nlaiguesainst at ainies et verurs serour bardo\nmingle nostre ce clost et atique\nsummunters amourmigs nepharious enrou\ncapis cites siene ex te negligence douce\nlas an es terres trop ichele poruch\nil teure a dous dreul lancet le canteur\n ",
+    "modern_french_text": "Vous êtes tacitement liés en amis\nVous nous acquittez bellement sans détour\nNous vous recueillons ainsi dit la rêverie\nDécouvrez notre domaine au-delà de tout écart\nÉclairé bien des cheveux courts\nSur le plateau resplendit aux sons symphoniques\nEt maître en or et notre long séjour de pierres\nEt les morts ennoblissent en douceur\nLa carbonisation et les paroles motivantes\nLes chants mères écoutant ressuscités et claires\nAméliorez vos aventures comme maîtrise absolue\nAchevez les tardifs et vos conspirations\nAigue-marine et terres des farouches\nAdoucissez notre clôture enchantée\nLes souvenirs d'amour néfastes écartés\nS'achèvent, s'y adaptent avec négligence douce\nUn terroir en secret trop chéri pour un tel repentir\nIl se tait, doux, relie la faveur\n"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "danseur",
+      "architecture",
+      "vitrail",
+      "balance",
+      "vente de vêtements"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe du panetier",
+      "chrétien",
+      "mortier",
+      "tables de la loi"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 4,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

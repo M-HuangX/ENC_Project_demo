@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_15_039_011128.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:35.707743",
+    "image_size": 249142,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Porri\nNature calidae et siccae in vi. melius ex eis napatum. Iuiam provocat urinam et addunt in cortu. Nocumentum cerebro et sensib R emoutio nouamenti cum oleo de susimi non exoorticatis.",
+    "modern_french_text": "Poireaux\nNature chaude et sèche en vertu. Meilleur que les navets. Provoque l'urine et ajouté dans des onguents. Nuire au cerveau et aux sens. Remède pour douleur avec de l'huile de sésame non épurée."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "jardinier",
+      "paniers",
+      "personnage debout",
+      "plante",
+      "bâtiment",
+      "porte",
+      "chapeau"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

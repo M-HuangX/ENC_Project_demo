@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_39_091_007720.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:27:46.595973",
+    "image_size": 263369,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Sicom. mur.\nSicomum. Pio-fr.tr ficum. Accio magr mag.iniami. apostolicag gule, Aclef saiur vulerx.\net abo omentuf amalu minetud. Perrof neoi cu mster mieri Gand smaf stemus.\nimidius Toinrum mags Anguole, Adeloslachub fut. et regat menfemonia et caisk",
+    "modern_french_text": "Sicomore. Dû à la figue. Pour le grand maître. Apôtre de la gourmandise. L’ombre abrite les vulnéraux. Mais en grande quantité la nourriture se gâte. Mange fraîchement récoltée et soigneusement. Par l'astucieuse compréhension du savoir. Que notre esprit régnera totalement."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbre",
+      "figuier",
+      "panier"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

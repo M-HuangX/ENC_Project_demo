@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_59_137_006551.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:31:53.532873",
+    "image_size": 158142,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Ne auferat homine pium, OM Ips Hippolatea Kirkivuciat",
+    "modern_french_text": "Qu'il ne retire pas de l'homme pieux, Ô Dieu"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "personnage barbu",
+      "serpent",
+      "livre",
+      "plante",
+      "anges",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_01_004_014470.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:31.108785",
+    "image_size": 527324,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "iscien ..et se monstra plus fier q / mis brot disci… ceinois ore comme loroces oue / / envoie eslechien a pilate si le fist quar auesse / pus i. seruans en une prison a ce rendrir / aueri muche lorq le fel Tameour veid / iud a himet depinne ce que at dennerena / fuse iure estre mec empromioine que itte aune / fonneru une estre pour noi a dolmenee / san durables presons susse …siuec iure veue / ung fleue une estie mene jusstqueque melchari / ungerque un ueledne expignes et sonrer… / aac pu nous redumnene et puinz ung / e ang resiner comme il ore estre esanue / ptiatae a iurie le prinse rec il done qnuc nst / ore fac danse de muche le fel biere ung / im en ine ehadie ke pu..jir grau nous asse",
+    "modern_french_text": "À vérifier"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "prêtres juifs payant trente deniers à judas",
+      "personnage debout",
+      "archanges",
+      "église",
+      "geste de remise"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

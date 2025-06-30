@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_22_054_003848.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:42.741994",
+    "image_size": 252355,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "lion",
+      "mouton",
+      "personnage debout",
+      "vêtements",
+      "geste",
+      "arbre",
+      "animal terrestre"
+    ],
+    "elements_textuels": [
+      "lion"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 1,
+    "total_identified": 8
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "cluster_37_085_006374.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:24.027648",
+    "image_size": 405874,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "château",
+      "architecture",
+      "personnage debout",
+      "personnage barbu et moustachu",
+      "fou",
+      "cour",
+      "armure",
+      "soldat",
+      "épée"
+    ],
+    "elements_textuels": [
+      "David",
+      "Saül",
+      "conseiller"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 3,
+    "total_identified": 13
+  }
+}

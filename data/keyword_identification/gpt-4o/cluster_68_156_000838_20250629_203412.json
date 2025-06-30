@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "cluster_68_156_000838.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:34:12.961367",
+    "image_size": 339405,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christ en gloire tenant la croix",
+      "anges",
+      "trône",
+      "couronne",
+      "chaînes",
+      "roi",
+      "diable",
+      "église"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 0,
+    "total_identified": 8,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

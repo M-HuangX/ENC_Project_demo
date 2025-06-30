@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_33_075_000800.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:26:42.451044",
+    "image_size": 278171,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Sepetember traducit eterna laborem. habet dies xxxx luna xxxx. ...",
+    "modern_french_text": "Septembre traduit un labeur éternel. Il a 30 jours, lune de 30..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "labourage",
+      "sol",
+      "paysan"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

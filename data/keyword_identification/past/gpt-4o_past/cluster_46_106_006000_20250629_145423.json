@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_46_106_006000.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:23.606445",
+    "image_size": 303620,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnages",
+      "roue",
+      "idole"
+    ],
+    "elements_textuels": [
+      "david"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 1,
+    "total_identified": 5
+  }
+}

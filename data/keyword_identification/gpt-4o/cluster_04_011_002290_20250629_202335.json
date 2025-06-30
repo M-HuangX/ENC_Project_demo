@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filename": "cluster_04_011_002290.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:35.923506",
+    "image_size": 326769,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "magi",
+      "vierge à l'enfant",
+      "couronne",
+      "nativité du christ",
+      "apôtres et saints",
+      "coupe (recipients et contenants)",
+      "personnage debout",
+      "enfant",
+      "personnages à tête unique"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 0,
+    "total_identified": 9,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

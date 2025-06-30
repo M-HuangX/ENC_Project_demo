@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_66_150_007844.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:33:35.688524",
+    "image_size": 301919,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Canes lepo(ris)\nCanes lepo(re) p(l)o calae in: loco lunoes epu: pouratorez canis iru: firnam sup' us amlta puynciede. Ascautium. qualiter fatuit. Reno namia ei repea uenambus aulaunc. Quae ganit humos melocolici auc(later) mag. frisc aeropnis breme aune re gourny.",
+    "modern_french_text": "Chiens de chasse au lièvre. Les chiens parcourent le champ, suivant de près leur proie. Leurs aboiements résonnent dans la forêt, tandis que les lièvres sautent et courent pour échapper à leurs prédateurs."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "forêt",
+      "chien",
+      "marché",
+      "chasse",
+      "lièvre",
+      "personnages aux couleurs vives",
+      "flore"
+    ],
+    "elements_textuels": [
+      "canis",
+      "epu",
+      "venambus"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 3,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

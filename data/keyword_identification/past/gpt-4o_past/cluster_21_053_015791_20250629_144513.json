@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "filename": "cluster_21_053_015791.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:13.519125",
+    "image_size": 1383626,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "château",
+      "personnage debout",
+      "architecture",
+      "église"
+    ],
+    "elements_textuels": [
+      "flagellation"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 1,
+    "total_identified": 6
+  }
+}

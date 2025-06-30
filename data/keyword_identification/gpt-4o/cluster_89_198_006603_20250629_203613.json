@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filename": "cluster_89_198_006603.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:36:13.814846",
+    "image_size": 212484,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Si vos veez vostre ami [...] si vus reconfortez [....] de cultiver les gens [.....] \nque je ne puisse ne mettre en ombre ne clarte \nI amans choise de messra douce par sa mere ne pensons du laidece [...]\nOre en tus luz nous messra nuil tanedlee aus \nA douce mere telus nos hacуы; ali oudondeux \nQue pandas nozos sa face Anain[.] yef an",
+    "modern_french_text": "Si vous voyez votre ami [...] si vous réconfortez [...] de cultiver les gens [...] \nque je ne puisse mettre ni en ombre ni en clarté \nUn amant choisi de dame douce par sa mère [...] \nOre en tous lieux nous mettra nul temps [...] \nÀ douce mère fait ainsi; [...] \nQue se montrent nos visages"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "vierge à l'enfant",
+      "ange",
+      "personnage debout",
+      "célébration",
+      "lit",
+      "vêtements",
+      "couvre-lit",
+      "chevalier",
+      "croix",
+      "prière"
+    ],
+    "elements_textuels": [
+      "douceur",
+      "réconfort",
+      "méditation",
+      "mère",
+      "ombre",
+      "clarté",
+      "amour",
+      "âme",
+      "visage",
+      "choix"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 10,
+    "total_identified": 20,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

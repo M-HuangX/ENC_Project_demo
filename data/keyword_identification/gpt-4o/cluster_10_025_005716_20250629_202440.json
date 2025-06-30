@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filename": "cluster_10_025_005716.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:40.091979",
+    "image_size": 349502,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "quod homo secreta di si deber ...\n...\nsu in fo ea de ...\nquod sunt di a morte resurgent...\n...",
+    "modern_french_text": "Ce que l'homme doit savoir dans sa vie secrète...\n...\nils sont ressuscités de la mort...\n..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange",
+      "ciel",
+      "arbre de vie",
+      "fleur",
+      "étoile",
+      "arc-en-ciel",
+      "personnage",
+      "couronne",
+      "soleil"
+    ],
+    "elements_textuels": [
+      "évêque",
+      "ciel"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 2,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_24_058_015265.JPG",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:25:41.632107",
+    "image_size": 284437,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "E...s",
+    "modern_french_text": "Enoch"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnage debout",
+      "arme",
+      "chevalier",
+      "châtiment",
+      "geste",
+      "prières"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

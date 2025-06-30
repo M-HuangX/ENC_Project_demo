@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_12_030_003516.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:18.754925",
+    "image_size": 343047,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "vés lauez z vés h mesnies si l escriture a tant. Lem. Comant so fiz pp tan ostoia sus les gascois. et mur le onz lonna ostoia a lus lendur plase l eivre. Conut les novais vndoient en aquitaine + mur lem pre-pouia so mauntales a rouz ceuls qui tran lauoich te ses pleins + de la pnz q l munt entre ceulz quel se trelvodient",
+    "modern_french_text": "vos lavages et vos maisons si l'écriture à tant. L'armée. Comment son fils par tant osait sur les Gascons. Et meurt le onzième jour de novembre avec la lenteur place le livre. Connait les nouvelles venant en Aquitaine + meurt le prévoyant si manières à rouges ceux qui trans percent la voix de ses pleins de la pense qu'ils montent entre ceux que le trahissent"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "couronnement",
+      "roi",
+      "trône",
+      "évêque",
+      "noble",
+      "mitre",
+      "chape"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_83_187_010439.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:35:27.979237",
+    "image_size": 232187,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Anat ab alituare aurum animal via obovem donavit ferum aurante. Antequam unian alla instictum de qu ipso ipsam inventum retatur.",
+    "modern_french_text": "Avant qu'une autre créature ne découvre elle-même ce qui est pour elle une trouvaille."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "église",
+      "ornement",
+      "héraldique",
+      "oiseau",
+      "animal"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

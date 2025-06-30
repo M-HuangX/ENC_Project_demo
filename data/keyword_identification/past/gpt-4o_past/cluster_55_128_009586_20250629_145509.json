@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filename": "cluster_55_128_009586.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:55:09.895853",
+    "image_size": 216115,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "prophète",
+      "personnage debout",
+      "scène d'enseignement",
+      "moses",
+      "église",
+      "saint",
+      "prières",
+      "architecture",
+      "habacuc transporté par l'ange",
+      "vocation de saint pierre et saint andré"
+    ],
+    "elements_textuels": [
+      "moïse",
+      "josue",
+      "arche",
+      "precepte",
+      "populo",
+      "filho",
+      "domini"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 7,
+    "total_identified": 17
+  }
+}

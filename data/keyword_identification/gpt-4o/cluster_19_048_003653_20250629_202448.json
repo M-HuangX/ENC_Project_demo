@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "filename": "cluster_19_048_003653.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:48.508794",
+    "image_size": 194043,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "r enuanz au ter églises et Asie. cco est efeue: a Efche: a Smirne. a Pergame: a Thur: et Ahar: et Philadelffe: et Laodiee.",
+    "modern_french_text": "renvoyant aux sept églises d'Asie. ceci est adressé à Éphèse, à Smyrne, à Pergame, à Thyatire, et Sardes, à Philadelphie, et Laodicée."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "bateau",
+      "arbre",
+      "eau",
+      "drapeau",
+      "ciel",
+      "ange",
+      "personnage lisant",
+      "croix",
+      "homme barbu",
+      "bannière"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

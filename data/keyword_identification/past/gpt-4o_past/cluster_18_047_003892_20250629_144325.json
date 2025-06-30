@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "filename": "cluster_18_047_003892.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:25.084902",
+    "image_size": 312758,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "trône",
+      "christe",
+      "anges autour d'une gloire",
+      "livre",
+      "personnages à tête unique",
+      "gradin",
+      "halo",
+      "ange",
+      "groupe de personnages"
+    ],
+    "elements_textuels": [
+      "trinité",
+      "honneur",
+      "gloire",
+      "notre",
+      "père",
+      "sieux",
+      "salut",
+      "domus"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 8,
+    "total_identified": 18
+  }
+}

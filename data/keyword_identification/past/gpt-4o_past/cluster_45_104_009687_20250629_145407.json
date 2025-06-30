@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_45_104_009687.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:54:07.255285",
+    "image_size": 258152,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "couronne",
+      "personnage debout",
+      "bâton",
+      "gestes",
+      "barbe",
+      "vêtement"
+    ],
+    "elements_textuels": [
+      "naboth",
+      "israël",
+      "jézabel"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 3,
+    "total_identified": 10
+  }
+}

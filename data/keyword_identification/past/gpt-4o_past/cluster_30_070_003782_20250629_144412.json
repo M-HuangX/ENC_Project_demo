@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_30_070_003782.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:44:12.673905",
+    "image_size": 267389,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "archanges",
+      "présentation",
+      "bateau",
+      "personnages à tête unique",
+      "fenêtres",
+      "habits médiévaux",
+      "couronnes",
+      "architecture",
+      "gestes",
+      "plantes"
+    ],
+    "elements_textuels": [
+      "vocabulaire latin"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 1,
+    "total_identified": 12
+  }
+}

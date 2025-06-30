@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_40_093_015459.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:36:36.287503",
+    "image_size": 4272057,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Parable of the Unmerciful Servant, 2",
+    "modern_french_text": "Parabole du serviteur impitoyable, 2"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "château",
+      "personnage debout",
+      "prière"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

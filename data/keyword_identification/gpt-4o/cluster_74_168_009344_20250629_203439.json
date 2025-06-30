@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_74_168_009344.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:34:39.185024",
+    "image_size": 156120,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "prius ligant demon\nres guatem singe\nHomoin perasum spectat\nuomit deum homine perento\npedes petrus\ncalceamen amni\nrex\n machemete mortu\nres huc cauru ut nunc\nlocus signifcat cultum\nrese perasum\nber huc",
+    "modern_french_text": "un démon en premier\nun homme regardant un singe\nL'homme regarde à travers un sac\nun homme vomit après la mort\nles pieds de Pierre\nchaussures d'un homme\nroi\nla mort de Mahomet\nchose ici maintenant\nle lieu signifie le culte\npar ici"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archevêque",
+      "démon",
+      "homme",
+      "roi",
+      "animal stylisé"
+    ],
+    "elements_textuels": [
+      "prêtre",
+      "chaussure",
+      "pierre",
+      "roi",
+      "culte"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 5,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

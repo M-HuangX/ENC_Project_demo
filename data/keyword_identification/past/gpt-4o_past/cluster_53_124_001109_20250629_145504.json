@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filename": "cluster_53_124_001109.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:55:04.712179",
+    "image_size": 307495,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "architecture",
+      "prêtres juifs payant trente deniers à judas",
+      "châtiment",
+      "église",
+      "scène de spectacle",
+      "saint jean-baptiste au désert",
+      "prophète assis tenant un phylactère",
+      "tour",
+      "décoration"
+    ],
+    "elements_textuels": [
+      "flagellation",
+      "table",
+      "châtiment des philistins",
+      "parabole du cep et des sarments",
+      "lion",
+      "saint jean-baptiste prêchant",
+      "pâque",
+      "tabernacle",
+      "châtiment de la colère",
+      "sanctuaire"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 10,
+    "total_identified": 20
+  }
+}

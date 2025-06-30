@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filename": "cluster_03_008_011565.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:41:11.685701",
+    "image_size": 542204,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "balance",
+      "couronne",
+      "roi",
+      "danseur",
+      "échelle",
+      "bâton",
+      "vêtements médiévaux",
+      "architecture",
+      "personnage debout",
+      "jouet"
+    ],
+    "elements_textuels": [
+      "moine",
+      "chevalier",
+      "parler",
+      "écouter",
+      "terre",
+      "foi",
+      "servir",
+      "roi",
+      "cage",
+      "loi"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 10,
+    "total_identified": 20
+  }
+}

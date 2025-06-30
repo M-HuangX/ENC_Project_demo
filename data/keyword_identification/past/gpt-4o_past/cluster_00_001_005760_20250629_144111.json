@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_00_001_005760.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:41:11.900743",
+    "image_size": 355837,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "château",
+      "cheval",
+      "bannière",
+      "épée",
+      "armure",
+      "personnages à tête unique",
+      "drapeaux",
+      "couronne",
+      "bataille"
+    ],
+    "elements_textuels": [
+      "VADIT",
+      "TRANSiT"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12
+  }
+}

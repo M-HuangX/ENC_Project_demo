@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_36_084_005826.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:19.509490",
+    "image_size": 376012,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "lion combattant",
+      "dragon",
+      "tête fantastique",
+      "animal fantastique crachant ou avalant"
+    ],
+    "elements_textuels": [
+      "hidrūs"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 1,
+    "total_identified": 5
+  }
+}

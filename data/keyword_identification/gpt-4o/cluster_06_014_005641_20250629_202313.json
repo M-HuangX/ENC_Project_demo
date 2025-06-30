@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "cluster_06_014_005641.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:13.585198",
+    "image_size": 267528,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "plentus eius reficere. omnia irum spitum sequ. in bonis actu tutis: ad certum finem meo vi ster persevare. Amen andrea pusillum voga pe flantis fuli spe. etc auratis ge nine reple mente duludine.\nDe sancto Jacobo apostolo:",
+    "modern_french_text": "pleins de joie, refais, tout suivre. en bonnes actions : jusqu'à une fin certaine, par mon étoile, persévère. Amen André doux appelle par Sainte foi, et clarifié confiant, remplis l'esprit de douceur. De saint Jacques apôtre :"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "château",
+      "personnage debout",
+      "saint jacques",
+      "bâton",
+      "vêtement",
+      "anges",
+      "personnage barbu et moustachu"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 0,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

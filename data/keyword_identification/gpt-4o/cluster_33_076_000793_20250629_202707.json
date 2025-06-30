@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_33_076_000793.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:27:07.830275",
+    "image_size": 276371,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "FEBRUARIUS mense Brieugus de... Onardaba mirum profestrum...",
+    "modern_french_text": "FÉVRIER mois..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "mois",
+      "vitrail",
+      "oiseau",
+      "poissons"
+    ],
+    "elements_textuels": [
+      "février"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 1,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

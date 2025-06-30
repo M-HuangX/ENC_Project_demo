@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "filename": "cluster_75_171_010618.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:52.277970",
+    "image_size": 229680,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "crucifixion du christ",
+      "saint",
+      "croix",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4
+  }
+}

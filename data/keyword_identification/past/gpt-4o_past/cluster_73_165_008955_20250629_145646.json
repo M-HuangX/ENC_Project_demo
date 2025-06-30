@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "filename": "cluster_73_165_008955.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:46.418014",
+    "image_size": 255127,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "arbre",
+      "personnage barbu et moustachu",
+      "écriture",
+      "plantes"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5
+  }
+}

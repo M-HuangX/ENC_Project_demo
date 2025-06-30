@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "filename": "cluster_74_169_007307.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:51.356094",
+    "image_size": 262407,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "déchaussement",
+      "lion anthropocéphale",
+      "démon",
+      "arme"
+    ],
+    "elements_textuels": [
+      "lion"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 1,
+    "total_identified": 6
+  }
+}

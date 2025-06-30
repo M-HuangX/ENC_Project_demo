@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "filename": "cluster_26_061_000746.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-29T18:43:09.770630",
+    "image_size": 302832
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "manuscript page with marginal illustrations",
+        "standalone illustration"
+      ],
+      "layout_style": "Full-width rectangular illustration occupying the upper half of the folio, framed by a thin band. Running header text in red ink sits above the image; beneath it, two columns of verse in black ink occupy the lower half. Wide margins on the right and bottom contain simple vine-scroll penwork. The illustration is centrally prioritized, with text clearly subordinate and separated by ruling lines.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata with regular letterforms, uniform stroke weight, frequent use of red rubrication and minimal flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "pink wash",
+          "white lead",
+          "black-brown ink"
+        ],
+        "color_usage": "The deep ultramarine and vermilion form two distinct compartments—red for the assembled onlookers and blue for the jousting knights—creating clear spatial and thematic separation. Pink wash on one horse contrasts with the white horse, enhancing visual interest. White lead highlights on helmets and horse tack bring out volume. The palette is limited but rich, with color hierarchies guiding the eye to the mounted combat."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Bilateral arrangement of two opposing knights at center",
+          "Horizontal register of standing courtiers on left balancing turret on right",
+          "Compartmentalized color-fields dividing audience and action",
+          "Mirrored horse poses creating dynamic tension",
+          "Elevated battlement registry above combat scene"
+        ]
+      },
+      "decorative_elements": [
+        "Diapered backgrounds in lozenge and lattice patterns",
+        "Simple painted frame in blue, red, and brown",
+        "Marginal vine-scrolls with stylized leaves",
+        "Punched white dots in background fields",
+        "Decorated historiated initial at text block"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine, fluid quill-pen outlines in dark brown ink with uniform weight and occasional thicker contours for emphasis",
+        "shading_method": "Minimal tonal modeling by layering pigment and white highlights; slight hatching on horse flanks",
+        "perspective_handling": "Flat, compartmental perspective without vanishing point; depth implied by overlapping figures and elevated registers"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Historical",
+      "sub_themes": [
+        "medieval warfare",
+        "feudal hierarchy",
+        "political messages",
+        "cultural references"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single, unified scene depicts a mounted joust before an assembled court. On the left, six courtiers in long gowns—alternating red and blue—stand on a narrow platform with hands clasped or gesturing toward the combat. They occupy a red diapered field. On the right, two knights on horseback meet lance to lance: the left knight rides a white horse, wearing a grey mail hauberk, blue-tinged chausses, and a black conical helmet; he wields a straight lance and carries a plain shield. His opponent, on a pink-tinted horse, is clad in a red surcoat over mail, a visored helm, and holds a lance with a pennon; his shield bears a simple heraldic device. Behind the joust, on a blue diapered ground, stands a square stone tower with crenellations. Two crowned figures lean from the battlement—one in black and one in red—observing the tilt. The horizontal layout aligns the knights centrally, with the audience and royal observers framing the action. No other narrative episodes are present; the emphasis rests on the single martial encounter."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Group of six courtiers in long gowns (three in red, three in blue) standing with gestures of attention",
+          "Knight on white horse wearing mail hauberk, chausses, black conical helmet, wielding a straight lance",
+          "Knight on pink horse wearing red surcoat over mail, visored helmet, holding a lance with pennon",
+          "Two crowned royal figures leaning over battlements in colored garments"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Straight lances",
+        "Plain heraldic shields",
+        "Mail hauberks and surcoats",
+        "Conical and visored helmets"
+      ],
+      "architectural": [
+        "Square stone tower with crenellated parapet",
+        "Battlement with merlons"
+      ],
+      "natural": [
+        "Stylized marginal vine-scroll with leaves"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, finely scraped and pumiced to yield a smooth writing surface; pricking and ruling visible at edges",
+      "preservation_condition": "Overall excellent: pigments vivid with minimal flaking, slight discoloration at upper right margin, minor abrasion on frame edges",
+      "notable_physical_characteristics": [
+        "Visible ruling lines under text",
+        "Punched patterns in diaper fields",
+        "Underdrawing traces detectable under infrared reflectography"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of status",
+        "Memory aid"
+      ],
+      "intended_audience": "Individual patron of noble rank"
+    },
+    "scholarly_interpretation": "This mid-14th-century French illumination likely served as an illustration for a chivalric chronicle or tournament roll commissioned by a noble patron. Its production in a Parisian workshop is suggested by the refined Gothic textura script and ultramarine pigment, imported at great expense. The strict color compartmentalization in red and blue, together with diaper patterns and punched dots, reflects the high decorative standards of the period and underscores the ceremonial nature of the joust. The symmetrical composition and absence of naturalistic perspective adhere to established conventions of courtly representation, emphasizing ritual over realism. Technically, the image demonstrates sophisticated layering of pigments and white lead highlights, while underdrawing traces hint at a guided, collaborative atelier practice. Iconographically, the raised dais of spectators and the elevated tower containing crowned figures reinforce feudal hierarchies, linking martial prowess to royal authority. Compared to contemporary manuscripts such as the Grand Livre des Tournois, this folio shares the same tournament iconography but exhibits a more austere framing device. Its function as entertainment is coupled with mnemonic precision—every gesture and costume detail encodes social status, while the heraldic shields mark individual competitors. By combining traditional jousting motifs with a refined Parisian palette, the image exemplifies the interplay between aristocratic display and manuscript innovation in late medieval France."
+  }
+}

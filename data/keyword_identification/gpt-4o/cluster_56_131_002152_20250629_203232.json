@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_56_131_002152.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:32:32.737265",
+    "image_size": 190771,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "in haut D...",
+    "modern_french_text": "en haut D..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "aigle",
+      "oiseau",
+      "lettrine"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

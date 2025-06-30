@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_37_086_006339.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:46.666363",
+    "image_size": 393048,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "épée",
+      "architecture",
+      "prière",
+      "armée",
+      "arc"
+    ],
+    "elements_textuels": [
+      "gideone"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7
+  }
+}

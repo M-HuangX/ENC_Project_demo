@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_86_194_001094.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:35:59.493908",
+    "image_size": 382846,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Apoc. VIII, Sigilla ad naiusia septem vigilum percuter. Incensa multa praepa est angelus steterat. Inuravimus eoatio septempliv ignim hic.",
+    "modern_french_text": "Apocalypse VIII, Sceaux pour réveiller les sept veilleurs. Beaucoup d'encens préparé devant l'ange. Nous avons juré ici par le feu à sept replis."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "trompette",
+      "autel",
+      "incense",
+      "christ en gloire",
+      "anges juxtaposés"
+    ],
+    "elements_textuels": [
+      "septième sceau de l'apocalypse : remise des trompettes",
+      "ange déversant la troisième coupe de l'apocalypse",
+      "apocalypse",
+      "vision d'ézéchiel : les quatre vivants"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 4,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

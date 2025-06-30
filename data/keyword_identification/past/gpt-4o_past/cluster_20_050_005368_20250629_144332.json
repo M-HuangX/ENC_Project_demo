@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_20_050_005368.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:43:32.742332",
+    "image_size": 320888,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "château",
+      "architecture",
+      "personnage debout",
+      "bateau",
+      "bateau",
+      "poisson",
+      "animaux fantastiques affrontés"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 0,
+    "total_identified": 8
+  }
+}

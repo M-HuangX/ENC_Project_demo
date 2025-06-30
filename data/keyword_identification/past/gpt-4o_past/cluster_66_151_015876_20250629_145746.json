@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_66_151_015876.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:46.853623",
+    "image_size": 1955684,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "chien",
+      "cheval",
+      "forêt",
+      "chien de chasse",
+      "arc",
+      "jardin",
+      "personnage à cheval",
+      "personnage debout",
+      "arc",
+      "chasse"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11
+  }
+}

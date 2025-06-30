@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "filename": "cluster_86_192_001700.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:40.822470",
+    "image_size": 281255,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange déversant la troisième coupe de l'apocalypse",
+      "archanges",
+      "château",
+      "architecture",
+      "temple"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5
+  }
+}

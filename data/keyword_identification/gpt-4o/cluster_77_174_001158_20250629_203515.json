@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "filename": "cluster_77_174_001158.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:35:15.637961",
+    "image_size": 376495,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Et adoraverunt et unius erat post... non ingrediantur. Set adoraverunt an...",
+    "modern_french_text": "Et ils adorèrent et il y en avait un derrière... qu'ils n'entrent pas. Mais ils adorèrent..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "dragon",
+      "têtes animales",
+      "personnages agenouillés",
+      "couronnes",
+      "bête de l'apocalypse",
+      "démon",
+      "rois"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

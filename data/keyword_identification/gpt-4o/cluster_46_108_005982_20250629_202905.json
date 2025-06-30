@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "cluster_46_108_005982.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:29:05.450418",
+    "image_size": 277173,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "gratuité. Ihesuhart Ih cumencenet a amenduer. Et en leurs mesnes purieliousement car le corps de Ihesucrist fu auaé en la croiz et celue de S. Jehan fu amuchi au chef. Dol macumpée et defa en hesione que Beards le chi des lombars fu enseullee dez legue de Saincte Jehan hui feste mendil i eut Yngi homme espris demoit seti qui ouïure par nuit le seiulcre et lemptora. Et iloos laine je huy suint ale oui defa. Comment astie stefi ed que daunor touche aux dosqu qui nephetient comusese tu meintoras doe en aunaix fanat et mon keisme. Si adinuit ainset omnme del audet. Unecite enterie enle dheife quil fu pris per la fozge aneit come du tres fort champrion et dep ala venusse omnie mot.",
+    "modern_french_text": "gratuité. De Jésus-Christ qui commença à amender. Et en leurs maisons particulièrement car le corps de Jésus-Christ fut élevé sur la croix et celui de Saint Jean fut touché au chef. Douloureuse tromperie et défaillance en raison que le baron des Lombards fut examiné des lègues de Saint Jean. Aujourd'hui, fête mémorable il y eut un homme rempli d'esprit qui ouvrit par nuit le sépulcre et emporta. Et alors laine je suis témoin de la foi. Comment a-t-il fait cela? Et que d'autres touchent aux choses qui ne se comportent pas correctement tu voudras connaître en avant de naviguer et mon église. Il advint ainsi à tous ceux l'osent. Une cité entre les choses le fut pris par la force ainsi comme d'un très fort champion et depuis alla venue comme mort."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "bâtiment/architecture",
+      "vêtements",
+      "geste",
+      "intérieur"
+    ],
+    "elements_textuels": [
+      "saint jean",
+      "dieu confiant sa mission à saint gabriel"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 2,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

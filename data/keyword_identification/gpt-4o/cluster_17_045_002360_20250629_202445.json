@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_17_045_002360.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:24:45.104989",
+    "image_size": 287082,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange",
+      "personnage agenouillé",
+      "aile",
+      "personnage debout",
+      "plante"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

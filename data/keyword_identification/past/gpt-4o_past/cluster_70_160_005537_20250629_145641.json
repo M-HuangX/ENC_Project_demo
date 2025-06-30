@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "filename": "cluster_70_160_005537.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:56:41.611968",
+    "image_size": 287563,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "crucifixion",
+      "christ en croix",
+      "ange",
+      "croix",
+      "personnages",
+      "marie",
+      "saint jean",
+      "couronne d'épines",
+      "maillet",
+      "clou",
+      "fleurs",
+      "oiseau",
+      "vigne"
+    ],
+    "elements_textuels": [
+      "passion",
+      "miserere",
+      "domine"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 13,
+    "total_textual_elements": 3,
+    "total_identified": 16
+  }
+}

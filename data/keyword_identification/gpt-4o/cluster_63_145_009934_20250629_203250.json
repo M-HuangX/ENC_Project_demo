@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_63_145_009934.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:32:50.830704",
+    "image_size": 298482,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Code due nile saue sehnau martir sepue sihoue huile anue mo devollata E xapos.\nade due nile saue mocex jauhen& I xe pheaenoe B I xe hn mitx AD X epen conte lil murj palmu cupai AI hecue fiuere;",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "épée",
+      "personnages à tête unique",
+      "décapitation"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

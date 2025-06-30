@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filename": "cluster_33_076_000793.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:13.119520",
+    "image_size": 276371,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "oiseau",
+      "poisson",
+      "homme",
+      "manuscrit"
+    ],
+    "elements_textuels": [
+      "februarius"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 1,
+    "total_identified": 5
+  }
+}

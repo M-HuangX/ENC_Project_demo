@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filename": "cluster_07_016_013503.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:41:27.992442",
+    "image_size": 341700,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnage debout",
+      "église-intérieure",
+      "vitrail",
+      "prière",
+      "arc",
+      "enluminure",
+      "oiseau",
+      "bâton",
+      "couronne"
+    ],
+    "elements_textuels": [
+      "moïse"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 1,
+    "total_identified": 11
+  }
+}

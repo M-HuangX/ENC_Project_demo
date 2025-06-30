@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "filename": "cluster_22_054_003848.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-29T18:42:41.902062",
+    "image_size": 252355
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text with a framed miniature occupying full text width above the rubric, generous outer margins, text block begins immediately below image",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata, professional book hand with consistent letterforms and use of ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermillion red",
+          "azure (azurite) blue-grey",
+          "leaf green",
+          "lead white",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Burnished gold reserved for frame corner accents; red mastic background with white stippling creates decorative field; blue-grey pigment for the lion contrasts with white of the sheep; green for the stylized tree; flat application with white highlights on figures"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "central interaction of predator and prey",
+          "single stylized tree to left balancing composition",
+          "man positioned behind predator reacting in raised-hand gesture",
+          "overlapping figures to suggest depth",
+          "rectangular frame containing all elements"
+        ]
+      },
+      "decorative_elements": [
+        "rectangular frame with gold square in each corner",
+        "red background with white dot pattern",
+        "stylized tree motif",
+        "thin blue and white border lines"
+      ],
+      "drawing_technique": {
+        "line_style": "bold black ink outlines with varying thickness, fluid quill-pen work",
+        "shading_method": "flat color fields with minimal tonal gradation, white highlights to indicate volume on sheep fleece and lion mane",
+        "perspective_handling": "no linear perspective, overlapping used for depth, slight hierarchical scaling of lion over sheep"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Allegorical",
+      "sub_themes": [
+        "animal symbolism",
+        "moral teachings"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single allegorical scene showing a lion (symbol of vice or the devil) biting into a white sheep (symbol of innocence). The lion is rendered in blue-grey pigment with a stylized flowing mane, its head lowered onto the sheep’s back, which is depicted with fine white hatching to evoke wool. A solitary tree with a rounded trefoil crown stands at left, its trunk rising from the ground plane. To the right, a hooded man in a long, loose tunic raises both hands in alarm, one across his chest and one aloft, his face in three-quarter profile witnessing the act. Figures overlap: the lion’s body partially covers the sheep, and the man stands directly behind the lion, establishing spatial layering. The ground is a narrow blue band beneath the figures. The frame is a simple rectangular border edged in blue and white, punctuated by gold leaf squares at each corner."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "common man in hooded tunic raising hands in alarm"
+        ],
+        "symbolic": [
+          "lion representing vice/devil",
+          "sheep representing innocence"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized tree"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum, evenly prepared with smooth surface, professional ruling visible under UV",
+      "preservation_condition": "Overall good: pigments remain vivid, slight flaking in red background, minimal abrasion to gold leaf, no active losses",
+      "notable_physical_characteristics": [
+        "underdrawing visible beneath lion in infrared",
+        "raised gesso base under gold corner squares",
+        "regular plummet ruling lines beneath frame"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for moral instruction",
+        "Display of patron’s erudition"
+      ],
+      "intended_audience": "Monastic or scholarly readership"
+    },
+    "scholarly_interpretation": "This miniature likely originates from a 13th-century bestiary or moral treatise produced in a northern French workshop. The use of a mastic red background stippled with white, combined with burnished gold-leaf corner accents, reflects Parisian illumination conventions of the mid-1200s. Technically, the confident underdrawing and raised gesso beneath the gold indicate a skilled atelier, while the flat application of color and minimal shading align with the didactic clarity characteristic of bestiary imagery. Iconographically, the lion devouring a lamb serves a dual function: zoological description and moral allegory, warning against predatory vice. The lone witness—in simple secular dress—reinforces the allegory’s relevance to human behavior. The composition’s centralized arrangement and overlapping figures create an immediate visual hierarchy, emphasizing the dramatic action. Comparatively, this scene shares stylistic affinities with the Bestiary of Philippe de Thaon and the hybrid Anglo-Norman illumination style found in the Oxford Bestiary (Ashmolean MS. 1511), notably in the treatment of animal forms and decorative motifs. The image thus bridges tradition and innovation, combining established iconography with a refined color palette and framing devices that would influence later Gothic manuscript illumination."
+  }
+}

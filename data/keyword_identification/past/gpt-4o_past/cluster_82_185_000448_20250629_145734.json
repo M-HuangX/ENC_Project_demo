@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_82_185_000448.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:34.031932",
+    "image_size": 429462,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "oiseau",
+      "personnage debout",
+      "architecture",
+      "prêtre",
+      "ange"
+    ],
+    "elements_textuels": [
+      "aquila",
+      "vupupa"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 2,
+    "total_identified": 7
+  }
+}

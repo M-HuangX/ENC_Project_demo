@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filename": "cluster_06_015_005593.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:23:20.199722",
+    "image_size": 274984,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Lucianimus omnes in domino diem festum celebrantes in honore sanctorum omnium de quorum sollemnitate gaudent angeli et collaudant filium dei. ps. Exultavit in domino. rectos decet collaudatio. Gloria patri et filio",
+    "modern_french_text": "Nous louons tous en l'honneur du Seigneur en célébrant la fête de tous les saints dont les anges se réjouissent et louent le Fils de Dieu. Le psaume a exulté dans le Seigneur. La louange convient aux justes. Gloire au père et au fils"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "personnage debout",
+      "chrétien"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 0,
+    "total_identified": 3,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

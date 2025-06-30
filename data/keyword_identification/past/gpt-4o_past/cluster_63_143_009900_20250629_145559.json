@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "filename": "cluster_63_143_009900.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:55:59.823638",
+    "image_size": 333357,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "décapitation",
+      "sceptre",
+      "couronne",
+      "architecture",
+      "martyre",
+      "église (architecture)"
+    ],
+    "elements_textuels": [
+      "saint jean-baptiste",
+      "saint cyprien"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 2,
+    "total_identified": 9
+  }
+}

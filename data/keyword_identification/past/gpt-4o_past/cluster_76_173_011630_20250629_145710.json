@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "filename": "cluster_76_173_011630.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:57:10.139879",
+    "image_size": 386062,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "personnage debout",
+      "architecture",
+      "personnage barbu et moustachu",
+      "personnages à tête unique",
+      "oiseau",
+      "arme"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7
+  }
+}

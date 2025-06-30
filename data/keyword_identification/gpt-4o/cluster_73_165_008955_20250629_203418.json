@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "filename": "cluster_73_165_008955.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:34:18.079959",
+    "image_size": 255127,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "Per cygale pinos simile bur arop tirrur resé tras Francis fairi moris Ubera tierra amelnt lo cur naci tra quiderpa altres bet. Persol fore o axune Neius file putiorum asset mordrin professti derfos.",
+    "modern_french_text": "Par cygale pins semblable bur arope tiré résoudre entre France faire mœurs Ubera terre amère nier creuse naci tra quiderpa autres être. Persol faire o axone Neius fils futurum affronter plus professeur des formes."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbres",
+      "personnages",
+      "rouge",
+      "écriture",
+      "vêtement",
+      "roue",
+      "papier",
+      "forêt"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 0,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

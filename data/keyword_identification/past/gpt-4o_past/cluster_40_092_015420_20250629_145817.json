@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "filename": "cluster_40_092_015420.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:58:17.198875",
+    "image_size": 8752930,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "roi",
+      "bâton",
+      "personnage debout",
+      "chameau",
+      "moïse et aaron devant pharaon"
+    ],
+    "elements_textuels": [
+      "moïse"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7
+  }
+}

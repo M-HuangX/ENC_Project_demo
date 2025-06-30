@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "filename": "cluster_26_062_000744.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-29T18:43:11.766713",
+    "image_size": 265305
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence"
+      ],
+      "layout_style": "Single column of text above a horizontal diptych of two framed narrative scenes at the foot of the page, each scene set within thin gold and polychrome borders; wide lower margin with small foliate marginalia.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata with red rubrication, professional book hand with regular abbreviations and alternating red-blue guide letters"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "azurite blue",
+          "vermilion red",
+          "leaf green",
+          "white lead highlights",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Alternating red and blue diapered backgrounds to distinguish the two narrative episodes; red reserved for the knight’s surcoat and one panel ground, blue for the companion panel and horse trappings; green used sparingly for landscape hillock; gold leaf frames unify both scenes and signal narrative importance; white highlights applied over pigments for drapery folds and diaper pattern; overall palette remains vivid with minimal oxidation."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Horizontal diptych of two equal compartments divided by a vertical bar",
+          "Knight on white horse moves from left to right across both scenes",
+          "Group of figures in left panel contrasted with single figure in right panel",
+          "Shallow pictorial space with overlapping to suggest depth",
+          "Decorative diapered grounds emphasize flatness and unify episodes"
+        ]
+      },
+      "decorative_elements": [
+        "White diaper pattern on red and blue grounds",
+        "Thin burnished gold borders with internal fillets",
+        "Small foliate marginalia in lower margin outside scene frame",
+        "Red and blue guide-letter flourishes in text above",
+        "Gold punch-work dots in frame corners"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown-ink outlines of uniform weight executed with quill, clean contours defining figures and drapery",
+        "shading_method": "Flat color application with minimal internal shading; white lead used sparingly for highlights on folds and horse",
+        "perspective_handling": "No true linear perspective; spatial depth implied by overlapping of figures and hillock, hierarchical scaling absent"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Courtly culture",
+        "Chivalric quest",
+        "Female presence",
+        "Romance narrative"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left panel",
+            "subject": "Knight on white horse meets a group of five ladies in long gowns",
+            "relationship_to_next": "Knight rides onward toward a lone female figure in tower window",
+            "visual_connections": [
+              "Knight’s horse and rider face right toward the next scene",
+              "Red surcoat and blue hose echoed in the knight’s dress in right panel",
+              "Diapered pattern of left ground matches style in right panel",
+              "Gold frame border continues uninterrupted between panels",
+              "Group of ladies’ gazes and gestures direct viewer’s eye rightward"
+            ]
+          },
+          {
+            "position": "Right panel",
+            "subject": "Knight approaches maiden leaning from a small tower window",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Continuation of knight’s rightward movement from left panel",
+              "White horse form identical in both scenes",
+              "Blue patterned ground in right echoes red pattern in left",
+              "Gold frame unifies both scenes",
+              "Gestural focus from tower maiden directed outward toward knight"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Burnished gold frame around both compartments",
+          "Consistent diapered pattern on backgrounds",
+          "Single knight and horse repeated motif",
+          "Horizontal orientation of scenes",
+          "Uniform quill-drawn brown outlines"
+        ]
+      },
+      "scene_description": "In the left panel a single knight in red surcoat and blue hose rides a white horse to the right, meeting five ladies lined up against a deep blue diapered ground. Each lady wears a long gown—three in shades of rose, one in blue, one in beige—and has long hair uncovered or with simple fillets. The knight bears a plain helm at his side and holds the reins in one hand. The figures overlap slightly to suggest shallow depth. In the right panel the same knight, now against a red diapered ground, rides toward a maiden who leans from a small stone tower window; her simple red gown and white wimple identify her status. A stylized green hillock grounds the tower. The horse’s posture, surcoat folds, and rider’s bent arm echo the left scene. Both panels framed in burnished gold with white punch-dots at corners."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Knight in red surcoat with blue hose, no visible heraldry, mounted on white horse",
+          "Group of five noble ladies in long, high-waisted gowns (rose, blue, beige), hair loose or simple fillets",
+          "Maiden in tower window wearing red gown and white wimple"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Horse with bridle and saddle",
+        "Knight’s helmet",
+        "Stone tower window"
+      ],
+      "architectural": [
+        "Small stone tower with rectangular window and tiled roof"
+      ],
+      "natural": [
+        "Stylized green hillock beneath tower"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, carefully scraped and pumiced, surface finely prepared with visible plummet ruling under UV",
+      "preservation_condition": "Pigments remain vibrant with minimal flaking in vermilion areas, slight cockling at lower margin edges, parchment lightly toned with age but no major discoloration",
+      "notable_physical_characteristics": [
+        "Raised gesso base beneath gold leaf frames",
+        "UV-visible charcoal underdrawing guiding contours",
+        "Regular plummet ruling for text and image borders",
+        "Layered pigment application with visible brush textures",
+        "White lead highlights over colored areas"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Demonstration of patron’s wealth",
+        "Aide-memoire for narrative recitation"
+      ],
+      "intended_audience": "Noble patron and courtly readership"
+    },
+    "scholarly_interpretation": "This illuminated diptych forms part of a medieval French romance, likely produced in a northern French workshop c. 1300 for an aristocratic patron captivated by Arthurian and chivalric tales. The dual compartments isolate two sequential episodes in which Perceval (unnamed in the image but implied by context) first encounters a group of noble ladies and then hastens to a solitary maiden’s tower, underscoring the era’s fascination with courtly love and knightly duty. The use of alternating red and blue diapered grounds derives from the Parisian illumination tradition of the late thirteenth century, while the restrained, flat pictorial space and patterning suggest an adaptation of stylistic models associated with the English Channel School. Technically, the manuscript demonstrates high-level execution: fine quill underdrawing, gesso-raised gold frames, and layered azurite and vermilion applications with white-lead highlights. Iconographically, the anonymous ladies contrast with the singular tower maiden, reflecting narrative rhythms of public appearance and private revelation central to courtly romance. Compared to contemporaneous cycle manuscripts such as the Morgan Library’s Lancelot, this folio shows a more economical figure count and a tighter focus on essential narrative moments. Overall, the page exemplifies the synthesis of decorative pattern, sequential storytelling, and refined material artistry characteristic of deluxe secular manuscripts intended for a sophisticated noble audience."
+  }
+}

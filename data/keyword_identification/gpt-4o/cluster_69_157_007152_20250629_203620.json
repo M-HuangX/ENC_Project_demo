@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "filename": "cluster_69_157_007152.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:36:20.778260",
+    "image_size": 266284,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "venea mea non est... hu secuetu sanctum",
+    "modern_french_text": "ma vigne n'est pas... je suis un saint gardien"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "couronne",
+      "roi de castille",
+      "épée",
+      "personnage assis",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

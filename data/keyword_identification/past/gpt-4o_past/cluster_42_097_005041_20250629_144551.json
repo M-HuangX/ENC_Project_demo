@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "filename": "cluster_42_097_005041.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T14:45:51.202640",
+    "image_size": 370999,
+    "vocabulary_size": 4305
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "parabole des vierges sages et des vierges folles",
+      "personnages à tête unique",
+      "roi de babylone"
+    ],
+    "elements_textuels": [
+      "balthazar voyant une main inscrire l'annonce de sa mort"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 1,
+    "total_identified": 4
+  }
+}

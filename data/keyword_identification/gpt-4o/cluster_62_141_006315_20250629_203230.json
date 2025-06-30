@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filename": "cluster_62_141_006315.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-29T20:32:30.502642",
+    "image_size": 423126,
+    "vocabulary_size": 4305
+  },
+  "ocr_results": {
+    "original_text": "texte illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "création de l'univers",
+      "anges",
+      "adam et ève",
+      "arbre de vie",
+      "scène de tentation",
+      "dieu",
+      "serpent",
+      "arche",
+      "nudité",
+      "paradis terrestre",
+      "mouton",
+      "végétation",
+      "homme",
+      "femme",
+      "animal terrestre"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 15,
+    "total_textual_elements": 0,
+    "total_identified": 15,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}
