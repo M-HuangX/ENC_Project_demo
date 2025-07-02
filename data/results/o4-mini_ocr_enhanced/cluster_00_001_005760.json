@@ -1,0 +1,144 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column layout with two full-width horizontal bandeaux separated by lines of Latin text; images occupy the majority of the folio with narrow margins; clear visual hierarchy of top scene (journey) leading to bottom scene (siege)",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis quadrata with frequent abbreviations and rubricated initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "lead-tin yellow",
+          "verdigris green",
+          "lead white",
+          "black ink"
+        ],
+        "color_usage": "Flat application of vibrant pigments to distinguish heraldic devices; alternating red, yellow and checkered banners mark individual contingents; blues and greens reserved for horse trappings and landscape; minimal shading with white highlights; original colors remain bright with little darkening of whites"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two register arrangement creating narrative progression",
+          "Horizontal alignment of figures emphasizes movement left to right",
+          "Overlapping horses and riders suggest forward motion",
+          "Central tower in lower band acts as focal anchor",
+          "Repeating vertical elements of lances and banners unify scenes"
+        ]
+      },
+      "decorative_elements": [
+        "Simple ruled border around each scene",
+        "Heraldic banners with geometric patterns",
+        "Dividing line of Latin caption integrated as decorative band"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink outlines of uniform weight drawn with quill pen",
+        "shading_method": "Minimal parallel hatching in armor and folds; flat color fields",
+        "perspective_handling": "Hierarchical scaling and overlap without true linear perspective; depth implied by superimposed horses"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Historical",
+      "sub_themes": [
+        "Political messages",
+        "Military techniques",
+        "Heraldry",
+        "Feudal pageantry"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top scene then bottom scene"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper half of page",
+            "subject": "Procession of knights and nobles advancing with banners toward a distant castle",
+            "relationship_to_next": "Leads to the depiction of the castle assault below",
+            "visual_connections": [
+              "Identical banner motifs echo in lower scene",
+              "Same horse trappings repeated",
+              "Figures oriented left-to-right face direction of action",
+              "Ground line of grass continues between bands",
+              "Consistent blue and red color palette"
+            ]
+          },
+          {
+            "position": "Lower half of page",
+            "subject": "Siege of a fortified tower with mounted knights and crossbowmen scaling walls",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Heraldic banners identical to those above",
+              "Repeated grass-line ground plane",
+              "Similar horse and rider proportions",
+              "Use of same red and yellow pigments",
+              "Consistent helmet and armor design"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform ruled border",
+          "Consistent black ink outlines",
+          "Alternating red and yellow banners",
+          "Flat application of pigments",
+          "Continuous ground-line grass motif"
+        ]
+      },
+      "scene_description": "The upper register shows a band of fourteen mounted knights and two footmen moving leftward. Each knight wears a conical helm with mail aventail and bears a sword at his hip. Horses are caparisoned in flat-colored cloths: three blue, two reddish-brown, interspersed. Riders wear tabards over gambesons; one central figure wears a short cloak of red lined in white, possibly a commander. Heraldic banners—red cross on white, yellow with black eagle, red-white checker—are held aloft on long lances. Figures overlap in two staggered rows to suggest depth; ground line of tufts of green grass runs beneath. No background architecture is shown, emphasizing movement. The composition is balanced by alternating horse colors and banner patterns. Tabard details include split skirts and visible seams; the central rider’s cloak shows layered application of lead-tin yellow over red. Horse harnesses bear simple decorative studs. The procession is flanked by minimal vegetation: short grasses only. The action is anticipatory, directing the eye to the lower siege scene via similar element reuse."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Nobility in mail hauberks and conical helms; foot soldiers in short gambesons"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Swords with gold-painted hilts",
+        "Heraldic banners on lances",
+        "Crossbows"
+      ],
+      "architectural": [
+        "Fortified stone tower with crenellations",
+        "Timber hoarding over wall"
+      ],
+      "natural": [
+        "Grass tufts"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with finely prepared smooth surface; quire of four membranes",
+      "preservation_condition": "Excellent: pigments vivid, minimal flaking of red areas, parchment slightly cockled at edges",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under UV fluorescence",
+        "Regular ruling with plummet for text lines",
+        "Layered pigment application with occasional gesso base under yellow",
+        "Fine quill-pen outline strokes",
+        "Minor surface abrasion in lower margin"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Historical chronicle illustration",
+      "secondary_functions": [
+        "Display of patron’s lineage via heraldry",
+        "Aide-memoire for recounting military campaign",
+        "Demonstration of manuscript workshop skill"
+      ],
+      "intended_audience": "Aristocratic patron and courtly readers"
+    },
+    "scholarly_interpretation": "Produced in a northern French or Burgundian workshop c. 1350, this bifurcated illustration accompanies a Latin chronicle recording the prolonged siege of Girona (‘Vadit per praestigio Girone capillo castellio…’). The two register format reflects the period’s narrative conventions, guiding the reader from the knights’ ceremonial advance to the climactic assault on the fortified tower below. The use of vibrant ultramarine and vermilion pigments alongside lead-tin yellow and verdigris underscores the heraldic emphasis; each banner and horse caparison is rendered in distinct, flat-colored tints to denote individual contingents. The absence of true perspective, replaced by hierarchical scaling and overlapping figures, aligns with Gothic illumination practices. The minimal landscape treatment and ruled frame focus attention on martial pageantry and feudal symbolism. Technical markers—Gothic textualis script, visible underdrawing, and layered gesso under yellow—suggest a professional atelier that balanced decorative flourish with narrative clarity. Iconographically, the repeated banners assert political authority and lineage ties, while the solitary tower in the lower scene emphasizes the strategic importance of Girona. Comparisons with the Grandes Chroniques de France and the manuscripts of Jean Wauquelin reveal shared compositional strategies and pigment palettes, situating this folio within the mid-14th-century Franco-Burgundian pictorial tradition."
+  }
+}

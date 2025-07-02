@@ -1,0 +1,145 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence",
+        "standalone illustration"
+      ],
+      "layout_style": "Single column of text at top of folio with two side-by-side rectangular miniatures occupying the lower half, each panel separated by a narrow gold divider and enclosed within a continuous gold frame and vine-scroll border. Wide inner margins contain small foliate buds in gold, integrating image and page decoration.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French (Anglo-Norman)",
+        "script_style": "Gothic textura quadrata in dark brown ink with red rubrication, professional book hand with standard abbreviations and occasional decorative flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "burnished gold leaf",
+          "leaf green",
+          "lead white"
+        ],
+        "color_usage": "Gold leaf reserved for framing and decorative highlights; alternating red and blue diapered backgrounds define the two narrative compartments; white and green accents unify architectural and natural forms; layered application with white lead highlights and minimal pigment oxidation indicates good preservation."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two equal-sized narrative panels arranged left-to-right",
+          "Knight on horseback repeated across both scenes to drive visual flow",
+          "Patterned backgrounds create shallow spatial compartments",
+          "Gold frame unifies panels as diptych",
+          "Viewer’s eye guided by horse’s motion and figures’ gazes"
+        ]
+      },
+      "decorative_elements": [
+        "Continuous vine-scroll border with trefoil leaves and gold bezants",
+        "Diapered backgrounds with white quatrefoil motifs on red and blue grounds",
+        "Gold fillet dividing panels",
+        "Marginal foliate buds extending into text area"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines in dark brown ink with consistent weight for figures and horses",
+        "shading_method": "Flat color fields with selective white lead highlights on horse and drapery, no ink hatching",
+        "perspective_handling": "Hierarchical scaling and overlapping to imply depth; no true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Courtly love",
+        "Chivalric quest",
+        "Communication of messages",
+        "Gendered encounter",
+        "Travel motif"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left panel, then right panel"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left panel",
+            "subject": "Perceval on white horse approaching a group of weeping noblewomen",
+            "relationship_to_next": "Continues the knight’s journey, his forward motion pointing toward the next episode",
+            "visual_connections": [
+              "Same white horse repeated",
+              "Red tunic of knight echoed against red panel in next scene",
+              "Figures oriented toward right edge",
+              "Gold frame unifies composition",
+              "Vine-scroll border continues"
+            ]
+          },
+          {
+            "position": "Right panel",
+            "subject": "Perceval on horseback addressing an envoy at a window in a masonry wall",
+            "relationship_to_next": "Sequence ends with delivery of message; no further scene on this page",
+            "visual_connections": [
+              "Continuation of horse’s body into panel",
+              "Red and blue diaper patterns remain consistent",
+              "Knight’s posture mirrors approach in prior panel",
+              "Gold framing identical",
+              "Green ground connects under horse’s hooves"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Continuous gold frame and vine border",
+          "Alternating red and blue patterned backgrounds",
+          "Repetition of the knight on white horse",
+          "Consistent scale of figures",
+          "Marginal foliate buds linking panels"
+        ]
+      },
+      "scene_description": "The folio presents a two-panel narrative. In the left panel, Sir Perceval, clad in a red surcoat over blue padded armour and grey chausses, rides a white horse harnessed in red toward six noblewomen wearing long gowns in pastel pink, blue and grey, several holding white kerchiefs to weep. The deep blue diapered background with gold quatrefoils and shallow ground line frames a dramatic encounter. In the right panel, the same knight, now against a red diapered ground, pauses before a small masonry wall with a tiled roof. He raises a gauntleted hand toward an elderly, hooded envoy clad in a red robe who peers from a window aperture. The white horse, rendered in identical proportion, stands before a green mound. Both panels are unified by a continuous burnished gold frame and vine-scroll border with trefoil leaves. The composition emphasizes Perceval’s journey and the ceremonial delivery of his message, with balanced figure groups, patterned grounds that flatten space, and vibrant complementary colors that heighten narrative impact."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Perceval on white horse wearing red surcoat and blue padded armour",
+          "Group of noblewomen in long gowns (pink, blue, grey) weeping",
+          "Envoy in red hooded robe at window"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "White horse with red bridle and harness",
+        "Decorated saddle cloth",
+        "Window opening in masonry wall"
+      ],
+      "architectural": [
+        "Small stone wall with tiled roof over window aperture"
+      ],
+      "natural": [
+        "None beyond stylized vine-scroll border with trefoil leaves"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum with very smooth scraped surface and even thickness, ruled in plummet for text and image compartments",
+      "preservation_condition": "Pigments vivid and well-preserved with minor flaking of red areas and slight abrasion on gold leaf; parchment shows minimal cockling and evidence of professional edge repairs",
+      "notable_physical_characteristics": [
+        "Gesso relief beneath gold leaf frames",
+        "Visible ruled underdrawing in lead white under pigment layers",
+        "Punchwork dots in gold borders",
+        "Consistent brown quill-pen ruling lines dividing panels"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Memory aid for recited narrative"
+      ],
+      "intended_audience": "Courtly elite familiar with Arthurian romance"
+    },
+    "scholarly_interpretation": "This two-panel illumination of an Arthurian episode likely originates from a mid-13th-century Parisian workshop, reflecting the height of the Anglo-Norman romance tradition. The professional Gothic textura script and the sumptuous use of ultramarine, vermillion and gold leaf suggest a high-status commission, perhaps for a noble patron’s private library. The crisp outlines, flat color planes and diapered grounds align with the stylistic conventions of the ‘Mansion of the Heart’ group, while the vine-scroll border and punchwork recall innovations in Parisian illuminations of the 1240s–50s. Iconographically, the repeated depiction of the knight on his white steed emphasizes chivalric identity and courtly values; the juxtaposition with mourning noblewomen invokes themes of loss and formal greeting. The depiction of the envoy in a simple masonry window signals narrative progression and social hierarchy. Technically, the raised gesso underlay and underdrawing visible under ultraviolet light attest to sophisticated workshop practices, while the minimal perspective reflects the era’s lingering Byzantine influences. Compared to the Morgan Vulgate and the Talbot Shrewsbury Book, this manuscript shows similar palette choices but a more restrained compositional framework, signaling a transitional moment between high Gothic complexity and early Renaissance spatial experimentation."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "standalone illustration"
+      ],
+      "layout_style": "Single column of text occupying lower two-thirds of the page, full-width rectangular miniature above; wide blank margins surround the framed text and image; clear visual hierarchy with the image dominating the upper portion, text confined to a ruled block below",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textualis bookhand, professional execution with uniform letterforms, extensive use of ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermillion red",
+          "azurite blue",
+          "lead white",
+          "green earth",
+          "ochre",
+          "carbon black"
+        ],
+        "color_usage": "Red ground provides a uniform backdrop; blue reserved for principal figures’ robes; white used for highlights on drapery folds; green and ochre for secondary garments; black outlines define forms; minimal color layering with flat tones and crisp boundaries"
+      },
+      "composition": {
+        "type": "symmetrical",
+        "features": [
+          "figures arranged in a horizontal register",
+          "central crowned figure flanked by two on each side",
+          "small demonic figure placed at the feet of the central figure",
+          "balanced spacing between standing figures",
+          "framed by a simple double-line border"
+        ]
+      },
+      "decorative_elements": [
+        "double-line pen border in black ink",
+        "rectangular architectural frame around miniature",
+        "color-field background without additional ornament"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen lines in brown ink, even weight, precise contours",
+        "shading_method": "Flat application of color with minimal internal hatching, no modeled shading",
+        "perspective_handling": "None; figures occupy a flattened stage with slight overlapping but uniform scale"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "demonic presence",
+        "intercession of the saint",
+        "royal authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single horizontal scene depicts five figures against a flat red background. At second position from left stands the haloed saint, clad in a long beige robe, right hand raised in blessing gesture, left hand holding a closed book. To her left is an elderly bearded man in a long blue cloak, hands clasped in supplication. At center is a crowned queen wearing an ankle-length blue mantle over a green underdress, one hand on hip, the other gesturing toward a small horned demon at her feet, who crouches on all fours with raised claw. To the right stand two noblewomen in blue and ochre gowns, both raising one hand in astonishment. All figures wear pointed shoes; hair is rendered in simple curls or veils. Composition occupies upper third of the page, figures evenly spaced in a single plane with no depth cues. Costumes feature fine linear folds, the queen’s crown detailed with simple points, saint’s halo outlined in black. The saint’s book and the demon’s horns serve as symbolic attributes. The ruled border frames the scene, directing focus to the central interaction between saint and royal figure."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "haloed saint in beige robe"
+        ],
+        "secular": [
+          "crowned queen in blue mantle",
+          "two noblewomen in blue and ochre gowns",
+          "bearded elderly man in blue cloak"
+        ],
+        "symbolic": [
+          "small horned demon at queen’s feet"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth prepared surface with visible faint hair follicle pattern, evenly trimmed edges, single bifolium quire structure indicated by consistent margin rulings",
+      "preservation_condition": "Overall good; vivid red and blue pigments with slight surface abrasion in upper right; minimal cockling; faint flaking of ochre areas; no modern retouch evident",
+      "notable_physical_characteristics": [
+        "visible ruled guidelines in text block",
+        "confident underdrawing in figure outlines under UV",
+        "even brush application of flat pigments",
+        "crisp pen-line border executed with steady hand"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "private devotion",
+      "secondary_functions": [
+        "aide-memoire for hagiographic narrative",
+        "demonstration of patron’s piety"
+      ],
+      "intended_audience": "educated lay patron"
+    },
+    "scholarly_interpretation": "This mid-14th-century French illumination, likely produced in a Parisian workshop, exemplifies the transition from earlier linear Gothic towards a more naturalistic figure style while retaining the characteristic flat grounds of the period. The manuscript’s use of vivid azurite and vermillion against stark white highlights reflects the advanced pigment preparation and careful layering techniques developed in elite scriptoria. The presence of a haloed saint confronting a demonic creature at the feet of a crowned figure suggests a hagiographic cycle aimed at illustrating the saint’s power over evil, a common theme in books of saints commissioned by lay patrons seeking spiritual intercession. The symmetrical arrangement and uniform figure scale point to a structured compositional approach typical of the mid-century Parisian illuminators, though the fluid line work and subtle underdrawing betray an individual hand experimenting with slight modeling. The restraint in decorative framing and absence of metallic leaf indicate a production intended for personal devotion rather than ceremonial display. Iconographically, the queen’s presence may allude to a royal patron’s invocation of saintly protection, echoing contemporary political uses of hagiography to reinforce authority. Comparisons to the Legenda Aurea manuscripts reveal shared narrative conventions, yet this example’s simplified border and emphasis on single-scene clarity highlight a move toward more intimate devotional experiences by the late Gothic period."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ocr_results": {
+    "original_text": "EXPLEVIT CAPITULA\nINCIPIT LIBER IOSUE\nFAC TUM EST POST\nmoysen moysi servum dñi ut (etc.)",
+    "modern_french_text": "Il a complété les chapitres\nCommence le livre de Josué\nIl est fait après\n(texte illisible)"
+  },
+  "identified_keywords": {
+    "elements_visuels": [],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 0,
+    "total_textual_elements": 0,
+    "total_identified": 0,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

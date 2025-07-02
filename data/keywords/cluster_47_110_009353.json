@@ -1,0 +1,35 @@
+{
+  "ocr_results": {
+    "original_text": "textus dracon. terrae firmate. coluber geminum quorum nostrum potestatnm subigite.",
+    "modern_french_text": "texte du dragon. terre ferme. serpent double dont notre pouvoir s'empare."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "taureau",
+      "dragon",
+      "lion",
+      "cerf",
+      "sanglier",
+      "serpent",
+      "chien",
+      "chien de chasse",
+      "crabe"
+    ],
+    "elements_textuels": [
+      "daemoniorum",
+      "terrae",
+      "dracon",
+      "coluber",
+      "caput",
+      "potestas"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 6,
+    "total_identified": 16,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

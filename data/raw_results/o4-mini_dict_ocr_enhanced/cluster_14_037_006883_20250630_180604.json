@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "filename": "cluster_14_037_006883.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:06:04.799535",
+    "image_size": 213472
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Rectangular miniature centered within text block, bounded by thin border; text lines appear immediately above and below image, creating an independent illustrative panel integrated into a single-column page layout.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata with decorative ascenders and frequent abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "lilac grey",
+          "rose pink",
+          "pale leaf green",
+          "azure blue",
+          "brown",
+          "white"
+        ],
+        "color_usage": "Muted color palette with cool tones (lilac grey, pale blue) for architectural elements and warm tones (rose pink, brown) for figures; white highlights emphasize drapery folds; no metallic pigments visible, suggesting either their absence or loss over time; alternating tile colors organize spatial depth."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "figures arranged left and right flanking implied central axis",
+          "checkerboard floor pattern creates diagonal lead into space",
+          "overlapping of figures and pillar suggests depth",
+          "gazes and gestures direct viewer between figures",
+          "architectural framework provides setting and spatial structure"
+        ]
+      },
+      "decorative_elements": [
+        "geometric checkerboard floor pattern",
+        "masonry brick wall representation",
+        "architectural framing with pillar and battlement"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine black ink outlines of uniform weight delineate figures, drapery folds, and architectural details",
+        "shading_method": "Flat areas of color with minimal hatching; slight tonal shifts indicate depth in chain mail and drapery",
+        "perspective_handling": "Rudimentary orthogonal floor tiling without consistent vanishing point; depth suggested by overlapping elements rather than true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "courtly interaction",
+        "female agency"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "In the single illustrated scene, two noblewomen stand at left, one in a rose-pink gown with green-­sleeved underdress and white turban, the other in a dark green cloak over red robes and white veil. To the right, a seated soldier in steel helm and chain-mail hauberk grasps a tall wooden staff, his pink hose and black shoes visible. A sheathed sword with crimson scabbard rests at his side. All three figures occupy the foreground tile floor, rendered in alternating red and blue squares. Behind them, a white pillar abuts a lilac grey brick wall, and a battlemented fortress wall with an arched entry forms the background. Figures overlap slightly—women in front of the wall, soldier seated against the pillar—indicating shallow recession. Costumes denote social status: the soldier’s mail and sword mark his military role; the women’s flowing gowns and veils identify them as high-born. Their gestures and gazes focus on the soldier, establishing the central action. Secondary decorative features include the checkerboard floor guiding the eye, the simple architectural frame, and the minimal background. The caption above, in Old French, names “Andromede,” directly linking text and image and guiding interpretation. This visual-textual integration emphasizes the narrative moment within a courtly romance manuscript."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "seated soldier in mail and helm",
+          "noblewoman in green cloak and white veil",
+          "noblewoman in rose gown and turban"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "wooden staff",
+        "sheathed sword"
+      ],
+      "architectural": [
+        "masonry wall",
+        "pillar",
+        "fortress wall with battlement",
+        "arched portal"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, uniformly thin and well-pumiced, with smooth, even surface",
+      "preservation_condition": "Overall good preservation; vivid pigments with minor flaking in pink areas, slight cockling at sheet edges, minimal abrasion to ink outlines",
+      "notable_physical_characteristics": [
+        "fine ruling lines visible under UV for floor pattern",
+        "faint underdrawing beneath paint layers",
+        "thin gesso layer under white highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Memory aid for narrative"
+      ],
+      "intended_audience": "Noble patron and courtly readership"
+    },
+    "scholarly_interpretation": "This miniature likely originates from a mid–fifteenth-century Northern French court workshop, produced for a noble patron’s illustrated romance. The depiction of Andromede and her encounter with a sentinel exemplifies the era’s fascination with chivalric narratives and female protagonism within courtly literature. The muted, pastel-inflected palette and flat application of pigment, combined with the finely ruled checkerboard floor, reflect techniques transmitted through Burgundian illumination circles rather than Parisian luxury manuscripts. The use of Gothic textura quadrata script, with its decorative ascenders and uniform abbreviation system, situates the text within a professionally executed codex intended for private enjoyment rather than liturgical use. Iconographically, the staff held by the soldier marks his role as gatekeeper, while the women’s veiled and turbaned headgear signals their noble status and identity as active participants in the narrative. The architectural backdrop—stylized battlements and pillar—provides a generic courtly setting that underscores themes of social negotiation and female agency. Comparison with contemporaneous manuscripts, such as the Roman de Troie illuminations, reveals similar compositional frameworks and color relationships. This scene thus combines traditional iconographic motifs of courtly encounter with a restrained, late-medieval aesthetic, reflecting both the manuscript’s entertainment function and the sophisticated tastes of its aristocratic audience."
+  }
+}

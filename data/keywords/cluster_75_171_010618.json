@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "INRI",
+    "modern_french_text": "Jésus de Nazareth, Roi des Juifs"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christ en croix",
+      "personnages crucifiés",
+      "couronne d'épines",
+      "croix",
+      "lance",
+      "ciel étoilé",
+      "gloire",
+      "mort",
+      "figures bibliques",
+      "martyr"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

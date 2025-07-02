@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Rectangular miniature enclosed by a decorative border; the painted scene occupies the full width of the page section with no interleaved text, suggesting text lies outside the bordered area, likely above or below. The image is self-contained, with patterned background and floor separating it visually from surrounding text.",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "burnished gold leaf",
+          "vermillion red",
+          "white lead",
+          "brown earth"
+        ],
+        "color_usage": "Gold leaf is reserved for royal and divine attributes—fleur-de-lis on garments and the diapered background—while ultramarine blue conveys nobility, vermillion red marks the ceremonial drapery and select robes, and white highlights model folds. Layered pigments exhibit minimal oxidation; gold punchwork adds texture."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Horizontal grouping from left-hand courtiers to right-hand ecclesiastic",
+          "Hierarchical scaling with the standing bishop slightly larger than the kneeling king",
+          "Central kneeling figure emphasized by surrounding gestures",
+          "Gestural flow directs the eye from crown bearers to the anointing",
+          "Flat decorative background contrasting with the patterned floor"
+        ]
+      },
+      "decorative_elements": [
+        "Blue diapered background with gold quatrefoils",
+        "Red and white interlaced border with gilt corner motifs",
+        "Patterned tiled floor of red and white lozenges",
+        "Throne canopy with pinnacles and red drapery",
+        "Fleur-de-lis motif on robes and background"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines of consistent weight define figures, drapery edges, and facial features",
+        "shading_method": "Flat color fields with limited hatching in drapery folds and white lead highlights to suggest volume",
+        "perspective_handling": "Hierarchical scaling without linear perspective; stylized diagonal floor tiles provide a sense of planar depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Historical",
+      "sub_themes": [
+        "political messages",
+        "religious elements",
+        "feudal hierarchy",
+        "ceremonial ritual"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Within the bordered miniature, nine figures enact a coronation: a central nobleman kneels before a standing bishop wearing a mitre and alb. The bishop holds a gilded chrism vessel in his left hand and raises his right in blessing. To the left, six courtiers stand in a line—two closest present a gold crown held on a cloth, one behind bears a sheathed sword, others watch in ceremonial garb. All wear long hair and contemporary robes strewn with gold fleur-de-lis, except one in solid red. The scene unfolds on a red-and-white lozenge-tiled floor against a blue and gold diapered field. Behind the bishop, a marble throne with pinnacles and red drapery frames the ritual, emphasizing ecclesiastical authority. \n\nThe spatial arrangement is strictly planar: the kneeling figure occupies the foreground center, flanked by crown-bearers on the left and the bishop on the right. Overlapping limbs suggest minimal depth. Robes are painted in ultramarine with gold motifs; folds receive white highlights. The crown’s rich gilding and the bishop’s ornate mitre draw the eye to the central act of investiture. A red canopy and patterned border underscore the solemnity of the ceremony, while the absence of naturalistic landscape focuses attention on the symbolic transfer of royal power."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Bishop in mitre and alb making the anointing gesture"
+        ],
+        "secular": [
+          "Kneeling nobleman in blue robe strewn with gold fleur-de-lis",
+          "Six courtiers wearing fleur-de-lis–patterned robes and one in red"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Gold crown held on cloth",
+        "Sheathed sword",
+        "Chrism vessel (gilt liturgical container)"
+      ],
+      "architectural": [
+        "Marble throne with pinnacles",
+        "Throne canopy with red drapery",
+        "Tiled floor pattern of red-and-white lozenges"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness and a smoothly pumiced surface; faint hair follicle pattern visible under magnification; typical quire structure with consistent margins.",
+      "preservation_condition": "Pigments remain vivid with minimal flaking; gold leaf retains burnish; slight cockling at corners; early margin repairs visible at lower edge indicating conservation intervention.",
+      "notable_physical_characteristics": [
+        "Raised gesso base beneath gold leaf with punchwork decoration",
+        "Fine underdrawing in brown ink visible under UV illumination",
+        "Faint ruling lines guiding composition detectable on the vellum",
+        "Layered pigment application exhibiting visible brushstrokes in drapery folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Administrative",
+      "secondary_functions": [
+        "display of status",
+        "political statement",
+        "memory aid"
+      ],
+      "intended_audience": "Institutional use"
+    },
+    "scholarly_interpretation": "This crown­ing scene, executed in a mid-14th-century French workshop, reflects the intertwining of secular and ecclesiastical authority in royal investiture. The use of ultramarine and burnished gold leaf underscores the monarchy’s divine sanction, while the fleur-de-lis motif visually asserts French royal identity. The collaborative production—evident in slight variations of drapery handling and facial types—suggests multiple hands in a court atelier. Technically, the layered pigments with white lead highlights and the gesso-raised gold demonstrate advanced material mastery, likely influenced by Parisian illumination practices. Iconographically, the bishop’s central role and the coronation act mirror contemporaneous chronicles that legitimize the crown through sacramental ritual. The flat decorative background and stylized floor, common to the International Gothic style, prioritize symbolic clarity over naturalistic space. Comparatively, the miniature resonates with the Grandes Chroniques de France in its ceremonial emphasis but diverges in its intimate scale and refined detailing, pointing to a specialized commission for a duchy or ecclesiastical institution. It exemplifies a transitional moment when personal devotional imagery and official historical narrative merged, serving both as a political assertion of royal power and as a visual memory aid for clerical or noble audiences within institutional settings."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "filename": "cluster_14_037_006883.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:19:54.728123",
+    "image_size": 213472
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Decorated initial letter"
+      ],
+      "layout_style": "Single column of text above and below a full-width standalone illustration framed by a simple rule, with image occupying the central zone and text confined to top and bottom margins",
+      "text_content": {
+        "presence": true,
+        "language": "Old French vernacular",
+        "script_style": "Gothic textualis with decorated ascenders and occasional red rubrication, professional book hand"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "lead-white",
+          "azurite blue",
+          "verdigris green",
+          "vermilion red",
+          "pink lake"
+        ],
+        "color_usage": "Cool blues and greys define architectural surfaces and drapery shadows, warm pinks and reds emphasize figures’ clothing; lead-white highlights on folds; minimal gilding; moderate layering of pigments for depth; pigments well-preserved with little darkening of whites"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Single dominant scene with figures placed in foreground",
+          "Architectural background recedes in shallow perspective",
+          "Tile-patterned floor creates spatial grid",
+          "Two standing figures balanced against seated figure",
+          "Interaction draws eye along horizontal axis"
+        ]
+      },
+      "decorative_elements": [
+        "Simple rule frame around image",
+        "Checkerboard floor pattern as decorative motif",
+        "Brick-pattern wall background",
+        "Subtly drawn foliage glimpsed above battlements"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill outlines with consistent brown-black ink, moderate line weight variation for drapery folds",
+        "shading_method": "Subtle cross-hatching in chain mail and tiled floor; graduated washes in garments",
+        "perspective_handling": "Shallow, intuitive perspective with receding floor tiles; no vanishing point; hierarchical scaling minimal"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Courtly encounter",
+        "Chivalric courtesy",
+        "Romance narrative"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The illumination depicts one central scene: on the right, a seated knight clad in chain mail hauberk, coif and bascinet helmet holds a stout wooden staff vertically. His pink-dyed chausses and black leather shoes rest on a pink and blue checkerboard tiled floor. A gilt-hilted sword in a red scabbard lies across his lap. To the left stand two ladies: the foreground figure wears a red kirtle with green sleeves, a white fillet turban and draped white veil, hands clasped in a slight curtsy; behind her, a second woman in a red overdress and green undersleeves steps forward, left hand gently touching the other’s elbow. The background shows a brick wall with a white pilaster and a crenellated parapet revealing stylized trees beyond. A dark archway at right suggests an entrance. Spatially, the seated knight occupies lower right foreground, the women occupy lower left, their gazes directed toward him. Their garments feature visible folds, and the architectural elements create a shallow interior. No secondary narrative panels are present. Decorative floor and wall patterns frame the figures, emphasizing the chivalric meeting, likely of Andromede greeting a knight or supplicant. Text above and below corresponds to the vernacular poem recounting Andromede’s deeds."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Seated knight in chain mail hauberk, bascinet helmet, pink chausses, holding staff; two ladies in red kirtles with white veils, one wearing turban-style headdress"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Wooden staff or club",
+        "Gilt-hilted sword in red scabbard",
+        "Wooden chest or block serving as seat"
+      ],
+      "architectural": [
+        "Brick-patterned wall",
+        "White painted pilaster",
+        "Crenellated battlement",
+        "Arched doorway"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth scraped surface, ruling frescoed with plummet for text and image frame",
+      "preservation_condition": "Very good; pigments stable, minimal flaking in red lake areas, slight cockling near lower margin, no modern retouching evident",
+      "notable_physical_characteristics": [
+        "Visible underdrawing in chain mail worked with fine strokes",
+        "Regular ruling holes and hair-follicle pattern on flesh side",
+        "No raised gesso; gold leaf absent",
+        "Quire structure appears quaternion without significant misalignment"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron’s cultural refinement",
+        "Visual accompaniment to vernacular romance",
+        "Aide-memoire for recitation"
+      ],
+      "intended_audience": "Noble patron and courtly circle"
+    },
+    "scholarly_interpretation": "This illumination, produced in a high-quality workshop during the late 14th century, reflects the flourishing vernacular romance tradition in northern France. The use of azurite blue and vermilion red, applied in layered washes with lead-white highlights, demonstrates technical sophistication and access to costly pigments. The scene’s centralized composition and intuitive spatial cues—checkerboard floor and shallow architectural setting—mirror contemporaneous secular manuscripts wherein realism is balanced with decorative pattern. The ladies’ costuming, featuring turban-style headdresses and fitted kirtles, situates the work within the fashion trends of the Valois court. Iconographically, the seated knight and the two women evoke chivalric courtesy and the romantic encounter at the heart of the Andromeda narrative, here recast as a refined meeting rather than a monstrous rescue. The absence of religious symbolism confirms the secular nature of the text, an Old French poem celebrating Andromede’s feats. Comparison with manuscripts such as the Romance of Alexander suggests a shared workshop influence, possibly linked to Rouen illuminators known for cool tonal palettes and precise underdrawing. The image thus bridges traditional Gothic conventions—decorative floor patterns and stylized architecture—with an emerging interest in individual characterization and courtly nuance, illustrating the dynamic interplay of innovation and tradition in late medieval secular illumination."
+  }
+}

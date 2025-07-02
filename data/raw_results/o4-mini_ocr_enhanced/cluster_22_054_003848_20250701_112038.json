@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "filename": "cluster_22_054_003848.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:20:38.178221",
+    "image_size": 252355
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single square miniature at top of the page with a wide blue and gold frame; beneath it a single column of text. The image occupies the full width, the text begins directly below. Margins are narrow and unfilled except for a simple pen flourish extending from the miniature’s lower left.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata with consistent vertical strokes, dense letterforms, frequent use of ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermillion red",
+          "azurite blue",
+          "verdigris green",
+          "lead white",
+          "burnished gold leaf",
+          "brown-orange earth pigment"
+        ],
+        "color_usage": "Gold leaf reserved for the frame’s corner accents, white used to stipple the red background for a starry effect. Alternating cool blues in the frame and warm reds in the field create depth. Verdigris greens highlight organic elements. Earth pigments in the figure’s clothing are well-preserved with minimal darkening. White lead provides highlights on fur and foliage."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Single main vignette framed by uniform border",
+          "Overlapping figures to suggest shallow spatial layering",
+          "Vertical emphasis from stylized tree at left",
+          "Horizontal progression from prey at front to human at rear"
+        ]
+      },
+      "decorative_elements": [
+        "Blue frame with white dotted fillet",
+        "Gold leaf corner pieces",
+        "Red field with regular white dots",
+        "Pen-flourished scroll extending into lower margin"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold black ink outlines define figures; internal details rendered with finer lines, likely quill nib of varying width.",
+        "shading_method": "Minimal tonal modeling via hatching on boar’s body and white lead highlights on fur; no smooth gradient.",
+        "perspective_handling": "Hierarchical scaling absent true perspective; shallow stage set by overlapping; larger lion compared to man and boar indicates emphasis."
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Allegorical",
+      "sub_themes": [
+        "animal symbolism",
+        "moral teaching",
+        "natural history"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The miniature depicts three figures: a grey-blue lion (center) seizes a pale boar (left front) by the throat, teeth bared. Behind the lion stands a single human figure (right), clad in a brown-orange hooded tunic, left hand pressed to chest, right hand raised in alarm, body turned slightly to the left. To the far left rises a stylized green tree with a single rounded canopy. All figures occupy a flat red ground stippled with white dots. The lion’s sculpted mane formed of wavy ink lines overlaps the boar’s back. The man is slightly smaller than the lion, emphasizing the animal’s dominance. The square scene is enclosed by a broad azurite blue frame accented with white dots and burnished gold leaf at each corner. Beneath, a single block of text begins with a historiated initial that is partially visible."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Man in hooded tunic, arms raised in defensive gesture"
+        ],
+        "symbolic": [
+          "Lion (allegory of strength/divine attributes)",
+          "Boar (symbol of prey, vice)"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized tree with verdigris foliage",
+        "Red field with white dotted decorative pattern"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness, smooth surface showing faint plummet ruling and hair-follicle pattern. Single-quire format with narrow margins.",
+      "preservation_condition": "Pigments remain vivid; minimal oxidation of lead white. Slight flaking of red vermillion at edges. Vellum shows minor cockling in corners. Evidence of 19th-century repair to lower right.",
+      "notable_physical_characteristics": [
+        "Visible underlying charcoal underdrawing under UV",
+        "Raised gesso beneath gold leaf on frame corners",
+        "Regular plummet-ruled grid for frame and text alignment",
+        "Fine brush-stroke layering in the brown-orange tunic"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Moral instruction",
+        "Demonstration of patron’s erudition"
+      ],
+      "intended_audience": "Monastic or scholastic readership"
+    },
+    "scholarly_interpretation": "Created within a 13th-century Norman bestiary workshop, this miniature exemplifies the didactic fusion of natural history and moral allegory. The robust use of mineral pigments—azurite blues and verdigris greens—paired with burnished gold leaf and a richly stippled vermillion field, reflects high-quality materials typical of a monastic scriptorium patronized by an educated clientele. The Gothic textura quadrata script underscores the institutional milieu: a learned community familiar with moralized zoological imagery. Stylistically, the work demonstrates a synthesis of Continental and Insular influences in the sinuous modelling of the lion’s mane and the simplified tree motif, suggesting workshop mobility and exchange. Iconographically, the lion’s overpowering of the boar serves not merely as a zoological observation but as a potent emblem of divine power triumphing over vice, with the human figure’s alarm conveying moral warning. The image’s centralized composition and framed isolation accentuate its allegorical import, inviting contemplation rather than narrative progression. Compared to contemporaneous examples—such as the Ashmole Bestiary—the piece exhibits a tighter color palette and more restrained border decoration, indicating an aesthetic preference for clarity over opulence. This balance of tradition and innovation places the manuscript within a transitional moment in medieval illumination, where pedagogical clarity gained precedence alongside artistic refinement."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "texto que aparece en la imagen",
+    "modern_french_text": "texte moderne en français"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "vitrail",
+      "prêtres",
+      "couronne d'épines",
+      "scène de lecture",
+      "architecture",
+      "scribe",
+      "chrétien",
+      "personnage assis",
+      "geste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

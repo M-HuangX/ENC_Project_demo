@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "filename": "cluster_01_004_014470.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:18:49.601475",
+    "image_size": 527324
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence",
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-width rectangular illustration at top of page within a red fillet border; below, single column of text framed by matching red rules. Illustration and text aligned centrally with generous white margins; no marginalia present.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textualis quadrata with consistent angular letterforms, lateral compressions, extensive use of common medieval abbreviations, executed by a professional scribe."
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermilion red",
+          "lapis lazuli blue",
+          "ochre yellow",
+          "lead white",
+          "black ink"
+        ],
+        "color_usage": "A vivid vermilion ground highlights the sacred narrative; blue drapery for principal figures denotes importance; ochre and white used to model garments with minimal tonal variation; black ink outlines and brown underdrawing emphasize contours; red framing unifies image and text. Pigments remain well preserved, with minimal darkening of white lead and slight rubbing on raised edges."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Left-to-right narrative progression",
+          "Two adjacent episodes under a single ground",
+          "Continuous vermilion background across scenes",
+          "Centered seated figure in first episode",
+          "Directional gestures guiding viewer’s eye to subsequent episode"
+        ]
+      },
+      "decorative_elements": [
+        "Red fillet border around illustration",
+        "Matching red ruled border around text block",
+        "Red initials with simple flourishes marking new paragraphs"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown-and-black ink outlines with varying weight, confident pen work showing slight tapering at terminations",
+        "shading_method": "Flat application of opaque pigments with occasional white highlights on drapery folds, minimal cross-hatching",
+        "perspective_handling": "Shallow, stage-like setting without vanishing point; hierarchical scaling subordinate to narrative clarity"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Judicial trial",
+        "Christology",
+        "Suffering of Christ",
+        "Authority of Pilate"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left scene then right scene"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper left of illustration",
+            "subject": "Christ seated, bound, before the judicial bench",
+            "relationship_to_next": "Soldiers seize him to bring before Pilate in the next scene",
+            "visual_connections": [
+              "Christ’s blue robe echoed in next scene",
+              "Gold halo continuous above his head",
+              "Red background unbroken between scenes",
+              "Outline style identical",
+              "Bench motif implies continuous setting"
+            ]
+          },
+          {
+            "position": "Upper right of illustration",
+            "subject": "Two soldiers binding Christ and advancing him toward Pilate",
+            "relationship_to_next": "None",
+            "visual_connections": [
+              "Blue drapery repeated on soldiers",
+              "Halo of Christ maintained",
+              "Same ground plane height",
+              "Gestural line from grasping hands points right",
+              "Red ground identical"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Continuous vermilion background",
+          "Uniform red fillet framing",
+          "Consistent figure scale",
+          "Identical line drawing style",
+          "Repetition of blue and ochre garments"
+        ]
+      },
+      "scene_description": "The illustration comprises two contiguous narrative episodes. In the first (upper left), Christ sits bound on a simple bench, his head ringed by a blue halo. He wears a lapis-blue tunic under an ochre cloak draped over his knees. Two attendants in turquoise tunics stand at either side—one gesturing a questioning finger, the other holding a thin staff. Their posture frames Christ as the focal point. In the second episode (upper right), two soldiers in turquoise tunics grasp Christ’s arms behind him, stepping forward in dynamic contrapposto. Christ’s halo and gold cloak remain consistent. On the far right stands Pilate in an ochre robe with a blue mantle, index finger raised in judgment. Figures are arranged on a shallow red ground, with no architectural framework. Costume details include pointed hoods, long tunics with simple hems, and rope bindings. The horizontal alignment and repeated gestures unify both scenes into a coherent judicial narrative."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ"
+        ],
+        "secular": [
+          "soldiers",
+          "Pilate"
+        ],
+        "symbolic": [
+          "halo"
+        ]
+      },
+      "objects": [
+        "bench",
+        "rope binding"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth superfine surface preparation evident; ruled with plummet before writing.",
+      "preservation_condition": "Overall excellent; pigments vivid with minimal oxidation; slight rubbing at edges of red ground; vellum flat, corners lightly cockled.",
+      "notable_physical_characteristics": [
+        "Brown underdrawing visible under UV",
+        "Uniform plummet ruling beneath text and image",
+        "Raised gesso absent, pigment laid directly on prepared surface",
+        "Fine red ruling delineates text and image zones"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Aide-mémoire for Passion narrative",
+        "Demonstration of patron’s piety"
+      ],
+      "intended_audience": "Lay noble patron for personal devotional use"
+    },
+    "scholarly_interpretation": "This Old French illustrated Passion scene likely originates from a mid-14th-century northern French workshop, reflecting the growing lay emphasis on visual engagement with Christ’s suffering. The choice of lapis lazuli and vermilion indicates a high-quality commission, perhaps for a noble patron’s private prayer book. The simplified stage-like composition and absence of architectural framing align with manuscripts produced in urban centers such as Paris, where illuminators favored bold color fields and narrative clarity. The professional Gothic textualis script and red rubrication further support a Parisian provenance, as does the balanced integration of text and image within matching red fillets. Iconographically, the two-part depiction of Christ’s judicial humiliation emphasizes continuity between episodes, reinforcing theological reflection on injustice and divine kingship—signaled by Christ’s halo and regal posture even in bondage. Technically, the flat application of pigment and minimal shading reveal a transitional style between the Linear Gothic of the early 14th century and the more naturalistic tendencies that emerged later. Comparatively, this manuscript shares affinities with the Passional of Queen Jeanne in its use of sequential imagery under unified backgrounds. The absence of gilt suggests either cost constraints or a deliberate aesthetic choice for austerity, underscoring the manuscript’s devotional function over ostentatious display. Overall, the page exemplifies a mature regional style that balances narrative immediacy with refined scribal and pictorial execution."
+  }
+}

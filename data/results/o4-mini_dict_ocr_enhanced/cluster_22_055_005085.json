@@ -1,0 +1,113 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single-column text with a rectangular full-width miniature inserted between lines, framed by red and blue ruled borders; text block above and below image; decorative initial at caption start.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis quadrata with red rubric initial"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold",
+          "ultramarine blue",
+          "vermillion red",
+          "verdigris green",
+          "white lead",
+          "brown ink",
+          "pinkish flesh tones"
+        ],
+        "color_usage": "Gold leaf fills the background to denote sacred ground; ultramarine blue patterned with quatrefoils provides contrast behind the tree; red and green accent architectural details; layered white highlights emphasize contours; alternating red and blue in the framing; pigments remain vibrant with minimal fading."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Diagonal movement from lower left (hyena’s hindquarters) to upper right (church spire)",
+          "Overlapping of animal, corpse, and bier suggests shallow depth",
+          "Vertical thrust of architectural elements balances horizontal animal form",
+          "Tree arching over scene creates framing",
+          "Frontal presentation of corpse focuses viewer attention"
+        ]
+      },
+      "decorative_elements": [
+        "Rectangular border with alternating red and blue lines",
+        "Stylized quatrefoil pattern in blue background",
+        "Simplified tree motif with scalloped foliage",
+        "Gothic micro-architecture facade serving as background",
+        "Red rubric initial at caption start"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen outlines in brown ink with consistent line weight",
+        "shading_method": "Flat color fields with minimal hatching; white lead highlights on flesh and architecture",
+        "perspective_handling": "Hierarchical scaling without linear perspective; overlap indicates spatial relations"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Animal symbolism",
+        "Death and decay",
+        "Moral instruction"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Primary Scene Analysis: A single hyena dominates the left foreground, its body rendered in pinkish-brown tones, crouching over a nude corpse with visible rib cage reclining on a green bier. The beast’s muzzle contacts the corpse’s jaw, suggesting consumption. Behind the pair stands a stylized tree with scalloped green foliage against a gold leaf backdrop. To the right, a detailed Gothic church facade with pinnacled gables, chevron-patterned spire, and quatrefoil windows occupies the midground. Spatial Organization: The scene is bisected left–right between organic (animal, corpse, tree) and architectural elements. The hyena and corpse are slightly larger in scale, emphasizing the violent action. Depth is shallow, achieved through overlap. Costume and Equipment Details: The corpse is nude, wrapped only by subtle drapery folds; no live human figures wear garments. The bier is green with a patterned cushion. Secondary Elements: Frame consists of red and blue ruled lines. Gold background symbolizes the sepulchral context. The church may represent a sacred sepulchre. Compositional Focus: The interlocked hyena and corpse form the visual nucleus, with supporting architecture and tree providing contextual anchors."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "hyena representing vice or moral corruption"
+        ]
+      },
+      "objects": [
+        "bier"
+      ],
+      "architectural": [
+        "Gothic church facade with chevron spire and pinnacles"
+      ],
+      "natural": [
+        "tree"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth, hair-side surface prepared by fine scraping and pumicing, consistent parchment thickness",
+      "preservation_condition": "Excellent overall; pigments vivid with minimal flaking, slight darkening of lead white, gold leaf well-adhered",
+      "notable_physical_characteristics": [
+        "Burnished gesso under gold leaf",
+        "Visible underdrawing beneath architecture",
+        "Regular ruling lines faintly visible",
+        "Raised gesso relief in border areas",
+        "Shell gold accents on pinnacles"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for moralizing preaching",
+        "Display of patron’s learning"
+      ],
+      "intended_audience": "Monastic community or educated clergy"
+    },
+    "scholarly_interpretation": "This miniature likely originates from a mid-13th-century bestiary produced in a northern French workshop, reflecting the era’s fusion of natural history and moral allegory. The Parisian influence is evident in the refined Gothic micro-architecture and the rich burnished gold background, techniques that underscore the manuscript’s luxurious execution and intended ecclesiastical audience. The stylized portrayal of the hyena devouring a corpse illustrates the bestiary’s didactic purpose: to warn against spiritual corruption by equating vice with an animal’s destructive appetite. The juxtaposition of living animal and inert human form, set against a church-like shrine, creates a visual paradox—nature’s brutality intruding upon sacred space—emphasizing the moral lesson. Technically, the use of ultramarine, a costly pigment, alongside vibrant vermilion and verdigris, demonstrates advanced workshop resources and layered pigment application for depth. The composition balances organic and architectural elements through diagonal and vertical axes, while the four-leaf motif and scalloped tree echo manuscript ornamentation of the period. Comparatively, this illumination shares characteristics with other thirteenth-century bestiaries in the British Library, yet its architectural precision and hierarchical scaling suggest cross-channel artistic exchange. Overall, the image exemplifies a sophisticated integration of moralizing iconography, Gothic stylistic vocabulary, and learned commentary on the natural world."
+  }
+}

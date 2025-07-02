@@ -1,0 +1,149 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Decorated initial letter",
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text above a full-width rectangular miniature at the foot of the page; two ornamental initials in gold and blue interrupt the text; wide blank margins",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura rotunda, professional book hand with red rubrics, frequent abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "burnished gold leaf",
+          "verdigris green",
+          "yellow ochre",
+          "white highlights"
+        ],
+        "color_usage": "Gold leaf frames the miniature and highlights holy figures; ultramarine blue marks principal robes; red provides secondary contrast; green accents in landscape; white used for highlights; warm and cool colors balanced; pigments well-preserved with minimal fading"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Side-by-side panel layout",
+          "Central dividing architectural arch",
+          "Directional flow from left to right",
+          "Hierarchical figure sizing",
+          "Use of architectural setting to structure narrative"
+        ]
+      },
+      "decorative_elements": [
+        "Ornamental initials with gold and blue grounds",
+        "Gold frame around miniature",
+        "Micro-architectural arch dividing panels"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown-ink underdrawing with bold outer contours and fluid penwork",
+        "shading_method": "Minimal hatching, color layering with white highlights for volume",
+        "perspective_handling": "Hierarchical perspective without true vanishing point, depth suggested by overlapping figures and architecture"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "martyre",
+        "persecution",
+        "religious intervention",
+        "miracle"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left panel first",
+          "Right panel second"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left panel",
+            "subject": "Ecclesiastical judgment/intervention: bishop in mitre with attendant elders overseeing a condemned man",
+            "relationship_to_next": "Text and gestures anticipate the execution carried out in the next scene",
+            "visual_connections": [
+              "Architectural floor pattern continues toward right",
+              "Ultramarine robe echo in right-panel saint’s mantle",
+              "Gestures of bishop direct gaze toward right panel",
+              "Gold frame unifies both panels"
+            ]
+          },
+          {
+            "position": "Right panel",
+            "subject": "Martyrdom of a kneeling female saint struck by executioners",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Red garments repeated from left panel",
+              "Continuity of gold halo and border",
+              "Staff/sword motif carried over",
+              "Architectural column edge relates to rocky outcrop"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Gold border unifies panels",
+          "Alternating ultramarine and red garments",
+          "Repeating staff motif",
+          "Consistent figure scale",
+          "Shared architectural arch motif"
+        ]
+      },
+      "scene_description": "Left panel: Within a vaulted stone interior with yellow tessellated floor lie six figures. A bishop in ultramarine robe and white mitre stands centrally, gesturing toward a prostrate man in red tunic, arms flung back. A grey-robed attendant steps upon the condemned, while two elders—one in green holding a closed book, one in red—observe. A scribe at left writes at a desk under sculpted reliefs. Figures overlap to indicate depth; the bishop and attendant occupy the foreground.\nRight panel: Set against a rocky exterior, three men in red, blue and brown robes stand behind a kneeling female saint in a deep blue mantle and white veil, hands clasped. One executioner grasps her arm, another in brown raises a club. A distant hilltop town is visible. The saint’s golden halo contrasts with the violent act. Both scenes share a common gold border and compositional balance."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Bishop with mitre and nimbus",
+          "Female martyr with golden halo"
+        ],
+        "secular": [
+          "Grey-robed attendant",
+          "Prostrate condemned man in red",
+          "Two elders in green and red robes",
+          "Three executioners in varied tunics"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Closed book",
+        "Sword",
+        "Club",
+        "Staff"
+      ],
+      "architectural": [
+        "Arcaded interior with rounded arches and columns",
+        "Central ribbed micro-architectural arch",
+        "Desk and relief sculpture niche"
+      ],
+      "natural": [
+        "Rocky outcrop",
+        "Sparse bushes",
+        "Distant town skyline"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, uniformly thin and smooth, with visible plummet ruling and finely scraped surface",
+      "preservation_condition": "Good overall; vibrant pigments with minimal oxidation, slight surface abrasion at edges, gold leaf intact",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under UV",
+        "Raised gesso beneath gold leaf",
+        "Regular ruling marks from lead point"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for preaching",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual patron"
+    },
+    "scholarly_interpretation": "This page, likely from a 15th-century French hagiographic compilation, reflects the monastic workshop tradition of illuminated saint’s lives. The careful use of ultramarine and burnished gold indicates a high-status commission, perhaps for a noble patron’s private devotion, while the Gothic textura rotunda script and red rubrication demonstrate professional execution. The sequential two-panel miniature narrates a miracle and subsequent martyrdom, framed by micro-architectural elements that echo contemporary church interiors. Underdrawing visible under UV and raised gesso attest to sophisticated material techniques. Iconographically, the bishop’s intervention prefigures divine justice, while the female martyr exemplifies steadfast faith under persecution, reinforcing moral exemplarity. Stylistically, the work balances hierarchical figure sizing with early attempts at depth through overlapping and floor patterning, characteristic of late Gothic spatial experimentation. Comparatively, its palette and architectural framing relate closely to other manuscripts from the Parisian school, though the rotunda script suggests a provincial scriptorium influenced by courtly models. As a didactic and devotional object, the page bridges theological instruction and aesthetic display, embodying the era’s intertwining of religious pedagogy and visual splendor."
+  }
+}

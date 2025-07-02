@@ -1,0 +1,107 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-page miniature centrally placed within a simple red frame, with a Latin title inscribed immediately above the frame and a two-line descriptive caption directly below. The image is independent of the surrounding text block, with no integration of text around the painted scene.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic bookhand with regular textura letterforms, professional execution, clear use of standard abbreviations and occasional ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermilion red",
+          "leaf green",
+          "yellow ochre",
+          "brown earth tones",
+          "flesh pink"
+        ],
+        "color_usage": "Local naturalistic palette: vermilion highlights on clothing and border frame emphasize figures and boundary; greens dominate vegetation; yellow ochre denotes flower clusters and blond hair; brown used for tree trunk and ground; flat washes with crisp outlines and minimal shading create clear silhouette forms."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "central fruit-bearing tree dividing the scene",
+          "two figures balanced on left and right of tree",
+          "horizontal groundline anchoring figures and plants",
+          "even negative space on either side"
+        ]
+      },
+      "decorative_elements": [
+        "plain vermilion border frame"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill-pen outlines in dark brown ink, consistent weight with delicate internal detail",
+        "shading_method": "Flat color washes with slight tonal variation in foliage; minimal hatchwork or gradient",
+        "perspective_handling": "Flat spatial arrangement on a single ground plane; no linear perspective or receding orthogonals; tree and figures uniformly scaled"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "agriculture",
+        "educational content",
+        "medicinal plants"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "This single agricultural scene shows two male figures harvesting a rosette-leafed medicinal plant in a walled garden setting. A large central tree with a straight trunk and dense green canopy—bearing small red fruits—divides the composition. To the left, a standing figure in a long vermilion gown and matching chaperon holds freshly cut leaves in his right hand and a slender staff in his left. His gown falls to reveal brown shoes. To the right, a second man in a knee-length pink tunic and red hose bends forward at the waist, plucking a yellow-flowered rosette from the ground-level herb. The ground is rendered in ochre and brown, punctuated by truncated stumps in the foreground. The scene is enclosed by a simple red border. Below the miniature, a two-line Latin caption identifies the plant and its medicinal qualities, directly linking visual depiction to text. The interplay of image and caption serves as a visual-textual gloss: the painted details of leaf shape, flower clusters, and harvesting gesture reinforce the botanical description. The red frame echoes the rubricated title above, creating a visual hierarchy that guides the reader from title to image to explanatory text."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Left figure wearing a long vermilion gown and matching chaperon, holding plant stalk and staff",
+          "Right figure in pink tunic and red hose, bending to harvest yellow-flowered rosette"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "central fruit-bearing tree with dense foliage",
+        "medicinal herb plants with rosettes of leaves and yellow flowers",
+        "background shrub on right"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin parchment (vellum), uniformly prepared and very smooth; single-leaf gatherings ruled in plummet; margins consistent at approximately 2 cm",
+      "preservation_condition": "Overall excellent: pigments vibrant with minimal flaking; slight cockling at lower corners; red border retains strong color; minor discoloration of ochre in ground area",
+      "notable_physical_characteristics": [
+        "Visible underdrawing in brown ink beneath foliage",
+        "Fine plummet ruling lines faintly visible under paint",
+        "Flat brush-applied color washes with subtle stroke marks in drapery folds",
+        "No raised gesso or gold leaf present"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for medicinal plant identification"
+      ],
+      "intended_audience": "Medical practitioners and learned scholars"
+    },
+    "scholarly_interpretation": "This late medieval herbal illustration combines practical botanical instruction with clear visual design typical of a university-style manuscript produced in a professional workshop circa 1400–1450. The symmetry of the composition, with a central fruiting tree flanked by two laboring figures, reflects the structured pedagogical aims of such manuals, while the precise delineation of leaf rosettes and flower clusters evidences an empirical approach to plant identification. The use of a limited yet vivid palette—vermilion, green, ochre—emphasizes the most diagnostically important elements of the species, supporting quick reference by apothecaries. The absence of gilding and the restrained decorative frame suggest a focus on utility over luxury, aligning with the text’s didactic purpose. The Gothic textura script in the caption and title ties the painted content directly to the Latin medical treatise, creating an integrated visual-textual tool. In iconographic terms, the scene omits religious symbolism, underscoring the secular, scientific character of the work. Comparisons with contemporary herbals reveal similar layouts and color conventions, pointing to widespread workshop practices in central Europe. This page thus exemplifies the intersection of art and science in medieval manuscript culture, where careful observation, clear composition, and skilled execution converge to serve the growing demand for accurate medical knowledge."
+  }
+}

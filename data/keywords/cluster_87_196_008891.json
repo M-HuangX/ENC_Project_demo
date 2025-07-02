@@ -1,0 +1,22 @@
+{
+  "ocr_results": {
+    "original_text": "texte illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arbre de vie",
+      "architecture",
+      "tente",
+      "végétation"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

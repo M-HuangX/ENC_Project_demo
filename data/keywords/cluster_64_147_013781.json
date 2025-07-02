@@ -1,0 +1,24 @@
+{
+  "ocr_results": {
+    "original_text": "malla magnia et aduulauione natha gen\n\nlime nt bene et fulla regia et\neuhe et alla lingua in agecum\nuno otia et puruta la loria teneat staid benten benetium\n\nla regia stc\nlime nt bene et fulla regia pec\neuhe et sulia toge inudr et cum\nuno otia et puruta la loria teneat staid benten benetium f\n\neuhe et alla large citae bene omi otia eceto saero in auueges suguia uenitir\nrimo votum autum uentem stumgeti et stral balrum endres\n\npolli aun trix",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages",
+      "plante",
+      "coupe",
+      "vêtements",
+      "architecture",
+      "geste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

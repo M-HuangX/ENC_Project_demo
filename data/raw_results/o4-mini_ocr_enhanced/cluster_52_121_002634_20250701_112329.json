@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "filename": "cluster_52_121_002634.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:23:29.756348",
+    "image_size": 288703
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "manuscript page with marginal illustrations",
+        "standalone illustration"
+      ],
+      "layout_style": "Four narrow columns of text under a continuous multi-arched arcade; a prominent decorated arch at top with capitals, surmounted by evangelist symbols on a blue ground; wide floral borders enclosing the page; visual hierarchy emphasizes the arch and symbols at top, text subordinate below",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Caroline minuscule with rubricated headings and red-ink canon numbers, professional book hand with regular ruling"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "burnished gold leaf",
+          "vermilion red",
+          "verdigris green",
+          "pink organic lake",
+          "white lead highlights"
+        ],
+        "color_usage": "Gold leaf used for the arch mouldings and border ground, ultramarine for the background behind evangelist symbols; red pigment forms the column shafts and rubrication; green and pink fill the acanthus border; white highlights model details; overall strong contrasts emphasize hierarchy—blue and gold reserved for sacred symbols, red for structural elements"
+      },
+      "composition": {
+        "type": "symmetrical",
+        "features": [
+          "four evenly spaced columns supporting three interior arches and one continuous outer arch",
+          "central evangelist symbol (winged lion) flanked by others in perfect bilateral balance",
+          "matching foliate scroll birds at upper left and right in the border",
+          "border scroll echoing column decoration in color palette",
+          "visual axis running vertically through central arch and column"
+        ]
+      },
+      "decorative_elements": [
+        "acanthus leaf and palmette border scroll with gold bezants",
+        "micro-architectural capitals with foliate motifs",
+        "chevron and bead-and-reel patterns on arch mouldings",
+        "stylized eagle heads in spandrels",
+        "punchwork decoration under gold leaf"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines of varying weight, crisp and confident, with internal filigree detailing on columns and capitals",
+        "shading_method": "Flat color fields with minimal tonal gradation, white lead highlights on gold surfaces and pattern edges",
+        "perspective_handling": "Hierarchical scaling of the arch and symbols, no attempt at linear perspective, depth suggested by overlapping arches and column bases"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "liturgical",
+      "sub_themes": [
+        "symbolic elements",
+        "devotional aids",
+        "organisational structure"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "At the top center, a winged lion (symbol of Saint Mark) occupies the apex of a grand tri-lobed arch, holding a scroll inscribed 'SECUNDUS'. To its left, a winged angel (symbol of Saint Matthew) gestures toward the scroll; to its right, a winged ox (symbol of Saint Luke) similarly supports the arch. Two stylized eagles (symbols of Saint John) appear in the upper margin spandrels, facing inward. Beneath, four slender columns with red penwork shafts and green-and-gold Corinthian-like capitals support the arcade. Each column base rests on a stepped plinth. Between the columns lie four narrow text columns listing Eusebian canon numbers in black ink, with red ink rubrics at the top of each text block. The page is framed by a wide border of interlaced acanthus leaves and palmettes in green, pink, and gold. Spatially, the large arch dominates the upper third; text occupies the lower two thirds in precise alignment. Costume details are absent; instead, focus is on symbolic creatures. The interplay of scroll, figures, and architecture directs the viewer’s eye from the central lion outward symmetrically."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "winged angel representing Matthew",
+          "winged lion representing Mark",
+          "winged ox representing Luke",
+          "stylized eagles representing John"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "evangelist symbols as hybrid creatures supporting the arch"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "round arches with chevron moulding",
+        "columns with foliated Corinthian-like capitals",
+        "stepped column bases",
+        "micro-architectural arcade frame"
+      ],
+      "natural": [
+        "acanthus leaf border scroll",
+        "stylized birds (eagles) in spandrels"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth parchment with faint hair follicle pattern, regular quaternion gathering, written area approx. 24×16 cm",
+      "preservation_condition": "Pigments remain vivid with minimal flaking, slight cockling at folio edges, minor darkening of red pigment, one small modern repair at lower margin",
+      "notable_physical_characteristics": [
+        "raised gesso layer supporting gold leaf in border and arch",
+        "visible underdrawing in brown ink beneath foliate scroll",
+        "regular plummet ruling grid evident under UV",
+        "punchwork pattern impressed into gesso beneath gold surfaces"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "liturgical use",
+      "secondary_functions": [
+        "memory aid for Gospel cross-referencing",
+        "display of patron or workshop prestige",
+        "organizational tool for lectionary readings"
+      ],
+      "intended_audience": "monastic clergy or cathedral chapter using the Gospel book in liturgical readings"
+    },
+    "scholarly_interpretation": "This folio exemplifies the Eusebian canon table tradition, likely produced in a high-status scriptoria in the late 11th or early 12th century. The combination of classical arch motifs with richly gilded foliate ornament reflects the Ottonian-early Romanesque revival of architectural forms in illumination. The balanced, symmetrical arrangement of the four columns and the central lion of Mark underlines the theological importance of Christ's witness through the Gospels. The use of ultramarine and burnished gold leaf for the arch background signifies sacred space, while the red penwork shafts and green-and-pink borders demonstrate advanced pigment layering techniques and a cosmopolitan color palette. The precision of the Caroline minuscule script, paired with rubrication, reveals a professional hand aimed at clarity for liturgical use. Iconographically, the evangelist symbols provide immediate visual identification, supporting quick reference during readings. Comparatively, this table shares stylistic affinities with the Winchester Bible's canon tables and the Gospel Book of Otto III, yet its punchwork and acanthus scroll border suggest a localized workshop influence. The manuscript bridges traditional Eusebian organizational programs with innovative decorative treatments, marking a transitional moment in medieval illumination where classical architectural motifs were reinterpreted in portable painted form."
+  }
+}

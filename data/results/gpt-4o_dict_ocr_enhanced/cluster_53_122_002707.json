@@ -1,0 +1,102 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence",
+        "text-surrounded imagery"
+      ],
+      "layout_style": "single column with a central illustration surrounded by a narrative text",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermillion red",
+          "ultramarine blue",
+          "leaf green",
+          "gold leaf"
+        ],
+        "color_usage": "Red and blue are prominently featured in drapery, while green is used for landscape. Gold leaf highlights the divine aureole."
+      },
+      "composition": {
+        "type": "centralized",
+        "features": [
+          "main subject in center",
+          "surrounding figures in hierarchical arrangement",
+          "circular movement around central figure"
+        ]
+      },
+      "decorative_elements": [
+        "thin red border outline around the scene"
+      ],
+      "drawing_technique": {
+        "line_style": "fluid pen work with consistent line weight",
+        "shading_method": "minimal shading using color blocks",
+        "perspective_handling": "hierarchical scaling without linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miracles of Christ",
+        "faith and healing"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Central scene depicting Christ healing a woman with an issue of blood. Christ is accompanied by apostles, with distinctive halos and robes. The woman is depicted crouching and reaching towards Christ's garment. Figures are adorned in contrasting bright colors, with distinct sculptural drapery folds."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with halo and distinguishing hand gesture",
+          "apostles with identifying halos"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "rolling hills with stylized flowers in the foreground"
+      ]
+    },
+    "technical_features": {
+      "material": "premium parchment with smooth surface",
+      "preservation_condition": "vivid pigments well-preserved with slight surface wear",
+      "notable_physical_characteristics": [
+        "layered pigment application",
+        "visible fine brushwork in facial features"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Religious illustration",
+      "secondary_functions": [
+        "educational tool for understanding biblical narratives",
+        "devotional aid emphasizing faith and healing"
+      ],
+      "intended_audience": "monastic community or educated laypeople"
+    },
+    "scholarly_interpretation": "This manuscript illustration depicts the biblical scene of Christ healing a woman with an issue of blood, a theme highlighting faith and healing. Created within a religious context, this piece most likely served both a didactic and devotional function, educating viewers on biblical miracles while reflecting theological values. The use of vibrant vermillion red and ultramarine blue indicates a high-quality manuscript, with pigments characteristic of precious and prestigious works. The focused composition, with Christ at the center surrounded by apostles, demonstrates a hierarchical and centralized layout typical in medieval religious art. The Gothic script and stylized drapery also suggest a 13th-century production, possibly aligned with monastic scriptoria known for their refined workmanship. The biblical narrative is visually enhanced by the integration of Latin inscriptions, which guide the viewer's understanding of the scene. Overall, this illustration is a testament to the rich interplay between text and image, serving both a liturgical and educational purpose within its historical context."
+  }
+}

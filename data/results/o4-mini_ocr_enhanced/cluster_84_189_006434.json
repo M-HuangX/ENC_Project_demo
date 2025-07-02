@@ -1,0 +1,123 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text with a full-width inset miniature framed by a burnished gold border; rubricated caption in red ink directly below the image; text blocks appear above and below the miniature, with minimal marginal decoration.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textualis (lettres bâtardes) in black ink with red rubrication; professional book hand with elongated minims, frequent use of medieval abbreviations, and precise line justification on plummet-ruled lines."
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "lead white",
+          "vermillion red",
+          "verdigris green",
+          "burnished gold leaf",
+          "brown ochre"
+        ],
+        "color_usage": "Gold leaf reserved for border and harness ornamentation; ultramarine blue used for horse caparisons and sky; layered white highlights on horses and armor edges; red applied selectively to robes and rubric; green for foliage in background; pigments exceptionally well-preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Diagonal thrust from lower left horse toward upper right knights",
+          "Overlapping figures for depth",
+          "Foreground white horse leading action",
+          "Background hills and stylized trees framing central group",
+          "Balancing red- and green-robed attendants at right"
+        ]
+      },
+      "decorative_elements": [
+        "Burnished gold border framing miniature",
+        "Red rubric caption beneath image",
+        "Blue and gold ornamental initial at text resumption",
+        "Fine gilt line separating text and image"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen outlines with varying weight to delineate armor plates and horse musculature",
+        "shading_method": "Fine parallel hatching and white pigment highlights on drapery and metal",
+        "perspective_handling": "Hierarchical scaling with depth achieved by overlapping figures and diminishing background elements, no strict linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "chivalric martial ethos",
+        "political alliance",
+        "classical epic reference",
+        "courtly valor"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single battle scene depicting Pantheslee and knights coming to aid King Priamus. In the foreground, a knight in full plate armor rides a prancing white horse draped in blue and gold harness; he holds reins in one hand and readies a sword with the other. To his right, a second armored rider leans forward on a brown horse, grasping a lance aimed toward unseen foes. Both wear bascinet helmets with visors and articulated plate armor on arms and legs, detailed with gold accents. Behind them stand three helmeted retinues holding spears and a crowned figure in a red robe alongside an attendant in green, both wearing padded chaperons. The ground is a grassy field punctuated by tufts, small stylized bushes cluster at lower right, and rolling ochre hills with simplified trees form the background. Figures overlap to suggest depth, with larger knights in front and smaller attendants behind. No architectural elements are present."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Knight in full plate armor on white horse with blue and gold harness",
+          "Knight in full plate raising sword on brown horse",
+          "Three helmeted spearmen in plate armor",
+          "Crowned noble in red robe with ermine trim",
+          "Attendant in green robe and chaperon"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "swords",
+        "lances",
+        "helmets",
+        "horse harness ornamented with gold leaf"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized trees with spherical green foliage",
+        "Clusters of small bushes",
+        "Grass tufts on field",
+        "Rolling hills in ochre"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniformly prepared surface; evidence of careful scraping and pumicing; plummet rulings faintly visible.",
+      "preservation_condition": "Vivid color preservation with minimal pigment loss; slight flaking of vermillion in spots; modern conservation stabilization noted at lower margin.",
+      "notable_physical_characteristics": [
+        "Raised gesso underlayer beneath gold leaf shows slight relief",
+        "Confident underdrawing visible under UV light",
+        "Layered brush strokes in drapery folds",
+        "Punch-work tooling in gold border forming diamond pattern",
+        "Precise plummet ruling alignment for text and image"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron's status",
+        "Memory aid for chivalric narratives",
+        "Visual supplement to text"
+      ],
+      "intended_audience": "Individual noble patron"
+    },
+    "scholarly_interpretation": "This miniature, set within an Old French romance text, reflects the mature International Gothic style of the mid-15th century, likely produced in a court workshop influenced by Parisian illuminators. The emphasis on lapidary detail—burnished gold leaf, ultramarine lake, and fine hatching—demonstrates both the high cost of materials and the technical skill of the artists. The scene’s focus on chivalric aid to a besieged king aligns with contemporary noble values, reinforcing the manuscript’s function as entertainment and moral exemplar for its patron. The lack of strict perspective but effective use of overlapping figures situates this work within the Gothic pictorial tradition, while the stylized landscape and hierarchical scaling reveal conventions inherited from earlier 14th-century prototypes. Iconographically, the depiction of kings and knights in full plate armor visually asserts authority and martial virtue, echoing political messages of loyalty and fealty central to feudal society. Comparatively, the miniature shares compositional affinities with the Roman de Troie copies commissioned under French royal patronage, yet its brighter palette and more sculptural modeling suggest influence from the Burgundian court’s taste. This manuscript thus occupies a nexus between tradition and innovation, serving both as a luxurious object of display and a pedagogical tool in the chivalric education of its noble owner."
+  }
+}

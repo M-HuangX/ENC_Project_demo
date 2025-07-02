@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single framed image occupying upper two-thirds of the folio, with a single column of text beneath. The illustration is set within a simple red line border. The text block is centered under the image, creating a clear visual hierarchy with image on top and explanatory caption-text below. Wide blank margins surround the composition, emphasizing the central image and isolating text from decorative distractions.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin (medieval herbal commentary)",
+        "script_style": "Gothic rotunda book hand with regular letterforms, slight angularity on ascenders and descenders, consistent use of common medieval abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "red ochre wash",
+          "blue azurite",
+          "verdigris green",
+          "brown iron-gall ink",
+          "lead white"
+        ],
+        "color_usage": "Red ochre frames the scene and colors the apothecary’s red robe and the building’s interior ceiling. Blue azurite highlights the customer’s cloak, denoting status. Green verdigris appears in one of the hanging vessels to differentiate materials. Brown ink provides structural outlines and underdrawing. White lead is used for highlights on drapery folds and architectural elements. The limited palette emphasizes functional clarity over lavish decoration; pigments remain well-preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Architectural frame forming a rectangular proscenium",
+          "Horizontal counter dividing foreground and background",
+          "Interaction between two figures at center",
+          "Symmetrical placement of slender columns at left and right",
+          "Hanging vessels aligned on a single horizontal rung behind the apothecary"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red line border framing entire scene",
+        "Grid-patterned window on right wall",
+        "Battlement-style motif on roof parapet",
+        "Stack of packages rendered as plain white blocks at left"
+      ],
+      "drawing_technique": {
+        "line_style": "Thin, fluid brown ink outlines with slight variation in line weight; quill pen work visible in consistent strokes",
+        "shading_method": "Flat monochrome washes for volume, with limited use of darker wash in recesses; white highlights added over colored washes",
+        "perspective_handling": "Rudimentary oblique perspective: orthogonal roof and counter lines create depth but lack a single vanishing point; overlapping elements indicate spatial relationships"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "medicinal practice",
+        "apothecary commerce",
+        "medical instruction"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The illustration shows a single interior scene of an apothecary’s shop. Two figures occupy the composition: on the left, an apothecary in a red robe and white turban sits or stands behind a low wooden counter. He holds a vessel or mortar in his left hand and extends a small container to the visitor with his right. Behind him, a horizontal beam supports three hanging vessels—two red and one green—each tied to the beam by cords, indicating storage of different materials. To the left of the apothecary are stacked white packages or folded papers. On the right side stands a customer draped in a long blue cloak over a white undergarment, right hand extended to receive the item, left hand resting at his side. The setting is defined by two slender columns at the foreground corners and an open archway forming the shopfront. Above, a simple pitched roof with crenelated parapet is depicted in red wash, and a small grid-window pierced in the right wall admits light. The plain floor and minimal background focus attention on the transactional exchange. Secondary decorative emphasis is provided by the red line border around the image, reinforcing the central action without distracting from the depiction of medicinal commerce and practice."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Apothecary in red robe and white turban, seated/standing behind counter, handling medicinal vessel",
+          "Customer in blue cloak over white tunic, standing to right, receiving container"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Mortar and pestle held by apothecary",
+        "Hanging vessels (two red, one green)",
+        "Stack of white packages or folded papers",
+        "Wooden counter"
+      ],
+      "architectural": [
+        "Open-fronted apothecary shop",
+        "Two slender columns supporting roof",
+        "Horizontal beam with battlement motif",
+        "Grid-patterned window"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum with smooth, well-pumiced surface; faint horizontal ruling visible beneath ink",
+      "preservation_condition": "Overall excellent: pigments remain vibrant, minimal pigment flaking. Slight darkening of brown ink in outlines. Edges of folio show light handling wear but no tears.",
+      "notable_physical_characteristics": [
+        "Visible ruling lines guiding text and image placement",
+        "Iron-gall ink underdrawing detectable under close inspection",
+        "Wash application technique with even strokes in drapery",
+        "Red lead framing line raised slightly above surface",
+        "No evidence of later retouching"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Practical instruction for apothecaries",
+        "Aide-mémoire in medicinal workshop"
+      ],
+      "intended_audience": "Medical practitioners and apothecaries"
+    },
+    "scholarly_interpretation": "This single-folio illustration derives from a late medieval herbal or pharmacological manual, likely produced in a specialized workshop in northern Italy or southern France c. 1450–1475. Its clear, functional depiction of an apothecary shop aligns with the growing emphasis on practical medical knowledge in urban centers during the fifteenth century. The use of a limited palette—red ochre, azurite blue, verdigris green—reflects cost-efficient pigment choices in didactic manuscripts, while the application of flat washes and restrained line drawing denotes a utilitarian rather than courtly luxury style. The Gothic rotunda hand indicates a professional scriptorium accustomed to scientific and medical texts. Iconographically, the scene foregrounds the hands-on exchange of materia, underscoring the apothecary’s role as both craftsman and merchant. The architectural framing with simple columns and crenellated parapet situates the shop within recognizable urban built form, echoing contemporary civic architecture. In its comparative context, this image shares compositional clarity with chapters in the Tacuinum Sanitatis and other late medieval health guides, yet its direct focus on the act of dispensing musk speaks to a narrower pharmacological scope. The manuscript thus bridges textual prescription and visual demonstration, exemplifying the period’s integration of image and instruction in scientific literature."
+  }
+}

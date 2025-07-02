@@ -1,0 +1,22 @@
+{
+  "ocr_results": {
+    "original_text": "A li se fut bon aaidour\nC ae dou mal sein ne puet aaidour\nP dieu chastiis li si aaidour deliivre a\nqu de fame loz nuit acide lou don del\n",
+    "modern_french_text": "Il lui fut bon aideur\nCar de mal sain ne peut aideur\nPar Dieu châtiés il se aideur délivre à\nQue de femme loue nuit accorde le don d'elle\n"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "église",
+      "chrétien",
+      "femme"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

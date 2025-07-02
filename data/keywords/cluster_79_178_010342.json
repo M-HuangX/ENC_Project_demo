@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "MARCVS, LVCAS, IOHANNES, MATHEVS",
+    "modern_french_text": "Marc, Luc, Jean, Matthieu"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christ en gloire tenant le livre",
+      "évangélistes-4 zoomorphes et anges",
+      "aigle",
+      "lion ailé",
+      "bœuf ailé",
+      "homme ailé"
+    ],
+    "elements_textuels": [
+      "évangéliste",
+      "livre"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 2,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

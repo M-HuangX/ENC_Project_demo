@@ -1,0 +1,26 @@
+{
+  "ocr_results": {
+    "original_text": "Les litanies sont faites deux fois l'an en la fête de sainte Marte et celle est dite ce nommée La graisseuse litanie. Elle est aussi faite que trois jours routiers devant la fête non nostre seigneur et est celle nommée la mineure litanie laquelle vault au tant a dire comme supplication ou requeste. La premiere litanie est appellee triple car elle est premiereement dite la graisseuse litanie. Secondement elle est dite procession & sept formes. Et tiercement elle est dite les nousse croire. Elle est dite la graisseuse litanie pour trois causes et raisons la premiere est pour la raison de celui qui l'estage et fit le taunie apres ce que La cite Rionne Secondement pour la raison du lieu ou elle fut establie Le quel lieu fut a Rionne",
+    "modern_french_text": "Les litanies sont faites deux fois l'an en la fête de sainte Marthe et celle est dite nommée la grande litanie. Elle est aussi faite que trois jours avant la fête de Notre Seigneur et est celle nommée la mineure litanie. Laquelle signifie autant que dire supplication ou requête. La première litanie est appelée triple car elle est premièrement dite la grande litanie. Secondement elle est dite procession et sept formes. Et enfin elle est dite le nouveau credo. Elle est dite la grande litanie pour trois causes et raisons : la première est pour la raison de celui qui l'institua après que la cité de Rome. Deuxièmement pour la raison du lieu où elle fut établie, lequel lieu fut à Rome."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "prêtre",
+      "église",
+      "vitrail",
+      "architecture",
+      "personnage debout"
+    ],
+    "elements_textuels": [
+      "sainte Marte",
+      "supplication"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 2,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

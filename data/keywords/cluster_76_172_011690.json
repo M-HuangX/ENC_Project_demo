@@ -1,0 +1,35 @@
+{
+  "ocr_results": {
+    "original_text": "Et route des danois ou tant a de biaute fait figure estraisse vaines figure expecues precieuses lue tiel\non tenteur unuel fosctieusement ouure etc.",
+    "modern_french_text": "Et route des Danois où tant a de beauté fait figure extraordinaire figures précieuses."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "danseur",
+      "armure",
+      "cheval",
+      "armes",
+      "oiseau",
+      "arc",
+      "écran"
+    ],
+    "elements_textuels": [
+      "bataille",
+      "chanter",
+      "musique",
+      "poème",
+      "les lois",
+      "prêcher",
+      "paysans",
+      "salut"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 8,
+    "total_identified": 16,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ocr_results": {
+    "original_text": "scripsisti meae ad episcopum pro Satira...",
+    "modern_french_text": "tu as écrit à mon évêque à propos de Satire..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "scribe",
+      "personnage assis",
+      "manuscrit",
+      "livre",
+      "robe",
+      "barbe",
+      "chapeau",
+      "geste",
+      "architecture"
+    ],
+    "elements_textuels": [
+      "écriture"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 1,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

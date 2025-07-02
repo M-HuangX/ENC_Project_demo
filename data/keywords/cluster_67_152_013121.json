@@ -1,0 +1,26 @@
+{
+  "ocr_results": {
+    "original_text": "Cilz a predeclame Anecune et conssellamnt - dreessun e Disciplime. De lur pecheez lur ser meclame,\nElz se Sant dune. C'aire unte lur crevur-difme. Despur ad este decolame-sanz mereflume et Amise.",
+    "modern_french_text": "Celui qui a prêché avec conseil et discipline. De leurs péchés leur s'estre méclame,\nIls se sont donné. Après avoir leur créature affirmée, depuis a été décollé sans merci et amis."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages",
+      "architecture",
+      "vêtements",
+      "gestes",
+      "balance",
+      "scène de jugement"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe du panetier"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

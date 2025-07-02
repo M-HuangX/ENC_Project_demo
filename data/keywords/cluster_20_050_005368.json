@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "et hic: transierunt: flumen\nhic: harold: dux\n...",
+    "modern_french_text": "et ici : ils traversèrent le fleuve\nici : harold : dux\n..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "rivière",
+      "personnage debout",
+      "architecture",
+      "armure",
+      "bannière",
+      "armement",
+      "équipement militaire",
+      "geste",
+      "animal terrestre"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

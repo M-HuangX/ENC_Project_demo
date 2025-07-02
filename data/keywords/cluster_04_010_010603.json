@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "vierge à l'enfant",
+      "architecture",
+      "personnage debout",
+      "ange",
+      "personnage barbu",
+      "couronne",
+      "cierge",
+      "saint joseph",
+      "église-interieur",
+      "manteau"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

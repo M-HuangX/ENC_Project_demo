@@ -1,0 +1,172 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two horizontal registers each divided into two framed narrative scenes by colored fillets; text inscribed directly within upper panels and between registers; overall grid‐like organization (2×2) with consistent ground line unifying all scenes",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis quadrata with red rubrics and blue glosses"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "azurite blue",
+          "vermillion red",
+          "verdigris green",
+          "lead white",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Gold leaf reserved for halos; ultramarine‐toned draperies mark divine figures; red applied to garments and rubricated text for emphasis; green used sparingly in lower drapery; white highlights layered over washes to model folds; pigments well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two registers divided by a red horizontal rule",
+          "Individual scenes separated by vertical colored bars",
+          "Ground line running through all panels for visual unity",
+          "Figures oriented inward to guide reading order"
+        ]
+      },
+      "decorative_elements": [
+        "Thin red and blue ruled border enclosing the page",
+        "Gothic micro-architectural framing in lower right scene",
+        "Colored fillets separating individual panels"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines of varying weight in brown iron gall ink",
+        "shading_method": "Light wash shading with subtle hatching in drapery folds",
+        "perspective_handling": "Hierarchical scaling of figures, overlapping for depth, no use of linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 4,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "apostolic preaching",
+        "divine instruction",
+        "judgment imagery",
+        "architectural symbolism"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Top left",
+          "Top right",
+          "Bottom left",
+          "Bottom right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Top left",
+            "subject": "Christ receives offerings from three disciples",
+            "relationship_to_next": "Christ’s gesture carries to next panel’s teaching",
+            "visual_connections": [
+              "Blue robe of Christ repeated",
+              "Red halo rim echoed",
+              "Ground line continuous",
+              "Frame color matches next bar",
+              "Christ’s hand points right"
+            ]
+          },
+          {
+            "position": "Top right",
+            "subject": "Christ instructs two skeptical figures",
+            "relationship_to_next": "Teaching leads to larger audience below",
+            "visual_connections": [
+              "Red garment echoes top left",
+              "Halo gold consistent",
+              "Vertical fillet color matches horizontal rule",
+              "Gesture direction continues downward",
+              "Ground plane unbroken"
+            ]
+          },
+          {
+            "position": "Bottom left",
+            "subject": "Christ debates a group of Pharisees and first follower kneels",
+            "relationship_to_next": "Raises hand pointing toward building scene",
+            "visual_connections": [
+              "Green drapery hue reprises top scenes",
+              "Red text band above links to rubrics",
+              "Gesture leads viewer to right",
+              "Ground wave identical",
+              "Faces oriented toward lower right"
+            ]
+          },
+          {
+            "position": "Bottom right",
+            "subject": "Architectural collapse with figure falling inside Gothic frame",
+            "relationship_to_next": "Final judgment visual metaphor concludes sequence",
+            "visual_connections": [
+              "Frame echoing border rule",
+              "Red and blue roof tiles match garments above",
+              "Ground motif extends",
+              "Diagonal collapse parallels upper gestures",
+              "Gold accents on capitals match halos"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent brown iron-gall underdrawing",
+          "Uniform ground-line waves",
+          "Repetitive use of ultramarine and vermilion",
+          "Gold leaf halos in every sacred figure",
+          "Identical ruled border around each panel"
+        ]
+      },
+      "scene_description": "The page presents four discrete gospel episodes arranged in a 2×2 grid. Top left: Christ, clad in blue and green drapery with a burnished gold halo, stands on a continuous undulating ground line, receiving offerings of vine and foliage from three disciples. Their tunics of red and pale green are outlined in fluid quill pen, with white highlights defining drapery folds. To the right (top right), Christ—with identical halo and garments—leans toward two skeptical figures in red and green tunics; one holds a pilgrim’s staff, the other a scroll, their bare feet mirroring top left. Below, bottom left enlarges Christ in green and white robes, gesturing emphatically toward a group of five interlocutors: three standing disciples, one tonsured Jewish scribe in blue cloak pointing his finger, and one kneeling supplicant. The ground line and palette link seamlessly to the top register. Bottom right depicts a Gothic micro-architectural shrine in red, blue, and green, whose collapsed roof beams crush an inverted figure wearing a pale tunic; the angular beams echo Christ’s pointing gesture above. The four scenes share a uniform ruled border and halo motifs, unifying narrative and emphasizing Christ’s foundational teaching and the consequences of disbelief."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with burnished gold nimbus"
+        ],
+        "secular": [
+          "Three disciples in red and green tunics",
+          "Two skeptical figures with staffs",
+          "Jewish scribe in blue cloak",
+          "Kneeling supplicant"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Open codex in top left",
+        "Pilgrim’s staff",
+        "Scroll",
+        "Architectural model with collapsing roof"
+      ],
+      "architectural": [
+        "Gothic micro-architecture frame with cusp arches and pinnacles",
+        "Shrine with tiled roof"
+      ],
+      "natural": [
+        "Stylized undulating ground line",
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with smooth surface preparation, faint hair follicle pattern visible under magnification",
+      "preservation_condition": "Overall very good; pigments vivid, minimal pigment flaking at red areas, slight edge darkening; no modern restorations evident",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under infrared",
+        "Raised gesso layer beneath gold halos",
+        "Plummet ruling and pricking holes for text alignment",
+        "Layered brushstroke texture in drapery washes"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for preaching",
+        "Visual reminder of gospel narratives"
+      ],
+      "intended_audience": "Scholars and clergy in a theological workshop"
+    },
+    "scholarly_interpretation": "This mid-13th-century illumination, likely produced in a Parisian workshop, reflects the pedagogical emphasis of contemporary biblical commentaries. Executed on fine calf vellum, the page employs a disciplined grid of four scenes to narrate Christ’s reception of disciples’ offerings, his didactic encounters with doubters, and the symbolic ruin of an unsteady foundation. The use of ultramarine and vermilion, combined with burnished gold halos, underscores the divinity of Christ across registers. The Gothic micro-architecture in the lower right panel not only frames the climax—an architectural collapse echoing Christ’s words—but also demonstrates technical mastery of perspective devices within the constraints of hieratic scaling. The uniform ground line and recurring palette visually stitch the separate vignettes into a cohesive sequence, guiding the reader through a linear progression that mirrors manuscript reading order. Iconographically, the collapse scene alludes to the parable of the wise and foolish builders, reinforcing theological instruction on the stability offered by faith. Comparisons may be drawn with the Paris Bible moralisée tradition, where text and image serve didactic ends; however, the relative austerity of decorative borders and the direct Latin inscriptions suggest a manuscript intended for scholarly use rather than aristocratic display. This blend of visual clarity, technical sophistication, and doctrinal focus situates the folio at the intersection of innovative graphic narrative and established scholastic practice in 13th-century France."
+  }
+}

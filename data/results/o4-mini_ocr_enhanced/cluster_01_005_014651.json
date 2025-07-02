@@ -1,0 +1,108 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text occupying lower two-thirds of the page, with a horizontal rectangular illustration panel above. The illustration and text share a simple double-ruled frame. Visual hierarchy places the painted scene at top, drawing the eye first, with the vernacular text block below filling the ruled space. Wide blank margins surround the framed area.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic cursive (Bastarda) with brown ink, professional execution, frequent ligatures and abbreviations, rubricated initial 'C' in red."
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermilion red",
+          "azurite blue",
+          "verdigris green",
+          "brown ink",
+          "black ink"
+        ],
+        "color_usage": "Flat washes of red form the background, emphasizing the scene. Figures wear alternating blue and green robes; red tunic of the petitioner echoes the background. No gold present. Layered application yields even opacity; white highlights appear in drapery. Color choices reinforce social distinctions—green for the noblewoman, blue for courtiers, red for petitioner."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Horizontal alignment of six figures",
+          "Central focus on standing crowned woman and kneeling petitioner",
+          "Balanced pairs of figures at left and right",
+          "Minimal overlapping, shallow spatial recession"
+        ]
+      },
+      "decorative_elements": [
+        "Double-ruled frame border in black ink",
+        "Rubricated initial 'C' at text start"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in brown ink, moderate variation of line weight for garments and facial features",
+        "shading_method": "No shading or hatching; flat color fields define form, with occasional white highlights in drapery folds",
+        "perspective_handling": "Flat, hierarchical scale with no attempt at linear perspective; figures of equal height regardless of depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "political messages",
+        "social context"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single rectangular scene contains six standing figures and one kneeling figure (seven human forms) arranged on a painted vermilion ground above a thin blue socle line. From left: two male courtiers in long blue and grey tunics, hands clasped or gesturing toward center. At center right a crowned noblewoman in a verdigris green robe, right hand raised in address, left hand held to her chest. Directly at her feet, a petitioner kneels in a red tunic with brown hose, head bowed, hands raised in supplication. To the noblewoman’s right stand three advisors in blue robes, two gesturing toward the kneeler and one whispering to his companion. A small tan dog sits at the petitioner’s feet. All figures are life-sized relative to each other, with no depth compression. Costume details include floor-length robes edged in darker tones, simple neckbands, and pointed shoes. The crown is a simple circlet with fleur-de-lis. The straight black border frames the scene. The red background parallels the rubric of the initial 'C' below, linking image and text. The kneeling figure visually echoes the petition described in the Old French text beneath. The frame’s continuity integrates image and text space, guiding the viewer from illustration to narrative."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Two male courtiers in blue and grey tunics, standing, hands clasped",
+          "Crowned noblewoman in green floor-length robe, right hand raised",
+          "Kneeling petitioner in red tunic with brown hose, hands raised in plea",
+          "Three male advisors in blue robes gesturing toward petitioner"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Small tan dog seated at the petitioner’s feet"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth flesh side, faint ruling visible under UV. Single quire of regular gatherings, margins approximately 4 cm.",
+      "preservation_condition": "Overall good; red background shows minor abrasion and flaking, blue and green pigments stable, slight cockling at upper margin, no active mold or insect damage.",
+      "notable_physical_characteristics": [
+        "Visible plummet ruling for text and image frame",
+        "Underdrawing detectable in ink underlayer",
+        "Flat gesso preparation under paint layers",
+        "Consistent brown ink penwork for outline"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Administrative",
+      "secondary_functions": [
+        "Political statement",
+        "Display of status"
+      ],
+      "intended_audience": "Secular lord and his court"
+    },
+    "scholarly_interpretation": "This mid-14th-century vernacular manuscript leaf, likely produced in a northern French court workshop, embodies the intersection of political narrative and decorative refinement in administrative texts. The use of deep vermilion for the scene background and the contrasting azurite and verdigris robes reflect a sophisticated palette typical of elite commissions. The Gothic Bastarda hand, with its fluid ligatures and rubricated initials, aligns with known Parisian administrative scriptoria of the period. Iconographically, the leafy crown on the central figure and the petitioner’s gesture mirror textual references to appeals made to the duke, integrating image and narrative for a courtly audience. The absence of gold leaf suggests functional rather than purely devotional use, while the precise ruling and underdrawing reveal workshop practices prioritizing clarity and reproducibility. Comparatively, the leaf shares stylistic affinities with the Grandes Chroniques de France in its restrained yet vivid coloration and balanced figure compositions. The symmetrical arrangement and shallow space underscore an illustrative convention that privileges narrative clarity over naturalism. Technically, the stable pigments and minimal conservation interventions indicate careful original execution and later custodial care. Overall, this leaf illustrates how secular administrative manuscripts adopted high artistic standards to reinforce political authority and communicate efficiently within courtly networks."
+  }
+}

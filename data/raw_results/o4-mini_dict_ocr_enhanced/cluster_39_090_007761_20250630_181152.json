@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "filename": "cluster_39_090_007761.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:11:52.382269",
+    "image_size": 239421
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single framed square illustration occupying the upper half of the folio, enclosed by a continuous red border. A rubricated title in Gothic script is centered directly above the frame. Below the image is a single column of explanatory text in black ink, separated from the painting by a small gutter. Wide margins surround the composition, emphasizing the central pictorial panel and its accompanying caption.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis with cursive abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "leaf green",
+          "vermilion red",
+          "ochre yellow",
+          "earth brown",
+          "buff white"
+        ],
+        "color_usage": "Vibrant greens are reserved for plant forms, contrasting with the warm reds of garments and border. Ochre yellow models soil and highlights plant inflorescences. The red frame unifies the scene and guides the viewer’s eye inward. Application is matte, with layered brushwork creating subtle tonal variation. Pigments appear well-preserved with minimal darkening or flaking."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Central tree axis dividing the composition",
+          "Two human figures balanced on either side",
+          "Horizontal ground line anchoring figures and vegetation",
+          "Overlapping foliage suggesting shallow depth"
+        ]
+      },
+      "decorative_elements": [
+        "Red rectangular frame border",
+        "Inscribed title panel above the image",
+        "Text block panel below the image"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink outlines of uniform weight defining figures and foliage",
+        "shading_method": "Flat color application with minimal hatching, slight tonal modulation in leaves",
+        "perspective_handling": "Flat spatial treatment on a single ground plane, absence of linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Cultural references"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The scene depicts two gardeners harvesting leafy herbs beneath a central fruit tree. On the left, a standing figure in a long red cloak and coif holds a sprig of roquette at chest height. On the right, a slightly bent figure in a pink tunic and red hose reaches toward a rosette of leaves at the base of a plant, plucking its flowering raceme. Beneath their feet stretches a row of roquette plants with characteristic pinnate leaves and yellow inflorescences. A tall, slender-trunked tree with dark green foliage and red fruit occupies the center background. Behind the right figure a dense cresson bush is visible. All elements rest on an ochre-colored ground line without architectural framing or deep recession."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Gardener in red cloak holding herb sprig",
+          "Worker in pink tunic and red hose plucking leaves"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "arbre",
+        "plante"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth, well-pumiced surface and uniform thickness; folio formed from a regular quaternion gathering with ruling lines faintly visible under magnification.",
+      "preservation_condition": "Pigments remain vibrant with minimal oxidation; slight cockling at corners; negligible pigment flaking; evidence of modern stabilization in margins.",
+      "notable_physical_characteristics": [
+        "Layered brushwork visible in foliage rendering",
+        "Fine underdrawing faintly perceptible under raking light",
+        "Regular ruling incisions guiding text and image alignment",
+        "Matte paint surface without raised gesso or punched gold ornament"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid"
+      ],
+      "intended_audience": "scholar's study"
+    },
+    "scholarly_interpretation": "This leaf appears to be from a late medieval herbal or pharmacological compendium produced in a professional workshop, perhaps in northern Italy or southern France during the early fifteenth century. The careful delineation of roquette and cresson reflects the period’s growing interest in materia medica and the empirical study of plant morphology. The use of a central tree as a compositional axis and the placement of two figures in balanced symmetry demonstrate an exchange between scientific illustration and courtly book illumination conventions. The narrow red frame and rubricated title echo contemporary Books of Hours, suggesting that herbal treatises appropriated devotional layout strategies to lend authority and visual cohesion. Pigment selection—vibrant greens and warm reds—parallels the palette of high-end devotional manuscripts, indicating that this work was intended for an educated elite, possibly a physician-scholar or noble patron. Iconographically, the figure in red cloak may symbolize the learned status of the herbalist, while the undifferentiated background and flat spatial treatment emphasize the morphological features of the plants rather than narrative context. Comparisons with the Tacuinum Sanitatis highlight the era’s interdisciplinary fusion of botanical, culinary, and medicinal knowledge. The absence of gold leaf and the emphasis on naturalistic color suggest a utilitarian function, whereas the precise execution and framed layout reflect a workshop versed in luxury illumination techniques."
+  }
+}

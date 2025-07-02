@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "VIRGNCIIE. N[ ] Im[m]piae stulte virgines. Cumque vidissent stulte virgines quod uno\nmundo oleum eas non ad piis auntesitis nostis., Ita : Cate\ncure vidi[ ] tvdicias Memento iniquis Natal\n...adhibet Ioseph",
+    "modern_french_text": "VIRGINITÉ. N...Impie et stupides vierges. Et quand les vierges stupides ont vu qu'elles n'avaient\npas d'huile alors même qu'elles la demandaient aux saintes..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "vierge en gloire entourée d'anges",
+      "roi de castille",
+      "personnages à tête unique",
+      "couronne",
+      "trône de grâce",
+      "sceptre"
+    ],
+    "elements_textuels": [
+      "vierge tissant le rideau du temple",
+      "christ et le figuier stérile",
+      "vierge en gloire",
+      "prophétie de sophonie devant la porte des poissons",
+      "lot",
+      "rencontre d'isaac et rébecca"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 6,
+    "total_identified": 12,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

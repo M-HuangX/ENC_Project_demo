@@ -1,0 +1,30 @@
+{
+  "ocr_results": {
+    "original_text": "imperat alexander imperio restaurato habens imperium sic potestatem imperialem impleas",
+    "modern_french_text": "l'empereur Alexandre, avec son empire restauré, ayant ainsi le pouvoir impérial"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "empereur",
+      "personnages debout",
+      "vêtements",
+      "architecture",
+      "couronne",
+      "main",
+      "geste",
+      "document",
+      "groupe de personnes",
+      "vêtements royaux"
+    ],
+    "elements_textuels": [
+      "empereur"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 1,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

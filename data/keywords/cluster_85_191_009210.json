@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "eus in adiutorium meinum mine: e domined ad adiuvanda",
+    "modern_french_text": "Dieu, viens à mon aide, Seigneur, viens vite à mon secours"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "vierge et l'enfant",
+      "anges",
+      "nativité du christ",
+      "étoile",
+      "pastoure",
+      "bétail",
+      "crèche",
+      "mariage",
+      "architectures",
+      "saints"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

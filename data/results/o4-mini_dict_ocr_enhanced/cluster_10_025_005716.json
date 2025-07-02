@@ -1,0 +1,114 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text at top of the page; full-width rectangular image beneath text, framed by a decorative border; clear visual hierarchy with text confined to upper quarter and image occupying remainder; wide blank margins above and to sides of image",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Gothic textura quadrata with red rubricated initials; professional book hand with frequent use of ligatures and punctus flexus"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "azurite blue",
+          "lead white",
+          "vermilion red",
+          "olive green",
+          "purple"
+        ],
+        "color_usage": "Gold reserved for celestial spheres, stars and border highlights; deep blue for lower background plane and night sky; alternating red and blue in decorative border; white used for medallion outlines and flesh highlights; layered application of azurite with white highlighting to model circular forms; minimal oxidation evident, pigments well-preserved"
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Vertical axis formed by central cosmic tree linking bottom angel to top sun disc",
+          "Large golden sun at apex dominates visual hierarchy",
+          "Concentric medallions arrayed symmetrically around trunk",
+          "Figures sized according to spiritual rank: angel largest, soul and death subordinate",
+          "Flat planes separated by horizontal demarcation of sky and earth"
+        ]
+      },
+      "decorative_elements": [
+        "Wide border of scrolling acanthus leaves with gold bezants on purple ground",
+        "Gold corner squares with rosette motif",
+        "Circular medallion frames of white and gold",
+        "Stylized stars in gold punctuated on black sky field"
+      ],
+      "drawing_technique": {
+        "line_style": "Sharp quill-pen outlines in dark brown ink with varying weight for figure contours and internal detailing",
+        "shading_method": "Flat areas of color with white highlights; minimal hatch work confined to folds of angel’s drapery",
+        "perspective_handling": "No linear perspective; hierarchical scaling; overlapping elements to suggest depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Allegorical",
+      "sub_themes": [
+        "Cosmic order",
+        "Tree of life symbolism",
+        "Death and resurrection",
+        "Soul’s ascent"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single, highly symbolic allegorical scene: at the top center is a large, burnished gold sun disc composed of concentric circles, set against a pale sky. Below it, a broad horizontal band depicts the starry firmament: a black field dotted with six-pointed stars and larger eight-petaled gold blossoms. At the center of the image a tall, white-trunked cosmic tree rises from the lower register to support the sun. Six roundels flank its trunk—two above, two at mid-height, two below—each containing distinct emblems (top left: an angelic figure; top right: concentric lunette; middle left: fish or piscine form; middle right: chalice or vessel; lower left: lamb; lower right: reclining human form). In the lower third a kneeling golden angel grips the tree’s base, gazing upward. To the right of the trunk, a red, emaciated Death figure stands amid stars, raising one arm. Above Death, on the grassy horizon, a nude human figure (the soul) crouches beneath a stylized plant. The lower background is filled with pale blue paint, demarcating the terrestrial realm. Spatially, the heavenly (sun and spheres), cosmic (star field), and earthly (angel, Death, soul) realms are clearly layered. The angel’s gilded wings and finely modeled drapery, the star field’s rhythmic pattern, and the six-fold medallion structure underscore the image’s didactic focus on the soul’s journey through cosmic spheres toward divine light."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Kneeling golden angel with full wings and long tunic"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Red skeletal Death figure",
+          "Nude soul figure on grassy mound"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized tree of life trunk",
+        "Stars and floral stars in firmament",
+        "Stylized plant beside soul figure"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum; smooth, well-pumiced flesh side; subtle hair follicle pattern visible under magnification; regular quaternion gathering with ruled text area",
+      "preservation_condition": "Excellent overall; vivid pigments with minimal flaking; slight corner cockling; gold leaf intact and bright; evidence of a small contemporary repair at lower right margin",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under ultraviolet light",
+        "Raised gesso beneath gold leaf on sun disc and border bezants",
+        "Regular ruling in plummet with quill for text and image layout",
+        "Punch-work pattern in gold medallion borders"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational (theological cosmological treatise)",
+      "secondary_functions": [
+        "Mnemonic aid for clergy",
+        "Display of theological erudition"
+      ],
+      "intended_audience": "Monastic or scholastic theological community"
+    },
+    "scholarly_interpretation": "This illumination likely originates from a mid-13th-century northern French workshop engaged in producing theological compendia. Its iconography—central cosmic tree, concentric spheres, Medallions of symbolic emblems, and personifications of Death and the soul—reflects contemporary scholastic interests in the macrocosm–microcosm analogy and the soul’s ascent through the heavens. The use of burnished gold leaf for the sun disc and stars, combined with ultramarine and vermilion pigments, indicates access to high-quality materials, suggesting a well-endowed monastic or university patronage. Stylistically, the sharp quill outlines and restrained modeling with white highlights display both the influence of Parisian atelier practices and echoes of the emerging Gothic naturalism. The decorative border of scrolling acanthus leaves with gold bezants parallels ornamentation found in luxury manuscripts such as the Parisian Bibles moralisées. Iconographically, the tree of life intersecting the seven celestial spheres conveys a theological program emphasizing Christ as the axis mundi and ladder of virtues, akin to Hugh of Saint-Victor’s speculative cosmology. The image’s didactic clarity—dividing the heavenly, cosmic, and terrestrial realms—and the neat integration of text and image underscore its function as a pedagogical diagram for theological reflection. In comparative context, its ornament and compositional structure align with work by the so-called Master of the Paris Psalter, yet its allegorical complexity suggests a specialized workshop catering to advanced scholastic audiences."
+  }
+}

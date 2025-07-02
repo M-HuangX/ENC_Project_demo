@@ -1,0 +1,26 @@
+{
+  "ocr_results": {
+    "original_text": "endes los duques cavantes si los poduen puzar ceya la puesta dela dita mencionada puerca su omne potuer saluez caue los dioges cavantes corab eso su genos omues uir per su onbre potuer saluariur aquomo se fiessen nati sui deonis de servico et sue los menssul.",
+    "modern_french_text": "Les ducs creusent pour voir s'ils peuvent soulever le cochon mentionné et délivrer son homme sauf car les dieux creusent. Corem cela par son genre ombres hommes peuvent se sauver eux-mêmes en quelque manière que soient nés les fils des dieux. De service et soumis."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages à tête unique",
+      "église-intérieure",
+      "scribe",
+      "château",
+      "architecture",
+      "vérité"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe du panetier"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

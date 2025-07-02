@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "Cil envoia comm etc Gauuain le conbat contre grometam de nue suechel prudens en mil apareche. Ce por sehor le roi artus et la roine et li autres qui auoec lui. Et se atoura tornez nue frunte pie de la terre grometie.",
+    "modern_french_text": "Celui envoya avec Gauvain au combat contre Grometam de [nom illisible] prudent en mille apparences. Ce pour seigneur le roi Artus et la reine et les autres qui étaient avec lui. Et se mit en route tourné vers le front du champ de Grometam."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "roi de castille",
+      "roi d'angleterre",
+      "architecture",
+      "personnage debout",
+      "chevalier",
+      "échanson",
+      "cour",
+      "armure",
+      "mur"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

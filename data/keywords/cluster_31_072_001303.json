@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "entrée du christ à jérusalem",
+      "âne",
+      "personnage devant une porte",
+      "arbre",
+      "branches",
+      "chemin",
+      "vêtements colorés",
+      "auréole",
+      "gestes de bénédiction"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 0,
+    "total_identified": 9,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

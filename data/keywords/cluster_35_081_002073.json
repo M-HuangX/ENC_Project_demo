@@ -1,0 +1,23 @@
+{
+  "ocr_results": {
+    "original_text": "Incipit secunda causa.",
+    "modern_french_text": "Début de la deuxième cause."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "couronne",
+      "scribe",
+      "rois",
+      "main"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

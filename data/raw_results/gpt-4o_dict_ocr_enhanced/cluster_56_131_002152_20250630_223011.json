@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "filename": "cluster_56_131_002152.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-30T22:30:11.273858",
+    "image_size": 190771
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Historiated initial"
+      ],
+      "layout_style": "Single column with a large decorated initial at the start of the text block",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "gold",
+          "white",
+          "purple",
+          "black"
+        ],
+        "color_usage": "Gold is used as the background, indicating importance. Purple frames the initial, while details are rendered in black and white."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central eagle surrounded by a circular frame",
+          "Balanced and symmetrical composition"
+        ]
+      },
+      "decorative_elements": [
+        "Ornamental initial with gold ground"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold outlines with consistent line weight defining the figure",
+        "shading_method": "None, the figure is flat with color fills",
+        "perspective_handling": "Hieratic scaling without depth modeling"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Symbolic",
+      "sub_themes": [
+        "Animal symbolism",
+        "Divine attributes"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The initial 'C' contains an eagle, symbolizing divine or imperial power, set against a gold background, which suggests importance and possibly links to spiritual meanings. The eagle is centrally placed, its wings spread, and depicts a direct yet simplified form."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Eagle, central figure symbolizing power or resurrection"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "High-quality parchment, smooth surface and well-prepared",
+      "preservation_condition": "Good, with gold leaf remaining intact and colors still vibrant",
+      "notable_physical_characteristics": [
+        "Polished gold leaf application",
+        "Confident use of bold lines",
+        "Consistent ruling pattern visible"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Display of status",
+        "Symbolic meditation"
+      ],
+      "intended_audience": "Monastic choir or clergy"
+    },
+    "scholarly_interpretation": "This manuscript's historiated initial 'C', featuring an eagle, likely serves as an introduction to a psalm or religious text. The eagle is a symbol frequently associated with St. John the Evangelist, signifying themes of resurrection and divine vision. The use of gold leaf highlights the significant religious nature of the text, reflecting its use in liturgical settings by monastic or ecclesiastical communities. The quality of materials and execution indicates production in a well-funded scriptorium, possibly for a prestigious patron or institution. Artistically, the use of bold, clear lines and the simplified depiction are characteristic of medieval manuscript tradition, emphasizing symbolic interpretation over naturalistic representation. This piece fits within the broader context of 13th-century manuscript production, where integration of text and image was utilized not only to convey narratives but to inspire contemplation. The absence of perspective techniques aligns with the iconographic focus of medieval art, prioritizing doctrinal truths over worldly realism. Overall, the manuscript reflects both artistic skill and theological intent, serving as a functional and contemplative tool for worship."
+  }
+}

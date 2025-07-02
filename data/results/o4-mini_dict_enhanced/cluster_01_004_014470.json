@@ -1,0 +1,149 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "standalone illustration",
+        "narrative sequence"
+      ],
+      "layout_style": "Single column of text beneath a full-width horizontal illustration band at the top; both image and text enclosed within a red rule frame; broad blank margins surrounding the framed area; clear visual hierarchy with the illustration dominating the upper third of the page and text occupying the lower two thirds.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura rotunda with regular letterforms, strong verticals and rounded bowls, consistent line spacing, extensive use of abbreviations and red rubricated initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermilion red (background)",
+          "azurite blue (robes)",
+          "lead-tin yellow/ochre (Christ’s robe)",
+          "burnished gold leaf (halos)",
+          "black/brown ink (outlines and text)"
+        ],
+        "color_usage": "The intense red ground unifies both episodes; gold leaf halos reserve sacred status; blue garments denote disciples or guards; ochre robe highlights Christ; alternating warm (red, yellow) and cool (blue) tones create contrast; flat application with minimal mixing; white highlights articulate folds; original pigments remain vibrant with minimal lead white discoloration."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two adjacent vignettes arranged left to right within a single frame",
+          "Figures aligned on a low ground line with no depth recession",
+          "Continuous red background across both scenes",
+          "Halos repeated to link sacred figures",
+          "Horizontal orientation guiding the eye sequentially"
+        ]
+      },
+      "decorative_elements": [
+        "Red rule border enclosing image and text",
+        "Burnished gold leaf halos",
+        "Stylized low ground line in grey",
+        "Red rubricated initials in text block"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen outlines in brown ink with uniform weight and occasional thicker contour strokes",
+        "shading_method": "Virtually no hatching; volume implied by flat areas of color and occasional white highlights on robes",
+        "perspective_handling": "Hierarchical, flat spatial treatment; figures scaled by importance rather than depth; no vanishing point"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "judicial trial of Christ",
+        "arrest and betrayal",
+        "divine attributes",
+        "moral teaching of faithfulness"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper left band",
+            "subject": "Christ seated on a bench in tribunal before a judge or priest",
+            "relationship_to_next": "Leads to the violent arrest by temple guards",
+            "visual_connections": [
+              "Continuous red background across both scenes",
+              "Gold halo motif repeated on Christ",
+              "Grey ground line extends unchanged",
+              "Robes of figures echo similar blue and ochre palette",
+              "Horizontal framing rule unites both vignettes"
+            ]
+          },
+          {
+            "position": "Upper right band",
+            "subject": "Arrest of Christ: two guards seizing him, a bystander gesturing",
+            "relationship_to_next": "Concludes sequence (no further scene)",
+            "visual_connections": [
+              "Red background unaltered",
+              "Gold halo retained on Christ",
+              "Figures aligned on same ground line",
+              "Blue robes of guards mirror color of tribunal figures",
+              "Overall horizontal composition continues"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform vermilion red background",
+          "Burnished gold halos identifying Christ",
+          "Flat grey ground line linking episodes",
+          "Consistent quill-drawn brown outlines",
+          "Horizontal framing rule uniting scenes",
+          "Repetition of blue and ochre garment palette"
+        ]
+      },
+      "scene_description": "The left vignette shows three figures: at center Christ, haloed and seated on a simple stone bench, clad in a yellow-ochre robe and holding a small book, flanked to his right by a standing figure in blue with a long staff and to his left by a kneeling supplicant in blue tunic with cap. The right vignette depicts four figures: at center Christ again haloed, standing in the same ochre robe, arms grasped by two temple guards in blue tunics and hose, whose garments share the same pigment tone as the staff-bearer in the first scene; to the far right a figure in teal cloak gestures towards the arrested Christ. All figures align on a single grey ground line, set against a continuous vermilion background. Costumes are rendered with flat color fields, simple rounded folds, and white highlights. The benches and staff serve as minimal props. Facial features are sketchily indicated with two dots and line mouths. Spatial depth is indicated only by overlapping forms, and hierarchical importance is affirmed by the repeated central placement and distinct halo of Christ. The scenes are framed by a thin red rule and occupy the upper third of the page, above a block of twelve lines of Gothic rotunda text."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ (haloed, seated then standing, ochre robe)"
+        ],
+        "secular": [
+          "Temple guards (blue tunics, seizing Christ)",
+          "Judge/priest figure (blue robe with staff)",
+          "Kneeling supplicant (blue tunic)",
+          "Bystander (teal cloak gesturing)"
+        ],
+        "symbolic": [
+          "Gold leaf halos"
+        ]
+      },
+      "objects": [
+        "Stone bench (tribunal seat)",
+        "Long staff (judge’s emblem)",
+        "Small book (Christ’s attribute)",
+        "Binding rope implied by guards’ grip"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with uniform thickness, finely scraped and pumiced to a smooth, pale ivory surface; ruled in plummet for text and illustration bands.",
+      "preservation_condition": "Excellent: pigments remain vivid, minimal cracking of gold leaf, slight flaking in vermilion areas; parchment shows negligible cockling; evidence of a 19th-century reinforcement along lower edge.",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold halos with punched decoration",
+        "Underdrawing visible under UV in brown ink",
+        "Regular ruling pattern for text and illustration boundaries",
+        "Gold leaf burnished to high sheen",
+        "Use of white lead highlights on robes"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for biblical narrative",
+        "Private devotional reflection",
+        "Demonstration of patron’s erudition"
+      ],
+      "intended_audience": "Lay readership of a well-educated patron, likely for private study and devotion"
+    },
+    "scholarly_interpretation": "This two-panel composition, executed in a high-quality Gothic rotunda hand and vivid palette, likely originates from a mid-13th-century French workshop—perhaps associated with the Parisian circle of the School of Amiens—where vernacular biblical narratives were produced for lay patrons. The uninterrupted red ground and parallel framing devices reflect an economical yet effective visual program, guiding the reader through the trial and arrest of Christ. The use of burnished gold and layered pigments indicates advanced technical proficiency: raised gesso under halos, underdrawing for compositional planning, and careful pigment layering for color stability. Iconographically, the dual scenes underscore the transition from divine judgment to human violence, reinforcing moral lessons on faith and betrayal. The clear delineation of robes—azurite for temple figures, ochre for Christ—and the repetition of halos serve both theological and didactic functions, marking sacred presence within a secularized setting. Compared to contemporary Biblia moralisée, this manuscript offers a more streamlined narrative focus with fewer allegorical medallions, aligning it with smaller-format devotional books of hours produced in elite Parisian ateliers. Its exceptional preservation and technical sophistication reveal a collaborative workshop practice, where multiple hands contributed under a master illuminator, blending traditional iconography with a restrained compositional innovation that emphasizes narrative clarity and devotional intimacy."
+  }
+}

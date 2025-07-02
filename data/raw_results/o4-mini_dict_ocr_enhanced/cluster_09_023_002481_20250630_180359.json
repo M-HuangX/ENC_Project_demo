@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "filename": "cluster_09_023_002481.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:03:59.461043",
+    "image_size": 342870
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence",
+        "Manuscript page with marginal illustrations"
+      ],
+      "layout_style": "Single column of eight circular narrative medallions arranged in a four-by-two grid flanked by narrow text columns on left and right. Each medallion is enclosed in a gold frame with quatrefoil linkages and set against a patterned dark-blue field. Decorative initials introduce each textual block. The visual hierarchy is uniform, with all scenes equal in size; small square bust portraits occupy the interstices between medallions. Wide outer margins contain vine-scroll borders.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, professional book hand with frequent ligatures and rubricated initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "vermilion red",
+          "verdigris green",
+          "lead-white highlights"
+        ],
+        "color_usage": "Gold leaf provides luminous backgrounds and frames, reserved for divine halo and medallion fields. Ultramarine and vermilion alternate in drapery to distinguish figures; green appears in secondary garments. White highlights model volume in flesh and drapery folds. The palette follows hierarchical coding: blue for Christ and Mary, red for apostles and clerics. Pigments are well preserved with minimal darkening of lead white."
+      },
+      "composition": {
+        "type": "Grid",
+        "features": [
+          "Regular four-by-two arrangement",
+          "Uniform circular frames linked by quatrefoil motifs",
+          "Central bust portraits at interstices",
+          "Symmetrical distribution of figures within each roundel"
+        ]
+      },
+      "decorative_elements": [
+        "Gothic micro-architectural framework around each medallion",
+        "Stylized vine-scroll border with foliate terminals",
+        "Rubricated initials with pen-flourished extensions into margins",
+        "Small square bust medallions separating main scenes"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill outline in brown ink with varied weight for drapery folds",
+        "shading_method": "White highlights over lead-white ground; minimal cross-hatching in flesh tones",
+        "perspective_handling": "Hierarchical scaling with little true linear perspective; depth indicated by overlapping figures and foreshortened architecture"
+      }
+    },
+    "content_theme": {
+      "scene_count": 8,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miracle",
+        "healing",
+        "divine intervention"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Top left",
+          "Top right",
+          "Second row left",
+          "Second row right",
+          "Third row left",
+          "Third row right",
+          "Fourth row left",
+          "Fourth row right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper left medallion",
+            "subject": "Wedding at Cana",
+            "relationship_to_next": "Gestural invitation to Christ carries viewer to next healing scene",
+            "visual_connections": [
+              "Blue mantle echo from Cana to next scene",
+              "Gold background continuous",
+              "Circular frame uniform",
+              "Quatrefoil link at right",
+              "Vessels motif repeats"
+            ]
+          },
+          {
+            "position": "Upper right medallion",
+            "subject": "Healing of the royal official’s son",
+            "relationship_to_next": "Officials bow toward next scene of public healing",
+            "visual_connections": [
+              "Red tunic repeated",
+              "Gold halos continuous",
+              "Patterned dot background",
+              "Gesture directing eye downward",
+              "Architectural canopy motif"
+            ]
+          },
+          {
+            "position": "Second row left",
+            "subject": "Healing of the paralytic",
+            "relationship_to_next": "Paralytic’s outstretched arm mirrors next scene’s embrace",
+            "visual_connections": [
+              "White altar cloth motif",
+              "Blue robe echoed",
+              "Gold medallion frame",
+              "Figure overlap across border",
+              "Quatrefoil joint"
+            ]
+          },
+          {
+            "position": "Second row right",
+            "subject": "Raising of Jairus’s daughter",
+            "relationship_to_next": "Child’s posture leads eye to next miracle of sight",
+            "visual_connections": [
+              "Vermilion drapery repeated",
+              "Halo continuity",
+              "Circular frame",
+              "Miniature bust below",
+              "Architectural arch motif"
+            ]
+          },
+          {
+            "position": "Third row left",
+            "subject": "Healing of the blind man",
+            "relationship_to_next": "Blind man’s raised hands point to ascending Christ",
+            "visual_connections": [
+              "Verdigris robe color",
+              "Gold background",
+              "Frame linkage",
+              "Gesture",
+              "Patterned field"
+            ]
+          },
+          {
+            "position": "Third row right",
+            "subject": "Ascension of Christ",
+            "relationship_to_next": "Cloud motif connects to bread-giving in next scene",
+            "visual_connections": [
+              "White cloud echoed",
+              "Circular golden frame",
+              "Blue garment",
+              "Halo motif",
+              "Quatrefoil link"
+            ]
+          },
+          {
+            "position": "Fourth row left",
+            "subject": "Feeding of the multitude",
+            "relationship_to_next": "Loaves held up point toward walking figures in Emmaus scene",
+            "visual_connections": [
+              "Altar table motif",
+              "Gold background",
+              "Red tunic repeated",
+              "Circular frame",
+              "Architectural canopy"
+            ]
+          },
+          {
+            "position": "Fourth row right",
+            "subject": "Road to Emmaus",
+            "relationship_to_next": "Final scene closes the miracle cycle",
+            "visual_connections": [
+              "Blue mantle from first scene",
+              "Gold background",
+              "Circular frame",
+              "Gesture of blessing",
+              "Repeated dot pattern"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Burnished gold backgrounds throughout",
+          "Alternating blue and red drapery",
+          "Uniform quatrefoil framing devices",
+          "Patterned dark-blue field linking medallions",
+          "Consistent hierarchical sizing of figures"
+        ]
+      },
+      "scene_description": "In the opening scene (Wedding at Cana) six figures occupy a circular gold-leaf medallion: at left two servants bearing empty jars, at right the Virgin Mary gesturing toward Christ at center, who stands behind a white-draped table bearing goblets. All wear long tunics with vermilion and ultramarine overdrapes; Mary’s mantle is deep blue edged with gold punchwork. Christ is distinguished by a cruciform halo. The figures are arranged in a shallow stage-like space indicated by a narrow red floor band and stylized architectural arcade overhead. Overlapping drapery folds, white highlights, and varying line weight model form. The gold ground is stippled to catch light. Attendant figures are scaled slightly smaller, emphasizing central placement of Mary and Christ. A decorated Gothic arch frames the scene, with crocketed pinnacles and miniature tracery. A vine-scroll border in the outer margin surrounds both text and image, integrating decorative and narrative elements. Liturgical vessels on the table foreshadow the Eucharistic significance. This compositional focus on table and gesture underlines the miracle’s theological import and visually anchors the scene within the cycle."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with cruciform halo",
+          "Virgin Mary",
+          "apostles"
+        ],
+        "secular": [
+          "servers",
+          "onlookers"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "stone jars",
+        "table with goblets",
+        "bread loaves",
+        "staffs",
+        "books"
+      ],
+      "architectural": [
+        "crocketed Gothic arches",
+        "micro-architectural canopy",
+        "arcaded framing"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth parchment prepared with chalk gesso sizing, consistent folio thickness",
+      "preservation_condition": "Vibrant pigments with minimal darkening; slight flaking of vermilion at edges; binding wear at gutter margins",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf",
+        "Confident underdrawing visible under infrared",
+        "Regular ruling in plummet for text and images",
+        "Punch-work decoration in halos",
+        "Layered pigment application with stippling"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for preaching",
+        "Institutional identity of cathedral school"
+      ],
+      "intended_audience": "Clergy and theology students in a cathedral school"
+    },
+    "scholarly_interpretation": "Produced in a Parisian workshop circa 1250–1275, this cycle of eight miracles of Christ exemplifies the pedagogical illumination tradition emerging in the high Gothic era. The artist’s rigorous grid structure and uniform roundels reflect a didactic program, likely commissioned by a cathedral school for theological instruction. The use of burnished gold leaf backgrounds and ultramarine blue—imported at great expense—signals both ecclesiastical prestige and devotional intensity. The patterned dark-blue fields and quatrefoil links between roundels recall contemporary stained-glass design, suggesting cross-media influence within Paris’s vibrant visual culture. Technically, the manuscript demonstrates advanced layering of pigments over gesso, white-lead highlighting, and underdrawing, indicating a mature studio practice with multiple hands collaborating under a master illuminator. Iconographically, the cycle pairs Eucharistic and healing miracles to underscore Christ’s dual role as healer and sacramental host. The central table motif in the Wedding at Cana echoes the altar in the Feeding of the Multitude, forging typological links. Comparisons with the Morgan Picture Bible and the early Psalter of Blanche of Castile reveal similar micro-architectural framing and color harmonies, situating this manuscript within a network of high-status Parisian commissions. Its blend of scholastic clarity and ornate decor embodies the transitional moment when manuscript illumination served both educational and devotional functions in Gothic society."
+  }
+}

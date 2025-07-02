@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "filename": "cluster_66_150_007844.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:24:41.035746",
+    "image_size": 301919
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page miniature framed in a red border occupying the upper three-quarters of the folio, with a single column of caption text beneath. Visual hierarchy places the image prominently above the text, without marginal ornament. The illustration and caption share horizontal alignment, creating a clear division between image and text.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata with frequent abbreviations and rubricated initials in the caption"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "azurite blue",
+          "vermilion red",
+          "lead-tin yellow",
+          "verdigris green",
+          "brown (earth pigment)",
+          "black carbon",
+          "lead white"
+        ],
+        "color_usage": "Bright, evenly applied pigments with red reserved for the frame and tunic, blue for a principal figure’s garment, yellow ground diaper pattern for visual contrast, and green for foliage. Layered applications provide subtle highlights (white over blue) and animals are detailed with fine contrasting strokes. Original colors remain vibrant with minimal darkening."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "Diagonal movement from lower left (dogs) to upper right (hares)",
+          "Overlapping figures to suggest depth",
+          "Balance between grouped hunters on left and animals on right",
+          "Repeated vertical tree trunks framing action"
+        ]
+      },
+      "decorative_elements": [
+        "Red painted border",
+        "Diapered yellow background with stylized foliage",
+        "Stylized shrubs and trees forming secondary framing"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid pen work underpainted by fine underdrawing, with varied thickness for contours in colored pigments",
+        "shading_method": "Flat color fields with minimal hatching; subtle tonal shifts achieved by superimposed white strokes in fur and folds",
+        "perspective_handling": "Hierarchical scaling and vertical placement without true linear perspective; depth indicated by overlapping figures and elevation shifts"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Cultural references",
+        "Animal behavior"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene depicts a hare hunt: two hunters stand on the left, the first clad in a red tunic, blue hose and brown boots, carrying a wooden spear over his shoulder alongside a dead hare; the second in a blue pelisse, red chausses and pointed shoes, holding a horn and spear. Five hunting dogs—three greyhounds and two brown scent hounds—rush diagonally from lower left to upper right. Above them, two leporine hares bound through dense stylized vegetation. The ground is covered in yellow diaper pattern with green leaves; trees and shrubs rise behind the action. Figures are rendered in relative scale for clarity rather than strict naturalism: hunters are upright and detailed; dogs are elongated mid-stride; hares are slender and alert. Secondary decorative features include the red frame border and patterned yellow ground. Symbolically, the spear and horn denote aristocratic sport, and the hare represents cunning prey. Compositional focus is on dynamic motion: the hunters’ gestures and the dogs’ streamlined forms guide the viewer’s eye toward the fleeing hares. Textual caption below corresponds precisely to the visual narrative, reinforcing the hunting theme."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Hunter in red tunic, blue hose, carrying wooden spear and dead hare",
+          "Hunter in blue pelisse, red leggings, holding horn and spear",
+          "Greyhound with red collar in mid-leap",
+          "Brown scent hound with pointed ears running",
+          "Two additional hunting dogs in active pursuit"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Wooden hunting spear",
+        "Bronze-tipped hunting horn",
+        "Dead hare carried as prey"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized trees with yellow and green foliage",
+        "Shrubbery and floral groundcover in diaper pattern",
+        "Two leporine hares depicted in mid-leap"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, single quarto gathering, pricked and ruled for image and text. Surface is smoothly prepared with faint hair-follicle pattern visible under magnification.",
+      "preservation_condition": "Overall very good: pigments remain vivid, minimal flaking of white highlights, slight cockling at folio edges, no significant water damage.",
+      "notable_physical_characteristics": [
+        "Visible brown underdrawing under UV light",
+        "Ruling lines in plummet guide composition",
+        "Layered pigment application with crisp brush strokes in foliage",
+        "Thin gesso underlayer in red border for slight relief"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational (illustration in a hunting manual or bestiary)",
+      "secondary_functions": [
+        "Display of aristocratic status",
+        "Memory aid for animal behavior"
+      ],
+      "intended_audience": "Noble patron or courtly sportsman"
+    },
+    "scholarly_interpretation": "This miniature likely originates from a late 14th-century French court workshop specializing in hunting manuals and bestiaries. The detailed depiction of the hunt reflects the social prestige of the noble pastime and the period’s burgeoning interest in realistic animal studies. The composition’s diagonal thrust, flattened perspective and patterned ground show the continued Gothic tradition, even as naturalistic tendencies emerge in the fluid portrayal of motion. Technical execution—visible underdrawing, fine brushwork, and layered pigments—indicates a professional atelier with access to costly minerals like azurite and vermilion. Iconographically, the spear, horn and active dogs underscore aristocratic privilege, while the attentive rendering of hares hints at medieval attitudes toward animal cunning and the cycle of predator and prey. Comparisons with contemporaneous hunting manuals, such as the 'Livre de la Chasse' attributed to Gaston Phébus, reveal stylistic parallels in color palette and compositional balance. Yet this image’s vibrant diapered ground and red framing border suggest regional variation, perhaps a Parisian influence blended with provincial workshop practices. Overall, the scene encapsulates the intersection of entertainment, instruction and status within secular illumination at the close of the Gothic era."
+  }
+}

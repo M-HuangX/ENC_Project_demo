@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "chrismation",
+      "saint",
+      "mitre",
+      "crosse",
+      "auréole",
+      "architecture",
+      "vêtements liturgiques"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

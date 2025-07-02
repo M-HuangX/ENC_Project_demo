@@ -1,0 +1,26 @@
+{
+  "ocr_results": {
+    "original_text": "cest un senes nie naint ensint...",
+    "modern_french_text": "c'est un sens qui nie ainsi..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "scribe",
+      "rouleau",
+      "écriture",
+      "enluminure",
+      "lettrine",
+      "personnage debout"
+    ],
+    "elements_textuels": [
+      "scribe"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

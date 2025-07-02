@@ -1,0 +1,120 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Decorated initial letter"
+      ],
+      "layout_style": "Full-page miniature occupying upper portion of the folio with a single column of text below; a small ornamental initial in blue and gold introduces the text; thin ruled frame in brown ink encloses the image.",
+      "text_content": {
+        "presence": true,
+        "language": "Middle French",
+        "script_style": "Gothic textura bastarda with consistent line spacing, regular use of abbreviations and decorative flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "verdigris green",
+          "vermillion red",
+          "burnished gold leaf",
+          "lead white",
+          "brown earth pigments",
+          "black carbon ink"
+        ],
+        "color_usage": "Gold leaf is reserved for harness decorations and the opening initial; ultramarine highlights noble garments and horse trappings; red appears in hunters’ tunics and hound collars for visual contrast; layered white highlights on drapery and foliage create subtle modeling; green dominates the landscape ground plane; pigments are exceptionally well preserved with minimal darkening of green and red areas."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "Diagonal thrust from the riders at lower left toward the boar at upper right",
+          "Overlapping horses and figures create a sense of depth",
+          "Central cluster of mounted nobles anchors the scene",
+          "Dogs encircle the quarry in dynamic movement",
+          "Formal groves of trees frame the action on either side"
+        ]
+      },
+      "decorative_elements": [
+        "Ornamental initial in blue and burnished gold",
+        "Thin brown-ink rule framing the miniature"
+      ],
+      "drawing_technique": {
+        "line_style": "Confident underdrawing and brown-ink outlines with minimal line-weight variation",
+        "shading_method": "Flat areas of color with minimal hatching; white highlights on folds and musculature suggest volume",
+        "perspective_handling": "Hierarchical overlapping without true linear perspective; depth implied by scale reduction of background elements"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "courtly sport",
+        "nobility and status",
+        "animal symbolism",
+        "landscape representation"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "This single scene depicts eight mounted noble huntsmen and three foot attendants engaging a large wild boar in a formal grove. The principal hunter at left, clad in a blue surcoat patterned with gold fleur-de-lis and wearing black hose, rides a white horse caparisoned in matching blue and gold. To his right, other riders wear red, green and white tunics, all holding long spears or blowing hunting horns. A pack of at least twelve greyhounds, rendered in white, brown and brindle, rushes the boar, which stands bristling at upper right. The grassy plain is punctuated by evenly spaced stylized trees; two distant hilltop castles and a blue-tinted lake provide atmospheric depth. Horse trappings of cloth-of-gold, ermine linings and jewelled collars indicate high status. The boar’s black bristles and snout are carefully outlined in brown ink. Secondary decorative elements include the ruled border around the miniature and the gilt initial “O” introducing the vernacular poem below. Symbolically, the hunt signifies chivalric virtues—courage and mastery over nature—while the pack of hounds embodies loyalty. The page’s layout emphasizes the image above the text, guiding the reader’s eye from the dynamic pictorial action down to the instructional verse. The close correspondence between the depicted hunting techniques and the poem’s advice underlines the manuscript’s dual role as both entertainment and practical manual."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Noble huntsmen in colored surcoats (blue with gold fleur-de-lis, red, green) riding caparisoned horses, carrying spears and hunting horns",
+          "Foot huntsmen in simple tunics and hose, blowing horns and managing the hounds"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "spears",
+        "hunting horns",
+        "caparisoned horses",
+        "collared greyhounds"
+      ],
+      "architectural": [
+        "Distant hilltop castles with towers",
+        "simple landscape framing without built architectural foreground"
+      ],
+      "natural": [
+        "Stylized grove of trees",
+        "rolling green terrain",
+        "distant river or lake silhouette"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniformly smooth, scraped surface; pricked and ruled for layout; regular quaternion gathering indicated by consistent margins",
+      "preservation_condition": "Pigments remain vibrant with minimal fading; slight flaking of red vermilion at edges; minor cockling at upper margin; evidence of modern stabilization",
+      "notable_physical_characteristics": [
+        "Visible brown-ink underdrawing beneath color layers",
+        "Raised gesso under gold leaf areas",
+        "Fine plummet ruling lines visible at borders",
+        "Shell gold stippling in foliage highlights",
+        "Regular brush-stroke texture in drapery"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of status",
+        "Demonstration of patron’s wealth",
+        "Aide-memoire for hunting techniques"
+      ],
+      "intended_audience": "Noble patron’s private commission for courtly use"
+    },
+    "scholarly_interpretation": "This mid-fifteenth-century illumination, likely produced in a Parisian workshop for a noble patron, exemplifies the period’s luxurious hunting manuals, such as the Livre de la Chasse attributed to Gaston Phoebus. The vibrant use of ultramarine and verdigris, combined with burnished gold leaf, reflects access to costly imported pigments and a high level of technical skill in layering and highlighting. The composition’s dynamic diagonals and overlapping figures reveal an emerging concern for spatial illusionism, while the formal grove and distant castles situate the hunt within a controlled, symbolic landscape. The fine brown-ink underdrawing and raised gesso support under gold suggest a multi-stage execution by specialized hands, indicating collaborative workshop practices. Iconographically, the boar hunt embodies chivalric virtues—valor, mastery over wild nature, and social hierarchy—underscored by the noble attire and harness ornamentation. The text-image interplay, with the image commanding the upper page and the instructional verse below, reinforces the manuscript’s dual purpose as both spectacle and practical guide. Comparatively, this page shares stylistic affinities with illuminations in the Très Riches Heures, particularly in the treatment of natural forms and courtly activity, yet it maintains a distinct narrative directness suited to its didactic content. Thus, the folio bridges traditional courtly iconography and innovative pictorial approaches characteristic of late medieval Parisian illumination."
+  }
+}

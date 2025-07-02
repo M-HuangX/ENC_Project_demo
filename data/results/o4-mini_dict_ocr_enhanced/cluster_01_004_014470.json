@@ -1,0 +1,141 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence",
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column text block beneath a full-width rectangular miniature framed by a simple red border; the image occupies the top third of the page, with text neatly contained below within ruled lines.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French vernacular",
+        "script_style": "Gothic textualis libraria with regular vertical strokes, pronounced angularity, frequent abbreviations, and rubricated initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "red lead background",
+          "azurite blue",
+          "verdigris green",
+          "yellow ochre",
+          "lead white",
+          "black ink outlines"
+        ],
+        "color_usage": "The vivid red ground unifies both episodes and heightens drama; blue garments denote key figures’ authority; yellow ochre highlights Christ’s robe and halos, marking his sanctity; green provides secondary contrast; white lead is used for drapery highlights; black outlines define forms. Pigments remain bright with minimal fading."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two side-by-side narrative panels",
+          "Continuous red field across both scenes",
+          "Cruciform halos marking Christ’s divinity",
+          "Linear left-to-right progression",
+          "Framed by a simple red line border"
+        ]
+      },
+      "decorative_elements": [
+        "Single-line red border around image and text",
+        "Plain ruling forming text frame"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold black ink contours with finer internal penwork",
+        "shading_method": "Flat color application with occasional white highlights, minimal hatching",
+        "perspective_handling": "Hierarchical scaling, no true linear perspective, shallow pictorial space"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "divine suffering",
+        "judicial procedure",
+        "betrayal"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left panel precedes right panel"
+        ],
+        "scene_relationships": [
+          {
+            "position": "upper left",
+            "subject": "Christ before the Jewish priests",
+            "relationship_to_next": "Priests dispatch Christ to the next tribunal",
+            "visual_connections": [
+              "continuous red background",
+              "blue drapery echoing into next scene",
+              "repeated cruciform halo motif",
+              "bench support motif",
+              "figure gestures pointing right"
+            ]
+          },
+          {
+            "position": "upper right",
+            "subject": "Bound Christ presented by guards",
+            "relationship_to_next": "Concludes this narrative band",
+            "visual_connections": [
+              "same red ground unifying panels",
+              "green tunic echoes from previous scene",
+              "figure turns left toward preceding panel",
+              "identical black outlines",
+              "bench footstools repeated"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "uniform red background across both scenes",
+          "consistent figure scale",
+          "cruciform halos throughout",
+          "flat application of pigment",
+          "bold black contour lines"
+        ]
+      },
+      "scene_description": "The upper miniature comprises two contiguous panels illustrating Christ’s trial. In the left panel, Christ—identified by a cruciform halo—sits on a low stone bench wearing an ochre-yellow robe with green lining; he raises his right hand in discourse with two Jewish priests in blue tunics and pointed caps, one holding a staff. In the right panel, three soldiers in green and blue tunics seize a standing, bound Christ; his hands are tied, halo still visible. A robed accuser stands at right, gesturing toward the group. Figures occupy a shallow gray ground strip beneath a vibrant red field. Costumes consist of simple tunics, hose, and coifs; drapery is rendered in flat color with white highlights. Overlapping torsos imply shallow depth. The red border frames both image and text below. Iconographically, cruciform halos denote Christ’s divinity amid profane authorities. The continuous red background heightens dramatic tension and unifies the episodes, which together trace the judicial progression of the Passion narrative."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with cruciform halo in both panels",
+          "two priests in left panel"
+        ],
+        "secular": [
+          "three soldiers in right panel",
+          "gesturing robed figure in right panel"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "stone benches",
+        "staffs"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Calf vellum with smooth, well-prepared surface; regular quaternion gathering; consistent margins",
+      "preservation_condition": "Pigments well-preserved with minimal fading; slight cockling at edges; minor flaking of yellow ochre; no modern retouching detected",
+      "notable_physical_characteristics": [
+        "Visible pricking and red ruling lines",
+        "Underdrawing faintly discernible under UV",
+        "Uniform parchment thickness",
+        "Sharp trimming of folio edges"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Visual memory aid for Passion narrative",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Lay individual patron for personal devotional use"
+    },
+    "scholarly_interpretation": "Created in a mid-thirteenth-century French atelier, this vernacular Passion narrative exemplifies the Gothic shift toward sequential visual storytelling for lay devotion. The bold red lead ground, combined with azurite and verdigris pigments, attests to the technical sophistication and expense of the workshop. Flat color fields and resolute black outlines align with high Gothic stylistic conventions, while the cruciform halos—rendered in shell gold or yellow ochre—emphasize Christ’s divinity amidst his accusers. The two-panel arrangement, framed by a simple red line, guides the viewer’s eye from left to right, reinforcing the scriptural progression from interrogation to arrest. The accompanying Gothic textualis below provides vernacular commentary, linking image and text in a cohesive devotional program. As a private prayer book or aide-mémoire, this page enabled lay users to meditate on the Passion’s judicial moments. Compared to contemporary psalters and books of hours, its direct narrative focus suggests a pedagogical intent, bridging liturgical imagery and personal reflection. Stylistically, it shares affinities with Parisian workshops engaged in collaborative production, balancing traditional iconography with an emerging emphasis on clear, sequential composition that would influence later vernacular illuminations."
+  }
+}

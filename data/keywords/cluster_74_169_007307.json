@@ -1,0 +1,39 @@
+{
+  "ocr_results": {
+    "original_text": "cette folce s[i]ouz promise met sa fiance\nperder le sens; puis ci le doit enfouir\naublins nes p armes del me quiere un\npere; adherans sera sa cœur ver al\nvero non ferre rex tenent solum ac\nperdant le fond, sa mort curat ungue\nsouffre: tardu[[?\n\nue bien as fait uni vileine sen\nancients ton prudet souinsfer nes\n[i\ncon\nivee\nan cieainus sen arme tounle monde\ncra Testase vaire ce faire si jamais veux ce\nle tout situationne te le sait l'amour\ntel voice ce hura terru merite mort\n\n\nil y adv menny ses fais Quicit vonr\nHer manu con suscit ens guerisso\nccet\nnos tent rens povire incired\nreverue sen sefort\npal mer an\ntot\nve\n",
+    "modern_french_text": "Cette folle sous promesse met sa foi\nPerdant le sens ; puis elle le doit enfouir\nAux biens nécessaires par les armes du Me\nQuerelle un père ; adhérant sera sa\nCœur envers le roi, il ne tient plus seul et\nperd le fonds, sa mort cause sa souffrance ; tardu[[?\n\nBien tu as fait un vilain sien\nAncien ton prudent soin souffre\nOublié\n\nLa senestre arme et tout le monde\nCraindre ; fais-le, si jamais tu veux\nLe tout \nSituationne, il sait l'amour\nTel voix hurle terre, mérite mort\n\nIl y avait enne [illisible]\nL'homme mennon s'assied ; qu'il voulait croire\nNe sait la suite ; gueritions\nTout "
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "animal terrestre stylophore",
+      "constellation-bélier",
+      "scène de danse",
+      "ange",
+      "église et synagogue",
+      "dragon",
+      "démon",
+      "bâton",
+      "pièce d'échec",
+      "jugement"
+    ],
+    "elements_textuels": [
+      "promesse",
+      "arme",
+      "sens",
+      "amour",
+      "roi",
+      "père",
+      "cœur",
+      "souffrance",
+      "mortalité",
+      "ville"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 10,
+    "total_identified": 20,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

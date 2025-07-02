@@ -1,0 +1,115 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single folio dominated by a full-page canon table: four columns of text aligned beneath a triple arcade, framed by a wide acanthus-leaf border; text columns are integrated as part of the architectural motif rather than marginal glosses.",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Carolingian minuscule, professional book hand with uniform letterforms, clear word separation, extensive use of standard abbreviations and occasional decorative flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "burnished gold leaf",
+          "verdigris green",
+          "carmine red",
+          "lead white"
+        ],
+        "color_usage": "Gold reserved for the arcade moldings and capitals to denote architectural prominence; ultramarine background in the archivolt to highlight the celestial realm; verdigris and carmine alternate in interlaced column shafts for visual rhythm; white highlights used to model foliate ornament; overall palette remains well-preserved with minimal pigment darkening."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Tripartite arches evenly spaced across the page",
+          "Four slender, patterned columns of equal height",
+          "Central archivolt lunette with flying figures balanced by two side lunettes",
+          "Horizontal red ruling uniting the text columns",
+          "Margin border enclosing the architectural composition"
+        ]
+      },
+      "decorative_elements": [
+        "Broad border of stylized acanthus leaves and gilt bezants",
+        "Gothic-style composite capitals with punchwork decoration",
+        "Interlaced foliate patterns on column shafts",
+        "Flying birds in the archivolt spandrels",
+        "Scroll with inscription held by angels"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid pen outline in dark brown ink with consistent line weight defining figures and ornament",
+        "shading_method": "Minimal shading; modeling achieved by layered pigment and white highlights rather than hatchwork",
+        "perspective_handling": "No linear perspective; spatial depth implied by overlapping arches and variation in scale between decorative border and interior scene"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Liturgical",
+      "sub_themes": [
+        "Evangelist harmony apparatus",
+        "Architectural symbolism of sacred space"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A full-page Eusebian canon table framed by a triple arcade of interlaced columns: four narrow shafts rise from stepped bases to support three semicircular arches. Within each arch, the capitals are gilded, each with unique punchwork. Beneath the arches, the text is arranged in four neat columns of Latin canon indices, each headed in red ink. Above the central arch sits a deep ultramarine lunette inhabited by a winged divine head flanked by two angels holding a scroll inscribed 'SICUT IN CAELIS ET IN TERRA…'. The outer lunettes contain pairs of small birds in flight against alternating red and blue fields. The architectural motif is set within a broad border of scrolling acanthus leaves highlighted in gilt and polychrome. The overall composition balances the sacred function of the canon table with richly ornamented architectural framing, guiding the viewer’s eye from the divine figures in the archivolt down into the ordered columns of text."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Winged divine head (Christological symbol) in central lunette",
+          "Two angels holding the inscription scroll"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Scroll with Latin inscription"
+      ],
+      "architectural": [
+        "Triple arcade with semicircular arches",
+        "Gilded composite capitals",
+        "Interlaced foliate column shafts",
+        "Stepped column bases"
+      ],
+      "natural": [
+        "Birds in flight in archivolt spandrels",
+        "Border of stylized acanthus leaves"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, laid out as a quaternion gathering; surface extremely smooth (flesh side), ruled in red and pricked at top and bottom for guidance.",
+      "preservation_condition": "Overall excellent: vivid ultramarine and carmine with minimal fading; gold leaf remains bright with slight abrasion on capitals; minor cockling at folio edges; no significant paint flaking.",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold leaf on arcade moldings",
+        "Underdrawing visible under UV as fine brown ink guidelines",
+        "Regular red ruling lines for text alignment",
+        "Punchwork decoration in capitals",
+        "Subtle stippling in white highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use (Gospel book apparatus for clergy reference)",
+      "secondary_functions": [
+        "Display of patron or workshop prestige",
+        "Memory aid for preachers linking Gospel parallels"
+      ],
+      "intended_audience": "Cathedral or monastic clergy using the Gospel book in liturgical readings"
+    },
+    "scholarly_interpretation": "This full-page canon table exemplifies the apex of Carolingian-era manuscript illumination, likely produced in a north-Italian or Upper‐Rhine workshop circa mid‐9th century. The luxurious use of ultramarine and burnished gold underlines the manuscript’s importance for liturgical use in a major ecclesiastical center. The architectural framing of the Eusebian tables invokes the sacred space of the church interior, translating three‐dimensional ecclesiastical forms into the two‐dimensional page. The central divine head with attendant angels visually anchors the text and underscores the theological unity of the four Gospels. Technically, the confident underdrawing and precise punchwork signal a highly skilled atelier operating under imperial or episcopal patronage. Iconographically, the birds in flight and scrolling acanthus border reflect continuity with late Antique and Byzantine decorative models, while the disciplined Carolingian minuscule attests to standardized scriptorial practices. Comparatively, this canon page shares affinities with the Codex Aureus of St. Emmeram and the Vienna Coronation Gospels, yet its bold color contrasts and pronounced architectural motifs anticipate stylistic developments in Ottonian illumination. Thus, it stands at the crossroads of innovation and tradition, embodying the Carolingian renaissance’s fusion of classical heritage with new devotional imperatives."
+  }
+}

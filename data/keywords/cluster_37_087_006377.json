@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "Dixit Saul ministro Achimelech cum tota domo patris sui, qui erant viri fortissimi.",
+    "modern_french_text": "Saül a dit à son ministre Achimélec avec toute la maison de son père, qui étaient des hommes très forts."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de judée",
+      "architecture",
+      "vêtements",
+      "épée",
+      "soldats",
+      "cheval",
+      "château",
+      "arbre",
+      "couronne",
+      "geste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

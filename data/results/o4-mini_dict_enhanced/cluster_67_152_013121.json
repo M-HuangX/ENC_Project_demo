@@ -1,0 +1,108 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full‐width miniature occupying upper third of the recto page, contained within a simple double‐line frame; below, a single column of text in black Gothic textura quadrata with a narrow right‐hand column of red rubrication; wide lower margin left blank.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French (with rubrication in Latin/Old French)",
+        "script_style": "Gothic textura quadrata book hand, professional execution with uniform stroke weight, extensive ligatures and abbreviations, rubric in vermilion"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "light ultramarine blue",
+          "verdigris green",
+          "red lead (minium)",
+          "brown ink outlines"
+        ],
+        "color_usage": "Flat washes of blue and green differentiate principal figures (Christ in blue, apostles in green); red lead stippling serves as decorative accent on drapery; brown ink outlines define form; no gold or silver present; all pigments are well preserved with minimal flaking of the red lead."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Central, slightly larger Christ figure emphasizing divine status",
+          "Clustered grouping of apostles to the left creating visual weight",
+          "Kneeling lepers at lower center and right suggesting subordination",
+          "Overlapping figures to suggest spatial depth within flat field",
+          "Architectural frame containing entire scene"
+        ]
+      },
+      "decorative_elements": [
+        "Simple double‐line border framing the miniature"
+      ],
+      "drawing_technique": {
+        "line_style": "Confident quill-pen drawing in brown ink, varying line weight for fold definition and facial features",
+        "shading_method": "Minimal modeling via red lead stippling and light hatch; predominantly flat color application",
+        "perspective_handling": "No linear perspective; depth implied through overlapping figures and hierarchical scaling"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Religious elements",
+        "Miracle healing",
+        "Divine attributes"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single framed miniature depicts Christ centrally positioned slightly to the right, robed in a light ultramarine tunic with a simple halo indicated by fine outline. To his left stand five apostles or disciples in verdigris-green robes, their hands raised in gesture. At his feet and to his right are three kneeling lepers in tattered, uncolored tunics, heads bowed and hands clasped. Two additional afflicted figures emerge waist-deep from a green-striped rectangular pool or large tub, their hands raised pleadingly. All figures occupy a shallow pictorial space defined by the interior of a rectangular niche, delimited by a double-ruled frame. Christ’s larger scale underlines his divine authority; apostles form a supportive semicircle, drawing the eye toward the miracle. Garments are indicated by thin washes over crisp brown ink outlines; red lead stippling decorates folds. No additional objects or landscape elements intrude. The minimal background focuses attention on the act of healing. Secondary decorative features consist solely of the framing lines. Symbolically, the tub suggests ritual cleansing, while Christ’s open-handed gesture conveys mercy. The composition centers on the miracle, with equal visual weight given to the healed and the healers, reinforcing theological themes of purification and divine compassion."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ (larger, haloed, in blue robe)",
+          "Group of five apostles/disciples (in green robes)"
+        ],
+        "secular": [
+          "Three kneeling lepers in tattered tunics",
+          "Two partially clothed figures emerging from green-striped pool"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "Simple double-line framing border",
+        "Green-striped rectangular tub or pool architecture"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum (quaternion gathering), smooth flesh-side surface with faint follicle pattern, ruled in plummet for text and miniature boundary",
+      "preservation_condition": "Overall very good; pigments vibrant with slight red lead flaking; parchment lightly discolored at edges; no significant tears or losses",
+      "notable_physical_characteristics": [
+        "Visible underdrawing in brown ink beneath washes",
+        "Consistent ruling lines for text and miniature",
+        "Thin water-based washes over ink outlines",
+        "Red lead stippling as decorative device"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for biblical narratives",
+        "Display of patron’s erudition"
+      ],
+      "intended_audience": "Scholarly clergy or educated lay patron"
+    },
+    "scholarly_interpretation": "This miniature and accompanying Old French text likely derive from a thirteenth-century northern French moralized Bible or didactic picture-book, produced in a modest workshop that favored economical water-based pigments over costly gold leaf. The choice of verdigris green and ultramarine blue, combined with the brown ink underdrawing, reflects standard palette conventions of mid-century Continental illumination, while the absence of gilding suggests either a regional practice or a lower-budget commission. The Gothic textura quadrata script and precise ruling indicate professional scribal and artistic hands working in concert. Iconographically, the scene of Christ healing lepers underscores themes of divine mercy and spiritual purification, resonant in both monastic teaching and lay devotional contexts. The simple framing device recalls earlier Carolingian models of framed narrative, yet the hierarchical scaling of Christ recalls contemporary Gothic developments in figure prominence. Comparatively, the miniature shares affinities with the Parisian moralized Bibles of the 1240s–1250s in its use of tinted washes and stippling, though it lacks the sumptuous gilt backgrounds characteristic of the high courtly style. Its didactic emphasis and restrained decorative program point to an educational function within a clerical setting, perhaps a cathedral school, where visual reinforcement of gospel miracles served as an aid to preaching and scriptural exegesis."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single rectangular illustrative panel beneath a line of text, framed by a Greek-key border; wide surrounding margins free of text or marginalia; text block confined to above, no text flowing around image.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "burnished gold leaf",
+          "lead white",
+          "black ink"
+        ],
+        "color_usage": "Gold leaf reserved for crowns and background to signal divine and regal power; ultramarine blue establishes a heavenly field; vermilion and red tones define the beast and flames, symbolic of fire and evil; white used for halos and highlights; pigments applied in layered strokes with white shading; original colors exceptionally well-preserved with minimal pigment loss."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Seven-headed beast dominates center atop rocky mound",
+          "Kneeling saints arrayed at beast’s feet in foreground",
+          "Angel or Christ figure on right raising sword in mid-action",
+          "Group of crowned figures seized by beast to right",
+          "Stylized tree of heads rising behind beast"
+        ]
+      },
+      "decorative_elements": [
+        "Greek-key border in pink and white",
+        "Red flame motif outlining panel interior",
+        "Gold bezants punctuating inner frame",
+        "Stylized vine scroll in manuscript margins"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold black-ink outlines with fluid quill pen work; varying line weights for emphasis on figures and drapery.",
+        "shading_method": "Flat fields of color with minimal hatching; white lead highlights in drapery folds and flesh tones.",
+        "perspective_handling": "Hierarchical scaling without linear perspective; overlapping figures and hillock suggest depth."
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "eschatological judgement",
+        "angelic intervention",
+        "divine martyrdom",
+        "symbolic evil"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single full-scene illumination depicts the seven-headed Beast of Revelation standing atop a rocky outcrop rendered in gold leaf. The beast’s crowns and branch-like necks culminate in seven grimacing heads. In the foreground five saints with gilded halos kneel in prayer, their hands clasped and garments rendered in subdued green, grey and rose. To the right an angelic or Christ-like figure, clad in flowing red robes, raises a gleaming sword to smite a group of three crowned figures—the captured beast and false prophet—who are bound and borne by a horned creature. The rocky mound features stylized ochre patterns, and a leafless, horned tree sprouts crowned heads behind the beast. Spatially, the saints and angel form a diagonal axis from lower left to upper right, creating dynamic tension. Costumes include long tunics with narrow sleeves, while the captive kings wear crowns and fur-lined mantles. Secondary decorative elements include a Greek-key border in pink and white and a surrounding red flame motif. Symbolic components: the crowns denote royal authority, halos mark sanctity, and the fiery background signifies divine judgement. Text-image integration is minimal, with the illustration serving as a visual exegesis of Revelation for devotional reading."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Five haloed saints kneeling in front",
+          "Angel/Christ figure raising sword"
+        ],
+        "secular": [
+          "Three crowned kings seized by the beast"
+        ],
+        "symbolic": [
+          "Beast of seven crowned heads",
+          "Tree of crowned heads",
+          "Flame of divine judgement"
+        ]
+      },
+      "objects": [
+        "Sword"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Rocky outcrop",
+        "Stylized horned tree",
+        "Flame background"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with smooth, well-prepared surface; uniform parchment thickness; ruled gatherings in quaternion format.",
+      "preservation_condition": "Excellent overall; vivid pigments with minimal oxidation; slight flaking in some red areas; minor cockling at corners; evidence of modern stabilization.",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under raking light",
+        "Raised gesso beneath gold leaf on crowns",
+        "Faint ruling lines visible in margins",
+        "Subtle stippling in flesh-tone application"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Didactic teaching of eschatology",
+        "Memory aid for preacher",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Noble lay patron for personal devotional reading"
+    },
+    "scholarly_interpretation": "This illumination, likely produced in a mid-14th-century Parisian workshop, exemplifies the northern French tradition of Apocalypse manuscripts commissioned by aristocratic patrons for private devotion. The striking use of burnished gold leaf and deep ultramarine situates the scene in a transcendent realm, while the bold linear outlines and limited naturalism reflect Gothic pictorial conventions. The collaborative execution is evident in the variation of drapery treatment and pen strokes: a master outlined the principal figures, while workshop assistants applied pigments and highlights. Iconographically, the image stages Revelation 19:20–21, showing divine judgement enacted through Christ or an angelic agent, accentuating the triumph of sanctity over malign power. The crowned beast, false prophet, and kings embody political and spiritual adversaries; their capture reinforces obedience to divine authority, resonating with contemporary concerns over heresy and regal legitimacy. Stylistically, the balanced composition and flame motif recall earlier 13th-century exemplars yet introduce heightened drama through the spiky tree of heads. Comparatively, this folio shares borders and script with the Apocalypse of Angers, suggesting interconnected atelier practices. The illustration both adheres to traditional typology of the seven-headed beast and innovates in its dynamic diagonal axis, marking a subtle evolution toward more animated narrative scenes in late medieval illumination."
+  }
+}

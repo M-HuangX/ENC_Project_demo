@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "personnage barbu et moustachu",
+      "lion combattant",
+      "archange",
+      "église",
+      "croix",
+      "ange",
+      "saint jean-baptiste au désert",
+      "trinité",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

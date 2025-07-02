@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "filename": "cluster_67_152_013121.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:19:33.854738",
+    "image_size": 477401
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "standalone illustration"
+      ],
+      "layout_style": "Single column of text occupying lower two thirds of the page, with a large rectangular illustration framed by double ruled lines at the top. A rubric runs above the image in the upper margin. Wide side and bottom margins are unfilled, emphasizing the separation of image and text.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata in brown ink with red rubrication; professional book hand with regular angular letterforms and frequent use of ligatures and abbreviations."
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "verdigris green",
+          "azurite blue",
+          "minium red",
+          "lead-tin white",
+          "flesh-tone pink"
+        ],
+        "color_usage": "Gold leaf provides a luminous background reserved for the sacred scene. Green and blue draperies alternate to differentiate figures; red is sparingly used for dotted patterning on garments. White highlights layered over blue robes create subtle volumetric effect. Pigments remain well-preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "centralized",
+        "features": [
+          "Figures arranged in two clusters facing each other",
+          "Central gesturing deacon in dalmatic emphasized by scale",
+          "Overlapping figures suggest shallow depth",
+          "Rectangular architectural frame encloses the scene"
+        ]
+      },
+      "decorative_elements": [
+        "Double-ruled frame border in brown and red ink",
+        "Red rubric text above image",
+        "Red dotted pattern on drapery edges"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink outlines executed with a quill, weights varying to define drapery folds and facial features",
+        "shading_method": "Minimal parallel hatching in folds and under arms; white lead highlights on blue robes for modeling",
+        "perspective_handling": "Hierarchical scaling prioritizes the central figure; no formal linear perspective, depth indicated by overlapping."
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miracle of healing",
+        "preaching",
+        "community response"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single rectangular scene depicts a deacon in a blue dalmatic (center right) performing a healing miracle. He stands within a gold ground, extending his right hand toward a kneeling, nearly naked supplicant whose emaciated features and pleading gesture emphasize suffering. To the left, a bearded cleric or apostle in green robes leans against a column, hand raised to his cheek in contemplative astonishment. Between and behind them, six onlookers in green and white tunics cluster, hands raised in wonder. At lower right a partially immersed figure in a green trough raises one arm in gratitude. The figures occupy a shallow stage-like space, overlapping to suggest depth. The deacon’s embellished dalmatic with red spots and green border marks his liturgical office. The kneeling figure’s ragged loincloth and exposed ribs underscore the theme of affliction. The column at left and the trough at right provide minimal architectural frame, focusing attention on the human drama. The image’s compositional focus is the moment of divine intervention, balanced by reacting figures on either side."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Deacon in blue dalmatic performing healing"
+        ],
+        "secular": [
+          "Kneeling sick man in loincloth",
+          "Six lay onlookers in tunics"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "green wooden trough (healing bath)"
+      ],
+      "architectural": [
+        "simple column at left"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "High-quality calf vellum, prepared to a smooth surface with evidence of plummet ruling and minimal hair-follicle pattern",
+      "preservation_condition": "Overall very good; pigments vibrant, gold leaf intact; minor flaking of red dots on dalmatic; slight cockling at page edges",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold leaf for relief effect",
+        "Underdrawing visible under UV light",
+        "Regular ruling lines in lead point to guide text and image alignment"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion (illustrated biblical moral exemplum)",
+      "secondary_functions": [
+        "Memory aid for preacher or reader",
+        "Demonstration of manuscript patron’s erudition and piety"
+      ],
+      "intended_audience": "Clerical or educated lay patron in a noble or monastic context"
+    },
+    "scholarly_interpretation": "This 13th-century manuscript page, likely from a northern French workshop, exemplifies the early Gothic transition toward more narrative, expressive illumination. The use of burnished gold leaf and a limited but rich palette of azurite, verdigris, and minium reflects access to high-quality pigments typical of ecclesiastical commissions. The fine quill line work and precise Gothic textura indicate a professional atelier, perhaps associated with Parisian scriptoria. Iconographically, the depiction of a deacon performing a healing miracle underscores contemporary emphases on clerical authority and the didactic value of saints’ lives for private devotion. The raised gesso and punchwork patterns beneath the gold background demonstrate technical sophistication and a desire for three-dimensional effect. Compositional conventions—hierarchical scaling, overlapping figures, and minimal architectural accoutrements—place the focus squarely on the interpersonal drama of miraculous intervention. Textually, the Old French rubric above the scene connects directly to vernacular moral teachings, suggesting the manuscript served as both devotional and pedagogical aid. Comparisons with the Psalter of Blanche of Castile reveal stylistic affinities in color application and framing. This folio thus bridges tradition and innovation, marrying classical compositional restraint with emerging Gothic expressiveness to reinforce theological and social ideals of 13th-century Christendom."
+  }
+}

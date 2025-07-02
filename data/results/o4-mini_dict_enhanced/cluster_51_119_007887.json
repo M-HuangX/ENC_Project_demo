@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full‐page framed illustration occupying the upper two‐thirds of the folio, bounded by a simple red fillet; a single column of Latin text in a smaller hand runs beneath the image, separated by a blank band",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Gothic cursiva libraria with marginalia‐style inscription script"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "red ochre wash",
+          "ultramarine-like blue",
+          "white highlights",
+          "brown ink outlines"
+        ],
+        "color_usage": "Restricted palette applied in flat washes; red ochre defines architecture and merchant’s robe, blue reserved for the customer’s cloak to denote status, white used sparingly for highlights; no metallic pigments, pigments are well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Interior shop framed by two slender columns and a straight counter",
+          "Horizontal roof structure aligned with top of frame",
+          "Merchant and customer placed on either side of counter in near mirror positions",
+          "Orthogonal combination of elevation (roof façade) and plan (counter surface)"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red fillet border framing image"
+      ],
+      "drawing_technique": {
+        "line_style": "Pen-drawn brown ink outlines of consistent weight with minimal variation",
+        "shading_method": "Flat color washes with little to no gradation or hatching",
+        "perspective_handling": "Rudimentary oblique perspective; counter shown in plan, roof in elevation, no vanishing point"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "commercial transaction",
+        "trade and craft",
+        "medicinal apothecary"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "One interior scene of a late medieval apothecary or merchant’s shop. The shop is rendered as a single bay framed by two slender columns supporting a low red-ochre roof. At center left, a seated vendor in a red robe and white coif extends a small bowl or jar toward a standing customer on the right. The customer wears a long blue cloak over a white under-tunic, his right hand reaching forward to receive the vessel. Behind the merchant, multiple pouches or small jars hang from a horizontal beam, suggesting storage of powders or spices. To the left of the vendor is a stack of folded cloths or wrapped packages. A gridded window on the right wall admits light. The counter divides the foreground from the back wall. Spatially, the figures occupy the midplane, with the roof overhead and the counter surface in plan view. The scale of figures is roughly life-size relative to the architectural framing. The merchant’s garment is lined and belted, indicating professional status; the customer’s cloak is voluminous and dyed blue, signifying wealth or urban standing."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Merchant in red robe and white coif, seated behind counter, handing a bowl or jar",
+          "Customer in long blue cloak over white tunic, standing at counter, right hand extended"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Counter with plan-view surface",
+        "Hanging pouches or jars behind merchant",
+        "Small bowl or jar exchanged between hands",
+        "Stacked wrapped packages or cloths"
+      ],
+      "architectural": [
+        "Open shop front with two slender columns",
+        "Low pitched roof in elevation with clerestory openings",
+        "Arched openings at sides",
+        "Gridded window on right wall"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Medium-quality calfskin vellum, buff-toned, prepared with a smooth, pumiced surface; folio assembled as part of a quaternion gathering",
+      "preservation_condition": "Overall good; pigments retain original hue with minimal fading, slight cockling at margins, minor flaking in red-ochre areas, no significant loss of support",
+      "notable_physical_characteristics": [
+        "Ruling lines visible under UV for text and image boundaries",
+        "Subtle underdrawing in brown ink beneath washes",
+        "Brush-applied flat washes without gesso ground",
+        "No evidence of gold leaf or raised decoration"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "reference for apothecaries",
+        "demonstration of learned materia medica"
+      ],
+      "intended_audience": "Medical practitioners, apothecaries or scholarly students in a monastic or university context"
+    },
+    "scholarly_interpretation": "This illustration appears in a fifteenth-century compendium of materia medica or commercial practice, likely produced in a northern European workshop associated with a monastic scriptorium or university milieu. The restrained palette of red ochre and ultramarine-like blue, together with the absence of gilding, suggests a production aimed at practical instruction rather than opulent display. The depiction of the apothecary’s shop—with hanging containers, stacked packages and the measured exchange of a bowl—reflects contemporary concerns with the preparation and sale of medicinal substances. The schematic blending of plan and elevation recalls Germanic architectural conventions of the period, while the Gothic cursive inscription below situates the item in a scholastic context. Iconographically, the image underscores the growing systematization of trade knowledge in the late Middle Ages, when physicians and apothecaries required visual aids to distinguish powders and preparations. Comparisons with Italian and French manuscripts show that this northern exemplar privileges didactic clarity over decorative excess. The artisan’s use of fine underdrawing and crisp ink outlines points to a practiced workshop hand, likely collaborating with a medical scholar responsible for the Latin text. Overall, the page bridges artisanal practice and academic learning, embodying the transitional nature of late medieval manuscripts as both tools of instruction and portable repositories of technical expertise."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Decorated initial letter"
+      ],
+      "layout_style": "Single column of text beneath a full-width rectangular illustration; a large historiated panel at top with rubricated Latin text beginning with a gold-on-blue ornamental initial and occasional vegetal sprays in the margins.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis with professional book hand execution, extensive use of abbreviations, rubrication in red ink, and occasional uncial majuscule flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "verdigris green",
+          "vermillion red",
+          "burnished gold leaf",
+          "lead white",
+          "carbon black"
+        ],
+        "color_usage": "Gold leaf reserved for the initial and panel border, blue used for the central figure's robe (associating importance), green for plants indicating botanical subject, red rubrication for textual emphasis. Colors are layered with white highlights and minimal oxidation, original pigments remain vivid."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Triadic grouping with central female figure and two flanking harvesters",
+          "Horizontal wooden platform acting as a stage for the action",
+          "Overlapping of baskets and tools to suggest spatial depth",
+          "Balanced placement of a tree at left and architectural doorway at right",
+          "Distant rolling hills providing atmospheric perspective"
+        ]
+      },
+      "decorative_elements": [
+        "Broad red frame around the illustration panel",
+        "Gold-on-blue historiated initial 'N' with foliate infill",
+        "Small green vegetal sprays in text margins",
+        "Rubricated keywords in the text",
+        "Subtle punchwork pattern under gold leaf on the initial"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink outlines drawn with a quill pen, consistent line weight defining figures and foliage",
+        "shading_method": "Flat areas of color with minimal hatch shading, white highlights on robes and basket rims",
+        "perspective_handling": "No true linear perspective; depth indicated by overlapping figures, receding size of plants, and elevated horizon line"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Cultural references",
+        "Medieval horticulture"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single full-width scene depicts three figures harvesting plants on a wooden platform. At center stands a woman in a long ultramarine gown with white headcover, carrying a woven wicker basket suspended from a wooden shoulder yoke. To her left, a male laborer in a red tunic, black hat and hose holds freshly cut green stalks in both hands. To her right, a youth emerging from a stone doorway wears a pink tunic and black hose, bearing a second basket on a yoke. The platform is delineated by horizontal planks; beyond, stylized rows of green plants extend toward low golden hills under a pale blue sky. Figures overlap minimally to suggest shallow depth. Costumes indicate peasant labor: simple woolen tunics, hood or headcloth, sturdy leather shoes. Each basket is woven of brown wicker with visible twining. The architectural element—a pointed arched doorway—anchors the right side, balanced by a broad-leaved tree on left. Actions: cutting, lifting, transferring stalks into baskets. No divine or regal symbols, emphasizing practical agricultural labor. Secondary decorative features include the red frame around the image and marginal vegetal sprays. Direct connection to text: the heading discusses the qualities of a hot, dry nature (Latin 'Naturae calidae et siccae') appropriate to this botanical subject, linking image and medical context. The initial 'N' launches the textual prescription, visually reinforced by the painted panel above."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Central female gatherer in a long blue gown, white headcover, carrying a wicker basket on a yoke",
+          "Male laborer in red tunic and black hat holding cut green stalks",
+          "Youth in pink tunic emerging from stone doorway, bearing a second basket on a yoke"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Woven wicker baskets with wooden handles",
+        "Wooden shoulder yoke",
+        "Cut medicinal plant stalks"
+      ],
+      "architectural": [
+        "Stone building façade with pointed arched doorway and jambs"
+      ],
+      "natural": [
+        "Broad-leaved tree at left",
+        "Stylized rows of green plants in background",
+        "Rolling golden hills under pale blue sky"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, uniformly thin with smooth scraped surface; ruled in lead point for text and panel boundaries",
+      "preservation_condition": "Excellent overall; vivid pigment colors with minimal flaking, slight cockling at lower corner, no major discoloration",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf creating slight relief",
+        "Visible underdrawing in brown ink beneath paint layers",
+        "Regular punchwork pattern beneath gold in initial 'N'",
+        "Fine brush strokes visible in foliage highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for herbal knowledge",
+        "Display of patron’s scholarly interests"
+      ],
+      "intended_audience": "Individual patron (scholar or physician)"
+    },
+    "scholarly_interpretation": "This leaf, likely from a 14th-century European herbal or medical compendium, illustrates the intersection of practical horticulture and learned medicina. Created on fine calfskin in a professional workshop, the painted panel and ornate initial reflect a high-status commission, perhaps for a physician’s reference or a noble’s private collection. The visual emphasis on the medicinal plant—harvested by peasant laborers under the supervision of a central female figure in luxurious blue robe—bridges class distinctions, indicating both the social organization of labor and the botanical expertise valued by elite readers. Stylistically, the scene demonstrates the transitional Gothic approach to space: overlapping forms and receding plant rows suggest depth without strict linear perspective, while delicate underdrawing and layered pigments reveal technical virtuosity. Iconographically, the absence of divine or courtly symbolism underscores the secular, scientific focus of the manuscript. The rubricated heading (‘Naturae calidae et siccae…’) directly corresponds to humoral theory, linking the plant’s hot and dry qualities to medical application. Comparatively, this illumination shares affinities with contemporaneous French and Italian herbals—particularly in its balanced compositions and vegetal marginalia—yet innovates through the integration of architectural framing and a prominently featured female harvester. Overall, the leaf exemplifies the transmission of botanical knowledge in the later Middle Ages, blending scholarly text, didactic imagery, and luxurious materials within a cohesive visual program."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "lavement des pieds",
+      "repas du christ",
+      "apôtres",
+      "cène",
+      "halo",
+      "table",
+      "encolure",
+      "nourriture",
+      "coupes",
+      "vêtements",
+      "geste",
+      "architecture",
+      "rideau"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 13,
+    "total_textual_elements": 0,
+    "total_identified": 13,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

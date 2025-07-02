@@ -1,0 +1,141 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence",
+        "decorated initial letter",
+        "standalone illustration"
+      ],
+      "layout_style": "Single full-width rectangular mini­ature at the top of the folio, framed in a simple red line border; beneath, a single column of text in Gothic textura hand, with a rubricated red initial 'E' marking the opening of the passage.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura libraria, professional book hand with regular line spacing, extensive use of abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "minium red (ground)",
+          "azurite blue",
+          "verdigris green",
+          "lead white",
+          "iron-gall brown outlines"
+        ],
+        "color_usage": "The red ground unifies both episodes; blue garments denote principal figures; green used sparingly for secondary garments; lead white for highlights on faces and halos; layered flat application with minimal shading, original pigments well-preserved."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "two side-by-side narrative episodes",
+          "linear left-to-right progression",
+          "figures overlapping to suggest depth",
+          "balanced spacing between scenes"
+        ]
+      },
+      "decorative_elements": [
+        "simple red line border around image and text",
+        "rubricated initial 'E'",
+        "ink ruling visible in margins",
+        "red paragraph marker in text"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine iron-gall ink outlines with uniform weight",
+        "shading_method": "Flat color fields with minimal hatching, white highlights on drapery folds",
+        "perspective_handling": "Hierarchical scaling without linear perspective, slight overlapping to suggest depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "divine attributes",
+        "mockery of Christ",
+        "judicial authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "left panel",
+            "subject": "Christ presented before Pilate",
+            "relationship_to_next": "Pilate’s judgment leads to the mockery of Christ by soldiers",
+            "visual_connections": [
+              "continuous red ground across both panels",
+              "Christ’s blue robe echoed in soldier’s tunic in next scene",
+              "white halo motif repeated",
+              "brown bench shape mirrored by soldiers’ staves",
+              "gesture of seated figure points toward right"
+            ]
+          },
+          {
+            "position": "right panel",
+            "subject": "Christ mocked by soldiers before Pilate",
+            "relationship_to_next": "Continuation of the Passion narrative from the presentation scene",
+            "visual_connections": [
+              "same red background",
+              "consistent figure scale",
+              "recurring blue garments",
+              "white halo for Christ",
+              "Pilate’s pointing gesture parallels first panel"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "minium red ground throughout",
+          "uniform figure scale and style",
+          "white halo for sacred figure",
+          "fine brown ink outlines",
+          "flat, layered pigment application"
+        ]
+      },
+      "scene_description": "Two sequential scenes occupy the top third of the folio. In the left panel, Christ, robed in brown with a white halo, is seated on a low grey bench facing Pontius Pilate (in green tunic), flanked by two kneeling attendants in azurite blue. The figures overlap slightly, creating a shallow spatial recession. Faces are rendered with a few strokes of lead white and brown ink. In the right panel, two soldiers in green and blue restrain Christ (haloed, brown robe), while Pilate, draped in a green cloak, gestures toward him. Both episodes share the same minium red ground and crowding of figures. Costume details include pleated hems, fitted coifs on soldiers, and simple laced sandals. Drapery folds are indicated by white highlights. The composition emphasizes Christ’s calm centrality, with supporting figures turned inward. The transition from judgment to mockery is conveyed by gestures and figure orientation."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with white halo"
+        ],
+        "secular": [
+          "Pontius Pilate in green tunic",
+          "two soldiers in blue and green garments"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth scraped surface, uniform thickness; single quire folio ruled in lead point.",
+      "preservation_condition": "Excellent; vivid pigments with minimal flaking, slight cockling at folio edges, no modern repairs visible.",
+      "notable_physical_characteristics": [
+        "Visible ruling lines at 5 mm intervals",
+        "Brown ink underdrawing detectable under UV",
+        "Flat, layered pigment application",
+        "No gold leaf or gesso relief",
+        "Sharp, even text margins"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for preaching",
+        "Display of religious narrative"
+      ],
+      "intended_audience": "Individual patron for personal devotional use"
+    },
+    "scholarly_interpretation": "This double-scene miniatur e likely emanates from a mid-14th-century French workshop, reflecting the period’s private devotional emphasis on the Passion narrative. The use of minium red as a unifying ground and the restrained palette—azurite blue, verdigris green, lead white—demonstrates economical color choice typical of university-district illuminators outside Paris’s luxury ateliers. The paired episodes, presented in a linear sequence, emphasize Christ’s trial and mocking, catering to meditative reading practices. The Gothic textura script and rubrication suggest a professional scribe’s work, while the absence of gold leaf points to a modest patron’s commission. Iconographically, Christ’s serene demeanor underlines theological ideals of redemptive suffering, while Pilate’s accusatory gesture and the soldiers’ rough handling reinforce moral contrasts between divine forbearance and human cruelty. Comparisons with contemporary Books of Hours reveal similar narrative splits and rubricated initials but often more lavish gilding. Here, technical features such as visible underdrawing and uniform ruling indicate a single-hand production, perhaps for a scholastic or lay audience of restrained means. The miniatures’ linear clarity and focused composition mark a fusion of Parisian precision with provincial economy, bridging luxury and accessibility in mid-century devotional manuscripts."
+  }
+}

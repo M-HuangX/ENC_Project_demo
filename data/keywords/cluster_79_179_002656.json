@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "Texte illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archange",
+      "saint marcel pape",
+      "chrétien",
+      "architecture",
+      "ange",
+      "saint augustin",
+      "trône",
+      "victoire",
+      "saint marc",
+      "verge fleurie d'aaron"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

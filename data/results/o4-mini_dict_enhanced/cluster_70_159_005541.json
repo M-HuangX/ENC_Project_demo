@@ -1,0 +1,124 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Manuscript page with marginal illustrations",
+        "Standalone illustration"
+      ],
+      "layout_style": "Single central full-page illumination bordered on all sides by intricate vine scrolls and grotesques; no text interwoven into the image field, text block presumably on verso or following folio.",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "leaf green",
+          "ochre yellow",
+          "burnished gold leaf",
+          "white lead highlights",
+          "sepia/brown earth pigments"
+        ],
+        "color_usage": "Gold leaf reserved for haloes and border highlights; ultramarine background for heavenly emphasis; red and blue garments denote Mary and John respectively; layered pigments with white lead highlights on drapery; green and ochre in secondary robes; border vines alternate gold, red and blue for visual rhythm; pigments are well-preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Vertical cross at center divides scene",
+          "Group of mourners clustered at cross base",
+          "Diagonal axis from upper right (Nicodemus) to lower left (Mary Magdalene)",
+          "Overlapping figures create illusion of depth",
+          "Heavenly angels float in upper left and right corners"
+        ]
+      },
+      "decorative_elements": [
+        "Acanthus vine scroll border with gold bezants and stylized leaves",
+        "Grotesque hybrid creatures in lower margin",
+        "Cherub head at upper border apex",
+        "Micro-architectural framing fillet in gold around illumination"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen lines with varied weight; bold outlines define figures; fine internal detail in faces and drapery folds.",
+        "shading_method": "Parallel hatching and subtle tonal modulations in flesh tones; white lead highlights accentuate robes and halos.",
+        "perspective_handling": "Hierarchical scaling and overlapping elements suggest depth; no use of geometric linear perspective."
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "lamentations sur le Christ mort",
+        "angelic intervention",
+        "devotional sorrow"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The full-page illumination depicts the Deposition of Christ: seven figures occupy the foreground against a deep ultramarine sky. At center Christ’s slender, lifeless body (pale flesh tones, white lead highlights) is being lowered by Joseph of Arimathea (yellow robe, white beard) and Nicodemus (red cloak) from a rugged wooden cross. A ladder rests at right; Nicodemus supports Christ’s torso while Joseph steadies his legs. Below, the Virgin Mary (blue mantle over red gown) swoons, supported at left by Saint John the Evangelist (red cloak over green tunic). To the right kneels Mary Magdalene (green tunic, maroon skirt), hands raised in grief. Two angels hover at upper left and right, one holding a chalice to catch Christ’s blood, the other raising hands in lament. The ground is rendered as grassy turf with stylized hills in the distance. Each figure overlaps the next, creating depth. Costume details include gold-trimmed hems, carefully modeled drapery folds, and individual facial expressions of sorrow. The central vertical axis of the cross organizes the composition, while diagonal gestures lead the eye from the ladder to the grieving group."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ on cross",
+          "Virgin Mary in blue mantle",
+          "Saint John the Evangelist in red cloak",
+          "Joseph of Arimathea in yellow robe",
+          "Nicodemus in ochre and red",
+          "Two mourning angels"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Wooden cross with INRI plaque",
+        "Ladder",
+        "Nails",
+        "Angel’s chalice"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Grassy turf",
+        "Stylized distant hills",
+        "Deep blue sky",
+        "Border vines and acanthus leaves",
+        "Grotesque creatures"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum leaf, smooth and evenly prepared; plummet-ruled framing lines visible under UV; part of a quaternion gathering.",
+      "preservation_condition": "Very good: pigments remain vivid, gold leaf burnished with minimal abrasion; slight cockling at folio edges; no major flaking.",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf in haloes and border",
+        "Underdrawing traces visible under infrared reflectography",
+        "Punchwork dotting in gold background",
+        "Regular plummet ruling for borders"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Aide-mémoire for meditation"
+      ],
+      "intended_audience": "Individual lay patron (noblewoman’s book of hours)"
+    },
+    "scholarly_interpretation": "This illumination, likely produced in a Paris workshop ca. 1410–1420, exemplifies the International Gothic style’s elegant linearity and sumptuous color. The strong ultramarine sky, lavish gold leaf and refined vine border reflect the high-quality materials commissioned by a noble patron. The scene’s devotional focus on the deposition caters to private meditation on Christ’s Passion, a popular theme in early 15th-century Books of Hours. The fluid quill work and underdrawing indicate a two-handed production: a master for figures and a journeyman for border ornament. Its iconography—swooning Mary, supportive John, and angels collecting Christ’s blood—underscores the theological emphasis on Christ’s sacrificial humanity and the Virgin’s compassion. Comparisons with the Hours of Jeanne d’Evreux reveal similar border grotesques and cherubic heads, while the emotional restraint aligns with Flemish influences reaching Paris. This leaf bridges French elegance and emerging Netherlandish naturalism: overlapping figures create spatial depth without strict perspective, and detailed facial expressions intimate individual grief. The piece thus stands at a stylistic crossroads, merging established devotional iconography with nascent observational detail, reflecting both tradition and innovation within early 15th-century manuscript illumination."
+  }
+}

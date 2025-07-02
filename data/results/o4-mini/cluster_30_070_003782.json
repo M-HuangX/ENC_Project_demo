@@ -1,0 +1,122 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Manuscript page with marginal illustrations"
+      ],
+      "layout_style": "Full-page illumination framed by Gothic micro-architectural border; illustration occupies central space in two registers with upper coronation scene and lower castle interior beneath a tiled roof; two-line red-and-blue rubric below; wide margins with decorative ivy extending into frame",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata with red rubric, professional book hand"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "leaf green",
+          "burnished gold leaf",
+          "white lead"
+        ],
+        "color_usage": "Gold leaf reserved for frame, halos, and diapered backgrounds to signify divine and royal authority; ultramarine ground behind figures denotes heavenly realm; red garments mark power and ceremonial importance; layered application with white-lead highlights on drapery folds; alternating red and blue in border niches; pigments are original and well-preserved"
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "two-tier register composition",
+          "central vertical axis aligning pope and king",
+          "overlapping figures indicating depth",
+          "gestural lines directing gaze to coronation act",
+          "symmetrical framing by micro-architectural towers"
+        ]
+      },
+      "decorative_elements": [
+        "Gothic micro-architecture with pinnacles and tracery",
+        "acanthus and ivy leaf marginalia",
+        "diapered gold background in upper scene",
+        "arched niches with decorative brickwork in lower register",
+        "foliate finials and punchwork patterns"
+      ],
+      "drawing_technique": {
+        "line_style": "Crisp quill-pen outlines with varying line weights and fluid strokes",
+        "shading_method": "Parallel and cross-hatching in drapery combined with white-lead highlights for volume",
+        "perspective_handling": "Hierarchical scaling without linear perspective; spatial depth suggested by overlapping registers"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Historical",
+      "sub_themes": [
+        "Political messages",
+        "Religious elements",
+        "Ceremonial ritual"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Primary Scene Analysis: Upper register depicts the coronation of a kneeling monarch by a robed pope. The pope, wearing a pale pink miter and holding a gold crozier, stands to the right of the composition, placing a jeweled crown upon the bowed head of the kneeling king, clad in a blue tunic and red cloak with fur trim. Flanking the central figures are two clerics in red and blue robes gesturing toward the event, while an armored knight to the far right holds an inscribed scroll blessing the ceremony. This moment is set beneath a tiled red roof supported by painted columns against a diapered gold background. Spatial Organization: A strong vertical axis aligns the pope and king, with secondary figures receding in shallow relief. The kneeling figure’s reduced scale emphasizes his subordination. Depth is suggested through overlapping and the angled roofline. Costume and Equipment Details: The pope’s vestments bear faint fleur-de-lis diapering; the king’s cloak shows brush-stroke brocade patterns; the knight’s mail is rendered with fine white-lead dots. Secondary Elements: The frame’s Gothic pinnacles and foliate finials highlight ceremonial grandeur. The lower register shows a fortified city with arched niches containing vignettes of a scribe at a desk, a seated donor, and a small boat on a river beneath the castle. Symbolic Components: The crown, crozier, and scroll signify divine sanction and legal authority. Compositional Focus: Visual weight centers on the coronation; the lower city scene provides contextual narrative. Visual-Textual Relationships: The red-and-blue rubric echoes the painting’s palette; painted scroll text parallels the written blessing below."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "pope in miter and vestments",
+          "two clerics gesturing blessing"
+        ],
+        "secular": [
+          "kneeling king in blue and red cloak",
+          "armored knight holding scroll"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "jeweled crown",
+        "gold crozier",
+        "inscribed scroll",
+        "book on scribe’s desk",
+        "boat"
+      ],
+      "architectural": [
+        "Gothic micro-architectural frame with pinnacles",
+        "tiled red roof on columns",
+        "arched brick castle façades",
+        "decorative buttressed niches"
+      ],
+      "natural": [
+        "ivy leaf marginalia",
+        "undulating river beneath castle"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness and smooth, pumiced surface; regular quaternion gathering with visible ruling pattern; page dimensions approximately 30×20 cm",
+      "preservation_condition": "Vivid pigments with minimal oxidation; slight flaking in red lead areas; gold leaf remains bright; minor corner cockling; evidence of modern stabilization on lower margin",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf in frame",
+        "Underdrawing visible under UV in figure outlines",
+        "Plummet ruling for text and image borders",
+        "Layered pigment application with visible brush strokes",
+        "Punchwork decoration in gold diapered backgrounds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Display of status",
+        "Memory aid"
+      ],
+      "intended_audience": "Individual patron (noble’s court)"
+    },
+    "scholarly_interpretation": "Produced in a Parisian workshop during the mid-14th century, this folio exemplifies the intersection of political propaganda and high artistry. The coronation scene, likely representing Emperor Charlemagne’s investiture by Pope Leo III, invokes Carolingian precedent to legitimize Capetian royal authority amid contemporary tensions between the French crown and the Avignon papacy. Technically, the miniature showcases burnished gold leaf applied over gesso, ultramarine backed by white-lead highlighting, and meticulous quill underdrawing, indicating both master and assistant collaboration typical of the First School of Paris. Iconographically, the fleur-de-lis diapering on the pope’s vestments and the inscribed blessing scroll reinforce dynastic continuity and divine sanction. The lower city register, with interior vignettes of a scribe and a riverine boat, provides a visual counterpoint linking ceremonial grandeur to secular governance. The decorative frame’s pinnacles and ivy marginalia mirror those in the Psalter of Queen Jeanne d’Évreux, suggesting workshop connections and shared patronage networks. Yet the emphasis on secular-ceremonial narrative distinguishes this piece from purely devotional manuscripts, reflecting a shift toward historical demonstration of power. Overall, the illumination merges traditional iconography with innovative compositional registers, serving both as didactic history and a luxurious display of technical excellence."
+  }
+}

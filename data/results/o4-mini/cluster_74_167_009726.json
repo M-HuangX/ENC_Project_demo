@@ -1,0 +1,137 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two-register vertical narrative layout: upper and lower compartments separated by a horizontal rule, each frame defined by simple penwork borders; text appears in running headers above and captions below, visually framing the scenes.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis with moderate angularity and uniform letterforms, professional book hand with regular use of ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "minium red",
+          "iron-gall brown ink",
+          "lead white ground"
+        ],
+        "color_usage": "The green wash dominates the garments in both scenes, providing continuity; red accents highlight hair and animal details; brown ink outlines define all figures with clarity; flat washes without modeling emphasize narrative legibility; pigments are well-preserved, with only slight fading in red areas."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two-tiered narrative registers",
+          "Horizontal rule dividing scenes",
+          "Figures oriented to guide eye from upper to lower",
+          "Simple rectangular frames",
+          "Uniform framing line weight"
+        ]
+      },
+      "decorative_elements": [
+        "Rectangular penwork frames",
+        "Horizontal dividing line"
+      ],
+      "drawing_technique": {
+        "line_style": "Consistent brown ink outlines drawn with quill, minimal variation in weight, no flourishing",
+        "shading_method": "Flat color washes applied over outlines without hatching or chiaroscuro",
+        "perspective_handling": "Flat, hierarchical scaling of main figure over animals, no attempt at spatial recession"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine judgment",
+        "Transformation",
+        "Animal symbolism",
+        "Royal authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top to bottom"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper register",
+            "subject": "King Nebuchadnezzar addressed by a heavenly figure",
+            "relationship_to_next": "Divine warning leads to king’s transformation in the lower scene",
+            "visual_connections": [
+              "Green drapery in the angel echoes green mane in lower beasts",
+              "Brown ink outlines are identical in both registers",
+              "Angel’s downward gesture points toward lower scene",
+              "Horizontal rule suggests horizon between scenes",
+              "Red highlights in hair match red accents on beast ears"
+            ]
+          },
+          {
+            "position": "Lower register",
+            "subject": "Nebuchadnezzar as bestial figure among beasts",
+            "relationship_to_next": "Consequence of divine address above",
+            "visual_connections": [
+              "Crouched posture mirrors king’s bent stance above",
+              "Green wash on beast’s body repeats garment hue",
+              "Outline style remains uniform",
+              "Frame lines enclose both registers similarly",
+              "Red ochre on animal features recalls upper highlights"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent use of verdigris green wash",
+          "Uniform brown ink outlines",
+          "Identical rectangular framing",
+          "Horizontal rule dividing registers",
+          "Hierarchical sizing of main figure above animals"
+        ]
+      },
+      "scene_description": "The upper register depicts King Nebuchadnezzar kneeling in a voluminous green robe and conical crown, his right hand resting on his knee, as a haloed heavenly figure emerges from cloud-like drapery at right, extending both hands toward him. The king’s facial features are rendered in fine brown ink lines, with red ochre accents in his beard and crown. The scene is enclosed in a simple rectangular border. In the lower register, Nebuchadnezzar appears transformed into a bestial creature: his body covered in green wash, hands and feet on the ground, head crowned with horns and wild hair. He crouches among four stylized beasts—a donkey, horse, ox, and another horned creature—each outlined in brown ink with minimal wash. The beasts are arranged in a compact group, their bodies overlapping to suggest cramped space. There is no landscape background; the focus remains on the interaction of figures. Both registers maintain flat washes and uniform line weights, emphasizing narrative clarity over spatial depth."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Heavenly figure (angel) with halo"
+        ],
+        "secular": [
+          "King Nebuchadnezzar in conical crown and long green robe"
+        ],
+        "symbolic": [
+          "Bestial Nebuchadnezzar figure with horns representing divine transformation"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth surface with faint hair-follicle pattern, lightly ruled for frames and text",
+      "preservation_condition": "Vivid pigment remains with slight red flaking and minor parchment cockling; evidence of past washing but minimal modern intervention",
+      "notable_physical_characteristics": [
+        "Visible underdrawing in brown ink beneath washes",
+        "Regular ruling lines forming frames",
+        "Flat color application without gesso or punchwork",
+        "Even parchment tone throughout",
+        "Absence of metallic leaf"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational (scholarly commentary)",
+      "secondary_functions": [
+        "Memory aid",
+        "Visual reminder of biblical story"
+      ],
+      "intended_audience": "Institutional use (university teaching)"
+    },
+    "scholarly_interpretation": "This mid-13th-century illustration, likely from a scholastic Bible or exegetical manuscript produced in a university context, reflects a didactic approach to the Book of Daniel. The two-tiered format underscores the cause-and-effect structure of Daniel 4: the upper register shows the divine warning to Nebuchadnezzar, while the lower depicts his beastly transformation. The sparse palette of verdigris green, minium red, and brown outlines prioritizes narrative legibility over courtly luxury, aligning with the manuscript’s pedagogical function. The use of flat washes and uniform line weight suggests a workshop practiced in efficient mass-production for academic audiences rather than aristocratic display. Iconographically, the horned, bestial form of the king among domestic beasts emphasizes themes of humbling and divine sovereignty. The absence of landscape or gold leaf further signals a focus on moral lesson rather than devotional splendor. Comparatively, the schematic treatment recalls Oxford and Paris workshops of the 1240–1260 period, where didactic imagery in theological commentaries often employed similar framing and coloring. This page thus bridges biblical exegesis and visual pedagogy, illustrating the king’s hubris and divine judgment with clarity and economy of means."
+  }
+}

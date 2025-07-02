@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "filename": "cluster_17_043_001146.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:20:32.884564",
+    "image_size": 376031
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Full‐width horizontal band miniature with three distinct episodes set within a decorative border; no accompanying text on this folio, image occupies the entire page center framed by wide polychrome margins",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "azurite blue",
+          "verdigris green",
+          "minium red",
+          "lead white"
+        ],
+        "color_usage": "Gold leaf reserved for halos and border bezants, creating hierarchy for holy figures; ultramarine‐like blue and red alternate in border and drapery to lead the eye; layered application of white highlights on robes for volume; green used for stylized ground; overall colors well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Three episodes read left to right",
+          "Figures overlap border of adjacent scenes for continuity",
+          "Cloud banding above unifies all scenes",
+          "Ground plane runs continuously beneath figures"
+        ]
+      },
+      "decorative_elements": [
+        "Polychrome border with alternating blue and rose panels and white scrollwork",
+        "Gold bezants at frame corners",
+        "Stylized cloud band linking all scenes"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in brown ink with faint underdrawing visible under magnification",
+        "shading_method": "Sparse hatching and lead-white highlights to model drapery folds",
+        "perspective_handling": "Hierarchical scaling of figures by importance rather than true recession; overlapping forms for depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 3,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "angelic inspiration",
+        "divine revelation",
+        "authorial authority",
+        "evangelist iconography"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left",
+            "subject": "St John the Evangelist seated writing with his eagle symbol",
+            "relationship_to_next": "Leads to central vision scene",
+            "visual_connections": [
+              "Ground plane continues to central scene",
+              "Gold halo echoes central figure halos",
+              "Blue drapery folds mirror those of central angel"
+            ]
+          },
+          {
+            "position": "Center",
+            "subject": "Angel holding a scroll aloft in revelation",
+            "relationship_to_next": "Proceeds to right‐hand preaching depiction",
+            "visual_connections": [
+              "Cloud band unites center and right",
+              "Gold leaf in scroll echoes border bezants",
+              "Green in angel’s tunic reprises ground color beneath right figure"
+            ]
+          },
+          {
+            "position": "Right",
+            "subject": "St John standing, holding staff and open Gospel book",
+            "relationship_to_next": "None",
+            "visual_connections": [
+              "Halo treatment matches other two scenes",
+              "Red cloak echoes border panels",
+              "Staff vertical aligns with border edge"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Gold halos throughout",
+          "Continuous patterned border",
+          "Stylized cloud motif linking scenes",
+          "Unified ground plane under all figures",
+          "Consistent drapery treatment with white highlights"
+        ]
+      },
+      "scene_description": "This three‐part scene occupies a single horizontal miniature. On the left, St John the Evangelist sits barefoot on a low, mottled green and brown hillock, his feet exposed, clad in a red himation over a green tunic. He writes on a parchment scroll with a quill, a small eagle symbol perched on his left knee; a diminutive angel hovers above, whispering inspiration. In the center, a full-length winged angel stands, feet on the same continuous ground, clad in layered robes of blue and red edged with green, lifting a gilt‐edged scroll above his head; his feathers and flowing drapery create a vertical thrust. On the right, John appears again, standing bare-foot, wearing a brown-red cloak over green tunic, holding a long staff in his left hand and offering an open Gospel book in his right. Each figure is haloed in burnished gold. The three scenes are unified by a continuous mottled ground, a cloud band overhead painted in alternating blue and red washes, and a surrounding border of alternating blue and pink panels edged with white scrollwork and gold bezants."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "St John the Evangelist (seated writing)",
+          "angel of inspiration (small, left)",
+          "archangel presenting revelation (central)",
+          "St John the Evangelist (standing preaching)"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "parchment scroll",
+        "quill pen",
+        "open Gospel book",
+        "pilgrim’s staff"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized mottled hillock",
+        "decorative cloud band",
+        "decorative border foliage motif"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth flesh side used, uniform thickness, ruled lightly with plummet before painting",
+      "preservation_condition": "Overall excellent; pigments vibrant, minimal abrasion on red areas, gold leaf intact, slight corner cockling",
+      "notable_physical_characteristics": [
+        "Underdrawing in brown ink visible under UV",
+        "Raised gesso beneath gold halos",
+        "Punchwork denticles in gold border",
+        "Layered pigment brush strokes seen in drapery"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Memory aid for Gospel readings",
+        "Institutional identity of cathedral workshop"
+      ],
+      "intended_audience": "Cathedral clergy and educated laity engaging with Gospel text"
+    },
+    "scholarly_interpretation": "This miniature likely originates from a mid-13th-century French workshop serving a cathedral or high-status patron. The sequential depiction of St John the Evangelist—writing under divine inspiration, receiving a revelatory scroll from an angel, and presenting the completed Gospel—reflects a sophisticated program linking authorial activity, divine revelation, and ecclesiastical proclamation. The palette of ultramarine-like blue, minium red, and verdigris green, combined with extensive burnished gold, aligns stylistically with contemporaneous Parisian illuminations and suggests access to high-value pigments. Technical features such as raised gesso under halos, precise underdrawing, and punched gold bezants indicate a professional atelier practice. Iconographically, the inclusion of the eagle symbol and whispering angel harks back to earlier Insular and Ottonian evangelist portraits, while the narrative triptych format attests to evolving approaches in visual storytelling. Comparisons with the late 13th-century Psalter of Blanche of Castile reveal similar border scrollwork and color sequencing, while the dynamic drapery modeling shows influences of the English Channel School. The work balances traditional iconography with a novel sequential composition that underscores the continuity between text and image, reinforcing the didactic and devotional functions of the manuscript within its liturgical context."
+  }
+}

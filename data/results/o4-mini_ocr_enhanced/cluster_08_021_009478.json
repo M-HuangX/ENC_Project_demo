@@ -1,0 +1,144 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two horizontal registers framed by simple ruled lines, with text in a single column above the top register and below the bottom register; each register contains one scene, creating a clear linear visual hierarchy; narrow margins accommodate textual framing while the central images dominate the page.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis with cursive elements, professional book hand with numerous abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "azurite blue",
+          "verdigris green",
+          "red lead (minium)",
+          "iron-gall brown"
+        ],
+        "color_usage": "Gold leaf reserved for halos to denote divine and saintly figures; blue and green pigments apply to robes to indicate rank and ensure continuity between scenes; minium red accents drapery folds; white highlights layered over colored areas; the limited palette produces high contrast, and original pigments remain well-preserved, especially the azurite areas with minimal oxidation."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "two-register narrative arrangement",
+          "horizontal ground lines unifying scenes",
+          "balanced left-to-right figure placement",
+          "directional gestures guiding the viewer’s eye",
+          "absence of architectural framing to focus on figures"
+        ]
+      },
+      "decorative_elements": [
+        "simple ruled frame around scenes",
+        "gold-punched halos",
+        "text framing above and below the image",
+        "linear border lines dividing registers"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown quill outlines with consistent weight and occasional thicker contours to emphasize drapery edges",
+        "shading_method": "Minimal shading, flattened color fields with slight parallel hatching in drapery and linear white highlights",
+        "perspective_handling": "Hierarchical scaling on flat ground lines without converging perspective, depth suggested by overlapping drapery folds"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "apostolic commission",
+        "martyrdom",
+        "divine authority",
+        "death and burial"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top register left to right",
+          "Bottom register left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper register, left seated figure and right standing figure",
+            "subject": "Christ blessing the apostle upon commissioning him",
+            "relationship_to_next": "Prefigures the apostle’s martyrdom and burial depicted below",
+            "visual_connections": [
+              "Halo motif linking divine and saintly presence",
+              "Green robe hue echoed in lower left carrier’s garment",
+              "Gesture of blessing mirrored by outstretched hands holding the shroud",
+              "Continuous horizontal ground line across both registers",
+              "Parallel drapery fold treatment unifies composition"
+            ]
+          },
+          {
+            "position": "Lower register, two figures flanking and carrying the bier",
+            "subject": "Deposition and burial of the martyred apostle",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Supine body’s halo echoing divine sanction above",
+              "Ocher and blue cloth color continuity from upper scene",
+              "Parallel drapery folds connecting registers visually",
+              "Ground line matching that of the upper scene",
+              "Enclosing ruled frame around both registers"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Gold halos on divine and saintly figures",
+          "Horizontal ground lines unifying registers",
+          "Consistent palette of blue, green, and ochre",
+          "Parallel drapery fold patterns",
+          "Fine quill outline style throughout",
+          "Simple ruled framing delineating scenes"
+        ]
+      },
+      "scene_description": "Primary visual analysis: The folio is divided into two narrative registers. In the upper register, Christ sits on the implied throne line at left, his burnished gold halo and azurite-blue robe under an ochre cloak rendered with precise quill outlines. His right hand extends in blessing toward a standing apostle dressed in verdigris green, hands raised in receptivity. Both figures rest on a shared ground line without architectural backdrop. In the lower register, two disciples clad in green and ochre tunics flank a wooden bier draped with an ochre shroud, carrying the haloed body of the martyred apostle, whose supine form is defined by simple linear folds and minimal shading. Spatially, the scenes are flattened but clearly organized, each figure sized equally to emphasize narrative continuity. Secondary elements: The scene divisions are marked by ruled lines; text above and below integrates script with image. Halos in both scenes underscore divine commissioning and sanctity. The absence of naturalistic or architectural elements centers focus on human–divine interaction and the narrative transition from blessing to burial, guided by color echoes and directional gestures."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ (haloed, seated, wearing blue and ochre robes)",
+          "Commissioned apostle (standing, green robe)",
+          "Two disciples (carrying the apostle’s bier)"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "wooden bier",
+        "burial shroud"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth prepared surface showing hair-follicle pattern, uniform thickness; part of a quaternion gathering",
+      "preservation_condition": "Overall good; azurite blue and gold remain vibrant, slight abrasion on green areas, minor cockling at margins, evidence of earlier consolidation in lower register",
+      "notable_physical_characteristics": [
+        "Visible underdrawing traces beneath pigments",
+        "Raised gesso under gold halos",
+        "Regular graphite ruling for register divisions",
+        "Lead-white highlights on drapery folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for apostolic legend",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual noble patron for personal devotional use"
+    },
+    "scholarly_interpretation": "This two-register illumination, likely produced in a mid-13th-century northern French workshop, exemplifies the refined Gothic line style emerging under Louis IX. The use of fine quill outlines, minimal modeling, and a restrained palette of azurite, verdigris, and minium, combined with burnished gold halos, indicates high-quality materials chosen for a private Book of Hours. The parchment’s smooth finish and visible hair-follicle pattern confirm premium calf vellum, while underdrawing traces and gesso beneath halos attest to advanced technical execution. Iconographically, the juxtaposition of Christ’s blessing and the apostle’s burial underscores a theological program emphasizing divine commission and martyrial sanctity. The linear sequence and absence of architectural settings focus visual meditation on human-divine interaction, consistent with contemporary devotional practices. Comparisons to the Winchester Psalter reveal similar register divisions, but here the emphasis shifts from intricate backgrounds to clear narrative clarity. The gold-punched halos and white highlight tradition reflect cross-channel influences, while the narrative economy and expressive gestures point to innovations within established iconographic conventions. Overall, this folio balances traditional hagiographic imagery with Gothic elegance, serving both as an aide-memoire for private prayer and as a status symbol reflecting the patron’s devotion and wealth."
+  }
+}

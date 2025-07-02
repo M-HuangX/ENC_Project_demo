@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page miniature framed by a simple red ochre border; no accompanying text; three horizontal registers separated by thin red rules; composition fills nearly entire page; generous outer margins",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "yellow ochre",
+          "red ochre",
+          "grey-blue wash",
+          "brown ink outlines"
+        ],
+        "color_usage": "Yellow ochre used for halos, angel garments and beasts; red ochre alternates in drapery to distinguish individual angels; grey-blue wash reserved for background in top register; brown ink outlines define figures and architectural elements; minimal palette yields strong graphic clarity; pigments appear well-preserved with only slight fading in red areas"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Three horizontal registers conveying narrative progression",
+          "Thin red lines demarcate each register",
+          "Repetition of standing figures creates rhythmic flow",
+          "Lower register uses hierarchical scaling for John",
+          "Left-to-right visual movement guided by gestures and pouring liquid"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red ochre rectangular frame",
+        "Thin internal red ruling between registers"
+      ],
+      "drawing_technique": {
+        "line_style": "Uniform fine brown ink outlines with minimal variation in weight",
+        "shading_method": "Flat application of color with no hatch shading; drapery folds indicated by outline only",
+        "perspective_handling": "No linear perspective; figures arranged in stacked registers with hierarchical scaling"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine judgment",
+        "Eschatological imagery",
+        "Angelic ministry",
+        "Apocalyptic prophecy"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "This single full-page scene is organized in three stacked registers within a red frame. Top register: immediate left, a rectangular temple or ark façade in yellow ochre, flanked by four beasts—the winged man, lion, bull and eagle—all haloed and holding chalices. They occupy nearly equal space, facing right. Middle register: seven haloed angels stand in a line, each holding a bowl; the leftmost angel tilts his bowl, spilling stylized liquid in a broad stream to the lower register. Their garments alternate yellow ochre and red ochre cloaks over grey drapery; thin brown lines define folds. Bottom register: left group of six male figures in tunics (two yellow-cloaked, two red-cloaked, two grey-cloaked), standing close together, some with hands raised as if afflicted; right, a solitary haloed figure (St. John) in yellow cloak and grey tunic gazes left, a hand on his chest. Spatially, registers are flat—ground lines only—and scale is hierarchical: John appears slightly larger. The red frame emphasizes the autonomous pictorial program; no captions or text integrate with imagery."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "St. John the Evangelist in haloed yellow cloak"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Winged man (Evangelist symbol)",
+          "Lion (Evangelist symbol)",
+          "Bull (Evangelist symbol)",
+          "Eagle (Evangelist symbol)",
+          "Seven angels holding bowls"
+        ]
+      },
+      "objects": [
+        "Chalices or bowls of plague",
+        "Flowing liquid representing divine wrath"
+      ],
+      "architectural": [
+        "Yellow ochre temple/ark façade in top register"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with smooth, well-pumiced surface; even thickness and subtle hair-follicle pattern visible under magnification",
+      "preservation_condition": "Overall very good; pigments stable with minimal oxidation of ochres; slight cosmetic abrasion to red frame edges; no significant flaking",
+      "notable_physical_characteristics": [
+        "Underdrawing in brown ink visible around drapery folds",
+        "Faint plummet ruling delineates registers",
+        "Flat gesso preparation under yellow ochre areas"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Aide-memoire for eschatological preaching",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual patron or monastic devotional reader"
+    },
+    "scholarly_interpretation": "This full-page illumination of the Apocalypse reflects a mid-12th-century Romanesque workshop, likely in northern France, where a limited palette and linear draftsmanship served theological clarity. The use of registers separated by red ruling underscores a didactic function: viewers proceed from the four living creatures around the heavenly temple to the angels pouring the seven bowls of wrath, culminating in the human response and the visionary seer, St. John. The graphic economy—flat color fields with brown-ink contours—aligns with monastic expediency yet demonstrates careful planning, evidenced by underdrawing and gesso grounds. Iconographically, the evangelist beasts and angels with bowls adhere closely to Revelation 4 and 16, while the afflicted figures below embody the terrestrial consequences of divine judgment. The solitary John, marginally larger, establishes a focal pivot that bridges divine action and human witness. Comparatively, this sheet shares structural parallels with the Saint-Sever Beatus (ca. 1050) in its register format but exhibits a later stylistic restraint, foregoing lush ornament for narrative directness. Such austerity may reflect a shift toward personalized contemplation of the end times in the wake of 12th-century reform movements. The manuscript thus occupies an intersection of tradition and emerging devotional trends, where innovative compositional sequencing conveys complex eschatological theology with visual precision."
+  }
+}

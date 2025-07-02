@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "Secundus canon",
+    "modern_french_text": "Deuxième canon"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "colonne",
+      "ange",
+      "lion",
+      "paon",
+      "architecture",
+      "animal",
+      "archange"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ocr_results": {
+    "original_text": "In lectio prima\n\nEgitur ut variarentur illae varietates ac velut requireretur tanquam curriculum scriptorum ...\n\nDiter sapiesci aut religionis spiritualistimaque sed dẻseci ...",
+    "modern_french_text": "Première lecture\n\nAinsi que les diverses variations soient ajoutées comme si une course des écrits était requise ...\n\nSapience, sagesse ou de la plus spirituelle religion, etc."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnage debout",
+      "livre",
+      "église (architecture)",
+      "ornement",
+      "sacristain"
+    ],
+    "elements_textuels": [
+      "saint",
+      "temple",
+      "enseignement",
+      "évangéliste"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 4,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

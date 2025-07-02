@@ -1,0 +1,160 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two registers: the upper register is divided into two narrative panels by a central vertical bar, each panel framed in thin red and blue lines; the lower register is a continuous single scene spanning the full width, with red and blue rubricated text above each register. There are no marginal illustrations; text and image share the same ruled space.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, professional book hand with precise angular letterforms, extensive use of red rubrication and blue paraph marks"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "verdigris green",
+          "minium red",
+          "burnished gold leaf",
+          "lead white (for highlights)"
+        ],
+        "color_usage": "Ultramarine and verdigris are alternated in drapery to create visual rhythm; gold leaf is reserved for halos and divine accents; red and blue rubrication unifies text and image; white lead highlights model the folds of garments; overall palette remains well preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "Panels organized in registers",
+          "Vertical bar segregating upper scenes",
+          "Gestural lines guiding the viewer’s eye across panels",
+          "Haloed figures placed above groups of attendants",
+          "Architectural micro-frame around the tomb scene"
+        ]
+      },
+      "decorative_elements": [
+        "Thin red and blue framing lines around panels",
+        "Architectural micro-frame with pointed arch over the sarcophagus",
+        "Red drapery motif on the tomb canopy",
+        "Stylized ‘rockwork’ ground pattern beneath all figures",
+        "Minimal foliate corner motifs in panel borders"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines with varying weight to emphasize drapery edges and facial features",
+        "shading_method": "Sparse parallel hatching and white lead highlights to suggest volume in folds",
+        "perspective_handling": "Hierarchical scaling of figures and simple overlapping; no true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 3,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miracle",
+        "resurrection",
+        "divine authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Top left panel",
+          "Top right panel",
+          "Lower full-width scene"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper left panel",
+            "subject": "Jesus converses with two followers holding branches",
+            "relationship_to_next": "Gestural direction leads the eye toward the upper right panel",
+            "visual_connections": [
+              "Ultramarine drapery appears in both panels",
+              "Gold halo design is identical",
+              "Stylized ground motif continues",
+              "Jesus’s right hand gesture points into adjacent panel",
+              "Red rubric extends above both panels"
+            ]
+          },
+          {
+            "position": "Upper right panel",
+            "subject": "Jesus gestures toward a skeletal figure accompanied by an armed attendant",
+            "relationship_to_next": "Downward gesture anticipates the miracle of resurrection below",
+            "visual_connections": [
+              "Green drapery hue echoes lower scene",
+              "Halo style consistent across panels",
+              "Ground rockwork remains the same",
+              "Red and blue framing lines align vertically",
+              "Text rubric links across registers"
+            ]
+          },
+          {
+            "position": "Lower full-width scene",
+            "subject": "Resurrection with Jesus raising a figure from a tomb",
+            "relationship_to_next": "None",
+            "visual_connections": [
+              "Architectural framing color matches upper panels",
+              "Red and blue palette consistency",
+              "Gestures echo those above",
+              "Halo motif repeated",
+              "Ground pattern continuous"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent use of burnished gold halos",
+          "Repetition of ultramarine and minium in drapery",
+          "Continuous stylized rockwork ground",
+          "Uniform quill-pen line quality",
+          "Red and blue rubrication unites text and image"
+        ]
+      },
+      "scene_description": "The lower register depicts the central miracle: a haloed Christ, kneeling on a stylized rocky ground, wears a green and white himation with ultramarine lining. He raises his right hand in blessing and extends his left toward a sarcophagus draped in red cloth with blue trim beneath a pointed arch. From within the tomb emerges the resurrected figure, still partially wrapped in white bandages. To Christ’s left, four attendants stand in graduated height, wearing red and green tunics; one kneels at Christ’s feet in an attitude of supplication. The sarcophagus frame features slender columns supporting a tiled vault, and a diagonal beam of green pigment visually connects Christ’s gesture to the emerging figure. The spatial organization is shallow, with figures arranged in a horizontal band; scale is hierarchical, placing Christ larger than the rising figure. Costume details—white bandages with visible fold lines, the richly lined himation, and gold halos punched with a diamond pattern—signal divine and miraculous status. The tomb’s red drapery and architectural framing focus attention on the moment of emergence, while the attendants’ gestures and postures reinforce the central action."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Jesus Christ with halo and green-and-white drapery"
+        ],
+        "secular": [
+          "Two unnamed followers with branches (upper left)",
+          "Armed attendant with spear (upper right)"
+        ],
+        "symbolic": [
+          "Skeletal personification of death (upper right)"
+        ]
+      },
+      "objects": [
+        "Branches held by followers",
+        "Sarcophagus draped in red cloth",
+        "Gold halos"
+      ],
+      "architectural": [
+        "Pointed arch micro-frame over tomb",
+        "Slender columns",
+        "Tiled vault motif"
+      ],
+      "natural": [
+        "Stylized rocky ground pattern",
+        "Cloud-like pale green wash background"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, uniformly thin and smooth, prepared with fine pumice; visible ruling in plummet for text and image alignment.",
+      "preservation_condition": "Well-preserved pigments; slight flaking of minium red at panel edges; minimal vermiculation in green areas; corners show light cockling.",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf in halos",
+        "Regular punchwork in gold halo fields",
+        "Underdrawing visible under UV along drapery folds",
+        "Layered paint application with visible brush strokes",
+        "Consistent ruling pattern for panels and text"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Visual reminder of Gospel miracle",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual patron for personal meditation"
+    },
+    "scholarly_interpretation": "This page likely originates from a Parisian workshop circa 1250–1275, reflecting the increasing demand for personalized devotional books among the laity. The stylistic hallmarks—bold ultramarine and verdigris palettes, gold-punched halos, and Gothic textura quadrata script—align with the mid-13th-century ‘High Gothic’ illumination tradition associated with the Île-de-France region. The narrative cycle of three panels, culminating in the miraculous resurrection, underscores the theological emphasis on Christ’s dominion over death, serving both as a devotional focus and a doctrinal demonstration of divine agency. The restrained architectural framing and shallow spatial organization demonstrate continuity with earlier Romanesque conventions, while the refined figural gestures and refined color layering point to technical innovations in pigment application. The iconography—particularly the skeletal personification of death—exhibits a didactic function, visually personifying mortality and Christ’s triumph over it. Comparatively, this manuscript shares affinities with the Horae of Jeanne de Navarre (BnF, Latin 16758), suggesting workshop connections or a shared pattern book. The collaborative execution, indicated by slight variations in line weight and shading, implies multiple hands operating under a master illuminator’s direction. Overall, the page synthesizes traditional iconographic programs with evolving Gothic aesthetics, fulfilling both devotional and aesthetic aspirations of a 13th-century noble or urban patron."
+  }
+}

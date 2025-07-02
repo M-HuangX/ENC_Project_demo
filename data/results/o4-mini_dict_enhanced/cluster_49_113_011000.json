@@ -1,0 +1,196 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Page organized in a grid of six equal rectangular miniatures (two columns by three rows) separated by a continuous decorative border of interlocking crosses. Each row of scenes is preceded or followed by a line of caption text in Old French, written in a single column above or below the miniatures. Visual hierarchy is given to the enthroned Virgin scenes by placing them in the upper-left, lower-left, and lower-right compartments, balanced by narrative episodes in the other panels. Wide margins are filled uniformly with the geometric cross motif, framing the entire composition.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura semiquadrata, professional book hand with regular use of ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "Ultramarine blue",
+          "Vermilion red",
+          "Burnished gold leaf",
+          "Lead white",
+          "Iron-oxide brown"
+        ],
+        "color_usage": "Blue reserved for the Virgin’s mantle and clerical gowns, red for princely and lay figures. Gold leaf highlights divine figures and architectural ornament. Alternating red and blue motifs in border create rhythm. Layered application with white highlights on faces, good preservation with minimal pigment loss."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "Grid arrangement of six scenes",
+          "Repetition of Gothic colonnade frames",
+          "Hierarchical scale of Virgin above kneeling figures",
+          "Linear reading order top-left to bottom-right",
+          "Architectural framework divides each episode"
+        ]
+      },
+      "decorative_elements": [
+        "Interlocking cross-motif border in red, blue, and gold",
+        "Gothic micro-architecture with trefoil arches",
+        "Patterned cloth-dais textiles",
+        "Gold punchwork in arch spandrels",
+        "Caption bars in blue and red ink"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill-pen outlines in brown iron-gall ink, fluid with slight variation in thickness",
+        "shading_method": "Flat color fields with minimal parallel hatching; white highlights applied over pigments for volume",
+        "perspective_handling": "Hierarchical scaling; overlapping architecture suggests depth, no true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 6,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "Divine intercession",
+        "Demonic temptation",
+        "Pilgrimage",
+        "Healing miracle"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Top left to top right",
+          "Middle left to middle right",
+          "Bottom left to bottom right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Top left",
+            "subject": "Noblewoman kneeling before the enthroned Virgin and Child",
+            "relationship_to_next": "Her fervent prayer leads to demonic temptation in the following scene",
+            "visual_connections": [
+              "Gothic arches frame both scenes",
+              "Blue mantle echoes across panels",
+              "Gold background unifies divine presence",
+              "Patterned dais textile motif",
+              "Gesture of supplication anticipates confrontation"
+            ]
+          },
+          {
+            "position": "Top right",
+            "subject": "Woman confronted by a demon and a scribe-like attendant",
+            "relationship_to_next": "Her collapse is depicted in the third scene as a result of demonic assault",
+            "visual_connections": [
+              "Red and gold color echoes first panel",
+              "Winged demon motif contrasts Virgin’s halo",
+              "Continuous arch profiles",
+              "Gestural link as demon points downward",
+              "Gold punchwork on arch spandrel"
+            ]
+          },
+          {
+            "position": "Middle left",
+            "subject": "Group of onlookers discovering a prostrate figure on the floor",
+            "relationship_to_next": "They seek clerical intervention at an altar in the next scene",
+            "visual_connections": [
+              "Group posture mirrors later pilgrims",
+              "Blue drapery persists",
+              "Arched canopy setting",
+              "White highlights on faces",
+              "Text caption connects collapse to rescue"
+            ]
+          },
+          {
+            "position": "Middle right",
+            "subject": "Clerics presenting a portable altar with processional cross",
+            "relationship_to_next": "This leads the community to petition the Virgin in the fifth panel",
+            "visual_connections": [
+              "Cross motif repeated on dais",
+              "Gold leaf on altar matches Virgin’s halo",
+              "Architectural trefoils identical",
+              "Red and blue vestments",
+              "Gesture of offering echoes supplication"
+            ]
+          },
+          {
+            "position": "Bottom left",
+            "subject": "Pilgrims approaching the Virgin and Child in a colonnade",
+            "relationship_to_next": "They join the final communal prayer scene",
+            "visual_connections": [
+              "Throne textile identical to first",
+              "Arches and pinnacles match earlier settings",
+              "Blue-red color scheme",
+              "Kneeling posture repeated",
+              "Gold background continuity"
+            ]
+          },
+          {
+            "position": "Bottom right",
+            "subject": "Group of devotees praying before the enthroned Virgin and Child",
+            "relationship_to_next": "Concludes the cycle of miracle and intercession",
+            "visual_connections": [
+              "Group composition mirrors panel three",
+              "Hierarchical scale of Virgin unchanged",
+              "Decorative arch framing",
+              "White highlights on garments",
+              "Continuity of border motif"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent interlocking cross-motif border",
+          "Repetition of Gothic arch architectural frames",
+          "Enthroned Virgin motif in three panels",
+          "Uniform palette of blue, red, and gold",
+          "Hierarchical scaling of divine vs. mortal figures"
+        ]
+      },
+      "scene_description": "The first panel (top left) shows a single kneeling noblewoman rendered in three-quarter profile, her hands clasped in prayer before the Virgin Mary seated on a high dais under a Gothic colonnade. The Virgin wears an ultramarine mantle over a vermilion tunic and holds the Child on her lap, whose drapery is highlighted with white strokes. The dais is draped with a patterned textile of alternating gold and blue squares, each punched with decorative dots. Two slender columns support trefoil arches decorated in burnished gold, framing a spandrel with punched ornament. The kneeling figure’s robe of iron-oxide brown with blue lining identifies her high status; her headdress is edged in gold. Depth is suggested only by slight overlap of figures and receding arches. A narrow caption bar in red and blue ink runs above and below the scene, linking text and image. The white background emphasizes the flatness of the composition, while gilt elements draw the eye to the divine presence. The visual weight centers on the throne, balanced by the bowed figure at left, creating a focused devotional tableau."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Virgin Mary enthroned with Child Jesus"
+        ],
+        "secular": [
+          "Kneeling noblewoman",
+          "Pilgrims and lay devotees",
+          "Clerics presenting altar",
+          "Scribe-like attendant",
+          "Onlookers around collapsed figure"
+        ],
+        "symbolic": [
+          "Demon with bat-like wings"
+        ]
+      },
+      "objects": [
+        "Portable altar with processional cross",
+        "Patterned textile dais",
+        "Book or scroll held by attendant"
+      ],
+      "architectural": [
+        "Gothic colonnade with trefoil arches",
+        "Miniature church-interior frames"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth surface prepared with fine pumice, ruled with plummet lines; gatherings in quaternion format, margins approx. 2 cm",
+      "preservation_condition": "Pigments well preserved with minimal flaking; slight cockling at folio edges; gold leaf intact with minor abrasion in high-contact areas",
+      "notable_physical_characteristics": [
+        "Raised gesso underlay beneath gold leaf",
+        "Punchwork pattern in gold spandrels",
+        "UV-visible brown underdrawing beneath pigment layers"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for miracle preaching",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual lay patron for personal devotional use"
+    },
+    "scholarly_interpretation": "This mid-13th-century Old French hagiographic cycle was likely produced in a northern French workshop, perhaps in the Paris region, reflecting the vernacular turn in devotional manuscripts of the later Middle Ages. The grid-based narrative format, with six equal compartments framed by an interlocking cross motif, underscores the didactic aim: to guide the viewer through a sequence of miraculous intercessions. The repeated depiction of the enthroned Virgin Mary and Child in three panels demonstrates both the devotional focus and the hierarchical scaling typical of Gothic iconography. Technical execution—fine quill-pen underdrawing visible under UV, layered pigments, and raised gesso supporting burnished gold leaf—speaks to a professional atelier familiar with high-quality book production. The interplay of red and blue with gold leaf adheres to symbolic conventions (blue for the Virgin, gold for the divine realm) while the shallow spatial treatment reveals continuity with earlier manuscript traditions rather than emerging linear perspective. Comparatively, the vivid color palette and precise line work align this manuscript with other vernacular miracle books of the Île-de-France, though its Old French captions suggest a lay, rather than strictly monastic, audience. Overall, the codex balances conservative iconographic types with the innovative lay devotion practices of the 13th century, bridging liturgical function and personal piety."
+  }
+}

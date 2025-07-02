@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "Et animal qd’ dicitur hyena in sepulcris mortuorum habitans corpora evestans.",
+    "modern_french_text": "Et l'animal qui est appelé hyène, habitant dans les sépulcres des morts, mange les corps."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "animal terrestre",
+      "architecture",
+      "arbre",
+      "fenêtre",
+      "église"
+    ],
+    "elements_textuels": [
+      "hyène"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 1,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

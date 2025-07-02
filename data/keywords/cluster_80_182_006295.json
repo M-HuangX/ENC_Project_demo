@@ -1,0 +1,20 @@
+{
+  "ocr_results": {
+    "original_text": "domine domine libera\nmam meam: a lab\nquis: ex a lingua dol\nund deum anq\nnatartr ad linguam tu\nagite potentiss acutec\ncarboniy desolatm",
+    "modern_french_text": "Seigneur, Seigneur, libère\nmon âme : de la lab\nqui : de la langue dol\net Dieu anq\nnatart à ta langue\nagis puissamment aigu\ncharbons désolés"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "scribe",
+      "architecture"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 2,
+    "total_textual_elements": 0,
+    "total_identified": 2,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

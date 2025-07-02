@@ -1,0 +1,147 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full‐page illumination composed of two stacked circular medallions set within a foliate border; no accompanying text on the page",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf background",
+          "ultramarine blue",
+          "verdigris green",
+          "vermillion red",
+          "white lead highlights",
+          "dark brown/black ink outlines"
+        ],
+        "color_usage": "Gold leaf backgrounds unify both scenes and denote sacred space; ultramarine and vermilion highlight principal figures’ robes; green used in secondary garments to create color balance; white lead used for highlights on drapery folds and halos; palette follows a rhythmic alternation of red and blue robes among the apostles; minimal oxidation indicates exceptional pigment preservation."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two circular medallions stacked vertically",
+          "Centralized within each roundel: Christ in action",
+          "Overlapping figures create shallow depth",
+          "Gestural lines direct viewer from top scene to bottom",
+          "Strong vertical alignment emphasizes narrative progression"
+        ]
+      },
+      "decorative_elements": [
+        "Broad foliate scroll border with acanthus leaves and palmettes",
+        "Micro-architectural framing in red and blue around each roundel",
+        "White punch-dot embellishments on colored fields",
+        "Stylized vine scrolls with gold bezants in the margins"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold, even outlines in dark ink with finer internal strokes to define facial features and drapery detail",
+        "shading_method": "Flat areas of opaque pigment with restrained white lead highlights; minimal internal hatching",
+        "perspective_handling": "Hierarchical scaling of figures; no true linear perspective, depth implied by overlapping and tiered seating"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "sacraments and rituals",
+        "apostles",
+        "institution of the Eucharist",
+        "Mandatum (footwashing)"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top to bottom"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper roundel",
+            "subject": "Christ washing the feet of the apostles (Mandatum)",
+            "relationship_to_next": "Leads to the institution of the Eucharist depicted below",
+            "visual_connections": [
+              "Gold background throughout both roundels",
+              "Apostles gathered in group behind Christ in both scenes",
+              "Consistent palette of red and green robes",
+              "Circular framing device unifies compartments",
+              "Gestural emphasis on hands and feet conducts eye downward"
+            ]
+          },
+          {
+            "position": "Lower roundel",
+            "subject": "Last Supper with Christ and the apostles, including Judas receiving the sop",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Gold background repeated",
+              "Red and green drapery patterns echo top scene",
+              "Hands extended toward central action in both compartments",
+              "Circular frame motif unchanged",
+              "Dense grouping of haloed figures around Christ"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Burnished gold leaf backgrounds",
+          "Identical decorative border framing",
+          "Haloed heads with white lead highlights",
+          "Vertical stacking of roundels",
+          "Uniform scale of apostles relative to Christ"
+        ]
+      },
+      "scene_description": "In the upper roundel, Christ is shown kneeling before Saint Peter (identified by white beard and penitential gesture), lifting Peter’s right foot into a washbasin while twelve apostles stand behind on a raised bench. Christ wears a blue tunic with white mantle edged in gold; Peter’s green tunic and red mantle mirror the palette of the lower scene. The washbasin is a shallow bronze bowl with white lead highlights; a folded linen cloth is draped overhead. Figures overlap in two shallow registers, heads inclined inward around Christ. In the lower roundel, Christ sits centrally at a white‐draped table, wearing a blue mantle over red, his right hand raised in blessing, left hand on a dish. Apostles flank him in mirrored color arrangements; Judas is shown below the table receiving a sop on a paten. Table objects include four chalices in dark pigment, plates with bread, and bowls. Both scenes emphasize sacramental acts through focused gestures and repetitive compositional devices."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ",
+          "Twelve apostles (including Peter and Judas)"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "washbasin",
+        "linen cloth",
+        "table",
+        "chalices",
+        "dishes",
+        "bread"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with extremely smooth, well‐prepared surface; evidence of professional scraping and pumicing; regular quaternion gathering implied by consistent margin widths",
+      "preservation_condition": "Excellent: vivid pigments with minimal flaking, gold leaf fully adherent, slight surface cockling at corners only",
+      "notable_physical_characteristics": [
+        "Raised gesso underlays beneath gold leaf backgrounds",
+        "White lead highlights applied over colored drapery",
+        "Precise ruling grid visible under UV",
+        "Confident underdrawing with quill, faintly visible in drapery folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Visual reminder of Maundy Thursday rituals",
+        "Didactic illustration for clergy",
+        "Memory aid for recalling sacramental theology"
+      ],
+      "intended_audience": "Monastic or cathedral clergy"
+    },
+    "scholarly_interpretation": "This mid‐13th‐century illumination likely originates in a northern French workshop—perhaps Paris or Soissons—where the rich palette of ultramarine, vermilion, and burnished gold reflects both access to luxury pigments and the growing emphasis on visual splendor in liturgical books. The two‐tiered roundel format recalls contemporaneous Psalters and medieval lectionaries, yet here the focus on Maundy Thursday rites—the Mandatum and the institution of the Eucharist—suggests a specialized liturgical companion for Holy Week. Stylistically, the confident underdrawing, raised gesso work beneath the gold, and the disciplined parchment preparation point to a high‐end atelier with multiple hands collaborating under a master illuminator. Iconographically, the images encapsulate sacramental theology: footwashing prefigures the humility of Christ’s sacrifice, while the lower scene enshrines the real presence of Christ in the Eucharist. Comparisons to the Winchester Bible and the Psalter of Blanche of Castile reveal shared graphic conventions—circular compartments, densely clustered apostles, and linear drapery patterning—yet this manuscript distinguishes itself in the rhythmic alternation of red and green robes and the unusually large washbasin motif. In sum, the illumination bridges Romanesque monumentality and emerging Gothic naturalism, serving both a devotional and didactic function within a liturgical context."
+  }
+}

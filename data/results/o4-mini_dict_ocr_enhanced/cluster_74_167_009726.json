@@ -1,0 +1,136 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column page organized into two stacked rectangular narrative panels framed by ruled lines; text bands occupy full width above the upper panel and below the lower panel. The visual hierarchy places equal emphasis on both scenes, with ample white space around frames and consistent margins.",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Gothic textualis book hand with angular, compressed letterforms, frequent use of contractions and ligatures, executed in dark brown ink"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green wash",
+          "ochre brown",
+          "red (possibly minium)",
+          "pink wash",
+          "brown ink outlines"
+        ],
+        "color_usage": "Green dominates robes and animal hides, red accents appear in halos and manes, ochre brown defines cloaks and panel divisions. Pigments are applied as thin, semi‐transparent washes over underdrawing, with uniform color fields and minimal tonal modulation. No metal leaf detected."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Horizontal division into two narrative registers",
+          "Figures oriented toward the panel center in each scene",
+          "Gestural link: angel’s outstretched arm in upper register referencing divine message",
+          "Dense clustering of beasts framing the human figure in lower register"
+        ]
+      },
+      "decorative_elements": [
+        "Ruling lines forming rectangular frames",
+        "Text bands above and below imagery functioning as caption",
+        "Simple red guide letters marking beginnings of narration"
+      ],
+      "drawing_technique": {
+        "line_style": "Consistent brown ink outlines of medium weight, minimal internal hatching",
+        "shading_method": "Flat color washes without gradient shading or cross‐hatching",
+        "perspective_handling": "Hierarchical scaling with shallow pictorial space, no attempt at linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine punishment",
+        "Bestialization",
+        "Prophetic message"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top panel to bottom panel"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper panel",
+            "subject": "King Nebuchadnezzar kneeling before a haloed angel delivering divine warning",
+            "relationship_to_next": "Announces forthcoming humiliation that unfolds in the next scene",
+            "visual_connections": [
+              "Shared verdigris green wash in the king’s robe and beasts’ hides",
+              "Brown ink framing lines unify both panels",
+              "Gestural emphasis: angel’s pointing hand echoes narrative momentum downward"
+            ]
+          },
+          {
+            "position": "Lower panel",
+            "subject": "Nebuchadnezzar bestialized on all fours among oxen, horse, goat, and donkey, eating grass",
+            "relationship_to_next": "None",
+            "visual_connections": [
+              "Verdigris green wash continues on bestial figure",
+              "Consistent brown outlines for all figures",
+              "Panel borders identical in style to upper register"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform ruled borders around each register",
+          "Consistent use of verdigris green wash",
+          "Brown ink outlines throughout",
+          "Stable white parchment ground visible between figures",
+          "Balanced figure scale relative to frame size"
+        ]
+      },
+      "scene_description": "The upper panel shows King Nebuchadnezzar kneeling to the left, clad in a green robe and ochre mantle, wearing a pointed cap and sporting a short beard. He leans forward on one knee, right hand resting on his lap. From the right margin a haloed angel emerges, draped in green tunic and orange mantle, wings implied by curved lines, with right arm extended toward the king. Both occupy an unpopulated ground plane within a simple rectangular frame. In the lower panel, Nebuchadnezzar appears as a bestialized human figure on all fours, his body tinted green with a human head bearing a beard and tousled hair, eating grass from the ground. He is encircled by four beasts – a bull, a horse, a goat, and a donkey – each outlined in brown ink with verdigris and pink washes. The animals overlap slightly, creating a compressed group. A ruled frame identical to the upper register encloses the scene. Text captions above and below reinforce the narrative, directly referencing Nebuchadnezzar's punishment and duration."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Haloed angel in tunic and mantle"
+        ],
+        "secular": [
+          "King Nebuchadnezzar in green robe and ochre cloak",
+          "Bestialized Nebuchadnezzar on all fours"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "bull",
+        "horse",
+        "goat",
+        "donkey"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum, thin and evenly prepared, with faint ruling in plummet visible beneath imagery",
+      "preservation_condition": "Good overall; slight foxing and light stains in central area, minimal pigment flaking, verdigris shows minor oxidation",
+      "notable_physical_characteristics": [
+        "Visible plummet ruling for text and frames",
+        "Underdrawing faintly visible under UV",
+        "Thin, even washes of pigment",
+        "Brown ink line work remains crisp"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Visual mnemonic for biblical narrative",
+        "Aid for clerical preaching"
+      ],
+      "intended_audience": "Clerical or monastic scholars (monastic scriptorium or university students)"
+    },
+    "scholarly_interpretation": "This bifurcated illustration of Nebuchadnezzar’s humiliation likely derives from a 13th-century Parisian workshop, reflecting the era’s didactic interest in Old Testament typology. The formal Gothic textualis and stylized washes of verdigris and ochre align with the mature High Gothic illumination tradition. The choice to depict the king’s kneeling audience to an angel followed by his bestial degradation underscores a moralizing program emphasizing divine sovereignty and the reversal of human pride. Technically, the thin color layers and crisp brown ink underdrawing suggest efficient workshop practices, perhaps for an exegetical compendium used in cathedral schools. Iconographically, the scene participates in a broader constellation of biblical punishments visualized across contemporary manuscripts, reinforcing the contrast between regal dignity and ignominy. Comparison with the Morgan Library’s moralized Bible (MS M.586) reveals similar framing devices and a sequential register format, though this example omits metallic embellishment. The lack of gold leaf and reliance on earth pigments may indicate a more utilitarian production context, aimed at scholarly utility rather than high-status display. Overall, this page balances narrative clarity with technical restraint, reflecting conservative iconographic conventions while serving an educational function in the transmission of biblical lore."
+  }
+}

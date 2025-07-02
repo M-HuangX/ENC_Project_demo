@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "Ci feullent les chapitres du çift livre\nCi apres numere le quint livre des avomg",
+    "modern_french_text": "Voici les chapitres du sixième livre\nEnsuite est numéroté le cinquième livre des Hommes"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "armure",
+      "roi de france",
+      "combat",
+      "or",
+      "personnage debout",
+      "couronne",
+      "drapé",
+      "laine",
+      "écusson",
+      "personnage barbu et moustachu"
+    ],
+    "elements_textuels": [
+      "chapitre"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 1,
+    "total_identified": 12,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

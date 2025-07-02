@@ -1,0 +1,24 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "arche de noé",
+      "eau",
+      "personnages",
+      "bateau",
+      "plantes",
+      "montagne"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

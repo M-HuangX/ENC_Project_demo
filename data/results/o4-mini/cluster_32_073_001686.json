@@ -1,0 +1,110 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page miniature enclosed within a red-and-white foliate border, no accompanying text on the recto, image occupies entire surface",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermillion red",
+          "azurite blue",
+          "verdigris green",
+          "lead white",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Red dominates the dragon and border motifs, signifying malevolence; blue diaper ground highlights the divine realm; green is reserved for the saint’s undergarment; gold leaf used for the earth plane underscores sacred space; white highlights on drapery and angelic figure model form; pigments remain vibrant with minimal lead white darkening."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Dragon occupies central axis with sweeping tail creating diagonal tension",
+          "Saint John at left in vertical stance balances the horizontal expanse of the dragon",
+          "Angelic figure above forms a vertical tripartite alignment (angel–dragon–earth)",
+          "Diapered background establishes a consistent pictorial field behind figures"
+        ]
+      },
+      "decorative_elements": [
+        "Red-and-white foliate border with scrolling vine motifs",
+        "Diapered ground of interlocking blue and red quatrefoils",
+        "Burnished gold earth plane without further ornament",
+        "White line fillets separating border from scene"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill outlines in brown ink with varied weight, bold contours for main figures and finer internal detailing",
+        "shading_method": "Flat washes of pigment with subtle white highlights; minimal hatchwork confined to drapery folds",
+        "perspective_handling": "Hierarchical scaling and overlapping without vanishing-point perspective; spatial recession indicated by partially concealed tail and layered figures"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "symbolic evil (dragon as Satan)",
+        "divine authority",
+        "cosmic struggle"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene depicts Saint John the Evangelist (haloed, left), clad in a green tunic with a white cloak, barefoot and gesturing toward the central red dragon. The dragon, with outstretched membranous wings and a sinuous tail, crouches on a burnished gold ground, its jaws locked around a cluster of tiny white stars (or heads) signifying its apocalyptic power. Above, a smaller haloed angel in white robes emerges from the diapered blue-and-red background, arm extended in a commanding gesture toward the beast. Spatially, John stands erect on the left margin, the dragon fills the middle ground, and the angel floats in the upper tier, creating a tripartite vertical hierarchy. The dragon’s tail curves to the right, framing the lower register and directing the viewer’s eye back to John. The saint’s loose drapery shows minimal folds, highlighted in white, while the dragon’s musculature is rendered by contour lines. The angel’s delicate feet hover above the patterned field. Secondary elements include the red-and-white scrolling border echoing the dragon’s color and reinforcing the scene’s sacred framing. Symbolic components: halos denote sanctity, the dragon embodies Satanic force, and the stars reference Revelation 12:4. Compositional focus rests on the dragon’s violent act, with John’s astonished gesture and the angel’s authority flanking this central drama. Despite absence of inscribed captions, the visual narrative corresponds directly to the Apocalypse text, serving as a vivid exegesis for devotional meditation."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Saint John the Evangelist in green tunic and white cloak",
+          "Angelic figure with halo in white robes"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Red dragon as personification of Satan"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Burnished gold ground plane (stylized earth)"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with uniform thickness, finely prepared and pumiced surface retaining visible hair-follicle pattern under magnification",
+      "preservation_condition": "Overall excellent; pigments vibrant with minimal oxidation of lead white and slight abrasion to vermillion; borders show minor wear at edges; no recent interventions visible",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold ground, creating slight relief",
+        "Underdrawing visible under infrared reflectography, particularly around dragon’s wing",
+        "Ink ruling grid faintly discernible in margins",
+        "Delicate punchwork tooling in gold ground produces regular pattern"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Aide-mémoire for Apocalypse narrative",
+        "Demonstration of patron’s piety"
+      ],
+      "intended_audience": "Individual patron (noble) for personal meditation"
+    },
+    "scholarly_interpretation": "This mid-13th-century illumination, likely produced in a northern French or English workshop, illustrates Revelation 12:4 with characteristic High Gothic refinement. The crisply modeled dragon and patterned ground reflect the English Channel School’s emphasis on decorative rhythm, while the angelic figure’s elegant drapery reveals a Parisian influence. Executed on premium calf vellum, the page demonstrates advanced technical proficiency: a raised gesso ground supports burnished gold leaf, and underdrawings visible under IR confirm careful preparatory design. Iconographically, the dragon devouring stars functions as a powerful visual exegesis of the apocalyptic text, reinforcing themes of cosmic conflict central to private devotional practice. The presence of only one scene on the recto, fully framed by a red-and-white foliate border, suggests use in a book of hours or Apocalypse commentary intended for a noble patron. The stylistic interplay of vibrant vermillion, azurite blue, and verdigris green, combined with white highlights, underscores a sophisticated palette management and hierarchical color symbolism—red for malevolent force, blue for divine authority. Comparatively, this leaf shares compositional affinities with the Psalter of Blanche of Castile (BnF, MS latin 115), yet its iconographic focus on Revelation aligns it more closely with the Cotton MS Nero D IV Apocalypse in the British Library. The miniature thus occupies a pivotal position between traditional apocalyptic imagery and emerging trends in expressively patterned High Gothic illumination."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "Ad Vesparis tertius... [autre texte illisible]",
+    "modern_french_text": "Au troisième des vêpres... [autre texte illisible]"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "architecture",
+      "personnage barbu et moustachu",
+      "ange",
+      "église",
+      "château",
+      "vitrail"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

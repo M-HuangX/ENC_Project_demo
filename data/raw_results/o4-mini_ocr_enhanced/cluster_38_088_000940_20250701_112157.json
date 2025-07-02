@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "filename": "cluster_38_088_000940.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:21:57.506651",
+    "image_size": 305586
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text below a full-square miniature at top of the folio; wide outer margins with a small penwork extension in the lower left; clear separation between image and text block",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, professional book hand with red rubrics and occasional blue initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "vermilion red",
+          "purple lake pigment"
+        ],
+        "color_usage": "Gold reserved for the background to denote sacred importance; ultramarine and vermilion alternate in mantles to create visual hierarchy; layered application with white highlighting on drapery folds; pigments remain well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central enthroned figure flanked symmetrically by attendants",
+          "Groups of four figures on either side create mirror balance",
+          "Gesture of hands directs attention inward to the king",
+          "Horizontal bench serves as a visual baseline",
+          "Stage-like shallow space with no receding architecture"
+        ]
+      },
+      "decorative_elements": [
+        "Simple linear frame in alternating red and blue with white swirl motif on upper border",
+        "Penwork flourish extending into lower margin",
+        "Small white dotted embellishments on frame edges"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold black ink outlines with finer internal contour lines executed by quill pen",
+        "shading_method": "Flat color planes with limited white highlights; no systematic hatching",
+        "perspective_handling": "Hierarchical scaling and flat ground line; no attempt at true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Liturgical",
+      "sub_themes": [
+        "Royal symbolism",
+        "Psalm illustration",
+        "Divine authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene depicts King David enthroned frontally on a stone bench, wearing a gold crown and a rose-tinted robe over a blue tunic. He holds a long staff in his left hand and raises his right in blessing. Eight bearded courtiers—four on each side—wear conical hats and mantles in alternating ultramarine and vermilion; they lean inward, hands gesturing toward the king in veneration. The ground is indicated by a narrow grey band. Drapery folds are rendered with minimal tonal variation and highlighted in white. All figures occupy the same shallow pictorial plane, emphasizing ritual rather than spatial depth. The hollowed gold background isolates the scene from textual surroundings, marking it as a visual invocation of Psalm 138. The arrangement centers attention on the divine-anointed king, reflecting liturgical use as an illustrating frontispiece to the psalm text."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "King David crowned, eight robed attendants"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Scepter"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness and smooth surface; faint hair follicle pattern visible under magnification",
+      "preservation_condition": "Excellent overall; vivid pigments with minimal oxidation; slight flaking of red lead at frame edges; corners show minor cockling; evidence of past consolidation along lower margin",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold leaf",
+        "Underdrawing visible under UV in drapery folds and facial contours",
+        "Ruling with plummet and drypoint for text and miniature alignment"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Aide-memoire for chanting Psalm 138",
+        "Display of patron's devotion"
+      ],
+      "intended_audience": "Monastic choir or cathedral clergy"
+    },
+    "scholarly_interpretation": "This mid-13th-century psalter illumination was likely produced in a northern French or English workshop, reflecting the high taste of a monastic or cathedral patron. The gold-leaf background and centralized composition underscore the sacred authority of King David as psalmist and foreshadow Christ’s royal typology. The balanced symmetry and restricted palette align with the mature Gothic style, while the use of ultramarine—a costly pigment—signals high status. The presence of eight courtiers rather than generic angels suggests a liturgical emphasis on earthly rulers offering homage in psalmody. Layered pigment application with white highlights and the evidence of underdrawing point to a collaborative workshop: a master laid out the design and less senior hands applied color. Iconographically, the scene ties directly to the rubric “Omnes reges terrae” (Psalm 138), serving both as visual exegesis and mnemonic device for cantors. Comparisons with the Blanche of Castile Psalter reveal similar frame motifs and dashed white detailing, suggesting shared patterns or a common pattern book. Technically, the raised gesso and precise quill-pen outlines attest to a high level of craftsmanship. This miniature exemplifies the intersection of devotional function, courtly aesthetics, and technical innovation characteristic of high Gothic manuscript culture."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Decorated initial letter",
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column of text occupies upper two-thirds of the page, surmounted by two historiated scenes in a single rectangular miniature at the foot; wide blank margins frame text and image; visual hierarchy places text in upper register and image below, connected by a blue and gold fillet border delineating separation; architectural frames within miniature create distinct scene compartments",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata, professional book hand with precise angular forms, extensive use of abbreviations, red rubrics for headings"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "lead white",
+          "gold leaf",
+          "verdigris green",
+          "azurite blue",
+          "ochre yellow"
+        ],
+        "color_usage": "Gold leaf used for halos and framing to denote sanctity and importance; ultramarine reserved for saint’s robes as sign of divine status; vermillion for judicial figures to convey authority; white highlights layered over pigments for modeling; alternating red and blue garments create visual rhythm; green foliage used sparingly for landscape accents; overall palette remains vibrant with minimal darkening of pigments"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Vertical architectural partition dividing two episodes",
+          "Diagonal movement of figures toward scene boundary",
+          "Grouping of figures in clusters to denote action",
+          "Continuous gold ground unifying both scenes",
+          "Architectural doorway acting as visual hinge"
+        ]
+      },
+      "decorative_elements": [
+        "Simple blue and gold border fillet",
+        "Historiated initials with foliate motifs",
+        "Architectural framing with pointed arch",
+        "Gold bezants highlighting capitals"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen work in brown ink with bold outer contours and fine interior hatching",
+        "shading_method": "Subtle layering of pigments with white lead highlights on drapery folds",
+        "perspective_handling": "Hierarchical scaling with overlapping figures; no true vanishing point; depth suggested by staggered placement"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "Judicial trial",
+        "Martyrdom",
+        "Sanctity",
+        "Divine vindication"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Lower left compartment",
+            "subject": "Saint stands before three judges; architects in background",
+            "relationship_to_next": "Saint’s condemnation leads directly to martyrdom scene",
+            "visual_connections": [
+              "Figures gaze toward partition interior",
+              "Saint’s blue robe contrasts with judges’ red robes",
+              "Gold ground continuous across both scenes",
+              "Stone columns share same carved capital motif",
+              "Halo of saint echoes bright gold framing"
+            ]
+          },
+          {
+            "position": "Lower right compartment",
+            "subject": "Saint receives fatal blow from executioner outside city walls",
+            "relationship_to_next": "Concludes narrative arc of condemnation and sanctification",
+            "visual_connections": [
+              "Saint’s halo and robe color match first scene",
+              "Judges’ red garments repeated in onlookers",
+              "Continuation of gold ground",
+              "Distant rocky landscape echoes architectural forms",
+              "Vertical tree trunks mirror columns"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Gold ground across scenes",
+          "Ultramarine robes of saint",
+          "Red robes of secular authorities",
+          "Architectural frames with pointed arches",
+          "Consistent figure scale relationships"
+        ]
+      },
+      "scene_description": "The miniature comprises two adjacent narrative scenes. In the first (lower left), six figures stand within a Gothic arch interior: three judges in red houppelandes with fur collars flank a haloed saint in deep blue robes holding a scroll. Two minor onlookers in green and brown tunics stand behind ornate stone columns. The saint gestures toward the judges who brandish a staff. A fallen prostrate figure lies at the saint’s feet, suggesting initial violence. In the second scene (lower right), four figures occupy an outdoor rocky landscape with a walled city glimpsed in the distance. The haloed saint kneels and bows before an executioner in brown leggings and blue tunic who raises a club. Two witnesses in red and green stand behind, one gesturing. Both scenes employ gold leaf floors and grounds, blue and red garments create visual continuity, and architectural and natural elements frame the narrative progression."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Haloed saint in ultramarine robe"
+        ],
+        "secular": [
+          "Judge in red houppelande with fur collar",
+          "Executioner in brown leggings and blue tunic",
+          "Two onlookers in green and brown tunics"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Judicial staff",
+        "Scroll held by saint",
+        "Executioner’s club"
+      ],
+      "architectural": [
+        "Pointed Gothic archway with carved capitals",
+        "Stone column with foliated capital"
+      ],
+      "natural": [
+        "Stylized rocky outcrop",
+        "Tree with green foliage",
+        "Distant city walls"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth flesh side, even thickness; single leaf from quaternion gathering",
+      "preservation_condition": "Pigments remain vibrant with minimal oxidation; slight flaking of vermillion at edges; vellum shows minor cockling; evidence of modern conservation consolidation in lower margin",
+      "notable_physical_characteristics": [
+        "Raised gesso base under gold leaf",
+        "Fine underdrawing visible under UV",
+        "Regular ruling pattern with plummet lines",
+        "Stippled white lead highlights in drapery"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for saint’s life",
+        "Display of patron’s piety",
+        "Visual excerpt for sermon illustration"
+      ],
+      "intended_audience": "Individual patron of noble or clerical status"
+    },
+    "scholarly_interpretation": "This late-medieval illumination likely originates from a northern French workshop circa 1420–1430, judged by the rich ultramarine pigment and precise Gothic textualis script. The two-scene layout illustrating the saint’s condemnation and martyrdom reflects the era’s devotional shift towards affective engagement, providing lay patrons with vivid narrative scenes for private meditation. The architectural frames suggest influence from Parisian book decorators, while the gold-leaf halos and fillet borders echo Flemish panel painting techniques. The composition’s innovative partitioning creates a dynamic interplay between interior judicial authority and exterior violence, underscoring the saint’s sanctity in both civic and natural contexts. Technical features—raised gesso under gold leaf and visible underdrawings—demonstrate a high level of workshop collaboration, with specialist gilders and illuminators working in concert. Iconographically, the contrasting red and blue garments articulate the tension between secular power and divine grace. Comparatively, the miniature shares stylistic affinities with the Hours of Yolande of Flandres (British Library, Add MS 38126), though its more subdued border treatment suggests a transitional moment between opulent court commissions and more intimate devotional manuscripts. This folio thus embodies the fusion of traditional hagiographic program and emerging personalized devotional practice in early 15th-century northern Europe."
+  }
+}

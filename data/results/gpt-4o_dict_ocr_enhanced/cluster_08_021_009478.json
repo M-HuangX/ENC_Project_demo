@@ -1,0 +1,131 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence",
+        "decorated initial letter"
+      ],
+      "layout_style": "Two narrative scenes stacked vertically with text blocks above and below. Both scenes are surrounded by a simple border with no additional marginal illustrations.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic script with decorative flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "blue",
+          "green",
+          "ochre",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Gold halos for holy figures, blue and green robes for differentiation, ochre for background and drapery giving a warm visual effect. Blue and green are used to indicate rank and importance."
+      },
+      "composition": {
+        "type": "sequential",
+        "features": [
+          "Vertical arrangement of scenes, one above the other",
+          "Figures occupy the central space within each scene",
+          "Simple architectural lines suggest interiors"
+        ]
+      },
+      "decorative_elements": [
+        "simple frame border",
+        "gold leaf halo"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine, controlled outlines with consistent line weight",
+        "shading_method": "Minimal shading, reliance on flat color areas",
+        "perspective_handling": "Hierarchical without linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "divine attributes",
+        "miraculous healing"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "linear",
+        "reading_order": [
+          "top scene first",
+          "followed by bottom scene"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper scene",
+            "subject": "Healing by Christ",
+            "relationship_to_next": "Scene depicts the beginning of a miracle",
+            "visual_connections": [
+              "Gestural link between figures",
+              "Gold halo repeated in both scenes",
+              "Figure in similar green robe continues"
+            ]
+          },
+          {
+            "position": "Lower scene",
+            "subject": "Healing continuation",
+            "relationship_to_next": "Completes the miracle initiated above",
+            "visual_connections": [
+              "Continuation of same figures",
+              "Similar postures suggest narrative coherence",
+              "Drapery color echoed from upper scene"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent use of color palette",
+          "Uniform outline style",
+          "Shared gesture and posture",
+          "Identical figure sizing",
+          "Repeated use of gold halo"
+        ]
+      },
+      "scene_description": "The upper scene shows a seated figure with a golden halo, extending a hand towards a standing figure draped in green. The lower scene depicts figures attending to a sick individual on a bed, with one figure in green and another in ochre, lifting a cover."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Figure with halo (Christ)",
+          "Figures in gestures indicating dialogue"
+        ],
+        "secular": [
+          "Attendants in simple robes",
+          "Sick figure lying on bed"
+        ],
+        "symbolic": [
+          "Halos denoting holiness"
+        ]
+      },
+      "objects": [
+        "Bed with drapery"
+      ],
+      "architectural": [
+        "Simple rectangular border suggesting space"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Vellum with noticeable grain and softness, moderate thickness",
+      "preservation_condition": "Gold leaf well-preserved with slight rubbing on drapery edges",
+      "notable_physical_characteristics": [
+        "Ink outlines with clear brush marks within areas of color",
+        "Application of gold leaf showing slight elevation",
+        "Some areas of parchment darkened with age"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Display of status",
+        "Memory aid"
+      ],
+      "intended_audience": "Individual patron"
+    },
+    "scholarly_interpretation": "This manuscript page is likely part of a devotional text designed for an individual patron, reflecting the style of a late medieval period when personal piety and devotion were becoming increasingly prominent. The use of Gothic script and simplified composition suggests it was produced in a workshop familiar with standard iconographic schematics, possibly connected to a monastery or small workshop. The scenes depicted are indicative of biblical miracles, often included to inspire faith and reflection in the viewer. Precise use of color and gold halos underscores the spiritual significance of the figures, particularly the seated figure, likely representing Christ. The script is clearly articulated, with careful spacing to allow the reader to engage with the text without distraction, serving both a utilitarian and didactic purpose. Stylistically, it aligns with other manuscripts of the time that blend narrative simplicity with rich, symbolic colors, embodying a transition from lavish monastic production to personal ownership. This piece would have been a valued devotional object, representing both spiritual and quite possibly, social status."
+  }
+}

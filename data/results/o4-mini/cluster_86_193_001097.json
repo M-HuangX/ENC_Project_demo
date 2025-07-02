@@ -1,0 +1,144 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence",
+        "Text-surrounded imagery"
+      ],
+      "layout_style": "Two horizontal registers divided by a blue and red rule; each register shows an angel on the left pouring a vial and afflicted figures on the right, with blocks of Latin text interspersed at upper right of each register. The images occupy full width, text nestles to their right and below each scene, creating an integrated pictorial-textual layout.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata with red rubrication and blue paraphs, professional book hand with frequent ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "verdigris green",
+          "minium red",
+          "burnished gold leaf",
+          "lead white"
+        ],
+        "color_usage": "Gold applied to haloes, bowls and decorative rule lines denotes divine elements. Angels’ robes alternate blue and green washes outlined in brown ink. Red streams represent plagues, layered over white lead highlights for volume. Repeated contrast of red and blue in figures’ garments creates visual rhythm. Original pigments remain vibrant with minimal oxidation of white."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Horizontal register division with two scenes",
+          "Diagonal flow of red plague streams linking angel and sufferers",
+          "Left-aligned angelic figures contrasted by right-aligned human groups",
+          "Architectural pier framing left margin in both registers",
+          "Consistent scale hierarchy: angel slightly larger than men"
+        ]
+      },
+      "decorative_elements": [
+        "Gothic micro-architecture framing each register",
+        "Red rubricated headings above each scene",
+        "Blue and red fillet lines dividing registers"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlining with uniform weight and fluent contours",
+        "shading_method": "Simple color washes with minimal hatching, white lead highlights for volume",
+        "perspective_handling": "Hierarchical scaling with overlapping forms, no true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine punishment",
+        "Eschatological themes",
+        "Angelology",
+        "Disease and plague",
+        "Divine justice"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top register first",
+          "Then bottom register"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper register, left side",
+            "subject": "Angel pouring vial of plague onto men",
+            "relationship_to_next": "Continues divine plagues sequence with a new bowl poured by another angel below",
+            "visual_connections": [
+              "Same angelic robe colors echo lower figure",
+              "Red flame streams mirror bottom register’s liquid motif",
+              "Architectural pier framing repeats across registers",
+              "Groups of men assume similar kneeling postures",
+              "Gold bowls unify top and bottom scenes"
+            ]
+          },
+          {
+            "position": "Lower register, left side",
+            "subject": "Angel pouring vial onto altar as men raise hands in supplication",
+            "relationship_to_next": "End of depicted sequence on this page",
+            "visual_connections": [
+              "Identical wing and halo design on angel",
+              "Continuation of red fluid motif",
+              "Similar tunic folds on afflicted men",
+              "Gold bowl motif repeated",
+              "Gothic architectural framing motif repeated"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Burnished gold on haloes and bowls throughout",
+          "Consistent architectural frame style",
+          "Red streams of plague fluid in both scenes",
+          "Angelic figures in green-blue robes",
+          "Afflicted men with raised hands wear similar tunics"
+        ]
+      },
+      "scene_description": "In the upper register a solitary winged angel stands on a stylized cloud platform before a slender Gothic pier. Clad in a green tunic and cobalt mantle, he holds aloft a gold chalice from which ribbon-like red flames descend diagonally. To the right, six men kneel or recoil, their faces contorted in anguish, clad in tunics of pink and blue with gilt hems. The angel’s nimbus is burnished gold. The chalice is detailed with incised decoration. The sufferers’ garments display linear folds rendered by fine ink lines; white lead highlights accentuate volume. They kneel on a green cloud mount, their limbs overlapping to suggest depth. The scale of the angel slightly exceeds that of the men, emphasizing divine authority. Above each register, a red rubric announces the scene, while Latin text occupies the upper right. Secondary elements include the lower scene of a second angel pouring onto an altar, linked compositionally by repeated red fluid motifs and architectural framing. The text relates directly to the images: captions echo the depicted plagues, and the placement of text beside each scene guides the viewer’s reading order. Decorative rule lines and rubrication integrate text and image, reinforcing the narrative sequence and theological message of divine justice."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Angelic figure with multicolored wings and nimbus"
+        ],
+        "secular": [
+          "Afflicted male figures clad in tunics and cloaks, kneeling or standing with raised hands"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Gold chalice/vial",
+        "Altar table",
+        "Gold basin"
+      ],
+      "architectural": [
+        "Gothic pier with tiled roof",
+        "Arcaded frame flanking scenes"
+      ],
+      "natural": [
+        "Stylized cloud mounts"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, well prepared with smooth surface and faint hair-follicle pattern, ruled with plummet lines",
+      "preservation_condition": "Overall excellent; vivid pigments persist, minor flaking of red areas, slight surface cockling at edges",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf on haloes and bowls",
+        "Underdrawing visible under infrared reflecting confident pen strokes",
+        "Fine plummet ruling faintly discernible beneath text"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Visual exegesis of Apocalypse text",
+        "Aide-memoire for preaching",
+        "Display of patron’s erudition"
+      ],
+      "intended_audience": "Individual patron or scholar versed in apocalyptic literature"
+    },
+    "scholarly_interpretation": "This two-register illumination originates from a mid-13th-century continental workshop, likely produced for an affluent patron’s private copy of the Apocalypse. The crisp Gothic textura script and red rubrication indicate professional execution, consistent with Parisian illumination practices under Louis IX. The integration of text and image demonstrates the evolving demand for visual exegesis during the high medieval period, reflecting the shift toward personalized devotional experiences. Stylistically, the angels’ elongated forms and flowing drapery reveal the influence of the English Channel School, while the jewel-like coloration and use of raised gesso denote technical sophistication. The iconography emphasizes divine retribution: the red flame-like plagues visualized in vividly patterned ribbons underscore theological themes of judgment and purification. The repeated architectural framing and compositional continuity between registers bespeak a carefully orchestrated narrative design that guides the viewer’s eye. Comparatively, this page shares motifs with the Apocalypse of Angers, yet its simplified border treatment and concentrated narrative focus mark a distinctive workshop approach. The illumination thus embodies the confluence of tradition and innovation—melding established iconographic programs with refined material technique to serve both didactic and devotional functions."
+  }
+}

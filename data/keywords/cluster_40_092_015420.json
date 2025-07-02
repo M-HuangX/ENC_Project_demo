@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "Moses and Aaron",
+    "modern_french_text": "Moïse et Aaron"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "Moïse et Aaron devant Pharaon",
+      "personnages à tête unique",
+      "architecture",
+      "animal terrestre",
+      "bâton",
+      "couronne",
+      "main levée",
+      "tente",
+      "manteau",
+      "trône",
+      "personnage debout",
+      "vêtement",
+      "scène biblique"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 13,
+    "total_textual_elements": 0,
+    "total_identified": 13,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

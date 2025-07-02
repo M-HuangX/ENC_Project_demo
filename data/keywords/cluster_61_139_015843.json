@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "ange déversant la troisième coupe de l'apocalypse",
+      "personnage debout",
+      "groupes de personnages",
+      "temple (architecture)",
+      "coupes",
+      "anges juxtaposés",
+      "symbolisme religieux",
+      "habit traditionnel",
+      "gestes de communication"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}

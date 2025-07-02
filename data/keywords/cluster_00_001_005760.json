@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "Vadit p[r]aestigio Girone capillo castillo quot dias",
+    "modern_french_text": "Il est trompé par le château de Girone pendant plusieurs jours"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "château",
+      "drapeaux",
+      "cheval",
+      "chevaliers",
+      "couronne",
+      "armure",
+      "lance",
+      "épée",
+      "bataille"
+    ],
+    "elements_textuels": [
+      "château",
+      "roi de castille"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

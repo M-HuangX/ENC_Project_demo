@@ -1,0 +1,31 @@
+{
+  "ocr_results": {
+    "original_text": "Hicca et famet in ira de... ...esquem aurea de... ...ubir eniu fames i era",
+    "modern_french_text": "Hicca et la famine dans l'Irlande... ...esquemaurea de... ...ubir faim i era"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "personnage debout",
+      "église",
+      "gestes",
+      "vêtements",
+      "personnage",
+      "économie",
+      "architecture",
+      "expression",
+      "groupe"
+    ],
+    "elements_textuels": [
+      "famine",
+      "ira"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 2,
+    "total_identified": 12,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

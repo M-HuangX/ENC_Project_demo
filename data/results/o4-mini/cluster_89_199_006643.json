@@ -1,0 +1,166 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column of text interrupted by a four-panel rectangular miniature in the left margin; text resumes above and below the miniature, with a large decorated initial and rubrication at the head of the following column.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata with regular letterforms, extensive use of abbreviations and decorative flourishes on ascenders and descenders"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "verdigris green",
+          "azurite blue",
+          "vermilion red",
+          "lead white",
+          "carbon black"
+        ],
+        "color_usage": "Gold leaf reserved for backgrounds to signify the sacred space of each miracle; rich blues denote principal figures (the saint and petitioners), red used for secondary figures and draperies; white highlighting applied to flesh and drapery edges; layered application of pigments with subtle white accents; overall palette remains vibrant with minimal pigment degradation."
+      },
+      "composition": {
+        "type": "Grid",
+        "features": [
+          "Two-by-two panel arrangement",
+          "Uniform blue frames around each scene",
+          "Consistent hierarchical scaling of the saint larger than lay figures",
+          "Figures generally oriented toward panel centers",
+          "Clear top-left to bottom-right reading sequence"
+        ]
+      },
+      "decorative_elements": [
+        "Blue compartment borders with gilt line accents",
+        "Rubricated initials in red",
+        "Ornamental purple and gold initial on adjacent text column",
+        "Plummet ruling visible in margins"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in brown iron-gall ink with controlled variation in line weight",
+        "shading_method": "Minimal linear hatching in drapery folds and selective white lead highlights to model volume",
+        "perspective_handling": "Hierarchical sizing without vanishing-point perspective; depth suggested by overlapping figures and curtained niches"
+      }
+    },
+    "content_theme": {
+      "scene_count": 4,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "Saintly miracles",
+        "Healing of the sick",
+        "Martyrdom",
+        "Clerical intercession"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Top left to top right",
+          "Then bottom left to bottom right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Top left",
+            "subject": "Illness and miraculous healing of a crowned lady on her bed by the intercession of the saint",
+            "relationship_to_next": "Leads naturally to the public blessing of petitioners by the saint in clerical guise",
+            "visual_connections": [
+              "Blue gown on kneeling woman echoes blue of next scene’s principal petitioner",
+              "Raised right-hand gesture begins in this scene and recurs in top right",
+              "Golden background continues unbroken across top row"
+            ]
+          },
+          {
+            "position": "Top right",
+            "subject": "Saint, vested as bishop with mitre and crosier, blessing three noble petitioners",
+            "relationship_to_next": "Transitions from healing to the saint’s own trial and martyrdom",
+            "visual_connections": [
+              "Mitred figure’s crosier shaft motif picked up by the vertical gridiron bars below",
+              "Red robes of petitioners mirrored in flames framing martyrdom",
+              "Figure scale remains hierarchical, saint larger than lay figures"
+            ]
+          },
+          {
+            "position": "Bottom left",
+            "subject": "Martyrdom of the saint bound to a gridiron and consumed by flames",
+            "relationship_to_next": "Contrasts death with the ensuing resurrection or restoration miracle",
+            "visual_connections": [
+              "Vertical gridiron bars echo the bishop’s staff above",
+              "Flames rendered in same vermilion red as earlier drapery",
+              "Gold background remains constant, unifying all panels"
+            ]
+          },
+          {
+            "position": "Bottom right",
+            "subject": "Resurrection or raising of a kneeling supplicant by the now haloed saint",
+            "relationship_to_next": "Concludes the miracle cycle, completing the saint’s intercessory narrative",
+            "visual_connections": [
+              "Raised right hand gesture repeated for blessing continuity",
+              "Blue mantle of saint matches blues in earlier scenes",
+              "Group of onlookers behind mirrors petitioners in top right"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent gold leaf backgrounds in all panels",
+          "Uniform blue framing borders",
+          "Repeated raised-right-hand gesture",
+          "Hierarchical scaling of the saint larger than lay figures",
+          "Linear drapery folds and white highlighting throughout"
+        ]
+      },
+      "scene_description": "Primary Scene Analysis: In the top-left panel, a crowned lady lies recumbent on a bed draped in a red blanket edged with white lead highlights. She wears a white linen coif and a gilded circlet. Three female attendants cluster at her head: one in a blue gown leans forward to touch her hand in supplication, another in white stands behind with upraised hand, and a third in red stands to the right. The bed has a simple quatre-poster frame outlined in blue. The figures occupy the foreground against a burnished gold background, with overlapping drapery folds suggesting shallow depth. Secondary Elements: Compositional Integration: The four panels are equal in proportion and share a continuous gilt ground, anchoring the narrative as a coherent cycle. Scene Transitions: Vertical motifs—the bishop’s crosier, the martyr’s gridiron bars—link adjacent panels visually and thematically. Marginal Scenes: Though not true margins, the lower-left martyrdom panel functions as a visual margin episode, its vertical flame tongues contrasting the horizontal bed scene. Visual-Textual Relationships: The Old French rubric above refers to this series of miracles, and the rubricated red letters echo the vermilion robes in the miniature. The large initial on the following text column marks the start of the written account, reinforcing the cycle’s narrative precedence."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Haloed saint in bishop’s vestments",
+          "Saint bound on gridiron with nimbus",
+          "Saint blessing supplicant"
+        ],
+        "secular": [
+          "Crowned lady in bed",
+          "Three noble petitioners",
+          "Female attendants",
+          "Kneeling lay supplicant"
+        ],
+        "symbolic": [
+          "Flames surrounding the martyrdom",
+          "Raised-hand blessing gesture"
+        ]
+      },
+      "objects": [
+        "Four-poster bed",
+        "Gridiron",
+        "Bishop’s crosier"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth, evenly scraped surface; gatherings formed in quaternions; ruled in plummet and ink for text and miniature alignment.",
+      "preservation_condition": "Overall excellent; pigments remain vibrant with only minor flaking in vermilion areas; parchment shows slight cockling at edges; evidence of modern stabilization on lower margin.",
+      "notable_physical_characteristics": [
+        "Raised gesso ground beneath gold leaf",
+        "UV-visible iron-gall ink underdrawing",
+        "Regular plummet ruling visible in margins",
+        "Punch-dot pattern in gold leaf frames"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Demonstration of patron’s piety",
+        "Visual aide-mémoire for hagiographic reading",
+        "Luxury display of manuscript illumination"
+      ],
+      "intended_audience": "Noble patron for personal devotional use"
+    },
+    "scholarly_interpretation": "This mid-14th-century miniature, executed in a high-quality Parisian workshop, exemplifies the era’s sophisticated hagiographic cycles within luxury manuscripts intended for private devotion. The four-panel grid layout recalls contemporary Hours of Jeanne d’Évreux, with a strong emphasis on narrative clarity and devotional utility. The use of burnished gold backgrounds and verdigris green punctuates each miracle as a sacred tableau, while the consistent raised-hand gesture and hierarchical scaling reinforce the saint’s intercessory authority. Technically, the miniature reveals underdrawing in iron-gall ink beneath fine quill outlines and layered pigments, a hallmark of Parisian masters. Stylistically, the controlled drapery folds and white lead highlights evoke Jean Pucelle’s influence, yet the figures possess a sturdier volume characteristic of later practitioners. Iconographically, the sequence—healing, blessing, martyrdom, resurrection—presents a theologically rich program that links earthly suffering with celestial reward, reflecting the book’s function as a locus for meditation on saintly virtues. Comparisons with other Books of Hours from the same workshop underscore shared decorative motifs and compositional schemes, situating this manuscript within a tradition that balances innovation in spatial arrangement with established devotional iconography."
+  }
+}

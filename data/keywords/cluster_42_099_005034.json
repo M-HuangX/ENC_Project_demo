@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "Transcription partielle en raison de la qualité de l'image et langue utilisée.",
+    "modern_french_text": "Transcription partielle en raison de la qualité de l'image et langue utilisée."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "juges",
+      "balance",
+      "forteresse",
+      "couronne",
+      "ange",
+      "sceptre",
+      "architecture",
+      "livre",
+      "personnages debout",
+      "chevalier"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

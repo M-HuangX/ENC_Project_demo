@@ -1,0 +1,119 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-width image framed in red ochre at top two-thirds of the page with caption above and a single column of text below, wide white margins around image",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura rotunda with frequent abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "red ochre",
+          "brown wash",
+          "azure blue",
+          "green pigment",
+          "white of parchment"
+        ],
+        "color_usage": "Red ochre frames the architecture and interior surfaces, brown wash defines structural elements, blue highlights the customer’s mantle indicating status, green at the base suggests ground, white parchment left unpainted as highlights. Application is flat with minimal layering, slight tonal shading in folds and roof eaves. Pigments are well preserved with only minor fading of green and slight flaking of red ochre."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "balanced architectural framing by paired columns",
+          "centralized interior scene",
+          "counter dividing foreground and background",
+          "two figures placed on opposing sides of counter",
+          "hanging jars aligned in regular sequence behind vendor"
+        ]
+      },
+      "decorative_elements": [
+        "red ochre frame border",
+        "scalloped frieze under roof",
+        "paired columns as micro-architecture",
+        "arched bays",
+        "grid-pattern window"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold brown outlines defining architecture and figures, consistent line weight achieved with brush or broad pen",
+        "shading_method": "Simple wash shading with darker washes in recesses and fabric folds, no hatching",
+        "perspective_handling": "Rudimentary one-point perspective in shop interior with slight foreshortening of counter, no rigorous vanishing point, scale driven by composition rather than true depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "medical practice",
+        "commercial exchange",
+        "material culture"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The image portrays a single apothecary shop scene within a two-bay architectural frame. Two engaged columns support a red ochre roof with scalloped frieze, beneath which a wide counter runs horizontally. Behind the counter, ten cylindrical medicine jars—alternating red and green—hang by cords against a dark background, and three white bundles (herbs or cloth) rest on a left shelf. The vendor stands centrally behind the counter: clothed in a red robe and white coif, he passes a small object (moss remedy) to the customer. The customer, at right, is a woman in a long blue mantle lined white, curly hair visible, reaching forward to receive the item. A gridded window on the right wall admits light; an open bay on left echoes the counter’s shape. Figures are proportionate, the vendor slightly receding behind the counter. The customer’s mantle is rendered with subtle white highlights to indicate folds. The red interior surfaces contrast with the blue mantle, drawing attention to the transaction. Secondary elements include the red frame border, scalloped frieze, paired columns, and plain parchment background. Symbolically, medicine jars and moss underscore the text’s recipe for muscus. Caption “Muscus.” above the image names the remedy, while the Latin text below provides the medical instructions. The layout clearly separates visual and textual zones, guiding the reader from title to image to prescription."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "apothecary in red robe with white coif standing behind counter",
+          "customer in blue mantle with white lining and curly hair receiving medicine"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "cylindrical medicine jars",
+        "sacks or bundles of herbs",
+        "counter"
+      ],
+      "architectural": [
+        "two-bay shop front",
+        "red ochre roof with rafters",
+        "scalloped frieze",
+        "paired columns",
+        "arched bays",
+        "grid-pattern window"
+      ],
+      "natural": [
+        "green ground line"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth surface with faint hair-follicle pattern, pricked and plummet-ruled for image and text layout, single leaf from medical codex",
+      "preservation_condition": "Pigments well preserved overall with vibrant red and blue, minor green fading and slight flaking of red ochre at edges, parchment lightly cockled, evidence of modern lower-margin stabilization",
+      "notable_physical_characteristics": [
+        "visible underdrawing under paint layers",
+        "straight plummet ruling for text area",
+        "thick red ochre wash for architecture",
+        "layered blue pigment with white highlights on folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "aide-memoire for medical practitioner",
+        "visual memory aid for herbal remedy",
+        "demonstration of workshop practice"
+      ],
+      "intended_audience": "Institutional use (medical school or hospital staff)"
+    },
+    "scholarly_interpretation": "This illustration of an apothecary shop likely originates from a late 14th- or early 15th-century French medical miscellany, produced in a professional workshop serving the burgeoning medical schools. The precise architectural framing and tidy rows of hanging medicine jars reflect a systematic approach to visualizing materia medica, linking directly to the accompanying Latin recipe for moss (‘Muscus’). The choice of azure blue for the customer’s mantle and red ochre for the vendor’s robe and setting underscores social and functional hierarchies: blue signifying learned or elite status, red denoting the operational heart of the pharmacy. The composition’s symmetrical architecture and the counter’s foreground placement prioritize clarity of action over naturalistic space, consonant with the didactic aims of such manuals. Pigment application—flat washes with modest shading—demonstrates technical efficiency and economic use of costly azurite, while the absence of gilding suggests a focus on utility rather than lavish display. Iconographically, the jars and bundled herbs serve as visual glosses on the text, enabling quick reference for practitioners. Comparatively, this page resonates with the Tacuinum Sanitatis tradition in its marriage of text and image for medical instruction, though it adopts a more restrained palette and architectural realism. Overall, the image exemplifies the collaborative workshop practices of the period, balancing pedagogical clarity with the aesthetic conventions of Gothic book painting."
+  }
+}

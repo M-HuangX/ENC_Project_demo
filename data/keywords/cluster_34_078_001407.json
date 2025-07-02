@@ -1,0 +1,23 @@
+{
+  "ocr_results": {
+    "original_text": "Incipit lamentatio Ieremiae prophetae. Quod est in titulo cynoth cui absolutione litterarum hebraicarum.",
+    "modern_french_text": "Ici commence la lamentation du prophète Jérémie. Ce qui est dans le titre cynoth avec la résolution des lettres hébraïques."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "végétaux",
+      "ornement"
+    ],
+    "elements_textuels": [
+      "lamentations de jérémie"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 3,
+    "total_textual_elements": 1,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

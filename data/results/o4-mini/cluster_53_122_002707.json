@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Manuscript page with marginal illustrations"
+      ],
+      "layout_style": "Single column of dense Latin text (rubric) across top of the page, full‐width framed illumination beneath, wide lower margin with stylized floral border, strong visual hierarchy giving dominance to the miniature",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, executed in a professional book hand with regular ruling and minimal abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "azurite blue",
+          "verdigris green",
+          "minium red",
+          "lead white",
+          "ochre yellow",
+          "shell gold"
+        ],
+        "color_usage": "Gold leaf reserved for haloes and inscriptions, ultramarine and vermilion alternating on robes to emphasize hierarchy; green background unifies scene; white highlights applied over colored layers to model drapery; red and blue initials in rubric echo miniature palette; pigments generally well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Overlapping figures to suggest depth",
+          "Christ slightly larger and set to right, apostles recede to left",
+          "Kneeling woman placed in foreground as focal connector",
+          "Diagonal line from Christ's hand to woman's gesture",
+          "Two-tier background: blue sky above green field"
+        ]
+      },
+      "decorative_elements": [
+        "Thin red and blue border lines framing image",
+        "Lower margin floral motifs with red blossoms and green shoots",
+        "Shell gold haloes punched with rosette pattern",
+        "Inscription scrolls (banderoles) bearing speech in black ink"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine fluid pen work in brown ink underdrawing, overlaid with clean contour lines",
+        "shading_method": "Parallel hatching in drapery folds, white lead highlights creating subtle volume",
+        "perspective_handling": "Hierarchical scaling without true linear perspective, depth conveyed by overlapping and receding figures"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miracle of healing",
+        "faith and piety",
+        "female agency",
+        "divine authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The miniature depicts Christ at right, his right hand raised in blessing and left hand holding a partially unfurled scroll inscribed in Latin. He wears a red chiton over an ochre undergarment and a shell gold cruciform nimbus. At his feet, in the lower foreground, a single kneeling woman in a brown mantle and white headveil reaches with her right hand to touch the hem of his robe, her body angled three-quarters to the viewer. Behind her, seven apostles stand in a gently curving row extending to the left margin, each haloed and clad in alternating blue, red, green, and yellow tunics with matching mantles; the foremost apostle (Peter) is closest to Christ and glances toward him. The ground is rendered as green mounds decorated with stylized red flowers. The background is divided horizontally: a deep blue sky sprinkled with white dots above a solid green field. All figures are outlined in brown ink with white highlights on drapery, creating a clear visual hierarchy centered on the healing gesture. Secondary decorative features include a red line border and a lower margin floral band of red blossoms and curling green stems."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ in cruciform nimbus",
+          "Seven haloed apostles"
+        ],
+        "secular": [
+          "kneeling woman as supplicant"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "scrolls with script",
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized floral border elements",
+        "green mound terrain",
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth cream-colored surface with visible ruling for text section and clear parchment preparation",
+      "preservation_condition": "Vivid pigments with minimal oxidation, slight flaking in red areas, parchment edges faintly cockled, evidence of modern stabilization",
+      "notable_physical_characteristics": [
+        "Visible brown underdrawing under robes",
+        "Raised gesso preparation beneath gold haloes",
+        "Punchwork decoration in haloes",
+        "Burnished shell gold highlights",
+        "Regular ruling indentations visible in margins"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid",
+        "Display of patron's status"
+      ],
+      "intended_audience": "Monastic and scholarly readership in a Bible commentary or glossed Gospel manuscript"
+    },
+    "scholarly_interpretation": "This miniature, titled by its rubric as “de muliere fluxu sanguinis patient”, illustrates the Gospel miracle in which a woman healed of her hemorrhage touches the hem of Christ’s garment. Produced in a high-quality European workshop, likely in the mid-13th century, it reflects the period’s emphasis on scriptural exegesis and didactic imagery. The use of Gothic textura quadrata for the rubric and the disciplined pigment palette—azurite blue, vermilion, verdigris, lead white, ochre, and shell gold—indicates an atelier accustomed to both Latin liturgical texts and complementary illumination. The hierarchical composition, with Christ slightly larger than his followers and centrally placed, underscores his divine authority, while the gestural link to the kneeling woman foregrounds the theme of faith. The stylistic parallels—punched gold haloes, fine parallel hatching, and crisp color boundaries—connect this work to the English Channel School, though the precise origin remains uncertain. Iconographically, the scene reinforces Christ’s power over disease and elevates female agency through the woman’s decisive action. Its placement beneath a rubric in a glossed Gospel suggests an educational role: visual reinforcement for monastic readers. Compared to the Psalter of Blanche of Castile, this illumination shows a more restrained border scheme but similar technical sophistication. Overall, it embodies the medieval fusion of text and image, serving theological, educational, and status-display functions within the manuscript."
+  }
+}

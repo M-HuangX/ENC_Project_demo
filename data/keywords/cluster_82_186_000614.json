@@ -1,0 +1,32 @@
+{
+  "ocr_results": {
+    "original_text": "discutio vertebrorum clarum voblito passuum in introitu tuo ex vero conspicor lionsungit claritatem",
+    "modern_french_text": "discussion des vertèbres claires obscurcies à l'entrée, je perçois la clarté"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "couronne",
+      "église",
+      "personnage debout",
+      "saint",
+      "prophète",
+      "illustration médiévale",
+      "scène religieuse",
+      "robe",
+      "bâtiment"
+    ],
+    "elements_textuels": [
+      "joseph interprétant le songe du panetier",
+      "trois hébreux dans la fournaise",
+      "christ guérissant le paralytique"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 3,
+    "total_identified": 13,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "filename": "cluster_26_060_000778.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-07-01T11:07:07.990395",
+    "image_size": 265480
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Manuscript page with marginal illustrations",
+        "Decorated initial letter",
+        "Text-surrounded imagery"
+      ],
+      "layout_style": "Single column with decorated initials and marginal illustrations. Central illustration embedded within text block.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "Ultramarine blue",
+          "Vermillion red",
+          "Burnished gold leaf"
+        ],
+        "color_usage": "Gold highlights used in initials, ultramarine blue in backgrounds, vermillion red for clothing. Color used to denote luxury and significance."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central illustration of knights",
+          "Blue background creating contrast",
+          "Frame demarcating narrative space"
+        ]
+      },
+      "decorative_elements": [
+        "Acanthus leaf scrolls",
+        "Historiated initials",
+        "Geometric background patterns"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold outlines with fluid pen work",
+        "shading_method": "Flat color blocks with minimal shading",
+        "perspective_handling": "Hierarchical scaling without linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Chivalry",
+        "Courtly interactions",
+        "Medieval warfare"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The scene features two knights in full armor and surcoats, mounted on white horses, engaged in conversation. The knights wear mail armor with red surcoats and conical helmets. The horses are in motion, indicating a journey through the forest. The illustration occupies a central square space, bordered by a geometric pattern and framed with gold leaf."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Knights in chainmail and surcoats",
+          "Riders mounted on horses"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized trees in the background"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium vellum with smooth surface, meticulously prepared",
+      "preservation_condition": "Well-preserved colors, slight cockling at corners, minimal pigment flaking",
+      "notable_physical_characteristics": [
+        "Layered application with visible brush strokes",
+        "Raised gesso under gold leaf"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of status",
+        "Memory aid"
+      ],
+      "intended_audience": "Noble or courtly patrons"
+    },
+    "scholarly_interpretation": "The manuscript, likely produced in a 14th-century workshop, reflects the chivalric culture prominent in medieval aristocratic contexts. The choice of colors—ultramarine blue, vermillion, and gold—exemplifies luxurious patronage, suggesting ownership by nobles or courtiers. The Gothic textura script and meticulous page layout indicate a high degree of professionalism, likely emanating from a well-established scriptorium. The secular theme, with knights prominently displayed, aligns with the cultural emphasis on courtly conduct and martial prowess during this period. This scene, devoid of overt religious iconography, leaves room for interpretation regarding its specific literary or narrative origins, possibly linked to chivalric romance. The artistry, with its focus on outline and flat color application, speaks to conservative artistic tendencies, juxtaposed with innovative uses of space and color. This manuscript likely served both as an entertainment piece and a symbol of prestige, integrating textual storytelling with visual grandeur. Comparatively, it resonates with other illuminated romances of the time, emphasizing courtly ideals and narrative richness."
+  }
+}

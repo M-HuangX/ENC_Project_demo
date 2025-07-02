@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "texte illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnages",
+      "animal fantastique",
+      "homme",
+      "robe",
+      "église",
+      "livre",
+      "trône",
+      "vêtement",
+      "geste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

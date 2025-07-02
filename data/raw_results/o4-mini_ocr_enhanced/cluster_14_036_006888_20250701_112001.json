@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "filename": "cluster_14_036_006888.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:20:01.500491",
+    "image_size": 202971
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column page with central rectangular miniature framed by red and white rule, text blocks above and below, no marginalia or text wrapping around image.",
+      "text_content": {
+        "presence": true,
+        "language": "Middle French",
+        "script_style": "Gothic textualis book hand with even compact strokes and minimal flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "azurite blue",
+          "vermilion red",
+          "lead white",
+          "verdigris green",
+          "brown umber"
+        ],
+        "color_usage": "Gold leaf reserved for royal garments and decorative trim, ultramarine and vermilion applied in broad flat areas for gowns and cloaks, white highlights to indicate ermine spots and decorative patterns, green accents on soldier’s tunic for contrast. The alternating use of blue and red clothing creates visual rhythm and denotes hierarchical importance, with well-preserved pigments showing minimal darkening or flaking."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Figures arranged in a horizontal row against a checkered floor",
+          "Central noblewoman and nun serve as focal axis",
+          "Flanking male figures balance composition",
+          "Brickwork background unifies scene",
+          "Floor tiles create shallow receding space"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red and white line border",
+        "Checkered floor pattern",
+        "Brick-work wall motif"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen outlines in dark brown ink with consistent weight",
+        "shading_method": "Flat color fields with light cross-hatching in drapery folds",
+        "perspective_handling": "Implied depth via floor tiling and overlapping figures, no true linear perspective, figures sized nearly uniformly"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Courtly audience",
+        "Status and authority",
+        "Gender roles"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "In a single interior scene framed by a simple border, four life-size figures stand on a brown and cream checkered floor before a brick wall. At left, a courtier in a red houppelande with fur collar and matching cap opens a wooden door and turns his head outward. Next, a soldier in a green tunic with red hood raises his right hand in a halting gesture, his polearm slung over his shoulder. Center right, a crowned noblewoman stands with hands clasped, wearing a grey-blue gown with deep red lining and an ermine-lined white cloak, her gaze lowered. At far right a nun kneels in a black habit and white wimple, hands folded in supplication. The composition emphasizes a formal audience: the noblewoman approaches the abbey’s prioress under guard. All figures are depicted with steady three-quarter poses, flat modeling, and minimal spatial recession."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Nun in black habit and white wimple"
+        ],
+        "secular": [
+          "Courtier in red houppelande with fur collar and hat",
+          "Soldier in green tunic with red hood and polearm",
+          "Crowned noblewoman in grey-blue gown and ermine-lined cloak"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Wooden staff or scepter",
+        "Closed wooden door"
+      ],
+      "architectural": [
+        "Brickwork wall background",
+        "Checkered stone floor"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth and lightly prepared with visible hair-follicle pattern, consistent parchment thickness indicative of professional preparation.",
+      "preservation_condition": "Overall well preserved; pigments retain brightness with slight abrasion on ultramarine areas, minimal flaking of red lake, slight cockling at folio corners.",
+      "notable_physical_characteristics": [
+        "Visible plummet ruling lines for text and image frame",
+        "Raised gesso under gold leaf in ermine spots",
+        "Underdrawing traces in brown ink beneath pigments",
+        "Burnished gold with regular punchwork pattern",
+        "Flat color application with stippled white highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Visual aid to narrative"
+      ],
+      "intended_audience": "Noble patron"
+    },
+    "scholarly_interpretation": "This mid-15th-century French miniature likely originates from a provincial court workshop that combined the narrative clarity of Parisian ateliers with regional practicality. The use of rich azurite and vermilion pigments alongside burnished gold signals a commission by a wealthy patron, possibly for a secular chronicle or romance illuminated in vernacular French. The scene—depicting a royal woman petitioning a prioress under the escort of a guard—reflects contemporary courtly culture and the ceremonial protocols of monastic entry. Stylistically, the composition bridges Gothic traditions of flat, decorative backgrounds with emerging interests in spatial coherence, as seen in the carefully drawn checkered floor. The fine quill underdrawing and precise gesso work demonstrate technical refinement, while the modest architectural setting underscores narrative over architectural spectacle. Iconographically, the crown and ermine cloak denote high status, the scepter suggests authority, and the nun’s submissive posture highlights gendered religious roles. Comparatively, this scene shares compositional economy with the Book of Hours by the Bedford Master, yet its more restrained border and provincial charm mark it as a distinct regional variant. The image thus illustrates the transition from court-centered extravagance to personalized visual storytelling in late medieval France."
+  }
+}

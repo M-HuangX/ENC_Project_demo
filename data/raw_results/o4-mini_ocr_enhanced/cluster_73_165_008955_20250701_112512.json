@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "filename": "cluster_73_165_008955.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:25:12.566471",
+    "image_size": 255127
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Manuscript page with marginal illustrations",
+        "Standalone illustration"
+      ],
+      "layout_style": "Two-page spread: left folio features a single-column narrative scene beneath a short text block at upper left; right folio contains a framed, vertically oriented diagram of grafting stages in three tiers. The gutter separates narrative and diagrammatic elements. Wide outer margins are blank.",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval French",
+        "script_style": "Gothic cursive script with frequent abbreviations, executed by a professional scribe with uniform letterforms and occasional decorative flourishes"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "red ochre pigment",
+          "brown iron-gall ink",
+          "green verdigris pigment",
+          "buff parchment support"
+        ],
+        "color_usage": "Red ochre dominates clothing and stylized foliage, brown ink provides outlines and text, green accents grass and leaves. The restrained palette reflects practical, didactic intent. Pigments remain well-preserved with minimal fading or oxidation."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central tree motif anchors the narrative scene",
+          "Group of standing figures symmetrically flanks the tree",
+          "Seated figure at lower left balances the vertical axis",
+          "Text block above image creates a hierarchical top-to-bottom flow"
+        ]
+      },
+      "decorative_elements": [
+        "Simple ruled frame encloses right-hand diagram",
+        "Stylized tree canopies serve as decorative natural motifs",
+        "Small clumps of grass punctuate ground line as marginal ornament"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold, consistent brown-ink outlines applied with quill pen, minimal variation in line weight",
+        "shading_method": "Flat color application with sparse hatch marks beneath canopies",
+        "perspective_handling": "Hierarchical scaling used for compositional emphasis; no attempt at linear perspective, overlapping minimal"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Agricultural practice",
+        "Educational demonstration",
+        "Scientific knowledge"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The page presents a single instructional scene: a fruit tree with flattened, red-spotted canopy stands at center ground line. To its left, five male figures dressed in red and green cotehardies and hose stand in a cluster. Each raises a finger in gesture toward the tree. Their garments feature simple patterns and each wears a soft beret or coif in coordinated hues. At lower left, a seated scholar in a long patterned tunic unfurls a scroll, inscribed with diagrammatic notations. He glances upward, stylus poised, indicating observation and record. The standing figures are aligned in graduated heights, the tallest at the rear, creating depth. The tree’s trunk is broad near the base and tapers upward; its canopy is rendered as a rounded mass of alternating red and green teardrop shapes. Sparse tufts of grass beneath figures and tree unify foreground. Above scene, four lines of text in brown ink link narrative with instruction. The composition emphasizes the central arboricultural demonstration, with gestures and scroll highlighting the act of grafting for an educated audience."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Seated scholar in patterned tunic, holding an unrolled parchment scroll",
+          "Cluster of five male observers in red cotehardies pointing toward the central tree"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Parchment scroll with schematic inscriptions"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Central grafted tree with stylized red-spotted canopy",
+        "Tufts of grass at ground line",
+        "Diagrammatic saplings and graft sequences on right folio"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth finish with visible hair-follicle pattern on flesh side; quire formed of regular quaternion gatherings; ruling visible in text area.",
+      "preservation_condition": "Overall very good. Pigments remain vivid, slight cockling at lower corners, minimal flaking of red ochre, text block shows minor abrasion.",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under infrared reflectography",
+        "Regular ruling pattern with plummet lines evident",
+        "Iron-gall ink shows minor bleed-through",
+        "Flat application of pigment without raised gesso"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for grafting techniques",
+        "Reference manual for landowners and gardeners",
+        "Display of technical knowledge"
+      ],
+      "intended_audience": "Scholars and landowners interested in advanced horticultural methods"
+    },
+    "scholarly_interpretation": "This two-page spread embodies a late medieval horticultural manual’s pedagogical aim, likely produced in a secular workshop for landowners or scholarly gardeners. The engagement between standing observers and the seated scribe underscores the manuscript’s function as both demonstration and record. Executed in a professional Gothic cursive hand, the text’s integration above the image aligns script and illustration into a cohesive instructional program. The restrained palette of red ochre, brown iron-gall ink, and green verdigris suggests economical pigment use, consistent with pragmatic agricultural codices rather than lavish devotional books. Compositionally, the centralized grafting tree serves as visual nucleus, its stylized canopy repeated in the diagram on the facing folio to reinforce the technical sequence. The absence of gold leaf and elaborate borders further confirms the work’s secular, functional orientation. Material analysis reveals premium vellum and evidence of underdrawing, indicating careful preparation and collaboration between scribe and illuminator. Iconographically, the gesturing figures and unrolled scroll highlight knowledge transmission, reflecting broader 15th-century trends toward practical manuals. Comparatively, this manuscript shares affinities with other European arboricultural treatises by Lambert de Saint-Omer, yet distinguishes itself through its narrative tableau and concise diagrammatic presentation. Overall, it exemplifies the synthesis of visual and textual strategies in late medieval technical literature."
+  }
+}

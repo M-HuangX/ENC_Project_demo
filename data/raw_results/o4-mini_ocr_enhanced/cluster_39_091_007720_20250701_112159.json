@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "filename": "cluster_39_091_007720.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:21:59.373654",
+    "image_size": 263369
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single central image framed by a continuous red border occupying the upper portion of the folio, with a single column of caption text immediately below the image.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic bastarda with frequent abbreviations and ligatures, executed in a professional hand"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green (foliage)",
+          "ochre yellow (leaf highlights)",
+          "minium/vermilion red (berries and noblewoman’s robe)",
+          "azurite blue (servant’s habit and picker’s coif)",
+          "lead white and ochre flesh tones",
+          "iron-tannate brown (tree trunk)"
+        ],
+        "color_usage": "Naturalistic application of green for foliage, yellow wash for light on leaves; red reserved for the principal secular figure’s robe and fruit; blue used to denote lower-status attendant and headgear; flesh tones modeled with white highlight and ochre; overall palette well preserved with minimal pigment loss."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Vertical axis defined by central tree trunk",
+          "Triangular arrangement of three figures beneath canopy",
+          "Eye drawn upward from ground to apex of foliage",
+          "Balanced left-right placement of noblewoman and servant",
+          "Simple ground line anchoring composition"
+        ]
+      },
+      "decorative_elements": [
+        "Plain red border frame",
+        "Stylized ground line with scattered grasses and herbs",
+        "Minimal internal ornamentation"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid dark-brown ink outlines of uniform weight drawn with quill",
+        "shading_method": "Flat washes of pigment with darker brush-applied strokes to indicate leaf veins and slight hatching in garments",
+        "perspective_handling": "Hierarchical scaling with no true linear perspective; figures sized by role rather than spatial recession"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Agricultural labor (fruit harvesting)",
+        "Courtly consumption (tasting fresh produce)",
+        "Medicinal/culinary knowledge (herbal treatise context)",
+        "Symbolic relationship between labor and reward"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene shows a mature fruit tree at center, its trunk rising from a stylized ground of green and ochre herbaceous growth. In the leafy canopy, a male picker stands on a thick branch, dressed in a short red tunic and red hose, with a blue coif, reaching with his right hand to pick dark red berries into a woven basket hanging from his left. To the left of the trunk stands a woman in a long vermilion robe with loose sleeves, bare-headed with blond hair, holding a leafy branch in her left hand and bringing a berry to her lips with her right. To the right, a youth in a long azurite-blue gown and pointed shoes stands at the trunk’s base, head tilted upward, holding a shallow dish in his left hand and receiving a freshly plucked berry in his right. The figures form a triangular composition under the broad, densely foliated crown. The noblewoman is slightly larger and positioned left of center, indicating her prominence; the attendant’s smaller scale and plain habit mark lower status. Foliage is densely rendered with alternating green and ochre leaf washes, dotted with clusters of red fruit. The ground is simply indicated; no architectural elements are present."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Woman in vermilion robe tasting fruit, bare-headed blond hair, holding branch",
+          "Male picker in red tunic and hose with blue coif, standing in tree with basket",
+          "Youth servant in azurite-blue gown holding dish and receiving berry"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Woven basket of fruit",
+        "Shallow receiving dish",
+        "Branches with berries"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Central fruit tree with verdigris foliage and ochre highlights",
+        "Ground vegetation of stylized grasses and herbs"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth flesh side with faint hair-follicle pattern; single-leaf gatherings ruled in plummet, uniform margins ~2 cm.",
+      "preservation_condition": "Overall excellent: pigments vivid with minimal flaking; slight cockling at lower corner; no evidence of later overpaint.",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under UV, especially in tree and drapery folds",
+        "Layered brushwork with white highlighting in flesh and leaf veins",
+        "Ink ruling lines for text and frame visible beneath pigments"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for herbal and gastronomic knowledge",
+        "Display of patron’s learning and status"
+      ],
+      "intended_audience": "Scholars or physicians in a courtly milieu"
+    },
+    "scholarly_interpretation": "This illumination, likely from a late 14th-century French herbal or gastronomic treatise, exemplifies the fusion of scientific and courtly culture in manuscript production. The precise depiction of the fig or mulberry tree and the sequential actions—harvesting, tasting, and collecting—reflect contemporary interests in materia medica and culinary practice. Executed in a Parisian workshop by a proficient illuminator using Gothic bastarda script and a restrained palette (verdigris, minium, azurite), the folio demonstrates the era’s technical mastery of layered pigment application and subtle underdrawing. The centralized, triangular composition and absence of architectural framing focus attention on the human-plant interaction, underscoring the text’s didactic purpose. Iconographically, the larger, elaborately robed woman suggests a patron or allegorical figure receiving nature’s bounty, while the subordinate figures reinforce social hierarchy and labor’s role in provision. Comparisons with the 1380–1400 Grandes Heures of Anne of Brittany reveal similar vegetal naturalism but a less opulent scheme, indicating this manuscript’s specialized scientific rather than purely devotional function. The image thus occupies a transitional space between traditional botanical illustration and court-liturgical illumination, signaling the period’s evolving emphasis on empirical observation and the integration of practical knowledge into high art."
+  }
+}

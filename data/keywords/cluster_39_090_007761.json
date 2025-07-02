@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "Eruca et nasturcium. Eruca a haurirur... [texte coupé]",
+    "modern_french_text": "Roquette et cresson. La roquette est... [texte coupé]"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "arbre",
+      "vêtements",
+      "plantes"
+    ],
+    "elements_textuels": [
+      "roquette",
+      "cresson"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 2,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

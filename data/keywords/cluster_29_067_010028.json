@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "Le langage fait en hongrue... chasteaulx... Le roy Charles les...",
+    "modern_french_text": "Le langage en Hongrie... châteaux... Le roi Charles..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "personnage debout",
+      "cheval",
+      "personnages à tête unique",
+      "drapeau",
+      "architecture",
+      "armure",
+      "tenue médiévale"
+    ],
+    "elements_textuels": [
+      "roi de france"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 8,
+    "total_textual_elements": 1,
+    "total_identified": 9,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

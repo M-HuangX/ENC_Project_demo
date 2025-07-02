@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "Le roy de france ot grant desir de veoir le pape innocent. Si al.\nambula grant chière et ala a sign d'oun le pape estort x fu\nace li ses trois freres et madame bl[...]",
+    "modern_french_text": "Le roi de France avait grand désir de voir le pape Innocent. Il alla\ngrandement honoré et alla au lieu où le pape était [...]"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de france",
+      "pape",
+      "couronne",
+      "personnages à tête unique",
+      "architecture",
+      "regalia"
+    ],
+    "elements_textuels": [
+      "le pape innocent",
+      "le roy de france"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 2,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

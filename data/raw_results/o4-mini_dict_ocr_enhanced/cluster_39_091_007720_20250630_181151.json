@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "filename": "cluster_39_091_007720.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:11:51.474449",
+    "image_size": 263369
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-width rectangular miniaturé framed by a red rule; title inscribed above in a single line, main image occupying the central portion of the folio, with a caption block of Gothic script below; wide blank margins beyond frame.",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Gothic textura libraria with regular letterforms, pronounced vertical strokes, frequent use of common medieval abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "leaf green",
+          "gold-yellow",
+          "vermillion red",
+          "burnt umber",
+          "iron-oxide brown",
+          "ultramarine-blue (figurer’s headdress)",
+          "flesh-pink"
+        ],
+        "color_usage": "Local, flat application of pigments with color reserved for narrative clarity; alternating yellow and red clusters in the canopy to emphasize ripeness; blue used sparingly for secondary figures to draw visual contrast; minimal shading, relying on pigment contrasts; ground wash of yellow ochre to set off foliage; original colors well-preserved with slight darkening of iron-oxide red."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Tree trunk placed on a strict vertical axis at center",
+          "Symmetrical, hemispherical canopy of leaves and fruit clusters",
+          "Flanking figures at either side forming a balanced tripod with tree-climbing picker",
+          "Ground plane indicated by stubble-border and scattered vegetation",
+          "Red framing rule reinforces visual containment of the scene"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red rule border",
+        "Stippled ground vegetation and stubble motif at base",
+        "Minimal border ornamentation emphasizes botanical subject",
+        "Uniform red framing connects text block and image"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in dark brown ink with consistent line weight; slight modulation around figures and foliage.",
+        "shading_method": "Almost none—flat color fields with limited internal hatching in the tree trunk and folds of garments.",
+        "perspective_handling": "Hierarchical scaling—no true linear perspective; figures and tree sized for compositional importance rather than spatial realism."
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Allegorical",
+      "sub_themes": [
+        "Moral teachings",
+        "Symbolic elements",
+        "Cultural references"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single allegorical tableau depicting a fruit-bearing tree (identified as the sycomore/fig tree) central to the composition. Three human figures engage with the tree: one male picker in a belted pink tunic and red hose climbs in the canopy, collecting clusters of yellow and red fruit into a suspended wicker basket; to his left stands a woman in a long red gown, holding a branch with foliage in her left hand while raising a fruit to her mouth in a gesture of tasting; to the right, a second figure in a blue robe and hose offers a plate upon which rests two fig clusters, as if presenting the fruit. The canopy is rendered as a dense hemispherical mass of alternating yellow and red berries among green leaves. The ground plane is defined by a yellow wash with stylized grasses and stubble motifs. Spatially, the picker’s elevated position creates depth, while the flanking figures balance the composition. The woman’s red gown features long, plain sleeves and a fitted bodice, indicating high-status attire; the blue-robed figure’s simpler dress suggests a servile role. The basket and plate serve as secular props emphasizing the act of harvesting and consumption. The tree trunk’s dark brown rendering contrasts with the bright canopy, guiding the viewer’s eye upward."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Man picker in belted tunic and hose, climbing tree and harvesting fruit",
+          "Woman in red long gown tasting a leaf or fruit, high-status posture",
+          "Attendant in blue robe holding plate of fruit"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Wicker basket suspended from branch containing figs",
+        "Shallow plate or paten holding fruits",
+        "Tree branch held by tasting figure"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Large sycomore/fig tree with dense canopy of green leaves and yellow/red fruits",
+        "Ground vegetation: stylized grasses, small saplings, and stubble motifs"
+      ]
+    },
+    "technical_features": {
+      "material": "High-quality calf vellum (flesh side), smooth surface with faint follicle pattern, even ruling visible under UV, quaternio gathering indicated by consistent gutter spacing.",
+      "preservation_condition": "Excellent overall; pigments retain vibrancy, slight darkening of iron-oxide red in hose and gowns, minor wear at fold edges, no significant flaking.",
+      "notable_physical_characteristics": [
+        "Uniform plummet-ruled frame lines under red rule",
+        "Confident underdrawing visible under infrared in tree canopy",
+        "Flat pigment application with no raised gesso or gold leaf",
+        "Fine incised hairlines in facial features executed with sharp quill"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid",
+        "Display of herbal knowledge"
+      ],
+      "intended_audience": "Scholarly readers and physicians in a monastic or university context"
+    },
+    "scholarly_interpretation": "This folio appears in a 14th-century herbal or botanical miscellany, likely produced in a monastic workshop influenced by the medical‐botanical traditions of southern France or Italy. The central fig tree is rendered more for didactic clarity than naturalistic exactitude, with alternating yellow and red berries serving to distinguish stages of ripeness. The balanced tripartite composition and strict vertical axis of the trunk reflect Gothic aesthetic preferences for symmetry and clarity. The absence of gilding and the use of a plain red rule border suggest a practical manuscript intended for learned consultation rather than opulent display. The three human figures, dressed in contemporary lay attire, enact a simple allegory of harvest and moderation, echoing the accompanying Latin caption that warns against gluttony. Technically, the page exhibits skilled plummet ruling, consistent textura script, and a confident quill underdrawing underlying the foliage. Iconographically, the fig tree alludes both to biblical associations of fertility and to medieval dietary concerns, linking natural history with moral instruction. Comparatively, this folio shares compositional conventions with Mediterranean herbaria such as the Carrara Herbal, while its pictorial clarity points to an educational paradigm rather than richly historiated presentation. As such, it exemplifies the crossover between medieval botanical science and moral allegory, reflecting the dual monastic interests in nature and ethical teaching."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ocr_results": {
+    "original_text": "cuomum que gentes la...",
+    "modern_french_text": "comme les gens de..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de castille",
+      "couronne",
+      "sceptre",
+      "orbe",
+      "personnage debout",
+      "enluminure",
+      "vêtement",
+      "architecture",
+      "décoration",
+      "croix"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 0,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

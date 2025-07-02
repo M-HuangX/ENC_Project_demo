@@ -1,0 +1,153 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single horizontal band of two adjacent arched miniatures framed in red, positioned below the main block of Latin text and above a secondary caption. The two scenes share a continuous red border and are separated by a slender column. Wide text margins above and below emphasize the image as an integrated narrative element subordinate to, but visually highlighted by, the surrounding text.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Proto-Gothic book hand with rounded forms, moderate use of ligatures and abbreviations, executed by a professional scribe"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "vermillion red",
+          "lead-tin yellow",
+          "verdigris green",
+          "white lead"
+        ],
+        "color_usage": "Gold leaf provides a unified background signifying the sacred realm; ultramarine blue highlights Christ’s robe and divine figures; red accents denote authority and emotional intensity; white lead is used for highlights on drapery folds; pigments are layered with fine white strokes for volume; minimal pigment darkening indicates good preservation."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two equal-sized narrative compartments under a single red frame",
+          "Figures oriented left to right to guide reading order",
+          "Central protagonists in each arch balanced by smaller attendants",
+          "Architectural arches create rhythmic framing",
+          "Gestural lines linking panels"
+        ]
+      },
+      "decorative_elements": [
+        "Red rectangular border",
+        "Double-arched architectural framework with slender columns",
+        "Gold ground behind all figures",
+        "Stylized vine pattern in left scene background",
+        "Cursive Latin rubrics above and below image"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in dark brown with fluid, even weight for figures and architecture",
+        "shading_method": "Subtle parallel hatching and white lead highlights on drapery folds to suggest volume",
+        "perspective_handling": "Hierarchical scaling without true linear perspective; slight overlapping indicates depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine mockery",
+        "Judicial conspiracy",
+        "Passion of Christ",
+        "Religious authority",
+        "Sacrificial narrative"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left arch",
+            "subject": "Council of the High Priest Caiaphas plotting against Jesus",
+            "relationship_to_next": "Leads directly to the mock trial of Jesus in the next panel",
+            "visual_connections": [
+              "Group of figures leaning toward right panel",
+              "Red and blue garments echoed in right scene",
+              "Continuous gold background across both arches",
+              "Gestures of pointing direct eye toward second scene",
+              "Slender central column aligns with architectural division in both panels"
+            ]
+          },
+          {
+            "position": "Right arch",
+            "subject": "Jesus seated on a bench before the High Priest, offered a vessel of bitter wine",
+            "relationship_to_next": "Concludes the immediate narrative; no further scene on this page",
+            "visual_connections": [
+              "Cruciform halo mirrored by arch shape of frame",
+              "White and blue robes repeated from left panel",
+              "Gold background continuity",
+              "Raised hand gesture echoes pointing in first scene",
+              "Architectural arch motif consistent across both"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Continuous red border",
+          "Gold ground throughout",
+          "Repeating arch frames",
+          "Ultramarine and vermillion garment palette",
+          "Gestural flow from one panel to the next",
+          "Uniform ground treatment in green",
+          "Consistent figure scale hierarchy"
+        ]
+      },
+      "scene_description": "The two-panel composition contains a total of eleven figures. In the left panel, eight members of the Jerusalem council cluster tightly: Caiaphas stands at front left, wearing a pointed cap and deep blue mantle over a red tunic, his right hand raised in consultation. Seven attendant priests in varied hued cloaks (ochre, brown, green) lean in, faces in profile, gesturing among themselves with long narrow fingers. The ground is a flat green field; behind them a stylized gold and white curtain. In the right panel, Jesus is seated on a cushioned bench under an arch, clad in ultramarine robe with brown mantle, his cruciform halo rendered in gold and blue. Two disciples or attendants stand to his left, one holding a plate, the other gesturing in prayer, both barefoot in simple white tunics. To his right stands the High Priest, in flowing white robes, lifting a silver vessel above Christ’s head. All figures have almond-shaped eyes, elongated noses, and finely hatched drapery. Spatially, figures overlap to suggest depth; the seated Christ is slightly elevated, emphasizing his central role. The vivid pigments and crisp outlines focus attention on the judicial and sacrificial drama."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Jesus Christ with cruciform halo, ultramarine robe, brown mantle",
+          "High Priest Caiaphas in white and later in blue mantle with pointed cap",
+          "Seven subordinate priests in varied cloaks"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Silver vessel of bitter wine",
+        "Ceremonial plate",
+        "Scroll held by one priest in left panel"
+      ],
+      "architectural": [
+        "Double-arched stone framework with columns",
+        "Curtained backdrop in left scene",
+        "Bench with cushion in right scene"
+      ],
+      "natural": [
+        "Flat green ground covering both panels",
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with uniform thickness and smooth, well-pumiced surface; visible plummet ruling for text and image borders",
+      "preservation_condition": "Overall excellent; pigments remain vibrant with minimal red flaking and slight cockling at folio edges; no major losses to gold leaf",
+      "notable_physical_characteristics": [
+        "Raised gesso bed beneath gold leaf",
+        "Visible underdrawing lines in brown ink under figures",
+        "Regular plummet ruling at 10 mm intervals",
+        "Punch-work decoration on gold grounds",
+        "Layered brush strokes visible in drapery folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Memory aid for clergy",
+        "Didactic illustration of Passion narrative",
+        "Demonstration of patron’s devotion"
+      ],
+      "intended_audience": "Monastic or cathedral clergy for Gospel reading and meditation"
+    },
+    "scholarly_interpretation": "This two-panel illumination, inserted between lines of Latin text naming Caiaphas and the council’s plot, most likely originates from a late 12th-century Norman or English workshop influenced by the English Channel School. The use of burnished gold backgrounds and ultramarine pigment suggests high-quality materials typical of a liturgical Gospel book or passion narrative. The architectural framing with twin arches evokes church portals, situating the events within a sacred space even as they unfold judicial intrigue. Stylistically, the elongated figures, almond-shaped eyes, and fluid drapery outlines reflect a transitional style moving toward Gothic naturalism while retaining Romanesque formalism. The narrative sequence—council plotting and Jesus’ mock trial—underscores themes of religious authority and injustice, aligning with contemporary monastic concerns for Christ’s Passion as a model of faithful endurance. The manuscript’s fine vellum, precise ruling, and multiple hands in underdrawing and finishing indicate a collaborative workshop, perhaps attached to a cathedral scriptorium. Iconographically, the cruciform halo and silver vessel of bitterness amplify theological interpretations of Christ’s impending suffering. Comparisons can be drawn with the Bury St. Edmunds Apocalypse and the Hunterian Psalter, where similar pigment palettes and arch framing occur. Overall, this illumination bridges Romanesque monumentality and Gothic expressiveness, serving both didactic and devotional functions within a liturgical context."
+  }
+}

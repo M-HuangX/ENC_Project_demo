@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "Inclitem domno facies docere... Confectione haec turmae",
+    "modern_french_text": "Faites plier toute équipe en démontrant cette fabrication"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "couronne",
+      "personnages à tête unique",
+      "vêtements",
+      "geste",
+      "architecture"
+    ],
+    "elements_textuels": [
+      "turmae"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 1,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

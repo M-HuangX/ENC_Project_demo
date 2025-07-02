@@ -1,0 +1,24 @@
+{
+  "ocr_results": {
+    "original_text": "Engonasin quae erat the nef hend nervule dic: fabulose parat ad certandum epiced...\nDu eni ab euritheo ad hespe du onu pon...",
+    "modern_french_text": "Engonasin, ce qui était he.. fabuleusement prêt pour le combat...\nIl est allé d’Eurithée à Hespe pour placer..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "serpent",
+      "lion",
+      "aile"
+    ],
+    "elements_textuels": [
+      "hercule"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 1,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

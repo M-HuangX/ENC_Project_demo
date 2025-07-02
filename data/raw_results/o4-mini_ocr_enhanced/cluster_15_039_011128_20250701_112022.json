@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "filename": "cluster_15_039_011128.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:20:22.187673",
+    "image_size": 249142
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Decorated initial letter",
+        "Standalone illustration"
+      ],
+      "layout_style": "Single column of text with a full-width miniature above; a large ornamental initial begins the text block; modest vegetal sprig marginalia in spacing between lines and at margins; clear visual hierarchy with miniature commanding upper space, text below",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic rotunda bookhand with alternating red rubrics and brown-black main text, professional execution, extensive abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green (verdigris)",
+          "burnished gold leaf",
+          "lead white",
+          "brown earth tones",
+          "flesh tint"
+        ],
+        "color_usage": "Gold reserved for ornamental initial and frame highlights; blue dominates figures’ robes and sky, symbolically elevating central harvest scene; red used for miniature border and rubrication; green applied to vegetation and landscape; layered application of white highlights on robes and foliage; original pigments well-preserved with minimal darkening"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Horizontal alignment of three figures across foreground",
+          "Central female figure emphasized by position and brighter blue robe",
+          "Receding landscape suggests depth",
+          "Tree at left and building at right frame scene",
+          "Repeated basket motif creates visual rhythm"
+        ]
+      },
+      "decorative_elements": [
+        "Thin red frame border around miniature",
+        "Ornamental gold and blue initial with white vine tracery",
+        "Marginal sprigs of leek leaves between text lines"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill-pen outlines in dark brown ink with consistent line weight",
+        "shading_method": "Flat color fields with slight tonal modulation via lighter pigment layers, minimal hatch shading",
+        "perspective_handling": "No linear perspective, depth indicated by overlapping figures and receding hills"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Cultural references (agricultural labor)",
+        "Medical context (herbal remedy illustration)"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Primary Scene Analysis: A single harvest vignette occupies the top compartment. Three common workers gather leeks on a wooden platform. Centered is a woman in a blue gown and white wimple bearing two woven baskets suspended from a shoulder yoke. To the left, a man in a red tunic, black cap and hose holds clutched leek leaves; his posture is upright, feet turned toward the viewer. On the right, a youth steps from a stone doorway carrying a basket laden with leeks. Figures overlap minimally; the roof boards beneath their feet project forward. Costumes are simple woolen tunics and hose with visible seams; the woman’s gown shows layered underdress at the wrist. No tools are depicted beyond baskets. Spatial Organization: Figures arranged in a shallow frieze across the foreground; depth implied by pastel green and gold hills dotted with stylized leek plants receding to a blue sky. Costume and Equipment Details: Woven wicker baskets with cross-hatched pattern; woolen garments indicated by subtle weave texture; no status indicators beyond working dress.\nSecondary Elements: Border: thin red line framing miniature. Architectural: single-bay stone building with round-arched doorway. Background: stylized hills and almond-shaped trees. Symbolic Components: leeks as medicinal and culinary subject. Compositional Focus: central female figure emphasized by color and position; supporting figures balanced on either side. Visual-Textual Relationships: The miniature directly illustrates the heading “Porri”; text below describes properties of leeks; initial letter N echoes vegetal motif."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Common people: woman in blue woolen gown and white linen wimple carrying baskets with a yoke; man in red tunic and black cap holding leek leaves; youth in simple tunic emerging from doorway with basket"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "woven baskets",
+        "agricultural produce (leeks)"
+      ],
+      "architectural": [
+        "stone building fragment with round-arched doorway",
+        "timber platform floorboards"
+      ],
+      "natural": [
+        "stylized leek plants",
+        "trees with dark foliage",
+        "rolling hilly landscape"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with even thickness and smooth scraped surface, horizontal hair-follicle pattern visible under magnification, ruled with lead point",
+      "preservation_condition": "Well-preserved pigments, minimal flaking in red areas, slight cockling at lower margin, no major losses evident",
+      "notable_physical_characteristics": [
+        "Underdrawing traces visible under infrared",
+        "Raised gesso under gold in initial",
+        "Regular ruling pattern",
+        "Layered paint application with visible brush strokes in drapery"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Display of medical knowledge",
+        "Memory aid for herbal remedies"
+      ],
+      "intended_audience": "Medical practitioners and educated lay readers (scholar’s or physician’s reference)"
+    },
+    "scholarly_interpretation": "This late medieval herbal page, likely produced in a monastic or urban workshop in the 15th century, exemplifies the integration of practical botanical knowledge with sophisticated pictorial tradition. The miniature’s balanced composition and rich palette of ultramarine and gold reflect the era’s increasing emphasis on accurate plant identification for medicinal use. The Gothic rotunda script, interspersed with red rubrication, suggests a professional scriptorium audience, while the modest marginalia betray a workshop economy balancing decoration and utility. Stylistically, the work shows continuity with earlier English and French herbals in its schematic landscape and frontal figures, yet the naturalistic rendering of foliage and volume in garments points toward emerging Renaissance sensibilities. Iconographically, the page underscores the nexus of agriculture, medicine, and daily life: leeks are depicted not as allegorical symbols but as material agents of health, in keeping with the accompanying text’s humoral theory. The choice of a standalone full-width miniature above an ornamental initial underscores the centrality of visual identification in herbal compendia. In comparative perspective, this manuscript shares formal parallels with the Herbarium of Apuleius tradition and may reflect cross-channel influences seen in the Rouen and Paris workshops. Its fusion of medieval illustrative formulae with nuanced color modulation marks a transitional moment in botanical illumination, bridging the late Gothic inheritance and early naturalism."
+  }
+}

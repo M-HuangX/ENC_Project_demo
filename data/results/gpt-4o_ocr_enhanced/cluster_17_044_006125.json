@@ -1,0 +1,101 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single illustration occupying the majority of the page with minimal text below the image",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Gold highlights the divine figure's halo and architectural elements. Blue robes indicate a holy context. Red and green create a vibrant contrast across the composition."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Central divine figure with significant scale",
+          "Subservient figures on a lower plane",
+          "Architectural elements create framing"
+        ]
+      },
+      "decorative_elements": [
+        "Architectural frames with domed roof",
+        "Gold embellishments framing the central scene"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold outlines with minimal internal detailing using a quill pen",
+        "shading_method": "Flat color application with minimal shading",
+        "perspective_handling": "Hierarchical scaling without linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "divine attributes"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Central angelic figure sitting on a tomb, pointing to two women in blue and white garments, likely representing Mary Magdalene and another Mary. The angel holds a staff, indicating divine authority. Soldiers with helmets and shields appear awed or frightened, suggesting a miraculous event. The background features architectural structures highlighting the holy setting."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "angel with staff and halo",
+          "two Marys in blue robes"
+        ],
+        "secular": [
+          "soldiers with shields and spears"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "gabled structure with domed roof"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Well-prepared calf vellum, with a smooth surface appropriate for detailed work",
+      "preservation_condition": "Colors remain vivid, especially in gold and reds, with minor fading in blues",
+      "notable_physical_characteristics": [
+        "Gold leaf applied to highlight the halo of the angel",
+        "Thick pigment application visible in red garments and architecture"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Display of status"
+      ],
+      "intended_audience": "Individual patron"
+    },
+    "scholarly_interpretation": "This manuscript illustration depicts a significant biblical event, likely the Resurrection scene with the angel's announcement to the women at the tomb. The hierarchical composition emphasizes the divine nature of the scene, with the angel occupying a central and elevated position. The use of gold and ultramarine blue not only underlines the sacred context but also suggests a patron of considerable wealth, as these pigments were highly costly. The artistic style reflects early Romanesque influences, characterized by bold outlines and a clear hierarchy in the depiction of figures. The presence of architectural elements, drawn with a symbolic rather than naturalistic perspective, serves to frame the holy event, anchoring it in a visually sanctified setting. Such illustrations would serve as a visual aid for meditation and reflection during personal devotion, providing a window into biblical narratives for lay audiences. This page, with its high-quality materials and craftsmanship, likely belonged to a noble's book of hours, aligning with the period's cultural movement towards personal religious experience."
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Manuscript page with marginal illustrations",
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column of text framed in red ink with a narrow horizontal band of illustration occupying the full width above the text; text block and image separated by ruled line; wide blank lower margin; strong visual hierarchy created by bold blue background of image against the parchment ground",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura with occasional cursive secretary influences; professional book hand with regular angular letterforms, frequent use of abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "lead white",
+          "verdigris green",
+          "minium red",
+          "iron-gall brown linework"
+        ],
+        "color_usage": "Deep blue ground unifies the narrative band; white and green garments reserved for clerical figures; red used for framing and details; brown ink outlines and internal details; minimal shading with white highlights; no metallics detected"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Left-to-right progression of discrete narrative moments",
+          "Single register with figures evenly spaced on a continuous ground line",
+          "Uniform figure scale reinforcing narrative continuity",
+          "Clear directional gaze linking one episode to the next"
+        ]
+      },
+      "decorative_elements": [
+        "Plain red rule border around text and image",
+        "Continuous blue background behind all figures",
+        "No foliate or zoomorphic marginal ornament"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in dark brown iron-gall ink with consistent weight, slight modulation at curves",
+        "shading_method": "Flat application of pigments with minimal tonal modeling, occasional white lead highlights on drapery folds",
+        "perspective_handling": "Hierarchical scaling absent; figures aligned on single ground plane, no attempt at deep spatial recession"
+      }
+    },
+    "content_theme": {
+      "scene_count": 4,
+      "main_category": "Liturgical",
+      "sub_themes": [
+        "Religious elements",
+        "Ritual practice",
+        "Moral teachings"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right in the upper register"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper left",
+            "subject": "Corpse washing on a simple stone slab",
+            "relationship_to_next": "Leads to individual prayer as purification follows washing",
+            "visual_connections": [
+              "Blue ground behind figure continues",
+              "Red border frames both scenes",
+              "Ground line runs uninterrupted",
+              "Figure facing direction guides eye rightward",
+              "Brown outline style consistent"
+            ]
+          },
+          {
+            "position": "Upper center-left",
+            "subject": "Cleric in brown robe praying with hands raised",
+            "relationship_to_next": "Precedes invocation by higher clergy",
+            "visual_connections": [
+              "Identical blue background",
+              "Consistent figure scale",
+              "Similar posture of raised hands",
+              "Red framing line unbroken",
+              "Brown ink detailing continuous"
+            ]
+          },
+          {
+            "position": "Upper center-right",
+            "subject": "Bishop and monk in green and brown vestments praying",
+            "relationship_to_next": "Leads to final entombment ritual",
+            "visual_connections": [
+              "Shared background color",
+              "Figures oriented towards right",
+              "Uniform ground line",
+              "Matching red border",
+              "Quill outline technique"
+            ]
+          },
+          {
+            "position": "Upper right",
+            "subject": "Empty bier or tomb awaiting entombment",
+            "relationship_to_next": "Concludes the burial rite sequence",
+            "visual_connections": [
+              "Continuation of blue ground",
+              "Red frame encloses scene",
+              "Same baseline for object",
+              "Simple white pigment echoing earlier highlights",
+              "Brown outline for object detail"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform ultramarine blue background across all scenes",
+          "Consistent red ink framing uniting the register",
+          "Figures and objects aligned on single ground line",
+          "Brown iron-gall ink outlines common to every element",
+          "Regular figure scale maintaining equal importance"
+        ]
+      },
+      "scene_description": "The band comprises four sequential ritual moments of a burial liturgy. Scene 1 (upper left) shows a nearly nude corpse laid on a stone slab, attended by a robed figure preparing the body for burial; the corpse's limbs are loosely draped with white cloth. Scene 2 (upper center-left) depicts a tonsured cleric in a brown habit standing full face with raised hands in prayer; his robe folds are indicated by white highlights and brown ink. Scene 3 (upper center-right) presents two clerics—a bishop in green liturgical vestments with a white miter and a monk in brown—both shown three-quarter profile, hands raised; the bishop’s cope is fastened with a visible clasp. Scene 4 (upper right) shows an empty wooden bier with simple plank construction, ready for the body’s deposition. All episodes share a continuous cobalt ground and red framing line, with figures uniformly scaled. Secondary ornamental devices are limited to the red border and blue background, emphasizing the solemnity of the liturgical progression. Text below references ritual fasting and clerical duties, corresponding to the visual glosses of purification, prayer, clerical hierarchy, and final interment."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Bishop wearing green vestments and miter",
+          "Monk in brown habit",
+          "Tonsured cleric in brown robe"
+        ],
+        "secular": [
+          "Deceased figure (unclothed corpse)"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Stone slab/table",
+        "Wooden bier"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Fine calf vellum, single folio format, even parchment preparation with smooth scraping and pumicing, eight- to ten-line ruling visible faintly under text",
+      "preservation_condition": "Excellent; pigments remain vibrant with minimal flaking, parchment slightly cockled at edges, no modern retouching evident",
+      "notable_physical_characteristics": [
+        "Fine underdrawing visible under UV in figure outlines",
+        "Precise red ruling for border and text frame",
+        "Flat pigment application without raised gesso",
+        "Uniform brown ink for ruling and linework"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for liturgical preaching"
+      ],
+      "intended_audience": "Clerical community (preachers or monastic clergy)"
+    },
+    "scholarly_interpretation": "This manuscript leaf, executed in a high-quality Gothic textura hand and featuring a sequential narrative band, likely originates from a northern French scriptorium around 1300–1350. The use of an uninterrupted ultramarine ground and spare red framing exhibits a stylistic alignment with workshop practices in Amiens and Arras, where simplified architectural framing gave way to color fields. The depiction of the burial liturgy—corpse washing, individual prayer, clerical invocation, and empty bier—reflects an educational program aimed at instructing clergy in ritual sequence. Technically, the application of pigment in flat layers with minimal shading points to cost-conscious uses of azurite rather than more expensive lapis lazuli, while fine underdrawing reveals a disciplined preparatory stage. Iconographically, the absence of saints’ attributes and halos emphasizes the procedural, rather than devotional, nature of the scenes. Comparatively, the restrained palette and linear narrative recall elements of the Bible moralisée tradition, though here simplified for instructional clarity. The leaf’s integration of text and image underscores a pedagogical convergence of visual gloss and vernacular didactic text, situating it within a broader trend of clerical manuals that combine moral exempla with liturgical praxis in the early 14th century."
+  }
+}

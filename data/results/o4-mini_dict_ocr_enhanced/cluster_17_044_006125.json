@@ -1,0 +1,116 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-page miniature set within a red fillet frame, text absent on this page, image occupies central field with even margins. The architectural canopy creates a distinct pictorial zone separate from text. Visual hierarchy places the angel centrally, flanked by supporting figures.",
+      "layout_style_duplicate": "\"Single full-page miniature set within a red fillet frame, text absent on this page, image occupies central field with even margins. The architectural canopy creates a distinct pictorial zone separate from text. Visual hierarchy places the angel centrally, flanked by supporting figures.\""
+    },
+    "text_content": {
+      "presence": false,
+      "language": "none",
+      "script_style": "none"
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "azurite blue",
+          "vermillion red",
+          "verdigris green",
+          "lead white",
+          "carbon black"
+        ],
+        "color_usage": "Gold leaf background reserved for sacred setting and divine presence; ultramarine/azurite blue for Mary’s mantle signifying purity; vermillion red for interior roof motif and garments as accent; layered whites for garment folds with subtle white highlighting; verdigris green in the rock forming spatial depth; black outlines and minimal hatching define drapery. Pigments appear well-preserved with slight darkening of verdigris."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central seated angel emphasized by scale and placement",
+          "Flanking groups of Myrrh­bearers and sleeping soldiers",
+          "Architectural canopy frames scene",
+          "Diagonal incline of green rock under angel’s feet",
+          "Gestural lines (angel’s pointing hand and staff) direct focus"
+        ]
+      },
+      "decorative_elements": [
+        "Red fillet border",
+        "Architectural frame with pilasters, entablature, and gabled roof motif",
+        "Simple punched pattern on halo rims"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen outlines in brown ink with varied line weight accentuating drapery folds and facial features",
+        "shading_method": "Minimal parallel hatching in folds, white lead highlights on garments, flat application of color",
+        "perspective_handling": "Hierarchical scaling without linear perspective; depth suggested by overlapping figures and recessed architectural niche"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "resurrection",
+        "devotional pilgrimage"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "This full-page illumination depicts the moment at the empty tomb following Christ’s Resurrection. A winged angel, haloed and robed in white and pale yellow, sits upon a green rock slab within a recessed architectural niche. He holds a slender staff in the left hand and gestures with the right toward two Myrrh­bearers standing left of the tomb entrance. The women, traditionally Mary Magdalene and Mary of James, wear chapel veils and long mantles of ultramarine and russet, each holding small ointment jars. At right two Roman soldiers in knee-length mail shirts and conical helmets slump against the wall, their round shields and spears indicating their watch. The angel’s enlarged scale and central placement establish him as principal figure. The hollowed niche and rock form a compact spatial composition with overlapping figures suggesting limited depth. The Myrrh­bearers’ downward gazes and gestures emphasize their revelation, while the soldiers’ closed eyes and drooped posture convey astonished slumber. Secondary decorative features include the red-fillet outer frame and punched halo patterns. Symbolic elements: the empty burial shroud at angel’s feet, myrrh jars, and open tomb signify the Resurrection. Compositional focus rests on divine proclamation, with supporting figures arranged in balanced groups to left and right."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Winged angel seated on rock slab",
+          "Mary Magdalene bearing ointment jar",
+          "Mary of James bearing ointment jar"
+        ],
+        "secular": [
+          "Two Roman soldiers in mail and conical helmets with shields and spears"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Ointment jars",
+        "Empty burial shroud",
+        "Roman shields",
+        "Spears"
+      ],
+      "architectural": [
+        "Recessed tomb entrance with pilasters and entablature",
+        "Gabled roof motif above niche"
+      ],
+      "natural": [
+        "Green stylized rock slab"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness, fine scraping and smooth pumiced surface evident",
+      "preservation_condition": "Vivid pigments with minimal oxidation; slight cockling at corners; minor flaking of vermillion in folds",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf background",
+        "Underdrawing in ink visible under raking light",
+        "Plummet ruling lines framing the miniature",
+        "Punched decoration on halos"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for biblical events",
+        "Display of patron’s piety"
+      ],
+      "intended_audience": "Individual patron (noble’s personal prayer book)"
+    },
+    "scholarly_interpretation": "This illumination likely originates in a mid-13th-century Parisian workshop, reflecting the Gothic scholastic emphasis on personal devotion and visual meditation upon biblical events. The architectural framing and canopy, with its simplified classical motifs, reveal the early French Gothic synthesis of Romanesque solidity and emerging verticality, while the stylized drapery folds and punched halos demonstrate the influence of the ‘English Channel School’ circulation of styles. The scene’s centralized composition—an enlarged angel seated within the tomb’s niche—underscores the theological import of the Resurrection, directing the viewer’s gaze to the divine announcement delivered to the myrrh-bearers. Technically, the use of layered lead white highlights, fine quill outlines, and burnished gesso-backed gold leaf exhibits a high level of workshop expertise, suggesting a well-funded commission for a noble patron’s book of hours. Iconographically, the absent figure of Christ, implied by the empty shroud and tomb, creates a powerful absence-presence effect, in keeping with contemporary devotional practices that encouraged empathetic identification with scriptural drama. Comparisons with the Psalter of Blanche of Castile highlight shared pigment palettes and framing devices, while the distinctive green rock under the angel’s feet suggests local innovations in color symbolism, perhaps echoing the verdant landscapes of northern France. Overall, this miniature balances traditional typology with subtle compositional and technical novelties characteristic of 1250–1270 Parisian illumination."
+  }
+}

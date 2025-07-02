@@ -1,0 +1,163 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Large rectangular image block occupies left half of the page, divided into three narrative compartments (two large arches side by side at foot level with a narrow high register between them), text block in a single column with red rulings fills right half; strong visual hierarchy places the multi-scene illustration adjacent to but distinct from the text",
+      "text_content": {
+        "presence": true,
+        "language": "Middle French",
+        "script_style": "Gothic cursive bastarda with red ruling lines, professional execution, numerous ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "lead white",
+          "verdigris green",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Gold leaf reserved for architectural arches and symbolic highlights, blue used for high-status garments, red for bridal dress and liturgical stole, layered white highlights create volume on drapery, alternating red and blue echo in both scenes, original pigments well preserved with only minimal darkening of verdigris"
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "two equal-sized arches at lower register",
+          "narrow central high register",
+          "distinct architectural framing",
+          "hex-tiled floor pattern unifying scenes",
+          "vertical column dividing the two main scenes"
+        ]
+      },
+      "decorative_elements": [
+        "Gothic round arches with concentric ring mouldings",
+        "paired slender column with carved capital",
+        "red border line separating image and text",
+        "floor tiled in overlapping hexagons pattern"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink outlines of varying weight, confident underdrawing visible in hair and drapery contours",
+        "shading_method": "Subtle tonal modeling with white highlights and minimal parallel hatching in folds",
+        "perspective_handling": "No geometric linear perspective; depth suggested by overlapping architecture and diminishing floor tiles, hierarchical scaling of figures according to narrative importance"
+      }
+    },
+    "content_theme": {
+      "scene_count": 3,
+      "main_category": "Secular",
+      "sub_themes": [
+        "courtly marriage ritual",
+        "stages of marital union",
+        "legal custom"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Mixed",
+        "reading_order": [
+          "Lower left wedding ceremony",
+          "Upper central bedroom consummation",
+          "Lower right blessing or contractual exchange"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Lower left arch",
+            "subject": "Marriage ceremony with priest uniting bride and groom",
+            "relationship_to_next": "Leads to consummation shown above, bride’s veil echoing bedcover",
+            "visual_connections": [
+              "Gold arch frame repeated in upper and right compartments",
+              "Blue stole on priest echoes blue bed canopy",
+              "Red bridal gown color echoed in bed curtains",
+              "Floor tile pattern continuous into next scene",
+              "Column capital motif repeated across registers"
+            ]
+          },
+          {
+            "position": "Upper central small register",
+            "subject": "Consummation scene: couple in bed under canopy",
+            "relationship_to_next": "Transitions to contractual blessing scene on right, canopy stripes echoed in right niche background",
+            "visual_connections": [
+              "Blue bed curtains match right niche interior",
+              "White bedding recalls drapery highlights in adjacent figures",
+              "Red canopy fringe echoes priest’s stole",
+              "Gold background in niche unites all registers",
+              "Overlapping bed and niche frame continuous across scenes"
+            ]
+          },
+          {
+            "position": "Lower right arch",
+            "subject": "Couple standing before cleric/officiant exchanging token or blessing",
+            "relationship_to_next": "Final narrative moment, no further scene",
+            "visual_connections": [
+              "Arched frame identical to left scene",
+              "Floor tile pattern uninterrupted",
+              "Blue garment on male matches groom’s attire",
+              "Gold arch mouldings unify with first scene",
+              "Red sleeve trim on woman recalls bridal dress"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent use of burnished gold leaf across all registers",
+          "Hex-tiled floor pattern unifies lower scenes",
+          "Identical concentric ring mouldings on arches",
+          "Alternating ultramarine and vermilion in principal garments",
+          "Central division column motif repeated top and bottom"
+        ]
+      },
+      "scene_description": "Scene 1 (Lower left): Three figures stand under a concentric-ringed round arch. On the left a groom in a full-length ultramarine robe with gold trim clasps hands with a red-gowned bride on the right, whose high-waisted dress features narrow white sleeves; between them stands a priest in a white alb and red stole supporting their hands. The hexagonal-tile floor extends beneath them. Scene 2 (Upper central): A canopy-bed niche shows a couple reclining on white sheets and blue canopy drapery; the male figure in red leans over a nude female. Scene 3 (Lower right): Under a matching arch, a lady in a grey gown with red sleeves holds a small white book, facing a bearded suitor in a long blue gown with purse at waist, who raises a small cross or token in a gesture of blessing or contract. All figures are frontally placed on a tiled floor within identical architectural frames."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Priest in white alb and red stole"
+        ],
+        "secular": [
+          "Groom in ultramarine robe with gold trim",
+          "Bride in high-waisted red gown with white sleeves",
+          "Reclining male lover in red tunic",
+          "Reclining nude female",
+          "Lady in grey gown with red sleeves holding book",
+          "Sutor in blue gown with purse"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Canopy bed with blue drapery",
+        "Small white devotional book",
+        "Purse hanging at belt",
+        "Small cross or blessing token"
+      ],
+      "architectural": [
+        "Concentric-ringed round arches",
+        "Slender column with carved capital",
+        "Hexagonal tiled floor",
+        "Background building façades behind arch frames"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth flesh side with visible ruling in plummet, regular quaternion gatherings indicated by margin quire signatures",
+      "preservation_condition": "Overall excellent: pigments vivid, minimal surface abrasion at borders, slight flaking in red areas, no major loss of gold leaf, evidence of modern consolidation along lower margin",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold in arch ceilings",
+        "Confident underdrawing visible under UV in figure contours",
+        "Layered paint application with brush-stippled flesh tones",
+        "Regular ruling pattern for text evident in margin hairlines"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of patron’s wealth",
+        "Memory aid for stages of marriage ritual"
+      ],
+      "intended_audience": "Noble patron’s private reading circle"
+    },
+    "scholarly_interpretation": "This diminutive narrative panel emerges from a mid-15th-century French courtly workshop, likely produced for a noble patron’s collection of romances or didactic tales on marriage rites. The three-scene composition—betrothal ceremony, nocturnal consummation, and contractual blessing—reflects both secular and legal concerns of aristocratic unions in late medieval society. The use of ultramarine and vermilion, together with burnished gold leaf on architectural frames, signals luxury patronage and the cultural cachet of imported pigments. The Gothic cursive bastarda script in Middle French situates the manuscript within the flourishing tradition of vernacular illumination, where narrative clarity and decorative finesse converge. Architecturally framed scenes and continuous floor tiling create a cohesive spatial logic without recourse to formal perspective, characteristic of the International Gothic’s stylized depth cues. Iconographically, the pairing of legal and intimate stages underscores contemporary understandings of marriage as both sacred and contractual, blending liturgical symbolism with secular ritual. Comparatively, the panel’s architectural framing and polished coloration resonate with manuscripts associated with the Bedford or Boucicaut Masters, while its intimate scale and vernacular script suggest production in a smaller Parisian atelier. The work embodies a transitional moment when courtly entertainment and didactic purpose coalesce, bridging traditional iconographic models with emerging narratives of personal experience in late medieval book culture."
+  }
+}

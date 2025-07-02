@@ -1,0 +1,33 @@
+{
+  "ocr_results": {
+    "original_text": "Robart ... homme a cheual. Z. hy ... saige non tout. se tenge ... Ce ... que ... fails, mon or ehomes sursxys.",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "château",
+      "cheval",
+      "personnage debout",
+      "architecture",
+      "bannière",
+      "tente",
+      "armure",
+      "calendrier",
+      "bâtiment",
+      "armée",
+      "procession",
+      "marche",
+      "montagne",
+      "baton",
+      "combat"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 15,
+    "total_textual_elements": 0,
+    "total_identified": 15,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

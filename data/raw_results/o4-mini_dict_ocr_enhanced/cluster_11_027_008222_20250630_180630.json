@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "filename": "cluster_11_027_008222.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:06:30.589219",
+    "image_size": 2290894
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Decorated initial letter",
+        "Manuscript page with marginal illustrations"
+      ],
+      "layout_style": "Single column of text beneath a large historiated initial roundel, surrounded by wide margins filled with sunburst motifs, pen‐flourished scrolls and coats of arms. The central image interrupts the first lines of text; the remainder of the text continues in a single narrow column below.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata, professional book hand with regular plummet ruling, red rubrication and embellished initials"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "burnished gold leaf",
+          "white lead highlights",
+          "silver leaf"
+        ],
+        "color_usage": "Gold leaf reserved for halos, background tessellation and sunbursts; ultramarine outlines heavenly figures; vermillion and green for secular figure's costume; white used for highlights on drapery; silver leaf in marginal scrolls now slightly tarnished. Layers of pigment with occasional shell gold stippling create visual depth and catch light."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Circular medallion framing the scene",
+          "Symmetrical flanking figures (two angels) around central mortal figure",
+          "Diagonal bearing of the fleeing man",
+          "Architectural backdrop receding slightly",
+          "Ground plane defined by stylized grass and floral motifs"
+        ]
+      },
+      "decorative_elements": [
+        "Acanthus leaf and vine scrolls in margins",
+        "Micro-architectural border around the historiated initial",
+        "Radiant sunburst motifs with streaming scroll ribbons",
+        "Heraldic shields with Visconti serpent device held by disembodied arms",
+        "Silver-leaf scroll banners bearing inscriptions"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine quill pen outlines in brown ink with varying weights for drapery folds and facial features",
+        "shading_method": "Subtle white‐lead highlights on robes; minimal cross-hatching, reliance on color transitions for volume",
+        "perspective_handling": "Hierarchical scaling with overlapping; no true linear perspective, depth implied by architectural recession and figure placement"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "divine judgment",
+        "moral teaching",
+        "fire as symbol of wrath"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Within a circular historiated initial, two haloed angels in white robes guide Lot away from the burning city of Sodom. The angels stand to left and right, one holding the patriarch's arm, the other gesturing forward. Lot, clad in a green tunic with red cloak and red pointed shoes, looks back over his shoulder as fiery tongues erupt from a cluster of blue-and-gold towers and battlemented walls behind him. He clutches his cloak at the shoulder, mid-stride on a grassy mound dotted with stylized floral motifs. The city’s architecture—painted in white with red outlines—recalls a fortified hilltop town, while the bright flames and falling embers indicate divine destruction. The mosaic-patterned border of blue and gold encloses the scene, and the oversized figures fill most of the medallion, emphasizing the urgency of the flight."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Two angels in white robes with gold halos, one gesturing, one supporting Lot"
+        ],
+        "secular": [
+          "Lot in green tunic, red cloak and red pointed shoes"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "Burning city walls and towers with battlements and pointed roofs"
+      ],
+      "natural": [
+        "Stylized grassy ground with trefoil floral motifs"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth and thin, with clear hair‐follicle pattern on flesh side; quire formed in regular quaternion gatherings",
+      "preservation_condition": "Pigments remain vivid with minimal flaking; ultramarine and gold well preserved; slight cockling at corners; silver-leaf elements show light tarnish",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf in sunbursts and halos",
+        "Visible underdrawing of figures revealed under UV",
+        "Regular plummet ruling for text and image placement",
+        "Punchwork tooling in gold border creating diamond pattern"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Memory aid for biblical narrative"
+      ],
+      "intended_audience": "Monastic or cathedral clergy"
+    },
+    "scholarly_interpretation": "This page likely belongs to a high-luxury Breviary produced in northern Italy c. 1380 for the Visconti court in Milan, as indicated by the serpent device of the Visconti arms recurring in the margins. The historiated initial depicting Lot’s flight from Sodom ties the biblical warning of divine judgment to the evening Vespers text, reinforcing moral instruction. The use of ultramarine and burnished gold, combined with silver-leaf scrolls and punchwork tooling, reflects a well-funded workshop with access to costly pigments. The meticulous underdrawing and layered application of white highlights demonstrate a sophisticated technique characteristic of Lombard illuminators, while the radiant sunburst motifs and acanthus scrolls testify to the influence of the International Gothic style. The symmetrical composition of angels guiding Lot and the centralized medallion format suggest an integration of French manuscript traditions with local innovations. Comparatively, this page shares decorative affinities with the Visconti Hours and other courtly Breviaries, yet its naturalistic modeling of drapery and sculptural halos hint at connections with contemporary panel painting. Overall, the page functions as both a devotional tool for choir recitation and a statement of dynastic prestige, bridging liturgical purpose and political imagery within a refined artistic program."
+  }
+}

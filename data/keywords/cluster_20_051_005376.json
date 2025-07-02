@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "HIC WILLEM DEDIT HAROLDO ARMA",
+    "modern_french_text": "Ici, Guillaume a donné des armes à Harold"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "cheval",
+      "armure",
+      "personnage debout",
+      "arme",
+      "oiseau",
+      "lion",
+      "cavalier"
+    ],
+    "elements_textuels": [
+      ""
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 1,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

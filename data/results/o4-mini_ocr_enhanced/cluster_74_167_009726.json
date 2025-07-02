@@ -1,0 +1,138 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence"
+      ],
+      "layout_style": "Two horizontal registers separated by simple ruled lines, with a single column of script above the upper scene and below the lower scene; minimal margins; images occupy full width of each register",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis quadrata with regular letterforms, pointed minims, frequent ligatures and abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green wash",
+          "minium red highlights",
+          "brown ink linework"
+        ],
+        "color_usage": "Flat washes used to distinguish figures and beasts; red reserved for haloes and textual rubrication; green dominant for garments and animal bodies; washes applied over brown ink outlines with no shading; original colors remain stable with minor fading"
+      },
+      "composition": {
+        "type": "sequential",
+        "features": [
+          "two-tier grid separating prophecy and fulfillment",
+          "horizontal ground lines grounding figures",
+          "left-to-right orientation within registers",
+          "minimal overlapping suggesting depth",
+          "consistent frame lines unifying scenes"
+        ]
+      },
+      "decorative_elements": [
+        "simple ruled frame lines",
+        "rubricated script in red ink"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill pen drawing in brown ink with uniform weight",
+        "shading_method": "None, reliance on flat color washes without hatching",
+        "perspective_handling": "Flat, hierarchical scaling; slight overlap of beasts for depth but no vanishing-point perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "divine punishment",
+        "transformation",
+        "humility before God"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "grid",
+        "reading_order": [
+          "top register (prophecy)",
+          "bottom register (transformation)"
+        ],
+        "scene_relationships": [
+          {
+            "position": "upper register full width",
+            "subject": "Nebuchadnezzar kneels before a divine messenger announcing his fall",
+            "relationship_to_next": "Messenger’s prophecy leads directly to king’s transformation in the next scene",
+            "visual_connections": [
+              "continuous ruled border connects registers",
+              "green wash used on garments in both scenes",
+              "gesture of prophet points downward toward lower register",
+              "Latin text above quotes the prophecy",
+              "identical brown ink outline style"
+            ]
+          },
+          {
+            "position": "lower register full width",
+            "subject": "Nebuchadnezzar depicted as a beast among cattle, crawling and eating grass",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "same flat ground line runs across scene",
+              "green wash appears on beast body and cattle",
+              "frame lines identical to upper scene",
+              "minium red used sparingly for ears and mane",
+              "brown ink outlines consistent"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "uniform ruling frame",
+          "consistent brown ink outlines",
+          "repeated green and red washes",
+          "flat parchment ground",
+          "Latin captions framing images"
+        ]
+      },
+      "scene_description": "In the upper scene two figures occupy a flat ground line. On the left Nebuchadnezzar, robed in a green tunic with a brown mantle and wearing a pointed cap, kneels with both hands resting on his knee. His face is outlined with simple strokes and features a pointed beard. To the right floats the divine messenger, identified by a red nimbus and flowing green drapery edged in red; both hands are extended toward the king in admonition. They share a single unbroken frame. Below them, in the lower register, Nebuchadnezzar’s human figure is wholly transformed into a quadrupedal beast with a human face, crawling on all fours among stylized cattle. The beasts are rendered in green wash with brown outlines and minor red accents. A single ground line unites the animals, and there is no architectural setting, emphasizing the wilderness state of the king."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "angel with red nimbus and green drapery"
+        ],
+        "secular": [
+          "Nebuchadnezzar in kingly cap and mantle",
+          "beast-hybrid figure representing the king"
+        ],
+        "symbolic": [
+          "hybrid man-beast symbolizing divine punishment"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized cattle",
+        "hybrid beasts"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum, smooth, scraped and pumiced surface on a regular quaternion gathering",
+      "preservation_condition": "Overall good; pigments stable, slight flaking to green washes, parchment with minimal wrinkling",
+      "notable_physical_characteristics": [
+        "visible ruling lines under ink",
+        "brown ink underdrawing confirmed under UV",
+        "layered color washes",
+        "no metallic leaf",
+        "minor abrasion to red accents"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for prophecy interpretation",
+        "Display of scholarly erudition"
+      ],
+      "intended_audience": "Clerical scholar or monastic exegete"
+    },
+    "scholarly_interpretation": "This folio derives from a 13th-century exegetical manuscript illustrating Daniel 4: the divine warning and the king’s subsequent punishment. Produced likely in a university or monastic workshop in northern France, its pared-down palette and fluid line drawing reflect a didactic program rather than luxurious patronage. The two-register grid, framed by simple ruling, underscores the direct typological linkage between prophecy and fulfillment. The Gothic textualis quadrata hand and rubrication suggest high literacy and scholastic use, while the absence of costly materials like gold leaf indicates a practical, instructive purpose. Iconographically, the floating messenger with red nimbus signals divine speech, while the grotesque man-beast hybrid concretizes theological warnings against pride. The minimal spatial cues and unadorned background focus attention on moral and spiritual lessons. Technically, stable green and red washes over brown outlines point to workshop conventions emphasizing clarity and reproducibility. Comparatively, the scenes align with Bible moralisé illuminations but diverge in their absence of patterned backgrounds, indicating regional variation. This page thus embodies the intersection of scholastic exegesis and visual pedagogy: it communicates a complex theological narrative through economy of means, characteristic of 13th-century scholarly manuscripts that prioritized clarity over grand ornamentation."
+  }
+}

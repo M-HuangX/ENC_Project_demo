@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "standalone illustration"
+      ],
+      "layout_style": "Single full-page miniature centered within a red border and architectural frame, with no integration of text on the page.",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "gold leaf",
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "white lead"
+        ],
+        "color_usage": "Gold leaf is used for the halos and background, signifying the divine; ultramarine blue adorns the angel’s undergarment and the myrrhbearers’ robes, evoking Marian associations; vermillion red appears in the border and temple roof for emphasis; leaf green models the sepulchral rock; white lead highlights the drapery folds, applied in layered strokes to create subtle volume."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Central angel figure seated on the sepulchral rock",
+          "Flanking groups (myrrhbearers left; soldiers right) establishing symmetry",
+          "Temple‐like architectural frame encloses the scene",
+          "Angel’s diagonal gesture directs viewer’s gaze",
+          "Ground line separates figures from flat background"
+        ]
+      },
+      "decorative_elements": [
+        "Architectural frame with pilasters and temple façade",
+        "Plain red border",
+        "Punched gold halos"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines with varying thickness to define contours and architectural details",
+        "shading_method": "Flat color application with minimal parallel hatching; white-lead highlights model drapery folds",
+        "perspective_handling": "Hierarchical scaling of central angel; overlapping elements suggest depth without true linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "resurrection of Christ",
+        "triumph over death",
+        "empty tomb"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The miniature depicts the Resurrection: at center an angel sits atop a green-veined sepulchral rock, clad in a white chiton over a pale blue tunic, with a gold halo and pale green wings. The angel’s right hand is raised in proclamation. To the left stand the two myrrhbearers—Mary Magdalene and Mary of Clopas—wearing long veiled robes and presenting alabaster jars of ointment. At lower right, two Roman soldiers slump against the tomb’s threshold in chainmail and tunics, one clutching a round red shield, spears placed behind them, their closed eyes indicating sleep. The rolled-away stone rests in the foreground. An architectural frame resembling a temple façade with a red-tiled roof and blue cornice encloses the scene. Figures stand on a dark ground line against a flat olive-gold background. Drapery folds are accentuated with white highlights; gold halos are punched with decorative motifs. The composition centers on the angel, with balanced flanking figures creating a stable yet dynamic visual hierarchy."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Angel with pale green wings, white robe, blue tunic, gold halo",
+          "Mary Magdalene and Mary of Clopas in long veils and robes holding ointment jars"
+        ],
+        "secular": [
+          "Two sleeping Roman soldiers in chainmail and tunics, one holding a red shield, spears behind them"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Two alabaster myrrh jars",
+        "Rolled-away sepulchral stone",
+        "Red round shield",
+        "Spears"
+      ],
+      "architectural": [
+        "Temple-like façade with pilasters and red-tiled roof",
+        "Arched tomb opening",
+        "Blue cornice"
+      ],
+      "natural": [
+        "Green-veined rock formation"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smoothed and prepared with visible hair-follicle patterns; faint ruling lines for geometry underdrawing are detectable.",
+      "preservation_condition": "Pigments remain vivid with minimal flaking; ultramarine and gold are especially stable; slight cockling at corners and minor abrasion to the red border; evidence of modern consolidation.",
+      "notable_physical_characteristics": [
+        "Visible drypoint ruling beneath paint layers",
+        "Raised gesso preparation under gold halos",
+        "Pounce marks in the flat background",
+        "Distinct brushstroke texture in white highlighting",
+        "Underdrawing traces visible under UV light"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Display of patron’s piety and status",
+        "Memory aid for meditation on the Resurrection",
+        "Visual reinforcement of liturgical narrative"
+      ],
+      "intended_audience": "Individual lay patron of noble status"
+    },
+    "scholarly_interpretation": "Produced in a mid-13th-century Northern European workshop—likely the Rhineland—this Resurrection miniature demonstrates a synthesis of Carolingian architectural framing and emergent Gothic figural style. The temple-like façade with its red-tiled roof recalls Carolingian micro-architecture, while the fluid drapery treatment and expressive gestures anticipate the International Gothic emphasis on movement and emotion. The workshop’s technical mastery is evident in the layered pigment application—ultramarine over white lead—and the use of costly materials such as gold leaf, signifying a high-status commission. Iconographically, the angel’s authoritative gesture and elevated seated posture underscore themes of divine proclamation, while the attentive myrrhbearers and sleeping soldiers reinforce the contrast between spiritual awakening and earthly slumber. Compared to contemporary Psalters—such as the Blanche of Castile Psalter—this image shares the punched gold ground and calligraphic line yet exhibits a greater naturalistic emphasis on facial modeling and drapery highlights. This balance of traditional Carolingian elements with innovative Gothic treatments places the miniature at a pivotal moment in manuscript illumination, serving both as an object of private devotion and as evidence of the period’s evolving aesthetic and theological currents."
+  }
+}

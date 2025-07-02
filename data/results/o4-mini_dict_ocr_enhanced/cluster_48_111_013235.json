@@ -1,0 +1,243 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page composition organized as a three-by-three grid of miniatures with no surrounding text; panels are separated by decorative frames and consistent margins; central scene larger vertically but integrated into grid; wide outer margins left blank.",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "verdigris green",
+          "vermilion red",
+          "lead white"
+        ],
+        "color_usage": "Gold backgrounds reserved for all panels to signify divine or typological importance; ultramarine and vermilion alternate in garments to denote hierarchy of figures; white highlights layered over pigments to create volume; green used for secondary drapery and landscape; borders feature alternating blue and red panels with gold bezants."
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Three-by-three grid layout",
+          "Central panel emphasized by a larger arch frame",
+          "Balanced repetition of framing motifs",
+          "Vertical and horizontal axes of symmetry",
+          "Uniform panel size except central slightly taller"
+        ]
+      },
+      "decorative_elements": [
+        "Gold dotted backgrounds in all frames",
+        "Green and blue architectural arch framing central scene",
+        "Alternating red and blue panel borders with gold insets",
+        "Inscribed scroll bands in each narrative panel",
+        "Micro-architectural frames with pilasters and capitals"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines in dark brown ink with consistent line weight, fine internal detailing for facial features",
+        "shading_method": "Minimal hatching; modeling achieved through layered pigments and white highlights on drapery folds",
+        "perspective_handling": "Hierarchical scaling of figures by importance, overlapping forms to imply depth, no vanishing-point perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 9,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "miraculous healing",
+        "resurrection",
+        "typological prefiguration",
+        "symbolic allegory"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Grid",
+        "reading_order": [
+          "Left to right across top row",
+          "then middle row left to right",
+          "then bottom row left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Top left",
+            "subject": "Healing of Peter’s mother-in-law",
+            "relationship_to_next": "Leads to healing of blind man through continuation of Christ’s miracles",
+            "visual_connections": [
+              "Gold background unifies panels",
+              "Blue border frame repeated",
+              "Christ’s gesture echoed next panel",
+              "Scroll band style consistent",
+              "Halos rendered identically"
+            ]
+          },
+          {
+            "position": "Top center",
+            "subject": "Healing of a blind man",
+            "relationship_to_next": "Precedes healing of the lame man at Bethesda via shared miracle theme",
+            "visual_connections": [
+              "Green drapery hue reused",
+              "Architectural niche framing",
+              "Gold dotted ground",
+              "Scroll band links text",
+              "Gesture of hand pointing"
+            ]
+          },
+          {
+            "position": "Top right",
+            "subject": "Healing of the lame man at Bethesda",
+            "relationship_to_next": "Transitions to raising of Jairus’ daughter as miracles intensify",
+            "visual_connections": [
+              "Red pallet echoed in central red cloth",
+              "Halo style identical",
+              "Blue border motif continues",
+              "Figure posture mirrored",
+              "Flat gold background"
+            ]
+          },
+          {
+            "position": "Middle left",
+            "subject": "Raising of Jairus’ daughter",
+            "relationship_to_next": "Connects to central resurrection scene through theme of raising the dead",
+            "visual_connections": [
+              "Bedframe design echoes tomb arch",
+              "White drapery against gold",
+              "Extended hand gesture",
+              "Red cloth matches central panel",
+              "Halos link sanctity"
+            ]
+          },
+          {
+            "position": "Center",
+            "subject": "Three Marys at the empty tomb (Resurrection appearance)",
+            "relationship_to_next": "Central scene prefigures Old Testament types in bottom row",
+            "visual_connections": [
+              "Angelic wings match pelican wings below",
+              "Gold background constant",
+              "Arch motif repeated in bottom center",
+              "Red and green garments continue palette",
+              "Inscribed scrolls link panels"
+            ]
+          },
+          {
+            "position": "Middle right",
+            "subject": "Christ teaching with scroll (Ego sum via)",
+            "relationship_to_next": "Shifts narrative from New Testament miracles to Old Testament prefigurations",
+            "visual_connections": [
+              "Halo consistent with Christ above",
+              "Green border frame",
+              "Gold background",
+              "Scroll band style",
+              "Pointing gesture mirrored by David below"
+            ]
+          },
+          {
+            "position": "Bottom left",
+            "subject": "Samson slaying the lion",
+            "relationship_to_next": "Prefigures Christ’s victory over death symbolized by resurrection",
+            "visual_connections": [
+              "Lion motif contrasts Christ figures",
+              "Tunic color echoes above drapery",
+              "Gold background continuous",
+              "Frame design uniform",
+              "Physical struggle mirrors spiritual triumph"
+            ]
+          },
+          {
+            "position": "Bottom center",
+            "subject": "Pelican in her piety",
+            "relationship_to_next": "Symbolic link between Christ’s self-sacrifice and resurrection theme",
+            "visual_connections": [
+              "Gold background unites series",
+              "Tree motif echoes arches above",
+              "Blue plumage matches robes",
+              "Circular motif complements central arch",
+              "Allegorical device complements narrative"
+            ]
+          },
+          {
+            "position": "Bottom right",
+            "subject": "David slaying Goliath",
+            "relationship_to_next": "Concludes with righteous hero’s victory before resurrection depiction",
+            "visual_connections": [
+              "Halo style parallels Christ’s",
+              "Red shield matches other reds",
+              "Green landscape echoes drapery tones",
+              "Gold background constant",
+              "Raised sword gesture echoes angel wings"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent burnished gold backgrounds",
+          "Uniform blue and red frame borders",
+          "Repeated use of red and green garments",
+          "Identical halo depiction",
+          "Inscribed scroll bands linking panels",
+          "Flat gold ground throughout",
+          "Symmetrical grid arrangement"
+        ]
+      },
+      "scene_description": "The central panel depicts three Marys at the empty tomb of Christ. A seated angel, robed in white with gold highlighting and outspread wings, addresses the two standing women, who wear long mantles of green and red edged in gold. The sarcophagus lid rests at an angle on a green base patterned with white dots. The angel’s right hand is raised in benediction, while a scroll unfurls at his feet inscribed “Nolite timere” in black ink. The two women appear attentive: one clasps her hands in prayer, the other leans forward. The background is burnished gold with subtle punchwork dots. The architectural frame is a green arch with a patterned vault above, supported by twin columns with foliate capitals. A decorative band of alternating blue and gold squares surrounds the arch. White highlights accentuate drapery folds and facial modeling, creating a sense of volume within the flat gold ground."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Angel at empty tomb",
+          "Three Marys",
+          "Christ healing miracles in top panels"
+        ],
+        "secular": [
+          "Samson",
+          "David",
+          "Blind man",
+          "Lame man"
+        ],
+        "symbolic": [
+          "Pelican in her piety"
+        ]
+      },
+      "objects": [
+        "Scroll bands",
+        "Sarcophagus",
+        "Pallet carried by lame man",
+        "Sword and shield of David",
+        "Lion in Samson scene"
+      ],
+      "architectural": [
+        "Central green arch with pilasters",
+        "Niches in top panels",
+        "Pilaster frames in each miniature"
+      ],
+      "natural": [
+        "Stylized grass base in central panel",
+        "Tree supporting pelican",
+        "Lion",
+        "Minimal landscape elements under David"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness and finely prepared smooth surface; evidence of meticulous scraping and pumicing; quire structure suggests quaternion gatherings.",
+      "preservation_condition": "Excellent overall condition; pigments remain vibrant with minimal oxidation; gold leaf well-adhered with minor surface abrasion; no significant cockling; edges show slight handling wear.",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf in backgrounds",
+        "Visible underdrawing in brown pigment under white highlights",
+        "Regular ruling pattern discernible under UV",
+        "Punchwork dot pattern in gold grounds",
+        "Layered pigment application with fine brush strokes"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Memory aid for biblical events",
+        "Display of patron’s wealth and piety"
+      ],
+      "intended_audience": "Cathedral clergy and high-ranking ecclesiastical patrons"
+    },
+    "scholarly_interpretation": "This full-page grid miniature likely originates from a late 12th-century French Gospel Book or liturgical manuscript produced in a cathedral workshop. The uniform use of burnished gold backgrounds and punchwork, combined with high-quality ultramarine and vermilion pigments, reflects royal or episcopal patronage and the resources of a major scriptorium. Stylistically, the composition balances Romanesque solidity with emerging Gothic expressiveness in drapery folds and facial features, indicating a transitional phase influenced by the Parisian and Tours illuminators. The integration of New Testament miracles in the upper and middle registers with Old Testament prefigurations—Samson, David—and the pelican allegory beneath the central Resurrection scene articulates a typological program linking Christ’s redemptive acts across biblical history. This iconographic scheme underscores the theological emphasis on Christ’s victory over death, a popular theme in liturgical contexts during Eastertide. Comparative analysis with the Winchester Bible and the Bury St. Edmunds Psalter suggests shared architectural framing devices and color palettes, though this manuscript exhibits greater linear precision and more restrained ornamentation. The collaborative execution, visible through multiple hands in facial types and drapery treatment, exemplifies standard workshop practice. Technically, the manuscript demonstrates sophisticated layering of pigments and meticulous gesso modeling, marking it as a significant example of late Romanesque to early Gothic illumination."
+  }
+}

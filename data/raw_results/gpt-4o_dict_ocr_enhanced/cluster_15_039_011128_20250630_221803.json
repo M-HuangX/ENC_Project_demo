@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "filename": "cluster_15_039_011128.jpg",
+    "model": "gpt-4o",
+    "timestamp": "2025-06-30T22:18:03.262972",
+    "image_size": 249142
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Decorated initial letter",
+        "Text-surrounded imagery"
+      ],
+      "layout_style": "Single column with an illustration above the text block; the decorated initial 'N' starts the main text.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Humanistic book hand with decorative capitals"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "gold leaf"
+        ],
+        "color_usage": "Gold used for initials and highlights; red emphasizes certain words while blue is predominantly in decorations."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Main action focused in center with figures on either side",
+          "Use of perspective with background landscape"
+        ]
+      },
+      "decorative_elements": [
+        "Acanthus leaf borders",
+        "Gold leaf initial",
+        "Basket motifs"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine lines with varied thickness for detailing",
+        "shading_method": "Light cross-hatching for depth in drapery",
+        "perspective_handling": "Overlapping figures with simplistic depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Contemporary costume",
+        "Agricultural activity"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The scene depicts a woman carrying a basket of leeks with two other individuals, all of whom are engaged in agricultural activity. The woman in blue is the focal point, moving toward a young man at a doorway. The background shows a cultivated field, with a tree and distant hills offering depth."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Peasants in contemporary dress",
+          "Female figure in blue with a basket"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Basket with visible weave pattern",
+        "Doorway"
+      ],
+      "architectural": [
+        "Doorway with arch"
+      ],
+      "natural": [
+        "Cultivated field",
+        "Tree",
+        "Hills"
+      ]
+    },
+    "technical_features": {
+      "material": "Parchment with smooth surface preparation",
+      "preservation_condition": "Well-preserved colors with minimal fading; slight cockling at edges",
+      "notable_physical_characteristics": [
+        "Gold leaf applied over raised gesso",
+        "Layered application of paint with visible brush strokes"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Display of status"
+      ],
+      "intended_audience": "Individual patron, likely with interest in botanical or agricultural knowledge"
+    },
+    "scholarly_interpretation": "This manuscript page, likely from a compilation of agricultural or botanical knowledge, demonstrates typical features of late medieval book production. The humanistic book hand and clear organization indicate production for a literate and possibly noble audience. The decorated initial letter and rich use of color suggest the manuscript's dual purpose: educational material and status symbol. The use of ultramarine blue and gold leaf points to the patron's wealth and the high value placed on the manuscript. The scene with figures gathering leeks provides a snapshot of rural life, underscoring the social and economic importance of agriculture during the period. The manuscript's style, including the humanistic script and realistic depiction of figures, reflects the influence of the Renaissance, which was beginning to permeate manuscript production in the late medieval period. This confluence of artistic style and functional purpose highlights the transitional nature of this manuscript as both an artifact of education and an object of prestige."
+  }
+}

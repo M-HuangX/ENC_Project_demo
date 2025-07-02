@@ -1,0 +1,98 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Text-surrounded imagery"
+      ],
+      "layout_style": "Single column with illustration to the right, text flows alongside",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "black and white illustration"
+        ],
+        "color_usage": "Monochromatic line drawing typical of manuscript marginalia, focusing on outline and form."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Central figure elevated, kneeling figure lower",
+          "Movement from left to right",
+          "Aligned heads suggesting importance"
+        ]
+      },
+      "decorative_elements": [
+        "none"
+      ],
+      "drawing_technique": {
+        "line_style": "Smooth pen work with clear contours",
+        "shading_method": "Minimal shading, focus on line detail",
+        "perspective_handling": "Hierarchical scale with no linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Historical",
+      "sub_themes": [
+        "Political messages",
+        "Religious elements"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Scene involves a kneeling figure before a seated king, wearing a crown, signifying authority. Behind the king stand three counselors, offering continuity. The kneeling figure gestures in supplication. Figures are in contemporary medieval attire."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "King wearing a crown",
+          "Nobleman in contemporary medieval garb"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Vellum with ink",
+      "preservation_condition": "Good condition with clear text and image",
+      "notable_physical_characteristics": [
+        "Line drawing with confident strokes",
+        "Text is uniformly spaced"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Historical record",
+      "secondary_functions": [
+        "Display of status",
+        "Political statement"
+      ],
+      "intended_audience": "Nobility or clerical readers"
+    },
+    "scholarly_interpretation": "This manuscript page illustrates a narrative scene likely involving King Edward, as referenced in the accompanying text, reflecting a historical interaction or allegory with political implications. The kneeling figure before the king emphasizes themes of supplication or diplomacy, possibly illustrating a historical event or allegorical message suggesting royal authority and divine right. The monochrome line drawing is typical of supplementary illustration in manuscripts of this period, focusing on clear narrative communication without overwhelming detail. The use of a Gothic textura script and Old French language indicates a 14th-century context, likely within a courtly or clerical environment. The presence of the king and nobles signifies the document's role as both a historical record and a visual assertion of social hierarchy. The depicted attire and gestures provide a window into the period's social customs and artistic conventions. These features, combined with the text, serve not only as a historical document but also as a political tool reflecting upon and reinforcing specific ideologies of power and governance."
+  }
+}

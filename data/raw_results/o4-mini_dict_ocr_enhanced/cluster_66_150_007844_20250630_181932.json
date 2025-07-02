@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "filename": "cluster_66_150_007844.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-06-30T18:19:32.254457",
+    "image_size": 301919
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single-column layout with a large square miniature framed in red; a titulus inscription above the image and a block of medieval Latin text below, clearly separated by margins; the illustration dominates the page, creating a strong visual hierarchy in which image supersedes text.",
+      "text_content": {
+        "presence": true,
+        "language": "Medieval Latin",
+        "script_style": "Gothic textura quadrata with angular letterforms, tightly spaced verticals, and frequent use of abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "yellow ochre",
+          "deep green",
+          "azurite blue",
+          "vermilion red",
+          "white",
+          "brown",
+          "black ink"
+        ],
+        "color_usage": "Flat areas of pigment with white highlights define forms; vermilion and azurite provide contrasting accents; yellow ochre background unifies lower field; deep green builds the forest setting; red used for framing and hunters’ garments underscores courtly associations; overall palette remains well preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Vertical layering of action: hounds and hares in upper register, hunters and additional dogs below",
+          "Overlapping figures to suggest depth",
+          "Balanced placement of two huntsmen on left against pack of hounds on right",
+          "Dense, stylized vegetation framing all sides"
+        ]
+      },
+      "decorative_elements": [
+        "Red manuscript frame border",
+        "Stylized herbaceous motifs filling margins of miniature",
+        "Titulary inscription ‘Canes leporis’ above image"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold black-ink outlines with finer internal contours drawn by quill",
+        "shading_method": "Flat color fields with minimal hatching, occasional white strokes for highlights",
+        "perspective_handling": "Hierarchical scaling and overlapping convey spatial depth; no vanishing-point perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "hunt",
+        "animal chase",
+        "courtly sport",
+        "forest landscape"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single, cohesive hunting scene occupies the full miniature. In the upper register, three hounds—one white, one brown, one black—dash toward two leporids (hares) as they bound to the right. The white hound leads, collar and red leash picks out detail, while the darker hound overlaps beneath it, creating depth. Below, two huntsmen advance from the left: the first wears a red cote and blue chausses, carries a spear over shoulder and a hunting horn strapped diagonally; the second in a lilac tunic and red chausses raises his left hand in gesture, his bow slung behind. Two additional hounds—one brown-and-white spotted, one solid tan—rush ahead, their collars echoing the pack above. All figures are set on a golden-yellow ground densely covered with stylized grass, small flowering plants, and low shrubs. A thicket of dark green trees and bushes forms the backdrop. The composition balances human and animal activity, emphasizing speed and pursuit. The hunters’ garments are cut in typical 15th-century courtly style—tunic, tight hose, pointed poulaines—while the dogs wear simple collars. There is no architectural framing within the scene; the red border provides the sole structural frame."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Huntsman in red cote and blue chausses carrying a spear and hunting horn",
+          "Huntsman in lilac tunic and red chausses with bow and spear"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "hunting spears",
+        "hunting horns",
+        "bow",
+        "dog collars"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized grass and flowering plants",
+        "small shrubs and bushes",
+        "forest trees with trefoil leaves"
+      ]
+    },
+    "technical_features": {
+      "material": "Calf vellum, creamy-white with fine grain; pricked and ruled for text and image border",
+      "preservation_condition": "Pigments remain vibrant with minimal oxidation; slight flaking of red lake in small areas; parchment shows minor edge cockling",
+      "notable_physical_characteristics": [
+        "Underdrawing visible under magnification",
+        "Smooth parchment surface with few imperfections",
+        "Possible raised gesso preparation beneath paint layers"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Status display",
+        "Aide-memoire for hunting instruction"
+      ],
+      "intended_audience": "Aristocratic huntsman or courtly patron"
+    },
+    "scholarly_interpretation": "This richly illuminated page, titled “Canes leporis,” belongs to a hunting manual or bestiary produced in a northern French workshop circa 1420–1450. The well-preserved pigments and careful Gothic textura script indicate a high-status commission, likely intended for an aristocratic patron versed in courtly sport. The hierarchical composition—layering hounds and hares above, huntsmen and additional dogs below—underscores the dynamic action of the chase, while the dense, stylized vegetation evokes the medieval forest as a liminal space of both danger and aristocratic leisure. Although no burnished gold leaf appears, the yellow ochre ground functions similarly to gilding, imparting luminosity to the scene. The absence of architectural framing and the presence of a simple red border focus attention on the interplay between human and animal figures, aligning with contemporary tastes for immersive narrative imagery. Comparatively, this page shares affinities with the illuminations of the early Valenciennes hunting manuals and the Book of Saint Albans, notably in the fluid quill outlines and balanced color palette. Technically, the visible underdrawing and possible gesso relief reflect professional workshop practices aiming for crisp detail and subtle relief. Iconographically, the depiction both instructs on equipment and technique—spears, horns, collars—and celebrates the cultural ideal of the hunt as a symbol of noble prowess. This artifact thus bridges didactic function and courtly display, embodying the dual role of medieval manuscripts as practical guides and status objects."
+  }
+}

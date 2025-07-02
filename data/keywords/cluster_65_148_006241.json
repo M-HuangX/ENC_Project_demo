@@ -1,0 +1,22 @@
+{
+  "ocr_results": {
+    "original_text": "O iecha tanne me advice seie oe liean autre trop pecheir",
+    "modern_french_text": "Je n'ai aucun autre conseil qu'un seul autre pécheur."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "ange",
+      "démon",
+      "diable",
+      "personnage barbu"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

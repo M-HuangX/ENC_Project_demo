@@ -1,0 +1,32 @@
+{
+  "ocr_results": {
+    "original_text": "l'amer et enriches et haut\ndar en leur cour fure entrer\nci singne leur bel appel\nl'un sufiler l'ot estrout\nles peers de normande\net d'ambre tardez de folie\na fust enclume resplendiz\nknouts tout a bon hestson\nsi resturent a haute ci grein\ncette al me rende a[es] vos me\nment m fut a[es] nes cloute lci\nse d'aime au cignal a encen\nsi point a d'auteler\nle un saluz a misericorde\nune [sic] vibrant et confrari\nfit de son [tailes] d'emont\nsa jetre avecq touchier\nquis uns rei de l'astre [ze mon\nmoure de sauis moue re\nsi dist a han tot grant\nsaurez ses halles\nme bler [ult] chi en sarmaler\nitred a quandr vn ambo la\net vestue tout au sur\nleur soinet entire crolles\nle vin qui lui perrunv\notre tel [ches] mor\nements de l'ecoteur.\nles frogs sont a [abonneur]\nlate valves et pufine\nm la destre\nluier ochi cil atenuis\nqui et ches ailes olin,\nl j arjon baissent ent\ncha[ts]oins monde mar a parlor\nuib e hanne meslinouse\nte speare diues beetes so\nsi cuiert beut muat en cele t\nni ne le contruvalle\nen votz onc odent cel mout\nsees torbees aendenix tenur\nua te fweil ra yeanur\ni ne flectes ad humu\nveol abneur poient um me\nitred vamen gstot untoeoul\nl onech et elce ol\nede berbit e se senx abedues\nesi fill puei faisser nu tot\nle ont assem bladue.",
+    "modern_french_text": "amers et enrichis et haut\nLeurs cours furent entre\nEt signèrent leur bel appel\nL'un s'affola, l'autre fut esstrout\nles pairs de Normandie\nEt d'ambre tardé de folie\nA fuse enclume resplendit\nKnouts tout à bon hoest\nSe restaurent en haute cigna\nJe rendis à vous mes degrés\nElle me rendit à mes clefs à ce\nSignes au signal encens\nSe pointa d'autel\nUn salut à Miséricorde\nUn vibrant et confrère\nFit de son atelier\nLe un salute à miséricorde\nEt vestit tout de sable\nEt leur soin\nLe vin qui lui permet\nOuridot tel qui mor\nDes écosseurs, fogost sont abonneurs\nLate valves et puifine\nl j arjon baisent\ncha[ts] monde yard parler\nhonnis hanne meslineuse\nite spéare diverses soeurs\nc'est cuir bel muat en cel\nNi ne le contruvalle \nencore ce moud\nses pieds a é [Note: La traduction du texte est approximative et pourrait contenir des erreurs en raison de la difficulté de lire les manuscrits anciens.]"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnage debout",
+      "saint jean-baptiste au désert",
+      "dromadaire",
+      "eupatoire",
+      "prière",
+      "saint denis"
+    ],
+    "elements_textuels": [
+      "emperor",
+      "joseph",
+      "roi",
+      "église",
+      "écriture",
+      "noé"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 6,
+    "total_identified": 13,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-page illumination framed by red border; uninterrupted image field without accompanying text; central fish-shaped opening dominates page, small boat register at foot; visual hierarchy emphasizes upper register",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "verdigris green",
+          "lead white",
+          "burnished gold leaf"
+        ],
+        "color_usage": "Blue is applied to represent water in both registers, with white highlights for wave crests; vermilion red defines the fish frame or large vessel form; gold leaf used sparingly in background patches, indicating divine or otherworldly space; green accents in wave interiors provide contrast; layered application of pigments with lead white highlights in creases; original colors remain well-preserved with slight darkening of verdigris"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "single large fish-shaped frame dominating composition",
+          "horizontal division into two registers",
+          "mass grouping of figures in upper register",
+          "curved outline directing viewer’s eye from left to right"
+        ]
+      },
+      "decorative_elements": [
+        "red frame border",
+        "fish-shaped medallion device",
+        "stylized wave pattern filling both registers"
+      ],
+      "drawing_technique": {
+        "line_style": "Sharp, even quill-pen outlines in dark brown ink; consistent line weight defines figures and waves",
+        "shading_method": "Flat application of color with minimal tonal gradient; white highlights on water and flesh areas suggest volume",
+        "perspective_handling": "Hierarchical scaling; no attempt at linear perspective; depth indicated by overlapping waves and register separation"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "divine judgment",
+        "divine intervention",
+        "mercy"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A vast fish-shaped form occupies the upper two-thirds of the page, its underbelly opening like a grotto containing thirteen nude figures standing chest-high in stylized water waves rendered in alternating blue and white bands. The central cluster comprises a beard-stubbled older man and twelve younger companions, their hands held before them in prayer or supplication. To the right, two further nude figures stand on an interior rock ledge within the fish’s mouth, one reaching downward toward a kneeling figure emerging from the waves. Below this scene, separated by a narrow band of undulating water, a small clinker-built boat carries four fully clothed boatmen in blue and green tunics, two rowers in the central seats and a standing helmsman and seated passenger at stern and bow. The boatmen wear pointed hoods and simple hose, one figure clasping a tiller. The contrast between the nude, captive souls and the clothed crew emphasizes deliverance from the depths. Spatially the scene is organized in two registers; scale is symbolic rather than naturalistic, with the fish-shape dominating the upper zone and the smaller boat providing narrative context in the lower register."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "boatmen in tunics and pointed hoods rowing with oars"
+        ],
+        "symbolic": [
+          "nude souls inside fish",
+          "two emerging figures on interior rock ledge"
+        ]
+      },
+      "objects": [
+        "boat",
+        "oars"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "stylized wave patterns",
+        "rock outcrop"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, evenly scraped and pumiced; consistent parchment thickness; ruling in plummet visible under magnification",
+      "preservation_condition": "Vivid pigments with minimal flaking; slight abrasion along frame edges; no significant discoloration of ultramarine or vermilion",
+      "notable_physical_characteristics": [
+        "visible underdrawing under blue areas under UV",
+        "raised gesso beneath gold leaf",
+        "fine burnishing on gold patches",
+        "regular ruling pattern from plummet",
+        "brush strokes visible in wave highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for biblical story",
+        "Aide-memoire for preaching"
+      ],
+      "intended_audience": "Noble’s private prayer book"
+    },
+    "scholarly_interpretation": "This illumination, likely produced in a high-end European workshop circa 1300–1325, exemplifies the transition from Romanesque solidity to a more fluid Gothic style. The fish-shaped frame conceals a dramatic delivery narrative drawn from Jonah or the Harrowing of Hell tradition, though the absence of a haloed redeemer figure suggests a focus on collective deliverance rather than a Christological emphasis. The use of ultramarine, applied in layered washes with lead-white highlights, indicates access to costly materials typical of courtly commissions. Burnished gold patches within the creature’s interior create an otherworldly backdrop, aligning with contemporaneous interest in vivid color contrasts. The presence of fully clothed boatmen in the lower register provides a counterpoint of everyday life, grounding the miraculous event in a relatable maritime context. The quill-pen underdrawing, still faintly visible under ultraviolet light, reveals a precise planning stage preceding the confident brushwork. Iconographically, the grouping of nude figures in ordered rows recalls typologies of repentant souls, possibly alluding to penitential themes valued in private devotional practice. Comparisons to the English Channel School suggest shared stylistic features, such as the elegant linework and stylized waves, while technical features align with Parisian manuscript production. Overall, the illumination merges narrative clarity with sophisticated material execution, reflecting both devotional utility and the patron’s social status."
+  }
+}

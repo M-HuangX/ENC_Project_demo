@@ -1,0 +1,120 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration",
+        "Decorated initial letter"
+      ],
+      "layout_style": "Single-column text at foot of page beneath a full-page miniature with an arched top. The main image occupies roughly three-quarters of the page; text is contained in a single block of six lines framed by a simple rule. A decorated initial ‘O’ in blue and gold begins the text, but text does not flow around the image.",
+      "text_content": {
+        "presence": true,
+        "language": "Middle French",
+        "script_style": "Gothic textura quadrata book hand with regular, closely spaced letters, frequent use of ligatures and abbreviations, executed by a professional scribe"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "verdigris green",
+          "burnished gold leaf",
+          "natural earth brown"
+        ],
+        "color_usage": "Green dominates the ground plane in a uniform field; ultramarine and vermilion alternate in riders’ tunics and horse caparisons to denote rank. Burnished gold leaf highlights the initial and select harness fittings. Layered application of pigments with white lead highlights on hounds and mounts. Warm reds and golds in foreground contrast with cool blues and greens in background. Original colors are well preserved with minimal pigment loss."
+      },
+      "composition": {
+        "type": "Narrative",
+        "features": [
+          "Diagonal thrust of spears and hounds conveying forward motion",
+          "Overlapping figures and animals to suggest depth",
+          "Central action focus on boar attacked by dogs",
+          "Receding hills and foreshortened trees for landscape recession",
+          "Clustered hunters framed by trees at left and right"
+        ]
+      },
+      "decorative_elements": [
+        "Arched top frame in dark ink around miniature",
+        "Decorated initial 'O' with gold leaf and foliate motif",
+        "Simple single-rule border separating text from image"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown-ink outlines with uniform weight for figures, reinforced contours for horses and hounds",
+        "shading_method": "Flat color fields with minimal hatching, white highlights layered over pigments for volume",
+        "perspective_handling": "No true linear perspective; depth indicated by overlapping figures, diminishing scale of background elements"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "noble pastime",
+        "courtly culture",
+        "animal symbolism",
+        "social activity",
+        "techné of hunting"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "A single full-page boar-hunt scene. In the foreground a black boar is confronted by eleven slender hounds in collars, their bodies taut and muzzles bared. Eight hunters—six mounted, two on foot—surround the quarry. The riders wear richly colored tunics in alternating blue and red with gold embroidery, surcoats bearing simple heraldic motifs, and black flat caps; their mounts are caparisoned in matching blue and red fabrics. Spears are leveled at the boar; one huntsman blows a horn. The ground is an even green plane, punctuated by stylized trees at left and right. In the mid-distance a gently rolling hill supports a fortified castle rendered in pinkish hues; beyond, a blue river and a second city skyline recede beneath an ultramarine sky. Compositionally, the action is drawn toward the boar at center right, with diagonal lines of spear shafts and the forward charge of hounds emphasizing movement. The decorative initial 'O' in blue and gold beneath the image introduces the French text on hunting."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Mounted noblemen in embroidered tunics and caparisons",
+          "Foot huntsmen with hunting horns",
+          "Greyhounds and scent hounds engaged in the chase"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Long wooden hunting spears",
+        "Bronze hunting horns",
+        "Leather collars on hounds"
+      ],
+      "architectural": [
+        "Pale pink castle with towers on distant hill",
+        "Distant city skyline with twin spires"
+      ],
+      "natural": [
+        "Stylized tree clumps with rounded foliage",
+        "Grassy field",
+        "Rolling hills",
+        "Boar and hunting dogs"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, very smooth surface with visible hair-follicle pattern, ruled in plummet to guide text and image margins",
+      "preservation_condition": "Excellent color preservation, minimal pigment flaking confined to lower green area, slight cockling at corners; no modern interventions visible",
+      "notable_physical_characteristics": [
+        "Confidence of underdrawing visible in infrared reflectography",
+        "Raised gesso beneath gold leaf in initial for low relief",
+        "Regular brush-stroked layering in drapery folds"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Display of patron’s status",
+        "Entertainment",
+        "Reference for hunting practice"
+      ],
+      "intended_audience": "Noble patron engaged in or overseeing hunts"
+    },
+    "scholarly_interpretation": "This richly illuminated boar-hunt scene dates to the late 15th century, likely produced in a northern French court workshop specializing in secular manuscripts. The polished Gothic textura suggests a professional scriptorium, while the miniature’s dynamic composition and boldly applied pigments reflect the influence of Burgundian courtly taste. The absence of formal borders and the use of an arched top frame echo panel-painting conventions of the period, merging pictorial and textual traditions. Technically, the application of layered ultramarine over a white ground and burnished gold leaf under gesso points to a high-end commission. Iconographically, the boar symbolizes both the nobility’s mastery of the wild and the chivalric ideal of conquering brute force; the hounds, faithful to their masters, reinforce themes of loyalty and controlled aggression. The distant castles situate the hunt within a realm of aristocratic privilege and power projection. Comparatively, this miniature shares compositional energy with Flemish hunting manuscripts but retains a distinctly French palette and figural style. Its dual role as an instructional illustration and status symbol situates it at the intersection of practical treatise and luxury object. The manuscript thus exemplifies the late medieval trend toward lavish secular works that combine technical sophistication with overt displays of courtly culture."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "text-surrounded imagery"
+      ],
+      "layout_style": "single column with illustration above main text block",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "vermilion red",
+          "azure blue",
+          "burnished gold"
+        ],
+        "color_usage": "Vermilion and azure dominate figures; gold highlights architectural details and scales."
+      },
+      "composition": {
+        "type": "centralized",
+        "features": [
+          "figures within architectural setting",
+          "central interaction between figures",
+          "surrounding architectural elements"
+        ]
+      },
+      "decorative_elements": [
+        "none"
+      ],
+      "drawing_technique": {
+        "line_style": "fluid pen work with bold outlines",
+        "shading_method": "minimal shading with focus on color contrasts",
+        "perspective_handling": "limited depth with frontal architectural presentation"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "secular",
+      "sub_themes": [
+        "economic exchange",
+        "medieval commerce"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Two figures interact across a counter under a red-roofed medieval shop. Left figure in vermilion robe and white coif, exchanging goods with the right figure in blue robe. Background shows shelves with weighted scales and goods."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "merchant in vermilion robe with white coif, leaning over counter",
+          "customer in azure robe reaching out across counter"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "balance scales",
+        "merchandise jars",
+        "stacked books or parchments"
+      ],
+      "architectural": [
+        "medieval shopfront with timber frame",
+        "arched window",
+        "triangular roof structure"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "calf vellum with smooth surface and visible follicle pattern",
+      "preservation_condition": "well-preserved colors with minimal fading, slight wear on edges",
+      "notable_physical_characteristics": [
+        "bold pen outlines with consistent line weight",
+        "opaque paint application with flat color areas"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "educational",
+      "secondary_functions": [
+        "visual aid for instruction in commerce"
+      ],
+      "intended_audience": "educators in medieval economy"
+    },
+    "scholarly_interpretation": "This manuscript image likely served an educational function, illustrating medieval trade or economic exchange. The scene depicts a typical shop interaction, characterized by a merchant and a customer engaged over a counter, set within a simplified architectural framework suggestive of a medieval marketplace. This composition reflects the significance of commerce in medieval society, providing insights into contemporary economic activities. The use of vibrant colors such as vermilion red and azure blue highlights the clothing and interaction, drawing attention to the figures. Additionally, architectural elements like the arched window and timber framing contribute to the authentic medieval setting. The balance scales symbolize trade's impartiality and fairness, a critical concept in medieval economics. The artist's choice of colors and simplistic shading focuses on narrative clarity over realism, emphasizing instructional value. Stylistically, the image exhibits traits common to late medieval manuscripts, including gothic script and a centralized composition. This piece may have been created in a monastic or urban scriptorium, reflecting economic themes relevant to a society increasingly engaged with trade. It contributes to our understanding of medieval iconography and its practical applications, demonstrating an intricate balance between art and function."
+  }
+}

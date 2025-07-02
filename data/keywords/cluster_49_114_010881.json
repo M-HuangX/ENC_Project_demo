@@ -1,0 +1,32 @@
+{
+  "ocr_results": {
+    "original_text": "C-kanielve piru fen ammo is iliii pina ideli non che-... / ... S-a-enei non pince catar. ... al mesi ... fia ... / ... kt mazali an elena mur faoro.... / Como en crina ... o lenou lanca ... Maria corfigo.",
+    "modern_french_text": "C... en clos pour le fen ... son ami ... n'a rien de plus ... / ... S... an. c'est ce qui ... pour le mois ... c'est bien ... / ... quand masala est lancé ... / Comme en crin ... ou l'épée long ... Marie corrige."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "personnage debout",
+      "ange",
+      "arbre",
+      "tente",
+      "balance",
+      "trinité",
+      "prière",
+      "arc",
+      "mouton"
+    ],
+    "elements_textuels": [
+      "eucharistie",
+      "mois",
+      "chrétien"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 3,
+    "total_identified": 13,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

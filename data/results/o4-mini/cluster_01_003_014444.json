@@ -1,0 +1,167 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence"
+      ],
+      "layout_style": "Single column of text occupying lower two-thirds of the page, surmounted by a full-width horizontal register of four contiguous narrative scenes; text and image separated and unified by a red frame line; wide blank margins around both elements.",
+      "text_content": {
+        "presence": true,
+        "language": "Old French",
+        "script_style": "Gothic textura quadrata book hand with red rubricated initials, professional execution with regular abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "azurite blue background",
+          "burnished gold leaf haloes",
+          "verdigris green",
+          "ochre yellow",
+          "vermilion red",
+          "lead white highlights"
+        ],
+        "color_usage": "Gold leaf reserved for haloes and divine figures; blue background establishes heavenly context and alternates with green garments; layered application with white highlights on folds; red used in framing and initials for hierarchical emphasis; original pigments well-preserved with minimal oxidation"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Horizontal register divided into four equal panels",
+          "Consistent ground line across scenes",
+          "Vertical architectural banding between panels",
+          "Left-to-right linear progression",
+          "Equal figure scale for narrative continuity"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red frame surrounding image and text",
+        "Red rubric initial at text heading",
+        "Vertical white pilaster separators between panels"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine black ink outlines drawn with quill, varying line weight for contours and internal detail",
+        "shading_method": "Minimal tonal modeling using white highlights and slight pigment gradations, no extensive hatching",
+        "perspective_handling": "Flat plane with no true vanishing point; figures overlap modestly but remain uniformly scaled"
+      }
+    },
+    "content_theme": {
+      "scene_count": 4,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "religious elements",
+        "miracle healing",
+        "intercession of the Virgin Mary",
+        "clerical mediation"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Panel 1, far left",
+            "subject": "Two bishops in mitres conversing",
+            "relationship_to_next": "Introduces ecclesiastical authority leading to lay petitioners",
+            "visual_connections": [
+              "Consistent blue background",
+              "Green and ochre robes echo later garments",
+              "Gold haloes unify sanctity",
+              "Figures face right toward next panel",
+              "Continuous ground line"
+            ]
+          },
+          {
+            "position": "Panel 2, second from left",
+            "subject": "Two female supplicants in tunics",
+            "relationship_to_next": "They approach the saint for healing",
+            "visual_connections": [
+              "Blue background remains constant",
+              "Violet tunic echoes bishop’s cloak hue",
+              "Halos appear on saint and bishops",
+              "Ground line unbroken under feet",
+              "Female figures gesture right"
+            ]
+          },
+          {
+            "position": "Panel 3, third from left",
+            "subject": "Female saint with halo healing kneeling penitent",
+            "relationship_to_next": "Leads to presentation of child before clerics",
+            "visual_connections": [
+              "Saint’s ochre gown repeats earlier colour",
+              "Penitent’s blue garment links to background",
+              "Gesture of blessing points right",
+              "Halos continuous across figures",
+              "Ground line extends"
+            ]
+          },
+          {
+            "position": "Panel 4, far right",
+            "subject": "Woman at doorway presenting a child to two bishops and female saint",
+            "relationship_to_next": "Concludes sequence",
+            "visual_connections": [
+              "Doorway arch continues architectural band motif",
+              "Child’s blue robe mirrors background",
+              "Halos on clerics and child maintain sanctity theme",
+              "Figures oriented toward center of panel",
+              "Ground line continuous"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform azurite blue backgrounds",
+          "Consistent figure scale across panels",
+          "Burnished gold haloes on all saints",
+          "Red framing border encircling register",
+          "Continuous shared ground line"
+        ]
+      },
+      "scene_description": "The miniature comprises four contiguous scenes in a single horizontal register containing ten figures in total: Panels 1–4 depict respectively two haloed bishops in green and violet chasubles; two laywomen in ochre and grey tunics gesturing; a female saint in ochre gown blessing a kneeling penitent in blue; and a doorway scene where a veiled woman offers a swaddled child to two mitred bishops and the saint. All figures stand upon a continuous ground line against an ultramarine field. Bishops wear green mitres with gold trim, liturgical dalmatics and linen undergarments; one holds a closed book. Laywomen wear long tunics with minimal trim and loose veils. The saint’s drapery shows subtle white highlights. The kneeling penitent’s hands are clasped. The final scene’s doorway is rendered as a simple white arch. Spatially, figures overlap slightly but remain on a flat plane. Depth is implied by overlapping and the doorway’s recess. Costume materials include woollen cloth-of-­gold simulated by ochre pigment and linen veils with fine ink stroke hatching."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "two mitred bishops with gold haloes",
+          "female saint with halo blessing the sick"
+        ],
+        "secular": [
+          "kneeling penitent",
+          "two lay supplicant women",
+          "veiled mother and swaddled child"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "arched doorway in fourth panel",
+        "vertical pilaster separators between scenes"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum of uniform thickness, smooth flesh side preparation evident under close inspection; ruled with plummet lines; quire gathering typical of prayer book folios.",
+      "preservation_condition": "Excellent pigment retention with vivid azurite and gold; minor flaking of white highlights; slight staining in lower margin; minimal parchment cockling.",
+      "notable_physical_characteristics": [
+        "Visible underdrawing under UV light",
+        "Raised gesso preparation beneath gold haloes",
+        "Regular plummet ruling traces",
+        "Punchwork decoration around haloes"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "private devotion",
+      "secondary_functions": [
+        "status display",
+        "memory aid for prayers"
+      ],
+      "intended_audience": "individual patron for personal prayer (book of hours)"
+    },
+    "scholarly_interpretation": "This page illustrates a mid-14th-century vernacular devotional tradition likely produced in a northern French workshop. The narrative register presents a coherent hagiographic cycle of episcopal intercession and miraculous healing, underscored by the acquisition and presentation of a divine child. The Gothic textura quadrata script and precise rubrication indicate professional scribal involvement, while the fluid quill-drawn outlines and restrained palette demonstrate a single master illuminator’s hand. The predominance of azurite and gold leaf reflects both theological significance—blue for heavenly intercession, gold for sanctity—and the patron’s resources. The simple architectural separators, rather than elaborate gothic micro-architecture, suggest a workshop favoring clarity over opulence. Iconographically, the repeated depiction of haloes and episcopal insigne emphasizes hierarchical mediation between lay supplicants and the Virgin’s miracle-working power. The horizontal sequential format, rather than compartmentalizing into framed miniatures, allows continuous narrative flow, aligning with emerging tastes for legible, moralizing images in private prayer books. Comparative analysis with contemporary Hours of Jeanne d’Evreux reveals similar palette choices but a more austere framing and fewer foliated borders. This hybrid of traditional saint-life cycles with economical layout likely catered to a bourgeois patron seeking devotional efficacy paired with refined but measured luxury."
+  }
+}

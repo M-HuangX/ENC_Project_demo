@@ -1,0 +1,146 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single parchment leaf featuring two stacked circular medallions, each with its own narrative scene; no surrounding text; wide margins filled only by the outer blue and red border with white foliate scrollwork.",
+      "text_content": {
+        "presence": false,
+        "language": "none",
+        "script_style": "none"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "white lead"
+        ],
+        "color_usage": "Gold leaf provides a uniform luminous ground for both medallions; ultramarine robes reserved for Christ and principal angels; vermillion and green alternate in secondary draperies to create visual rhythm; white lead used for highlights and gilded punchwork; overall palette well-preserved with minimal darkening."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Stacked medallions denote priority of Christ above judgment scene",
+          "Symmetrical arrangement of flanking angels in upper circle",
+          "Lower circle bisected into saved (left) and damned (right) groups",
+          "Circular framing unifies both registers",
+          "Continuous vine-scroll border links the two scenes visually"
+        ]
+      },
+      "decorative_elements": [
+        "White vine-scrolls on red ground in border",
+        "Punchwork patterns in gold leaf backgrounds",
+        "Blue concentric frame rings around each medallion",
+        "Tiny foliate motifs flanking border corners"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines in dark brown ink with precise internal detail lines for drapery folds and feathers",
+        "shading_method": "Flat color fields with white lead highlights; minimal hatching limited to feather and hair details",
+        "perspective_handling": "Hierarchical scaling with no attempt at linear perspective; depth indicated by overlapping figures and partial architectural bench in upper medallion"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "angelic intervention",
+        "division of saved and damned",
+        "eschatological judgment",
+        "demonic punishment"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Hierarchical",
+        "reading_order": [
+          "Top medallion (Christ in Majesty), then lower medallion left (Elect) to right (Damned)"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper medallion center",
+            "subject": "Christ in Majesty seated on a jewelled bench, flanked by two angels holding the processional cross (left) and the Holy Lance with wreath (right).",
+            "relationship_to_next": "Christ’s blessing gesture and downward gaze direct the viewer’s attention to the judgment of souls below.",
+            "visual_connections": [
+              "Continuous gold-leaf background",
+              "Ultramarine robes on Christ echoed in angel’s mantle above saved group",
+              "Circular frame motif repeats",
+              "White highlight technique consistent",
+              "Red drapery linking upper angels to lower elect robes"
+            ]
+          },
+          {
+            "position": "Lower medallion divided left and right",
+            "subject": "Left: Archangel guiding elect—including a bishop and layman in green—toward salvation. Right: Elderly men and women in chains led by a horn-blowing devil toward damnation.",
+            "relationship_to_next": "Concludes the eschatological narrative begun above, showing outcomes of divine judgment.",
+            "visual_connections": [
+              "Shared gold background",
+              "Winged figures appear both upper and lower",
+              "Use of red and blue drapery for angels",
+              "Circular framing continuity",
+              "Chains and gestures echo diagonal movement from upper circle"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform burnished gold-leaf ground",
+          "Circular medallion borders in blue and white",
+          "Consistent quill-line weight and highlight approach",
+          "Repetition of angelic wings motif",
+          "Alternation of red and blue drapery across both scenes"
+        ]
+      },
+      "scene_description": "This two-register illumination opens with Christ in Majesty seated frontally on a jewelled bench. He raises both arms in blessing; his mantle of ultramarine edged in white highlighting drapes over one shoulder, revealing his chest. Two angels stand symmetrically: the left holds a tall green processional cross, the right a spear tipped with the Holy Lance bearing a wreath. Their halos and feathered wings are outlined tightly in brown ink with white lead accents. Below, the lower medallion is bisected: on the left an archangel in blue and red robes ushers a small group—identified by mitred headwear as a bishop and by secular dress (green robe, belt) as a layman—toward salvation. Their faces are rendered in pale white lead with simple contour lines. On the right, an elderly man and woman, chains around their necks, are driven by a dark brown demon with goat-like legs and trumpet. The figures overlap to suggest procession; their garments—white and red—mirror the palette above. A continuous border of white foliate scrolls on a red ground frames both scenes. No textual elements intervene; the imagery alone conveys the theme of divine judgment and its consequences."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ in Majesty",
+          "two angels in upper medallion",
+          "archangel guiding elect",
+          "bishop among elect"
+        ],
+        "secular": [
+          "layman in green robe in elect group"
+        ],
+        "symbolic": [
+          "devil with horn blowing trumpet",
+          "chained elderly damned"
+        ]
+      },
+      "objects": [
+        "Processional cross",
+        "Holy Lance with wreath",
+        "Chain binding the damned",
+        "Devil’s trumpet"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth flesh side; single folio from a quaternion gathering; ruled in leadpoint for medallion placement.",
+      "preservation_condition": "Excellent pigment retention with minimal flaking; gold leaf uniformly burnished; slight curling at outer edges but stable; no visible modern retouching.",
+      "notable_physical_characteristics": [
+        "Raised gesso under gold leaf creating low relief punchwork",
+        "Fine plummet ruling for concentric circles",
+        "Underdrawing visible under UV in brown ink",
+        "Brushwork in drapery reveals layered pigment application"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Memory aid for eschatological meditation",
+        "Display of patron’s theological erudition"
+      ],
+      "intended_audience": "Noble patron or high-ranking cleric’s personal Book of Hours or Apocalypse commentary"
+    },
+    "scholarly_interpretation": "This double-medallion depiction of Christ in Majesty above the divided fates of souls is emblematic of mid-13th-century eschatological illumination produced in a major French workshop. The use of ultramarine and burnished gold signals both precious materials and theological hierarchy, reserving the finest pigments for Christ and his angels. The strict symmetry of the upper roundel and the bifurcated procession below reflect the Cistercian-influenced aesthetic of clear doctrinal communication. Technical features—raised gesso, meticulous punchwork, and layered white lead highlights—demonstrate an advanced understanding of light and relief to animate the gold background. Iconographically, Christ’s blessing gesture and the Holy Lance’s wreath allude to both Passion instruments and victory over death, linking Old Testament typology to the Last Judgment. The lower scene’s juxtaposition of elect and damned, led respectively by an archangel and a bestial demon, articulates the medieval moral paradigm of reward and punishment. Comparisons with the Apocalypse manuscripts from Paris suggest this leaf may derive from the same atelier responsible for the Hortus deliciarum and the Westminster Apocalypse, sharing compositional devices such as stacked medallions and vine-scroll borders. This illumination thus sits at the intersection of royal patronage and monastic reform, blending devotional intimacy with a public assertion of doctrinal orthodoxy through sumptuous materials and precise artisanal technique."
+  }
+}

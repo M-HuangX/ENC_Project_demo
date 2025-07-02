@@ -1,0 +1,24 @@
+{
+  "ocr_results": {
+    "original_text": "uultis nisi deprecor odium fiore me adavitram et deo deiitant offert mihi fere mei a d dei",
+    "modern_french_text": "voulez-vous que je prie à sa place pour que je sois offert à Dieu ?"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "architecture",
+      "chapelle",
+      "agneau divin entouré des évangélistes zoomorphes",
+      "sacrifice",
+      "personnage debout",
+      "château"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 0,
+    "total_identified": 6,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

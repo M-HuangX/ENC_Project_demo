@@ -1,0 +1,30 @@
+{
+  "ocr_results": {
+    "original_text": "D[eus] in adjutorium meum intende Domine ad ad",
+    "modern_french_text": "Dieu, viens à mon aide Seigneur, hâte-toi de me secourir"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "architecture",
+      "vêtements",
+      "bâton",
+      "livre",
+      "homme barbu",
+      "femme",
+      "halo",
+      "paysage",
+      "décoration florale"
+    ],
+    "elements_textuels": [
+      "référence biblique"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 10,
+    "total_textual_elements": 1,
+    "total_identified": 11,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

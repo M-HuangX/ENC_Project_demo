@@ -1,0 +1,138 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "narrative sequence"
+      ],
+      "layout_style": "Single column page with two horizontal registers of equal height, each register enclosed by a simple ink frame; Latin text above and below the image, creating a continuous story flow; visual hierarchy given to the narrative panels over the surrounding text",
+      "text_content": {
+        "presence": true,
+        "language": "medieval Latin",
+        "script_style": "early Gothic textualis book hand with regular angular letterforms, frequent ligatures and standard medieval abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "lead-tin yellow (golden ochre)",
+          "red lead (minium) in blood and ornament",
+          "brown-black ink for outlines",
+          "flesh-tone pigment"
+        ],
+        "color_usage": "Flat application of a limited palette: green reserved for garments of the martyr and king’s underdress, yellow ochre for cloaks, red for wounds and crown details; colors applied in uninterrupted fields with brown-black outlines and minimal white highlights; palette remains consistent across both registers indicating unity of scenes; pigments generally well preserved with slight fading of red lead"
+      },
+      "composition": {
+        "type": "sequential",
+        "features": [
+          "two stacked narrative registers",
+          "figures aligned on a common baseline in each register",
+          "repeated depiction of principal characters in same poses",
+          "minimal or no background detail focusing attention on the action",
+          "simple rectangular framing dividing scenes"
+        ]
+      },
+      "decorative_elements": [
+        "simple single-line pen border around each register"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen drawing in brown-black ink with moderate variation in line weight for drapery folds and facial features",
+        "shading_method": "No true shading, flat color fields with occasional internal hatch marks in garments",
+        "perspective_handling": "Flat, hierarchical scaling; no attempt at linear perspective; depth implied only by overlapping of figures"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "martyrdom",
+        "decapitation",
+        "royal judgement",
+        "sword as instrument of martyrdom"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "linear",
+        "reading_order": [
+          "top register left to right",
+          "bottom register left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "upper register",
+            "subject": "King seated at left, martyr kneeling or seated at right before an executioner holding a raised sword",
+            "relationship_to_next": "Preludes the act of execution by showing the sentencing by the king and the preparation of the martyr",
+            "visual_connections": [
+              "Same three principal figures (king, executioner, martyr) appear in both registers",
+              "Martyr’s green robe repeated in lower scene",
+              "Executioner’s raised sword mirrored by the vertical sword blade in the next register",
+              "King’s seated posture and crown motif recur in both panels",
+              "Brown-black ink frame encloses both scenes continuously"
+            ]
+          },
+          {
+            "position": "lower register",
+            "subject": "Executioner decapitating the martyr, with two decapitated heads and trickles of red blood to the right",
+            "relationship_to_next": "Concludes the narrative with the moment of martyrdom; no subsequent scene",
+            "visual_connections": [
+              "Continuation of the raised sword motif",
+              "Same color scheme and figure scale as upper register",
+              "Martyr’s green garment now draped flat as he slumps",
+              "Red blood echoes the red crown details of the king above",
+              "Frame and baseline alignment identical to upper register"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Uniform brown-black pen outline throughout both registers",
+          "Consistent figure scale indicating equal importance",
+          "Repeated green and yellow ochre palette",
+          "Identical simple framing device around each scene",
+          "Common baseline for all figures"
+        ]
+      },
+      "scene_description": "The two-register narrative depicts a royal martyrdom. In the upper register, a crowned king sits at left on a simple bench, wearing a yellow-ochre cloak over a green underdress, his eyes cast downward. At center, an executioner in a knee-length yellow tunic raises a broad sword; at right, the martyr in a long green robe kneels or reclines, hands resting on thighs, awaiting judgment. The scene is confined within a rectangular frame, with no background detail. In the lower register, the executioner repeats his stance, sword now swung downward as the martyr’s head lies severed, two additional heads and streams of red lead blood depicted to the right. The king sits again at left, observing the act. Both scenes are rendered in uniform scale, with fluid brown-black outlines and flat pigment fills. The garments reveal simple fold lines, and facial expressions are calm yet solemn. The composition focuses exclusively on the act of sentencing and its fatal outcome, with minimal decorative distraction."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "martyr depicted without halo but identified by subsequent decapitation"
+        ],
+        "secular": [
+          "king seated wearing crown and cloak",
+          "executioner wielding sword in knee-length tunic"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "sword",
+        "crown"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth prepared surface, ruled for text and image compartments",
+      "preservation_condition": "Overall good: pigments stable, slight flaking of red lead in blood areas, minimal cockling at corners",
+      "notable_physical_characteristics": [
+        "Visible ink ruling lines for frame and baseline",
+        "Underdrawing faintly visible in brown-black ink beneath pigment",
+        "Flat pigment application with no raised gesso or punchwork"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical (passionary or book of martyrs for use in monastic reading)",
+      "secondary_functions": [
+        "Memory aid for the martyr’s feast day",
+        "Moral instruction on steadfast faith under royal persecution"
+      ],
+      "intended_audience": "Monastic clergy or devotional readers in a religious community"
+    },
+    "scholarly_interpretation": "This two-panel martyrdom scene, likely produced in a northern French workshop c. 1220–1240, exemplifies the early Gothic narrative style emerging from monastic scriptoria. The use of a limited palette—verdigris green, lead-tin yellow, and minium—reflects economical pigment choices, while the uniform pen framing and sequential registers recall the itinerant tradition of passionaries. The script, an early Gothic textualis, situates the manuscript at the threshold of the high medieval book hand transition. Iconographically, the calm demeanor of the king and executioner, juxtaposed with the serene martyr shown in identical posture before and after decapitation, emphasizes the saint’s unwavering faith; the absence of a halo suggests a focus on martyr act rather than sanctified identity. The uncomplicated composition, devoid of architectural or natural background, directs attention solely to the judicial sentencing and its violent culmination, underlining the moral didacticism central to hagiographic texts. Comparatively, this folio shares compositional affinities with the Passionale of Saint Demetrius (BnF Latin 943) but exhibits a more austere decorative program, possibly indicating a smaller provincial atelier. The manuscript thus bridges monastic devotional needs and evolving Gothic narrative conventions, offering insight into parallel developments in text-image integration and the formation of early narrative cycles in Western Europe."
+  }
+}

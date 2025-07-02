@@ -1,0 +1,131 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two horizontal registers each containing a single narrative scene, framed by simple ruled lines, with narrow bands of Latin text above the top scene and below the bottom scene; clear visual hierarchy organizes the episodes in a top-to-bottom reading order.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis with regular letterforms, extensive use of standard medieval abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "brown-orange (ochre/minium)",
+          "vermilion red",
+          "black/brown ink"
+        ],
+        "color_usage": "Flat washes differentiate principal figures (green for Moses, ochre for Aaron), with vermilion highlights on decorative details; restrained palette emphasizes narrative clarity; pigments remain well-preserved with little fading."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Horizontal register division",
+          "Frieze-like alignment of figures",
+          "Minimal background to focus on actions",
+          "Consistent framing lines unifying scenes"
+        ]
+      },
+      "decorative_elements": [
+        "Simple ruled borders framing each register"
+      ],
+      "drawing_technique": {
+        "line_style": "Uniform brown ink outlines of medium weight, minimal visible underdrawing",
+        "shading_method": "Sparse parallel hatching in drapery folds, no gradated washes",
+        "perspective_handling": "Flat presentation with figures side by side, hierarchical scaling minimal, no attempt at linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Religious elements",
+        "Biblical patriarchs",
+        "Death and burial",
+        "Communal instruction"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top to bottom"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper register",
+            "subject": "Death and burial of Miriam",
+            "relationship_to_next": "Precedes scene of Moses and Aaron addressing the Israelites about the death",
+            "visual_connections": [
+              "Green mantle on Moses in upper scene echoed in lower scene",
+              "Moses’s raised hands in both registers link gestures across scenes",
+              "Continuous ruled frame unites both episodes"
+            ]
+          },
+          {
+            "position": "Lower register",
+            "subject": "Moses and Aaron addressing the assembled Israelites",
+            "relationship_to_next": "None",
+            "visual_connections": [
+              "Aaron’s ochre robe repeats his coloring from the first scene",
+              "Group of Israelites mirrors the horizontal alignment of figures above",
+              "Identical minimal background treatment across both scenes"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent brown-ink line work throughout",
+          "Flat, wash-based color application in both registers",
+          "Uniform ruled frames around each scene",
+          "Figures depicted in three-quarter posture in both episodes",
+          "Limited background detail emphasizing figures"
+        ]
+      },
+      "scene_description": "In the upper register, Miriam lies supine on a rectangular bier, her body wrapped in an orange-brown shroud and her head cradled by a white veil. To her left stands Moses in a full-length green mantle, bending forward to lift the shroud at her head with both hands, revealing her serene face. On the right, Aaron in an ochre robe steadies the foot of the bier, his hands gently grasping the edge of the platform. Both figures are outlined in uniform brown ink and filled with flat washes of color. The composition is tightly framed, focusing attention on the dignified death of the matriarch. Drapery folds are indicated by sparse hatching, and the plain ground and simple frame line heighten the solemnity of the scene."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Moses",
+          "Aaron",
+          "Miriam"
+        ],
+        "secular": [
+          "Israelite crowd"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "bier"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Calfskin vellum with smooth, well-prepared surface and uniform thinness",
+      "preservation_condition": "Good overall; pigments remain vivid with minimal flaking, slight cockling at sheet edges",
+      "notable_physical_characteristics": [
+        "Even ruling lines visible under text",
+        "Flat wash pigment application",
+        "Fine ink underdrawing detectable under magnification"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational (illustrated biblical narrative for monastic study)",
+      "secondary_functions": [
+        "Memory aid for scriptural events",
+        "Institutional identity as part of a monastic scriptorium’s corpus"
+      ],
+      "intended_audience": "Monastic scholars and clergy"
+    },
+    "scholarly_interpretation": "This two-register illustration of the death and subsequent announcement of Miriam, sister of Moses and Aaron, likely dates to the mid-13th century, produced in a monastic workshop for educational and devotional use. The restrained palette of verdigris green, ochre and minimal vermilion, together with brown-ink outlines and sparse hatching, reflects a transitional aesthetic between the Carolingian revival of simple line drawing and the more colorful Gothic book illumination emerging in France and the Holy Roman Empire. The flat, sequential arrangement emphasizes narrative clarity over spatial realism, consistent with exegetical manuscripts intended to aid sermons and scriptural study. The identification of Moses and Aaron by their traditional mantles and gestures underscores their roles as patriarchal leaders, while the anonymous portrayal of the Israelite crowd in the lower register reinforces communal reception of divine instruction. The uniform framing lines and absence of elaborate border ornament mark this as a pragmatic pedagogical tool rather than a high-luxury commission. Comparisons with contemporary manuscript cycles, such as the Biblia Pauperum, reveal shared compositional strategies that prioritize didactic purpose. This sheet thus embodies the monastic synthesis of text and image, linking Old Testament typology to liturgical teaching practices and reflecting the workshop conventions of 13th-century central Europe."
+  }
+}

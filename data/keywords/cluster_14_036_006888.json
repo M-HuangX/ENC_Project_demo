@@ -1,0 +1,22 @@
+{
+  "ocr_results": {
+    "original_text": "nenant de maine guiad a bourbon",
+    "modern_french_text": "Rien de moins, guide de Bourbon"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "vêtement",
+      "architecture",
+      "geste"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

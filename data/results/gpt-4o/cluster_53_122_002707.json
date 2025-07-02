@@ -1,0 +1,104 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single scene surrounded by text, with text integrated into the image as labels.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textura quadrata"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermillion red",
+          "leaf green",
+          "gold leaf"
+        ],
+        "color_usage": "Gold used for halos indicating sanctity. Red and blue used in garments, indicating divine or important figures. Green in landscape underlines earthly setting."
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "Central figure of Christ with a halo, larger than surrounding figures, indicating spiritual importance",
+          "Figures arranged in a symmetrical pattern around central figure",
+          "Use of implied lines guiding the viewer's eye from Christ to the other figures"
+        ]
+      },
+      "decorative_elements": [
+        "Marginal red lines framing the scene",
+        "Simple decorative background with dotted gold stars"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid pen work with varying line weights",
+        "shading_method": "Minimal shading, primarily flat colors with darker outlines for definition",
+        "perspective_handling": "Hierarchical scaling without linear perspective, size indicating importance"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical",
+      "sub_themes": [
+        "divine attributes",
+        "miraculous healing",
+        "Christ's ministry"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "Christ at the center, identifiable by his gold halo, turns to address the kneeling woman. She is depicted reaching out to touch the hem of his garment, engaging with the divine for healing. Apostles, distinguished by variety of colored garments, witness the event. Characters are set against a simple backdrop of green hills and a deep blue sky with gold stars, conveying a serene, heavenly atmosphere."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ with a halo and red and ochre garments, holding a scroll",
+          "Apostles surrounding Christ, varied portrayals in distinct garments"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "none"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized green hills with red flora"
+      ]
+    },
+    "technical_features": {
+      "material": "Calf vellum with smooth preparation, minimal visible imperfections",
+      "preservation_condition": "Colors well-preserved, with some wear visible on high-contact areas like corners",
+      "notable_physical_characteristics": [
+        "Gold leaf used for halos, subtly raised",
+        "Precise pen lines indicating skilled draftsmanship",
+        "Well-preserved parchment with little cockling or deformity"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Religious devotion",
+      "secondary_functions": [
+        "Visual teaching aid",
+        "Display of manuscript illumination skills"
+      ],
+      "intended_audience": "Monastic or ecclesiastical community"
+    },
+    "scholarly_interpretation": "This manuscript illustration exemplifies the integration of text and image characteristic of 13th-century religious manuscripts. Likely produced in a monastic scriptorium, it illustrates a scene from Christ’s healing miracles, emphasizing Christ’s divine nature and power over physical ailments. The use of gold leaf for halos designates sanctity, drawing the viewer’s attention immediately to the focal figure of Christ. The surrounding apostles, although depicted smaller, contextualize the scene within a broader narrative of Christ's ministry. Artistically, the piece adheres to conventions of the period with its hierarchical scaling and use of bright, contrasting colors to differentiate figures. Textual labels are integrated into the image to ensure that the viewer immediately comprehends the identification of figures and the scene's subject. This manuscript reflects the devotional and didactic purposes common in monastic communities, providing visual reinforcement of theological teachings. Its preservation suggests careful usage and respect, indicative of its functional importance in a religious or educational setting."
+  }
+}

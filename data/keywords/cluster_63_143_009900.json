@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "Saepe testis i martirum tale quod fuerat muniti inbitur romae i nestled quia angela numeratur et gloria echi fuit.\nSub Nabie plenitudinis Ap nemire evocata ac et nescente desolati Nec Nauri rat eo hulfimum pugni es timime que met ipt acidi.",
+    "modern_french_text": "Souvent, le martyre témoigne de telle gloire qu'il fut considéré à Rome.\nSous la plénitude de Nabie, une évocation fut faite pour ceux qui ignoraient la désolation."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi",
+      "épée",
+      "personnage debout",
+      "décapitation",
+      "architecture",
+      "martyre"
+    ],
+    "elements_textuels": [
+      "martyr",
+      "rome"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 2,
+    "total_identified": 8,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

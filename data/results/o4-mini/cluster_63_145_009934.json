@@ -1,0 +1,144 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Two horizontal registers of narrative scenes framed by simple rectangular borders; text lines above and below the image block; each register contains three figures arranged left (king seated), center (executioner), right (victim); visual hierarchy balances registers with mirror composition; wide blank background emphasizes figures.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic cursive script with ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "minium red",
+          "yellow ochre",
+          "brown ink"
+        ],
+        "color_usage": "Green used for victims’ garments to denote innocence; yellow ochre for king’s robe signifying authority; red highlights for wounds and severed heads; flat washes applied within brown ink outlines without metallic accents; palette limited and harmonious, preserved with minor fading."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "two horizontal registers",
+          "left-to-right narrative progression",
+          "mirrored scene structure",
+          "central positioning of executioner",
+          "framed compartments dividing scenes"
+        ]
+      },
+      "decorative_elements": [
+        "rectangular ruled border",
+        "horizontal dividing line between registers",
+        "caption bands above and below",
+        "minimal ornamentation, focus on figures"
+      ],
+      "drawing_technique": {
+        "line_style": "Consistent brown ink outlines executed with quill pen; minimal variation in line weight",
+        "shading_method": "Flat color washes; no hatching or tonal gradation",
+        "perspective_handling": "Hierarchical scaling with figures of equal size; no attempt at naturalistic perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "martyrdom",
+        "royal authority",
+        "divine justice",
+        "sacrifice",
+        "violence"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top register left to right",
+          "Bottom register left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Top register",
+            "subject": "Beheading of the martyr under royal sanction",
+            "relationship_to_next": "Leads to display and desecration of the martyr’s severed head",
+            "visual_connections": [
+              "Figures oriented toward the right",
+              "Green robes in both registers",
+              "Yellow of king’s cloak repeated",
+              "Executioner’s sword present",
+              "Red blood motif carried over"
+            ]
+          },
+          {
+            "position": "Bottom register",
+            "subject": "Presentation of severed heads before the king",
+            "relationship_to_next": "Concludes narrative without further episode",
+            "visual_connections": [
+              "Seated king mirrored above",
+              "Victims in green robes",
+              "Sword held vertically connects scenes",
+              "Red and green color scheme continues",
+              "Framing lines continuous"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent brown ink outlines",
+          "Flat green wash on garments",
+          "Yellow ochre for king’s robe",
+          "Horizontal border lines",
+          "Symmetrical three-figure composition"
+        ]
+      },
+      "scene_description": "In each register three figures occupy a simple rectangular frame. On the left a crowned king sits on a bench, his mantle of yellow ochre draped over a green undergarment; his hands rest on his knee in a gesture of judgment. At center an executioner in a knee-length yellow tunic and hose stands with legs apart, the right hand lifting a long two-handed sword, the left poised on the hilt. To the right in the upper register the martyr kneels, head tilted forward and already severed, his green robe pooling beneath him; a small red droplet indicates blood. In the lower register a similar king and executioner repeat the composition, but the martyr’s three severed heads lie side by side, each with red hair and dripping blood, the bodies absent. Figures are rendered with simple linear folds and flat color, arranged in a shallow pictorial space against the bare parchment."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "King wearing crown and yellow mantle over green robe",
+          "Executioner in yellow tunic and hose holding sword",
+          "Martyr in green robe kneeling or represented by severed heads"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "sword"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Creamy calfskin vellum with smooth surface and visible hair follicle patterns; ruled frame lines drawn in plummet",
+      "preservation_condition": "Pigments largely intact with slight flaking in green areas; brown ink crisp; minor staining at margins",
+      "notable_physical_characteristics": [
+        "Visible underlying ruling",
+        "Confident ink underdrawing traces",
+        "Flat brush-applied color washes",
+        "No raised gesso or gilding present",
+        "Uniform parchment thickness"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical use",
+      "secondary_functions": [
+        "Memory aid for feast commemoration",
+        "Didactic illustration of saint’s martyrdom",
+        "Demonstration of institutional piety"
+      ],
+      "intended_audience": "Monastic clergy"
+    },
+    "scholarly_interpretation": "Created in a mid-thirteenth-century monastic workshop in northern France or Flanders, this paired beheading illustration exemplifies the didactic clarity valued in martyrology manuscripts. The spare linearity of the brown ink contours and the execution of flat color washes align with Cistercian or Benedictine aesthetic preferences, while the limited palette—verdigris green, yellow ochre, and minium red—reflects both economic considerations and symbolic intent: green for innocence, yellow for royal authority, red for the martyr’s blood. The symmetrical three-figure composition in each register underscores the ritual regularity of liturgical readings, and the compressed shallow space prioritizes narrative immediacy over perspectival illusionism. Iconographically, the crowned monarch’s passive judgment juxtaposed with the active executioner dramatizes divine justice administered through earthly power. The repetition of severed heads in the lower register intensifies the martyr’s posthumous triumph, suggesting a theological emphasis on the sanctity of the relics. Comparatively, the work shares compositional motifs with the Passionale of Vibraye and the early Gothic martyrologies of Saint-Germain-des-Prés, yet it distinguishes itself through the stark echoing of figures across registers. This illustration thus bridges traditional iconography and innovative narrative sequencing, serving monastic communities as both liturgical adjunct and mnemonic device for the veneration of saints."
+  }
+}

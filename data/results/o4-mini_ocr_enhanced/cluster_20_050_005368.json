@@ -1,0 +1,116 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single continuous scene occupying the full width of the field with embroidered Latin caption above, wavy-line river beneath the figures, and decorative borders above and below. Text appears in a single horizontal band with imagery directly below, creating a clear visual hierarchy in which the scene dominates.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Embroidered majuscule resembling Insular half-uncial capitals, evenly spaced with minimal ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "madder red",
+          "woad blue",
+          "weld yellow",
+          "undyed wool white",
+          "natural wool brown",
+          "black outline yarn"
+        ],
+        "color_usage": "Limited, high-contrast palette used for figure differentiation and emphasis. Red tunics and blue garments alternate among figures; yellow highlights in shields and horses create focal points. Black outlines define forms, while undyed white and natural brown ground materials provide neutral accents. Colour application is flat, with no mixing, and remains well-preserved with minimal fading."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Horizontal frieze register",
+          "Balanced distribution of figures across field",
+          "Central focus on boat-carrying group flanked by mounted leader and wading horse",
+          "Text band above acting as caption",
+          "Decorative borders enclosing narrative scene"
+        ]
+      },
+      "decorative_elements": [
+        "Upper border with stylized animals and interlace motifs",
+        "Lower border with fish, hybrid beasts, and vine scrolls",
+        "Wavy-line river motif directly under figures",
+        "Isolated cross motifs marking captions"
+      ],
+      "drawing_technique": {
+        "line_style": "Bold outline couched with darker wool yarn, uniform stitch length defining contours",
+        "shading_method": "Flat blocks of dyed wool without tonal gradation or hatching",
+        "perspective_handling": "Flat, schematic spatial treatment with figures aligned on a single ground plane, no linear perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Historical",
+      "sub_themes": [
+        "Political messages",
+        "Cultural references"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "This single scene shows five principal figures and two mounts wading across a river. At left, a nobleman (Harold) rides a brown horse, wearing a mustard-colored tunic, green cloak fastened at the shoulder, linen chausses and pointed red shoes; he holds a spear and wears a belt with sheath. To his right, three soldiers stand chest-deep in water, carrying an upturned boat overhead. The first soldier wears a dark blue tunic with red hose and holds the boat’s prow; the second in mustard tunic and blue hose grips the boat’s center; the third in black tunic with yellow trim supports the stern. All bear short swords at their waists and carry round shields slung on their backs. At far right, another horse wades knee-deep, its rider fallen forward into water, helmet submerged. Wavy stitched lines denote the river; the ground plane is continuous. Figures are arranged in a single register, equal in hierarchical scale, creating a unified crossing scene."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Nobleman on horseback (Harold) wearing mustard tunic, green cloak, linen chausses, pointed shoes, holding spear and horse’s reins",
+          "Three common soldiers in dark blue, mustard and black tunics with hose, carrying upturned wooden boat overhead; swords at waists, round shields on backs"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Upturned boat",
+        "Round shields",
+        "Short swords",
+        "Spears"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized wavy river lines",
+        "Fish in lower border",
+        "Birds and beasts in upper border",
+        "Vine scroll motifs in borders"
+      ]
+    },
+    "technical_features": {
+      "material": "Wool embroidery on a linen ground, undyed warp and dyed wool weft (madder, woad, weld)",
+      "preservation_condition": "Overall excellent; colours vibrant with minimal fading, slight soiling and thread wear along central join, few loose stitches",
+      "notable_physical_characteristics": [
+        "Stem stitch and laid-work techniques visible",
+        "Bold outline stitches couched with darker yarn",
+        "Consistent stitch density and regular weave ground showing between embroidery",
+        "Use of simple overcast stitches for borders"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Entertainment",
+      "secondary_functions": [
+        "Display of status",
+        "Political statement"
+      ],
+      "intended_audience": "Public display"
+    },
+    "scholarly_interpretation": "This embroidered scene, part of the Bayeux tapestry’s narrative programme, exemplifies mid-11th-century Norman workshop practice and political propaganda. Executed in wool on linen using plant-based dyes, the flat, schematic representation communicates a key event—the Norman army’s river crossing—through a bold, high-contrast palette and economical stitch techniques. The choice of natural reds, blues and yellows combined with undyed wool underscores the workshop’s mastery of limited materials, while the use of stem stitch outlines and laid-work fields demonstrates technical sophistication. Iconographically, the mounted Harold and boat-carrying soldiers assert ducal authority and martial prowess, reinforcing William’s claim to England. The embroidered Latin caption anchors the visual narrative, integrating text and image in a medieval precursor to illustrated manuscripts. Unlike contemporary illuminated codices that favored gold leaf and perspective, this frieze employs flat registers and frontal figures, reflecting its function as a monumental political banner rather than a liturgical book. Comparative analysis with continental manuscript illuminations reveals shared compositional devices—horizontal registers and sequential episodes—adapted here to textile media. The tapestry thus bridges manuscript iconography and monumental art, serving both as a visual chronicle and a declarative statement of Norman conquest. Its preservation allows insight into workshop organization, dye technology and the interrelation of art and power in the 11th century."
+  }
+}

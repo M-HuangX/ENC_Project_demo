@@ -1,0 +1,26 @@
+{
+  "ocr_results": {
+    "original_text": "Iohannes ad septem ecclesias quae sunt in Asia gratia vobis et pax ab eo qui est et qui erat et qui venturus est",
+    "modern_french_text": "Jean aux sept églises qui sont en Asie, grâce à vous et paix de la part de celui qui est, qui était et qui doit venir"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "archanges",
+      "trône de grâce",
+      "saint jean",
+      "église",
+      "arcade",
+      "ange"
+    ],
+    "elements_textuels": [
+      "saint jean"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 6,
+    "total_textual_elements": 1,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

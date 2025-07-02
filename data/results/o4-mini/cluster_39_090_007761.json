@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single-column explanatory text below and brief title inscription above a large central square image framed by a simple red border; wide blank margins surround the composition. The image dominates the page, with text clearly subordinated to the central illustration.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis rotunda, professional book hand with standard abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "leaf green",
+          "dark green",
+          "yellow ochre",
+          "vermillion red",
+          "madder lake",
+          "brown earth pigment",
+          "lead white",
+          "black ink"
+        ],
+        "color_usage": "Green pigments articulate foliage and medicinal plants, yellow ochre highlights flowers; red dominates the border and garments, contrasting with cool greens; pigments applied in flat washes with minimal overpainting, subtle white highlights; palette remains vivid with little fading"
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Vertical emphasis from central tree trunk",
+          "Figures symmetrically placed on either side of tree",
+          "Foreground grouping of rosette-form plants on a single ground line",
+          "Blank background accentuates the central action"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red frame border",
+        "Red-ink ruling around title inscription"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine black ink outlines of even thickness created with a quill pen, defining figures and foliage",
+        "shading_method": "Light tonal washes with diluted pigments; minimal hatching for depth in leaves and garments",
+        "perspective_handling": "No true linear perspective; shallow space suggested by overlapping foliage and ground line; figures scaled naturally relative to tree"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Herbal medicine",
+        "Agricultural labor"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The image shows two secular figures harvesting medicinal plants beneath a fruiting tree. A central tree with dense dark green foliage and red fruit rises from the ground line. The left figure stands upright, clad in a long crimson robe with scalloped hem and wearing a red chaperon; he holds a sprig of lanceolate leaves and observes the harvest. To the right, a figure in a knee-length dusty rose tunic belted at the waist and red hose bends forward, using shears to cut yellow-flowered rosettes of a low-growing herb. The ground is demarcated by a low wooden-stake fence at the foreground. Both figures occupy the same shallow pictorial plane, with the tree anchoring the vertical axis and the rows of plants providing horizontal continuity. The robes show simple linear folds; the plants are rendered with radiating leaf clusters and small inflorescences."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Standing figure in red robe and chaperon holding a sprig of leaves",
+          "Bending figure in pink tunic and red hose cutting plants with shears"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Shears for cutting plants",
+        "Sprig of leaves held by standing figure"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Central fruit tree with red berries",
+        "Rosette-form herbaceous plants with yellow flowers",
+        "Wooden-stake fence on the ground line"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum, smooth prepared surface with minimal hair follicle traces; single leaf from a quaternio gathering with trimmed margins",
+      "preservation_condition": "Excellent overall; vivid pigments with minimal abrasion; slight toning of the parchment background; no significant flaking",
+      "notable_physical_characteristics": [
+        "Infrared-visible underdrawing in foliage outlines",
+        "Regular plummet ruling for text and image borders",
+        "Absence of gold leaf, consistent with secular herbal production"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Memory aid for herbal remedies",
+        "Display of patron’s scholarly interests"
+      ],
+      "intended_audience": "Practicing physicians or educated lay patrons interested in medical botany"
+    },
+    "scholarly_interpretation": "This mid-15th-century herbal leaf, likely from an Italian workshop, embodies the era’s practical yet refined approach to medicinal botany. The clear centralization of imagery over text indicates a pedagogical purpose: visual identification of the plant and its harvesting technique takes precedence. The use of Gothic textualis rotunda script and precise quill-drawn outlines reflects the professional standards of urban manuscript production, while the simple red frame and absence of gilding underscore its functional, non-liturgical role. The balanced composition of two figures flanking a fruit-bearing tree integrates human labor with natural growth, echoing the contemporary emphasis on empirical observation in medical practice. Pigment application—flat washes of green and red with minimal shading—parallels techniques found in scientific treatises rather than courtly Books of Hours. Iconographically, the figures lack saintly attributes, reinforcing that this is a secular, instructional representation rather than devotional imagery. Compared to earlier herbal manuscripts, this page shows increased naturalism in plant rendering and human posture, anticipating Renaissance botanical illustration. The collaboration of copyist and illuminator is evident in the harmonious interplay of text and image, situating this folio within the transitional moment between medieval codices and the printed herbals that would soon revolutionize medical knowledge dissemination."
+  }
+}

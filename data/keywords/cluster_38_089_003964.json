@@ -1,0 +1,23 @@
+{
+  "ocr_results": {
+    "original_text": "tempora\nDemipio karoli magni xxxiiii",
+    "modern_french_text": "temps\nRègne de Charlemagne XXXIIII"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de france",
+      "personnage debout",
+      "couronne",
+      "trône",
+      "robe"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 5,
+    "total_textual_elements": 0,
+    "total_identified": 5,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

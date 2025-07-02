@@ -1,0 +1,22 @@
+{
+  "ocr_results": {
+    "original_text": "iacula acu ta fereb dolum. Oleria malicia. [...]",
+    "modern_french_text": "les flèches acérées portaient la ruse. La malice. [...]"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "âne",
+      "christ guérissant un aveugle",
+      "personnage debout",
+      "tente"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 4,
+    "total_textual_elements": 0,
+    "total_identified": 4,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

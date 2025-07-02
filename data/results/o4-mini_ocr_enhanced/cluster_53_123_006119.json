@@ -1,0 +1,144 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single horizontal register with two adjacent framed scenes beneath the main text, separated by a central architectural column, wide outer margins, minimal text interruption around the image block, clear visual hierarchy placing image directly under script",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Carolingian minuscule with occasional elongation on ascenders and descenders, professional book hand with consistent stroke weight and decorative terminal flourish on key letters"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "burnished gold leaf",
+          "ultramarine blue",
+          "vermillion red",
+          "verdigris green",
+          "lead white",
+          "carbon black"
+        ],
+        "color_usage": "Gold leaf backgrounds denote the sacred context and remain bright; ultramarine and vermilion robes alternate to distinguish figures; layered white highlights on drapery folds create volume; green is used sparingly for garments and landscape accents; black ink outlines unify forms; overall palette remains well-preserved with minimal darkening of whites"
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two-scene narrative sequence arranged side by side",
+          "Architectural arches frame each scene for separation",
+          "Central column unites and divides simultaneously",
+          "Figures overlap frame edges for dynamic flow",
+          "Horizontal orientation emphasizes left-to-right progression"
+        ]
+      },
+      "decorative_elements": [
+        "Red painted frame border around composite image",
+        "Twin semicircular arches with rust-red molding",
+        "Dot-punched pattern in gold backgrounds",
+        "Stylized vine scroll motif on left scene background",
+        "Architectural micro-architecture in arch moldings"
+      ],
+      "drawing_technique": {
+        "line_style": "Crisp quill pen outlines with consistent medium weight, occasional thicker contours for primary figures",
+        "shading_method": "Opaque pigment modeling with white highlights on drapery folds, minimal linear hatching",
+        "perspective_handling": "Hierarchical scaling of figures, overlapping to suggest depth, flat gold background with no vanishing point"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "Divine betrayal",
+        "Clerical conspiracy",
+        "Suffering of Christ"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Left to right"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Left panel",
+            "subject": "Jewish priests plotting to seize Jesus",
+            "relationship_to_next": "Their conspiracy directly precipitates Christ’s anointing as a prelude to his Passion",
+            "visual_connections": [
+              "Priests’ red mantles echo Christ’s red cloak in the right panel",
+              "Gestural lines of pointing hands direct the viewer’s eye toward the right",
+              "Continuous burnished gold background across both panels",
+              "Overlapping floor tiling motif under figures links scenes",
+              "Arch moldings share identical dot-punched decoration"
+            ]
+          },
+          {
+            "position": "Right panel",
+            "subject": "Christ seated receiving anointing from attendants",
+            "relationship_to_next": "Follows the priests’ plot and symbolizes the beginning of Christ’s suffering",
+            "visual_connections": [
+              "Ultramarine robes of attendants match accents in priests’ garments",
+              "Halo’s gold is punctured with the same dot pattern as the left background",
+              "Attendants’ gazes align back toward left panel linking narratives",
+              "Floor pattern continues seamlessly beneath the bench",
+              "Supporting column beneath arches is painted in the same rust-red hue"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Burnished gold backgrounds throughout",
+          "Uniform red framing border",
+          "Dot-punched pattern in vaulted arches",
+          "Repeated floor tiling motif",
+          "Consistent figure proportions and stylization"
+        ]
+      },
+      "scene_description": "Left panel shows eight priests clustered on a stylized green ground, each wearing long tunics and mantles in vermillion, ultramarine and verdigris green, all edged with gold highlights. The central priest with golden curly hair in a white robe lined in red leans forward, gesturing three fingers outward, while a bearded priest in a blue mantle and chequered cap raises his index finger as if counsel is being given. Their faces in three-quarter profile display elongated noses and pursed lips in whispered consultation. Right panel depicts Christ seated on a wooden bench, haloed with a white-and-blue cruciform nimbus, wearing a red cloak over a grey tunic. His right hand is raised in blessing, while to his left an attendant in a white robe holds a golden bowl and a woman in a grey veil pours oil from a white ewer over his head. The bench rests on a patterned tile floor, set against a gold background punched with dots. Both scenes are under twin semicircular arches supported by a central column in rust-red."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Christ"
+        ],
+        "secular": [
+          "High priests plotting Jesus’ capture"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "golden bowl",
+        "white ewer"
+      ],
+      "architectural": [
+        "twin semicircular arches",
+        "central supporting column",
+        "wooden bench"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth surface and faint hair follicles visible, ruled in drypoint; gatherings in regular quaternions with outer margins approx. 2 cm",
+      "preservation_condition": "Pigments remain vibrant with minimal flaking; slight cockling near inner margin; gold leaf intact; minor abrasion on vermilion robes",
+      "notable_physical_characteristics": [
+        "Raised gesso beneath gold leaf",
+        "UV-visible charcoal underdrawing lines",
+        "Punchwork dots in gold backgrounds",
+        "Fine brushwork in facial features",
+        "Regular plummet ruling pattern"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Private devotion",
+      "secondary_functions": [
+        "Display of patron’s piety",
+        "Memory aid for biblical narrative"
+      ],
+      "intended_audience": "Individual patron for personal prayer"
+    },
+    "scholarly_interpretation": "This two-panel illumination, likely produced in a well-equipped monastic workshop during the late 12th century, reflects both the Carolingian manuscript tradition and emerging Gothic architectural motifs. The left scene of priests plotting Jesus’ capture underscores the ecclesiastical betrayal theme, while the right anointing scene anticipates the Passion, linking Old and New Testament typology. The use of burnished gold leaf punctuated with punchwork dots, layered ultramarine and vermilion pigments, and raised gesso indicates a high level of technical achievement and investment in costly materials. The central column and twin arches suggest knowledge of contemporary church architecture, while the hieratic scale and flattened gold backgrounds maintain a symbolic rather than naturalistic spatial treatment. Iconographically, the juxtaposition of clerical conspiracy and sacred anointing critiques corrupt authority and emphasizes Christ’s sanctity. This manuscript shares stylistic affinities with the Winchester Bible and English Channel School illuminations, yet the crisp line work and dot patterns reveal possible links to a French scriptorium. The collaboration of multiple hands is evident in variations of line quality and pigment application. Functionally designed for private devotion, the image served as a visual meditation on betrayal and redemption. Its combination of traditional iconography with innovative compositional framing anticipates Gothic narrative cycles, marking it as a transitional piece bridging artistic schools."
+  }
+}

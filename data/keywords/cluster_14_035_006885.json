@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "illisible",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnages",
+      "forêt",
+      "chevalier",
+      "vêtements",
+      "geste",
+      "personnage debout",
+      "cape"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": false
+  }
+}

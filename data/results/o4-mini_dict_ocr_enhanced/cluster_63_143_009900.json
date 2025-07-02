@@ -1,0 +1,136 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Narrative sequence"
+      ],
+      "layout_style": "Single column of text with two stacked narrative miniatures separated by ruled lines; text block above the upper scene and below the lower scene; clear visual hierarchy with judge and executioner figures recurring in both registers.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis quadrata with regular textura strokes, professional book hand, extensive use of abbreviations"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "brown ochre",
+          "minium red",
+          "black ink"
+        ],
+        "color_usage": "Flat application of green for martyr robes and brown ochre for judge and executioner garments; red reserved for graphic depiction of blood at necks and rubrication in inscriptions; black outlines unify figures; no gilding present; colors remain vibrant with minimal fading."
+      },
+      "composition": {
+        "type": "Sequential",
+        "features": [
+          "Two-tiered structure dividing narrative episodes",
+          "Figures aligned horizontally facing left in each register",
+          "Recurring central positioning of executioner and seated judge",
+          "Planar arrangement with minimal depth"
+        ]
+      },
+      "decorative_elements": [
+        "Simple ruled frame around each miniature",
+        "Stone-arched architectural frame in lower scene"
+      ],
+      "drawing_technique": {
+        "line_style": "Firm black ink outlines with uniform weight, minimal internal pen shading",
+        "shading_method": "Flat color fields without hatching or tonal gradation; red strokes denote blood",
+        "perspective_handling": "No linear perspective; figures placed on a shallow ground line, hierarchical scaling negligible"
+      }
+    },
+    "content_theme": {
+      "scene_count": 2,
+      "main_category": "Hagiographic",
+      "sub_themes": [
+        "martyre",
+        "décapitation",
+        "judicial authority"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "Linear",
+        "reading_order": [
+          "Top to bottom"
+        ],
+        "scene_relationships": [
+          {
+            "position": "Upper register",
+            "subject": "Decapitation of two martyrs before a seated judge and attendant",
+            "relationship_to_next": "Leads to placement of martyrs’ bodies in tomb niche under the same authority",
+            "visual_connections": [
+              "Same crowned judge seated on left",
+              "Executioner in mid-center holding sword",
+              "Victims in identical green robes",
+              "Red blood strokes at necks",
+              "Continuous frame outline"
+            ]
+          },
+          {
+            "position": "Lower register",
+            "subject": "Bodies of martyrs placed in a stone-arched niche by the executioner under judge’s gaze",
+            "relationship_to_next": "none",
+            "visual_connections": [
+              "Seated judge retains identical posture and attire",
+              "Executioner stands centrally with sword",
+              "Robes of victims remain green",
+              "Red blood at necks echoes upper scene",
+              "Architectural arch mirrors frame geometry"
+            ]
+          }
+        ],
+        "visual_continuity": [
+          "Consistent use of verdigris green for victims’ robes",
+          "Judge’s ochre robe and crown recur",
+          "Red blood marking unifies scenes",
+          "Uniform ruled frame encloses both registers",
+          "Planar, side-on figure orientation throughout"
+        ]
+      },
+      "scene_description": "The upper scene depicts a crowned judge seated left on a simple bench, clad in brown ochre robes, his gaze directed toward two martyrs at right whose green-robed bodies lie supine with freshly severed heads and red pigment indicating spurting blood; between them stands an executioner in ochre tunic holding a raised sword. The lower scene repeats the judge on the left and executioner centrally, now placing the two green-robed bodies into a stone-arched niche composed of yellowish blocks outlined in brown; their heads remain severed with blood rendered by minium strokes. Both registers employ a planar composition on a single ground line, with figures of nearly equal height, minimal depth cues, and consistent color palette. Heads of the martyrs in both scenes are bearded, eyes closed, emphasizing death; the architectural arch in the second scene provides a framing device that echoes the outer frame. The repetition of principal figures and actions across registers underscores the narrative of martyrdom and judicial authority."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "two male martyrs in green robes"
+        ],
+        "secular": [
+          "seated crowned judge in ochre robe",
+          "executioner holding sword"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "sword",
+        "crown"
+      ],
+      "architectural": [
+        "arched stone niche in second scene"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with smooth, well-pumiced surface and visible faint ruling lines",
+      "preservation_condition": "Good overall; pigments remain vibrant, slight flaking of green in upper scene, parchment slightly discolored near edges",
+      "notable_physical_characteristics": [
+        "Visible ink underdrawing beneath outlines",
+        "Faint plummet ruling across both registers",
+        "Red blood pigment applied over finished painting",
+        "Smooth, burnished surface preparation evident"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Hagiographic narrative illustration within a devotional manuscript",
+      "secondary_functions": [
+        "Memory aid for recounting martyr stories",
+        "Visual reinforcement of judicial condemnation of heresy"
+      ],
+      "intended_audience": "Monastic clergy or educated devotional readers"
+    },
+    "scholarly_interpretation": "This two-register illumination, executed in a Gothic textualis quadrata script environment, likely originates from a 13th-century Western European workshop catering to monastic audiences. The clear narrative progression—decapitation of saints followed by deposition of their bodies in a tomb niche—reflects the growing emphasis on vivid martyrdom scenes in devotional manuscripts. The restrained palette of verdigris green, ochre brown, and minium red, applied flatly without shading, aligns with English and northern French illumination practices of the period, favoring graphic clarity over painterly depth. The repetition of the crowned judge and executioner underscores the judicial authority rejecting Christian witnesses, a visual assertion of ecclesiastical power over transgressors. Technically, the confident underdrawing and deliberate use of ruling lines indicate a professional scriptorium with strict layout conventions. Iconographically, the graphic depiction of blood serves both as a testament to sanctity and a cautionary emblem of divine suffering. Comparatively, this miniatures share compositional simplicity with manuscripts like the Morgan Beatus—where sequential narrative underlines typological continuity—but diverge in their austere decoration, suggesting a workshop balancing economy with doctrinal immediacy. Overall, the illumination marries traditional martyr iconography with a sequential, almost cinematic, presentation, advancing devotional engagement through clear, repetitive visual rhetoric."
+  }
+}

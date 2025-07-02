@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "filename": "cluster_52_120_002635.jpg",
+    "model": "o4-mini",
+    "timestamp": "2025-07-01T11:23:25.688460",
+    "image_size": 280748
+  },
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page tripartite arcade at top of folio with three semicircular arches supported by four ornate columns; beneath, three narrow text columns of canon tables aligned with arches; wide decorative margins filled with continuous vine-scroll border; clear visual hierarchy with monumental architectural frame crowning textual data below.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Carolingian minuscule with Roman numeral capitalis quadrata for table entries"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "vermilion red",
+          "burnished gold leaf",
+          "verdigris green",
+          "lead white"
+        ],
+        "color_usage": "Burnished gold leaf accentuates architectural moldings and highlights foliate ornament, ultramarine fills the archivolt background to signify celestial domain, red and green used alternately in vine-scroll border, layered application with white lead highlights on capitals, pigments remain largely stable with minimal darkening of verdigris"
+      },
+      "composition": {
+        "type": "Symmetrical",
+        "features": [
+          "Tripartite architectural framework",
+          "Balanced columnar rhythm",
+          "Central axis emphasized by cherubic head",
+          "Mirrored placement of flanking angels",
+          "Continuous border unifying composition"
+        ]
+      },
+      "decorative_elements": [
+        "Full-page acanthus leaf scroll border with gold bezants",
+        "Foliated column shafts with interlace patterns",
+        "Corinthian-inspired capitals with punchwork",
+        "Gothic micro-architecture archivolts",
+        "Angelic figures holding scroll banner"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines of consistent weight defining arches and figures",
+        "shading_method": "Minimal tonal modeling, restrained linear hatching on capitals and shafts with white lead highlights",
+        "perspective_handling": "Flattened spatial treatment, hierarchical scaling of figures and architecture without attempt at vanishing-point perspective"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Liturgical",
+      "sub_themes": [
+        "Religious elements",
+        "Symbolic elements",
+        "Cultural references"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single visual ‘scene’ on this folio is the illuminated canon table framed by a classical arcade. Four slender, foliate-patterned columns with gilded Corinthian capitals support three semicircular arches richly decorated in gold leaf and polychrome interlace. Within the central arch’s deep ultramarine field, a winged cherubic head occupies the apex, flanked by two full-bodied angels extending a scroll inscribed with Latin text. The angels are rendered in pale flesh tones with patterned garments in contrasting red and green, their outstretched wings detailed in burnished gold. Beneath the arcade, the text is arranged in three narrow columns aligned with each arch, listing Gospel chapter concordances in Roman numeral capitals. The scene’s composition emphasizes symmetry and order, invoking both classical architecture and celestial iconography. Decorative border elements, including vine-scrolls and acanthus leaves in alternating red and green against a gold ground, frame the entire page, reinforcing the unity of text and image. Spatially, the architectural motif serves to elevate the canonical table, while the angels and cherub imbue it with sacred significance, guiding the reader’s eye seamlessly from the celestial register above to the textual data below."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Two full-bodied angels flanking central scroll",
+          "Winged cherubic head at archivolt apex"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "Winged cherub head symbolizing divine inspiration"
+        ]
+      },
+      "objects": [
+        "Gilded parchment scroll with Latin inscription"
+      ],
+      "architectural": [
+        "Tripartite arcade with foliated columns",
+        "Corinthian-inspired capitals",
+        "Micro-architectural archivolts"
+      ],
+      "natural": [
+        "none"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum with uniform thickness, finely scraped and pumiced surface",
+      "preservation_condition": "Pigments well-preserved; ultramarine and red retain vibrancy, slight abrasion of gold leaf in margins, minor cockling at folio edges",
+      "notable_physical_characteristics": [
+        "Visible plummet ruling for column alignment",
+        "Evidence of underdrawing beneath archivolt revealed under UV",
+        "Raised gesso base under gold leaf areas",
+        "Regular punchwork pattern in gold background"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Liturgical index table for Gospel readings",
+      "secondary_functions": [
+        "Memory aid for locating parallel passages",
+        "Display of patron’s wealth and sophistication",
+        "Institutional identity marker for cathedral or monastic library"
+      ],
+      "intended_audience": "Clerical readers in monastic or cathedral context"
+    },
+    "scholarly_interpretation": "This illuminated canon table folio, likely produced in a high-status scriptoria in the late Carolingian or early Romanesque period, reflects the integration of classical architectural motifs into medieval manuscript art. The tripartite arcade and Corinthian capitals evoke ancient civic structures, repurposed here to frame sacred content. The lavish use of ultramarine and burnished gold leaf indicates an affluent patron, while the presence of meticulous underdrawing and raised gesso work testify to advanced workshop practices. Iconographically, the angels and central cherub emphasize the divine authority underpinning the Gospel canon, symbolically linking heavenly endorsement to the textual concordances below. Stylistically, the symmetrical composition and decorative border bear comparison to contemporary Gospel books such as the Ebbo Gospels, while the refined pen work suggests influence from the Rheims school. The work bridges the Carolingian emphasis on clarity of text with emerging Romanesque ornamental exuberance, marking a transitional moment in manuscript illumination. Its function as both a practical index and a display of ecclesiastical prestige situates it within a broader cultural context of monastic reform and the assertion of institutional identity through art. By marrying architectural order with celestial imagery, the folio underscores the medieval synthesis of text, image, and divine sanction."
+  }
+}

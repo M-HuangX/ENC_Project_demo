@@ -1,0 +1,29 @@
+{
+  "ocr_results": {
+    "original_text": "Omnes reges \n...",
+    "modern_french_text": "Tous les rois..."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "roi de lotharingie",
+      "roi de castille",
+      "couronne",
+      "sceptre",
+      "trône",
+      "personnage debout",
+      "vêtement",
+      "geste",
+      "architecture"
+    ],
+    "elements_textuels": [
+      "roi de castille"
+    ]
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 1,
+    "total_identified": 10,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

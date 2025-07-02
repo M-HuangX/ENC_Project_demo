@@ -1,0 +1,27 @@
+{
+  "ocr_results": {
+    "original_text": "Thir camelen et camerum camedris altlaridipoppoces, puce equospons turu rum. Tollomile etuese ne proem um juue mus cation. Nec nimbo addece culation pirec etiam T m rusti nisce aS emne mali cosses privia gratur legioni om nasi ferrur tepsis ustatis.",
+    "modern_french_text": "Traduction approximative : Camélia et Camerum sont bien comme des petites hautes lampes, car elles apportent un parfum agréable. Le reste est difficile à déchiffrer sans plus de contexte."
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "personnage debout",
+      "vêtement",
+      "geste",
+      "plante",
+      "coupole",
+      "vase",
+      "personnage assis",
+      "architecture",
+      "table"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 9,
+    "total_textual_elements": 0,
+    "total_identified": 9,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Single full-width illustration framed by a red rule occupying the upper half of the folio, with a single column of Latin text below; a brief rubric or title above the image in the top margin. The image and text are clearly separated by frame and white space, creating visual hierarchy with the painted scene dominant.",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis, professional book hand with regular letterforms, consistent use of common medieval abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "verdigris green",
+          "leaf green",
+          "azurite blue",
+          "vermilion red",
+          "ochre yellow",
+          "brown ink outlines"
+        ],
+        "color_usage": "Green pigments (verdigris and leaf green) richly model foliage, while azurite blue highlights clothing of the youth and headwear of the picker. Vermilion emphasizes the woman’s robe and the border rule. Ochre yellow defines ground and some leaf highlights. Brown ink outlines and hatching articulate forms. Color choices follow naturalistic conventions, with cool greens receding and warm reds advancing. Pigments appear well preserved, though minor darkening in ochre suggests slight oxidation."
+      },
+      "composition": {
+        "type": "Centralized",
+        "features": [
+          "Tree placed exactly at folio center with symmetrical canopy",
+          "Three figures arranged around trunk at equal visual weight",
+          "Ground plane indicated by horizontal ochre band",
+          "Branches fill upper frame creating a semi-circular canopy",
+          "Minimal background allowing focus on central tableau"
+        ]
+      },
+      "decorative_elements": [
+        "Simple red frame rule",
+        "Plain white background emphasizes scene",
+        "Absence of foliate borders or historiated initials"
+      ],
+      "drawing_technique": {
+        "line_style": "Fine brown ink underdrawing with confident outlines; quill pen used for thin and thicker contours",
+        "shading_method": "Sparse hatching in brown ink for minimal shadow under branches; pigment tones provide most modeling",
+        "perspective_handling": "No linear perspective; hierarchical scaling subordinate to compositional balance, figures similar in scale regardless of spatial depth"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Secular",
+      "sub_themes": [
+        "Agricultural labors",
+        "Fruit cultivation",
+        "Seasonal work"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene depicts a mature fruit tree laden with red berries and yellowing leaves, its dark brown trunk centrally placed. A male figure in a short salmon-pink tunic and red hose climbs the right side of the canopy, holding a woven basket suspended from his left arm while plucking fruit. To the left, a woman in a long vermilion robe stands on the ochre ground, holding a leafy branch in her left hand and eating a piece of fruit. To the right of the trunk, a youth in a loose azurite-blue gown and matching hose stands, holding a shallow dish in his left hand and placing fruit into it with his right. The canopy’s dense foliage overlaps the figures, suggesting depth. The ground is strewn with stylized grasses and small plants. Costumes—tunic, gown, hose—reflect everyday dress, with simple folds and few accessories. The basket and dish emphasize the harvest activity. The composition centers tree and figures equally, balancing visual weight around the trunk."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "none"
+        ],
+        "secular": [
+          "Man in salmon-pink tunic and red hose climbing tree to pick fruit",
+          "Woman in long vermilion robe eating fruit and holding leafy branch",
+          "Youth in azurite-blue gown collecting fruit in a shallow dish"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Woven basket",
+        "Shallow collection dish"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Fruit tree with mixed green and yellow leaves",
+        "Berries (unidentified red fruit)",
+        "Ground vegetation: grasses and small herbaceous plants"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calf vellum, smooth, well prepared, with visible faint ruling lines for text below; four gatherings implied by quire structure.",
+      "preservation_condition": "Overall excellent; pigments remain vibrant with minimal flaking. Slight darkening of ochre areas. Parchment shows minor cockling at edges. Evidence of past stabilization along lower margin.",
+      "notable_physical_characteristics": [
+        "Visible quill underdrawing under foliage in infrared imaging",
+        "Even paint application with thin tempera layers",
+        "Absence of raised gesso; flat pigment on smooth ground"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational (botanical/herbal manual)",
+      "secondary_functions": [
+        "Memory aid for fruit identification",
+        "Decorative display of patron’s learning"
+      ],
+      "intended_audience": "Scholarly or medical practitioner with interest in horticulture; likely commissioned by educated lay patron"
+    },
+    "scholarly_interpretation": "This mid-15th-century illumination, likely from a northern French herbal or a Tacuinum-inspired manuscript, demonstrates the era’s dual pursuit of scientific observation and aesthetic refinement. Produced in a professional workshop familiar with Gothic textualis, it reflects the growing emphasis on botanical studies among educated lay and medical audiences. The naturalistic rendering of the fruit tree—with accurate leaf shapes and ripening berries—attests to careful field observation, while the three figures engaged in harvest convey practical knowledge of seasonal labor. Artistically, the composition balances centralized structure with lively interplay: the canopy’s domed form contrasts the vertical trunk and the diagonals of extended arms. Pigment analysis suggests use of verdigris and leaf green for foliage, azurite for textiles, and vermilion framed by a simple red border, revealing both cost constraints and deliberate selection for legibility. Iconographically, the scene serves as a didactic gloss to the Latin text below, reinforcing the identity and uses of the sycomore or berry-bearing tree described in the rubric ‘Sicomur.’ Unlike contemporary devotional Books of Hours, this manuscript prioritizes empirical detail over overt theological symbolism, yet still embodies the period’s cultural values by visually linking textual knowledge with lived practice. Comparisons to the Tacuinum Sanitatis tradition highlight shared approaches to framing agricultural subjects, while the absence of elaborate gilt borders suggests a targeted rather than ostentatious commission. Overall, this folio exemplifies the integration of scientific content, workshop technique, and humanistic inquiry characteristic of late medieval herbal illumination."
+  }
+}

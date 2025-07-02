@@ -1,0 +1,116 @@
+{
+  "analysis": {
+    "text_image_relationship": {
+      "type": [
+        "Standalone illustration"
+      ],
+      "layout_style": "Full-page miniature occupying lower portion of a single-column folio, text block above the image, framed by a red fillet border",
+      "text_content": {
+        "presence": true,
+        "language": "Latin",
+        "script_style": "Gothic textualis book hand with red rubric, professional execution, using abbreviations and ligatures"
+      }
+    },
+    "artistic_style": {
+      "color_scheme": {
+        "primary_colors": [
+          "ultramarine blue",
+          "verdigris green",
+          "vermilion red",
+          "burnished gold leaf",
+          "lead white"
+        ],
+        "color_usage": "Gold leaf reserved for haloes to signify sanctity; red and blue garments denote Christ and apostles; green ground plane contrasted with deep blue star-studded sky; white lead highlights on drapery for volume; flat application of pigment with minimal shading indicative of mid-thirteenth-century technique; original colors well-preserved with slight oxidation of lead white"
+      },
+      "composition": {
+        "type": "Hierarchical",
+        "features": [
+          "central placement of Christ with enlarged cruciform halo",
+          "apostles grouped to one side in diminishing depth",
+          "gestural lines guiding the viewer's eye from Christ to the kneeling woman",
+          "overlapping figures creating shallow spatial layering",
+          "contrasting haloes unifying sacred figures"
+        ]
+      },
+      "decorative_elements": [
+        "Red fillet frame surrounding miniature",
+        "star-studded blue sky background",
+        "stylized floral motifs on green mounds",
+        "incised cross-halo decoration",
+        "Latin inscription scrolls held by Christ and apostle"
+      ],
+      "drawing_technique": {
+        "line_style": "Fluid quill-pen outlines in dark brown ink with bold outer contours and fine internal drapery lines",
+        "shading_method": "Minimal parallel hatching in folds with white highlights for volume",
+        "perspective_handling": "Hierarchical scaling without true linear perspective, shallow ground plane with overlapping figures"
+      }
+    },
+    "content_theme": {
+      "scene_count": 1,
+      "main_category": "Biblical scene",
+      "sub_themes": [
+        "healing miracle",
+        "faith and compassion",
+        "Christ's authority",
+        "bodily purity",
+        "gender roles"
+      ],
+      "narrative_sequence": {
+        "sequence_type": "none",
+        "reading_order": [
+          "none"
+        ],
+        "scene_relationships": [],
+        "visual_continuity": [
+          "none"
+        ]
+      },
+      "scene_description": "The single scene depicts Christ standing to the right, identifiable by a red and ochre robe and a cross-incised gold halo, his right hand raised in blessing and left hand extending a scroll inscribed Quia fides tua...  In front of him a woman kneels at full length on stylized green mounds decorated with red and pink floral motifs; she wears a brown mantle and raises her right hand to touch the hem of Christ's robe, signifying the Gospel account of the healing of the bleeding woman. To Christ's left stand six apostles or disciples arranged in a slightly receding line; the nearest holds a scroll inscribed Magnificat fructum tuum, wearing a white tunic and blue cloak, followed by figures in green, white and red robes each equipped with halos of equal size, their gestures haltingly directed toward the central act. The background is divided into a lower green ground plane with decorative vegetation and an upper deep blue sky dotted with white stars, all enclosed within a red fillet frame. The figures’ garments are rendered with precise quill pen drapery lines, minimal shading, and lead-white highlights. Spatially the composition remains flat, with overlapping figures creating a shallow sense of depth; scale is consistent among the sacred figures except for the kneeling woman drawn slightly smaller to denote humility rather than hierarchical importance."
+    },
+    "pictorial_elements": {
+      "figures": {
+        "religious": [
+          "Jesus Christ in red and ochre robe with cruciform gold halo",
+          "Six apostles in multicolored robes with plain gold haloes",
+          "Bleeding woman kneeling as participant in miracle"
+        ],
+        "secular": [
+          "none"
+        ],
+        "symbolic": [
+          "none"
+        ]
+      },
+      "objects": [
+        "Scroll inscribed Quia fides tua...",
+        "Scroll inscribed Magnificat fructum tuum"
+      ],
+      "architectural": [
+        "none"
+      ],
+      "natural": [
+        "Stylized green mounds with red and pink floral motifs",
+        "Star-studded blue sky"
+      ]
+    },
+    "technical_features": {
+      "material": "Premium calfskin vellum with smooth surface, consistent thickness, ruled in leadpoint, trimmed to regular quaternion folio dimensions",
+      "preservation_condition": "Excellent: vivid ultramarine and vermilion pigments with minimal fading, slight flaking of red in fold edges, minor cockling at corners, no significant losses",
+      "notable_physical_characteristics": [
+        "Visible underdrawing in drapery folds under pigment",
+        "Raised gesso support beneath gold haloes",
+        "Regular ruling pattern in leadpoint visible under magnification",
+        "Layered pigment application with white lead highlights"
+      ]
+    },
+    "functional_analysis": {
+      "primary_function": "Educational",
+      "secondary_functions": [
+        "Display of patron's status",
+        "Memory aid for scriptural narratives"
+      ],
+      "intended_audience": "Individual patron"
+    },
+    "scholarly_interpretation": "The miniature of the healing of the woman with the flow of blood originates from a mid-thirteenth-century Parisian workshop associated with the moralized Bible tradition, reflecting the era's growing emphasis on didactic imagery to accompany scriptural exegesis. The use of a restrained yet vivid palette, with ultramarine and vermilion providing chromatic contrast against a deep blue, star-flecked sky, exemplifies the technical achievements of High Gothic illumination. Fluid quill drawing and minimal hatching reveal a confident hand, while the raised gesso and burnished gold haloes indicate advanced materials knowledge and a desire to create a luminous devotional object. Iconographically, Christ’s cross-incised halo and gestural benediction underscore his divine authority, while the faithful woman’s act of touching his robe hem visualizes themes of faith and bodily purity. Parallels to the Bible moralisee of Mary of Luxembourg and the Psalter of Blanche of Castile suggest a shared visual vocabulary, yet this miniature’s simplified framing and naturalistic floral motifs demonstrate regional innovation. Produced likely for an educated noble or clerical patron, the image functioned both as an educational tool for meditation on Gospel miracles and as a statement of the patron’s piety and cultural refinement. In combining traditional hierarchical composition with refined color layering and manuscript craftsmanship, this folio embodies the artistic fusion of innovation and tradition characteristic of mid-thirteenth-century Paris."
+  }
+}

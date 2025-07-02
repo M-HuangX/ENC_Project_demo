@@ -1,0 +1,25 @@
+{
+  "ocr_results": {
+    "original_text": "cyone p la tur de fer ep la presión",
+    "modern_french_text": "quand elle loge sur la tour de fer et pèse l'église"
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "dragon de l'apocalypse",
+      "ange",
+      "personnage agenouillé",
+      "animal fantastique",
+      "jonglerie",
+      "cracheur",
+      "échelle"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 7,
+    "total_textual_elements": 0,
+    "total_identified": 7,
+    "has_original_text": true,
+    "has_modern_translation": true
+  }
+}

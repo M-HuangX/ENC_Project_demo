@@ -1,0 +1,29 @@
+{
+  "ocr_results": {
+    "original_text": "",
+    "modern_french_text": ""
+  },
+  "identified_keywords": {
+    "elements_visuels": [
+      "christ en gloire tenant le livre",
+      "archanges",
+      "vêtement",
+      "anges autour d'une gloire",
+      "animal fantastique",
+      "puissances",
+      "firmament",
+      "scène de chant",
+      "ciel",
+      "livre",
+      "soleil (sphère céleste)"
+    ],
+    "elements_textuels": []
+  },
+  "statistics": {
+    "total_visual_elements": 11,
+    "total_textual_elements": 0,
+    "total_identified": 11,
+    "has_original_text": false,
+    "has_modern_translation": false
+  }
+}
